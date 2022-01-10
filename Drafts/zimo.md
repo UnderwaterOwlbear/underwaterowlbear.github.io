@@ -10,7 +10,7 @@ I started using Markdown and Pandoc last year to help me be more productive with
 # Equipment Required
 
 1. Computer
-	- Microsoft, Mac, or Linux will all work.
+	- Microsoft, Mac, or Linux
 	- Chromebooks will work if new enough to allow use of the Linux terminal.
 2. Text editor
 	- Windows: Notepad will work, though [Notepad++](https://notepad-plus-plus.org/downloads/) is a nice upgrade, especially with the [NppMarkdownPanel](https://github.com/mohzy83/NppMarkdownPanel) plugin for a live HTML preview.
