@@ -5,6 +5,8 @@ date: 2019-08-18
 
 ---
 
+# Introduction
+
 I've started this blog to provide a place for me to collect and share my various ideas about worldbuilding, RPGs, the OSR / SWORDDREAM scene, and game design.
 
 So, a brief biography. I've been worldbuilding nearly as long as I can remember, and many aspects of my current worldbuilding have their roots in ideas I came up with when I was 12 years old. Worldbuilding inspirations include:
