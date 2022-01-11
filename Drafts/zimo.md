@@ -45,7 +45,7 @@ Go here: https://pandoc.org/installing.html and follow the steps for your operat
 - Windows: I recommend the .msi installer at the top of that page. Simple and straightforward.
 - Chromebooks: I installed from the Linux terminal, with `sudo apt-get install pandoc`.
 
-### **Note: you only need ONE LaTeX distribution, MiKTeX OR TeX Live. You DO NOT need both of them.**
+### Note: you only need ONE LaTeX distribution, MiKTeX OR TeX Live. You DO NOT need both of them.
 
 ## MiKTeX Installation
 
@@ -66,7 +66,7 @@ These instructions were very hard for me to follow as-written, so I've outlined 
 	- Everything else: https://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
 2. Unpack the install script archive
 	- Windows: double click the .exe file to run it.
-	- Everything else: unpack the .tar.gz file by running `tar -xf install-tl-unx.tar.gz` in the terminal.
+	- Everything else: unpack the .tar.gz file by running `tar -xf install-tl-unx.tar.gz` in the terminal (Chromebook users will have to move this archive into the Linux Files directory prior to running any terminal commands on it).
 3. Open a terminal in the now-unpacked archive directory
 	- Windows: `WIN+R`, `cmd`, `cd /install-tl-windows` (or whatever your unpacked filepath is).
 	- Everything else: `cd /install-tl-unx`
