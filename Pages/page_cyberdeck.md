@@ -13,11 +13,11 @@ date: 2022-01-12
 - [/r/cyberdeck](https://www.reddit.com/r/cyberdeck)
 - [/r/cybergear](https://www.reddit.com/r/cybergear)
 
-![/u/LastActionGameHero](/_LastActionGameHero.jpg)
+![/u/LastActionGameHero](_LastActionGameHero.jpg)
 
-![/u/LockpickNic](/_LockpickNic.jpg)
+![/u/LockpickNic](_LockpickNic.jpg)
 
-![/u/jdigi78](/_jdigi78.jpg)
+![/u/jdigi78](_jdigi78.jpg)
 
 # Design Goals
 
