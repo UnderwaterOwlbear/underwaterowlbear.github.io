@@ -1,5 +1,5 @@
 ---
-title: How-To Guides
+title: Guides
 author: Tyler Farrington
 date: 2022-01-12
 ---
