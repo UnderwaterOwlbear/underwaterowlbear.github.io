@@ -193,14 +193,14 @@ There are a few new additions here.
 - Asymmetrical margins for binding
 - Probably other stuff I'm unaware of
 
-The `extbook` option is the same as `book`, but also allows larger font sizes. This is useful since we will be scaling these pages down to fit two-to a sheet later on.
+The `extbook` option is the same as `book`, but also allows larger font sizes. This is useful since we will be scaling these pages down to fit two-to-a-page later on.
 
 `fontsize: 14pt` This sets the font to... 14pt size. Again, since we will be scaling things down later on we need to start with a larger font size.
 
 	header-includes: |
 	    \usepackage[margin=0.5in]{geometry}
 
-The `header-includes: |` tells Pandoc that we want the LaTeX header of this document to include some additional LaTeX commands. `\usepackage[margin=0.5in]{geometry}` is a LaTeX command that sets margins to 1/2" on all sides. Again, this is so that everything looks nice when scaled down two to a page and printed. Remember, Pandoc uses LaTeX under the hood to handle PDF conversions.
+The `header-includes: |` tells Pandoc that we want the LaTeX header of this document to include some additional LaTeX commands. `\usepackage[margin=0.5in]{geometry}` is a LaTeX command that sets margins to 1/2" on all sides. Again, this is so that everything looks nice when scaled down two-to-a-page and printed. Remember, Pandoc uses LaTeX under the hood to handle PDF conversions.
 
 	\clearpage
 	
@@ -208,7 +208,7 @@ The `header-includes: |` tells Pandoc that we want the LaTeX header of this docu
 
 This requires a little explaining... This is a somewhat cludgy fix for an annoying issue that I found with the `book` and `extbook` document classes. If you omit these LaTeX commands, the PDF will have a header on ***every left hand page*** that says "CONTENTS" in all caps. I think this is due to the part / chapter logic picking up on the table of contents header and thinking it needs to add that to every subsequent page. Or something.
 
-What this fix is doing is adding two LaTeX commands to the very start of the document. Since LaTeX inserts the table of contents at the very start of the document, these commands will appear immediately after the document. 
+What this fix is doing is adding two LaTeX commands to the very start of the document. Since LaTeX inserts the table of contents at the very start of the document, these commands will appear immediately after the table of contents. 
 
 `\clearpage` This clears the current page, and cleans up floating objects like tables and pictures.
 
@@ -235,9 +235,13 @@ So again, after we update our Markdown file `myfile.md`, it should look like thi
 	
 	This is my introduction. Blah blah blah.
 
+Run the same Pandoc command as before to generate a PDF:
+
+	pandoc myfile.md -s --toc --toc-depth=2 -o output.pdf
+
 ## Booklet Page Layout with LaTeX
 
-Now that we have a Markdown source file, we need to write a short LaTeX script to organize the pages in the correct order for booklet printing. To do that, use your text editor to make a new file called `booklet.tex` with the following contents:
+Now that we have a PDF, we need to write a short LaTeX script to organize the pages in the correct order for booklet printing. To do that, use your text editor to make a new file called `booklet.tex` with the following contents:
 
 	\documentclass{scrartcl}
 	\usepackage{pdfpages}
@@ -245,12 +249,12 @@ Now that we have a Markdown source file, we need to write a short LaTeX script t
 	\includepdf[pages=-,booklet,turn=false,landscape]{output.pdf}
 	\end{document}
 
-This function uses the powerful `pdfpages` package to automatically organize all our pages in the right order, two-to-a-page, for booklet printing. Run it in the terminal with this command:
+This function uses the powerful `pdfpages` package to automatically organize all the pages in `output.pdf` in the right order, two-to-a-page, for booklet printing. Run it in the terminal with this command:
 
 	pdflatex booklet.tex
 
 This will create an output file called `booklet.pdf` that should be laid out perfectly for printing! 
 
-You may have to add blank pages to get the page count of your `output.pdf` file up to a multiple of 4 though.
+You may have to add blank pages to get the page count of your `output.pdf` file up to a multiple of 4.
 
 Now all that's left is to print, fold, assemble, and staple!
