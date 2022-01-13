@@ -6,4 +6,4 @@ date: 2022-01-12
 
 # How-To Guides
 
-[[zines|Zine Month 2022 Contribution - How to use Markdown and Pandoc to publish zines]]
+[[../Posts/zines|Zine Month 2022 Contribution - How to use Markdown and Pandoc to publish zines]]
