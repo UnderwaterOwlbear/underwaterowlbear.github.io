@@ -1,12 +1,16 @@
 ---
 title: House Rules for ODnD-like Games
 author: Tyler Farrington
-date: 2022-01-19
-menu: no
+date: 2022-01-22
+menu: yes
 
 ---
 
 # House Rules for ODnD-like Games
+
+These are a nightly build of my house rules, based on [Barrows & Basilisks](https://underwaterowlbear.itch.io/barrows-basilisks). Probably in flux, use at your own risk.
+
+Forked from v1.05.
 
 # Character Creation
 
@@ -22,17 +26,15 @@ If coming from other old-school games, these are the assumptions used for a few 
 When you have advantage on a roll, roll two dice instead of one and take the better result. When you have disadvantage on a roll, roll two dice instead of one and take the worse result.
 
 ## Experience and Advancement
-Pick a class (**fighter** or **mage**). You start at 1st level with 0 experience points (XP). You gain 1 XP for every coin that you spend on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
+Pick a class. You start at 1st level with 0 experience points (XP). You gain 1 XP for every coin that you spend on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
 
 When you gain a level, roll all of your hit dice (HD). They are d6. If the sum of dice rolled is greater than your current maximum HP, the sum becomes your new maximum HP. If it is equal to or less than your current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
 
 ## Fighter
-You start with d6 HP (minimum 3 HP) and 3d6x10 coins. Fighters can use all weapons and any armor, shield, or helm. When they reach 9th level, they become a Lord (or Lady) and can build a stronghold to attract subjects.  
+You start with d6 HP (minimum 3 HP) and 3d6x10 coins. Fighters can use all weapons and any armor, shield, or helm. When they reach 9th level, they become a Lord (or Lady) and can build a stronghold to attract subjects. 
 
 **Cleave**  
 Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.
-
-\clearpage
 
 |Level|XP		|HD	|Save	|To-Hit	|
 |:---:|-------:|:---:|:---:|:------:|
@@ -49,7 +51,7 @@ Upon slaying an enemy, a fighter may immediately make an additional attack again
 Table: Fighter Levels
 
 ## Mage
-You start with d6 HP and 3d6x10 coins. Mages may use knives, clubs, and staves, and may not use armor, shields, or helms. When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices. 
+You start with d6 HP and 3d6x10 coins. Mages may use knives, clubs, and staves, and may not use armor, shields, or helms. When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices
 
 **Spellcasting**  
 Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.
@@ -68,44 +70,84 @@ Mages may memorize and cast a number of spells per day of a maximum spell level 
 
 Table: Mage Levels
 
-\newpage
+## Thief
+You start with d6 HP and 3d6x10 coins. Thieves can use clubs, knives, staves, and bows, and wear padded armor or mail, but cannot use shields or helms. When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals. 
+
+**Thievery**  
+Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+
+- Hear noises through doors or across rooms
+- Pick locks or disable traps
+- Move silently or hide in shadows
+- Pick pockets
+
+To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
+
+**Backstab**  
+Thieves deal double damage against surprised opponents. 
+
+|Level|XP		|HD	|Save	|To-Hit	|Thievery	|
+|:---:|-------:|:---:|:---:|:------:|:---------:|
+|1		|0			|1		|14+	|+1		|5+			|
+|2		|1,250	|1		|13+	|+1		|4+			|
+|3		|2,500	|2		|12+	|+2		|4+			|
+|4		|5,000	|2		|11+	|+2		|4+			|
+|5		|10,000	|3		|10+	|+3		|3+			|
+|6		|20,000	|3		|9+	|+3		|3+			|
+|7		|40,000	|4		|8+	|+4		|3+			|
+|8		|80,000	|4		|7+	|+4		|2+			|
+|9		|160,000	|5		|6+	|+5		|2+			|
+
+Table: Thief Levels
 
 # Equipment
 
 ## Encumbrance and Movement
+A man can carry a number of items based on what type of armor he is wearing. Some items are *bulky* -- these require two hands to carry and count as two items for encumbrance purposes. Some items are *light* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
 
-A *stone* (st) is an archaic unit of measure equal to about 4 pounds. It is used to simplify encumbrance and bookkeeping. 300 coins weigh 1 stone. Consult the table below for encumbrance limits for various creatures. When encumbered, movement speed is halved. When mounted, movement speed in combat is doubled. Note that a rider weighs 40 stone. A larger unit of measure is the *hundredweight* (cwt) used for measurements of bulk cargo. One hundredweight weighs 20 stone.
+A man can carry up to an additional ten (10) items beyond the carrying limit dictated by their armor. When they are doing so, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
-|		|Encumbered		|Maximum			|
-|-----|--------------|--------------|
-|Man	|>10 st			|20 st			|
-|Mule	|>40 st			|80 st			|
-|Horse|>60 st			|120 st			|
+## Items
 
-Table: Encumbrance
+|Armor			|AC	|Cost	|Items Carried	|
+|--------------|:---:|----:|-------------:|
+|Unarmored		|10	|-		|10				|
+|Padded Armor	|12	|15c	|8					|
+|Mail Armor		|14	|100c	|5					|
+|Plate Armor	|16	|-		|2					|
 
-## Weapons, Armor, and Equipment
+Table: Armor and Encumbrance
 
-|Weapon				|Damage	|Cost	|Weight (st)|
+|Item				|AC	|Cost	|
+|--------------|:---:|----:|
+|Shield			|+1	|5c	|
+|Helm				|+1	|10c	|
+
+Table: Shields and Helms
+
+**Plate armor** cannot be purchased from most armorers. It is a rare and valuable artifact.  
+
+**Shields** can be sundered to negate all damage from a hit.  
+
+**Helms** can be sundered to turn a critical hit into a regular hit (only deals 1x damage, rather than 2x).
+
+|Weapon				|Damage	|Cost	|Notes		|
 |-----------------|:-------|----:|:---------:|
-|Axe, battle^2H^	|d6		|6c	|2				|
-|Axe, hand^Th^		|d6		|3c	|1				|
-|Bow^2H^				|d6		|30c	|1				|
-|Arrows, quiver	|-			|5c	|1				|
-|Club					|d6		|1c	|1				|
-|Knife^Th^			|d3		|3c	|-				|
-|Pike^2H^			|d6		|6c	|2				|
-|Sling				|d3		|3c	|-				|
-|Staff^2H^			|d6		|2c	|1				|
-|Spear^Th^			|d6		|3c	|1				|
-|Sword				|d6		|15c	|1				|
-|Torch				|d3		|1c	|1				|
-|Unarmed				|1			|-		|-				|
+|Axe, battle		|d6		|6c	|bulky		|
+|Axe, hand			|d6		|3c	|thrown		|
+|Bow					|d6		|30c	|bulky		|
+|Arrows, quiver	|-			|5c	|				|
+|Club					|d6		|1c	|				|
+|Knife				|d3		|3c	|thrown, light|
+|Pike					|d6		|6c	|bulky		|
+|Sling				|d3		|3c	|light		|
+|Staff				|d6		|2c	|bulky		|
+|Spear				|d6		|3c	|thrown		|
+|Sword				|d6		|15c	|				|
+|Torch				|d3		|1c	|				|
+|Unarmed				|1			|-		|				|
 
 Table: Weapons
-
-*A "2H" indicates that the weapon requires two hands to wield.*  
-*A "Th" indicates that the weapon may be thrown*
 
 **Hand Axes** deal triple (3x) damage on a critical hit.  
 
@@ -125,66 +167,37 @@ Table: Weapons
 
 **Swords** reroll damage roll results of 1, due to their keen edge (subsequent results of 1 beyond the first are not rerolled).  
 
-**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.  
+**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.    
 
-|Armor			|AC	|Cost	|Weight (st)|
-|--------------|:---:|----:|:---------:|
-|Unarmored		|10	|-		|-				|
-|Padded Armor	|12	|15c	|2				|
-|Mail Armor		|14	|100c	|5				|
-|Plate Armor	|16	|-		|8				|
-|Shield			|+1	|5c	|2				|
-|Helm				|+1	|10c	|1				|
-
-Table: Armor
-
-**Plate armor** cannot be purchased from most armorers. It is a rare and valuable artifact.  
-
-**Shields** can be sundered to negate all damage from a hit.  
-
-**Helms** can be sundered to turn a critical hit into a regular hit (only deals 1x damage, rather than 2x).  
-
-|Item						|Cost			|Weight (st)|
+|Item						|Cost			|Notes		|
 |--------------------|----------:|:---------:|
-|Bedroll					|2c			|2				|
-|Tent, one-person		|5c			|4				|
-|Tent, three-person	|10c			|8				|
-|Candles, four			|1c			|1				|
-|Torch					|1c			|1				|
-|Tinderbox				|2c			|-				|
-|Rations, one day		|1c			|1				|
-|Waterskin, one day	|1c			|2				|
+|Backpack, leather	|4c			|light		|
+|Bedroll					|2c			|				|
+|Candles, four			|1c			|				|
+|Crowbar					|5c			|				|
+|Grimoire				|30c			|				|
+|Hammer					|2c			|				|
+|Pickaxe					|5c			|				|
+|Pole, 10ft				|1c			|				|
+|Rations, one day		|1c			|				|
+|Rope, 100ft			|2c			|				|
+|Sack, large			|2c			|light		|
+|Sack, small			|1c			|light		|
+|Shovel					|3c			|				|
+|Spikes, iron, six	|1c			|				|
+|Tent, three-person	|5c			|bulky		|
+|Torch					|1c			|				|
+|Tinderbox				|2c			|light		|
+|Waterskin, one day	|1c			|bulky		|
 
-Table: Food, Shelter, and Light
+Table: Equipment
+
+**Backpacks** can hold 10 items.  
 
 **Bedrolls** allow enough rest in the wilderness to regain d3 HP per night.  
 
-**Tents** give enough shelter to heal d6 HP per night in the wilderness.  
+**Candles** provide enough light for two (2) people.  
 
-**Candles** provide enough light for two (2) people.
-
-**Torches** prove enough light for four (4) people.  
-
-**Tinderboxes** are used to light fires. In most situations, this is done easily. However in stressful or threatening situations, lighting a fire requires a roll of 5+ on a d6.
-
-|Item						|Cost			|Weight (st)|
-|--------------------|----------:|:---------:|
-|Backpack, leather	|4c			|-				|
-|Crowbar					|5c			|1				|
-|Grimoire				|30c			|1				|
-|Hammer					|2c			|1				|
-|Pickaxe					|5c			|1				|
-|Pole, 10ft				|1c			|1				|
-|Rope, 100ft			|2c			|1				|
-|Sack, large			|2c			|-				|
-|Sack, small			|1c			|-				|
-|Shovel					|3c			|1				|
-|Spikes, iron, six	|1c			|1				|
-
-Table: Tools and Containers
-
-**Backpacks** can hold 10 stone, which is an unencumbering load.  
-  
 **Crosses** will repel undead when presented, forcing them to make a successful saving throw to attack the bearer.  
 
 **Crowbars** grant a +1 bonus to rolls to open doors.  
@@ -193,11 +206,19 @@ Table: Tools and Containers
 
 **Pickaxes** allow the user to move 25 ft^3^ of rock every 4 hours.  
 
-**Sacks** hold either 8 stone (large sacks) or 4 stone (small stacks).  
+**Sacks** hold either 6 items (large sacks) or 3 items (small stacks).  
 
 **Shovels** allow the user to move 25 ft^3^ of dirt every 2 hours.  
 
 **Spikes** can be used to wedge doors open or shut. Overcoming a spike requires a successful open doors check.  
+
+**Tents** give enough shelter to heal d6 HP per night in the wilderness.  
+
+**Torches** prove enough light for four (4) people.  
+
+**Tinderboxes** are used to light fires. In most situations, this is done easily. However in stressful or threatening situations, lighting a fire requires a roll of 5+ on a d6.  
+
+**Waterskins** are normally only needed when traveling in particularly dry areas such as deserts or sand dunes. If fresh water is easily available in the wilderness, it is presumed that travelers are able to drink their fill from springs, streams, lakes, and the like without accounting for water supplies.  
 
 |Transport		|Cost			|
 |--------------|----------:|
@@ -217,19 +238,17 @@ Table: Transportaion
 
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 
-**Mules** have a morale score of 7.  
+**Mules** have a morale score of 7. They can carry up to 40 items unencumbered, or up to 80 items when encumbered.  
 
-**Horses** have a morale score of 6.  
+**Horses** have a morale score of 6. They can carry a rider and up to 20 items unencumbered, or up to 80 items when encumbered.  
 
-**Warhorses** have a morale score of 9.  
+**Warhorses** have a morale score of 9. They can carry a rider and up to 20 items unencumbered, or up to 80 items when encumbered.  
 
-**Canoe, small** -- weighs 6st, carries 2 men and  12 cwt of cargo.  
+**Canoe, small** -- Carries 2 men and 300 items of cargo, takes one man to portage.  
 
-**Canoe, medium** -- weighs 12st, carries 6 men and 30 cwt of cargo.  
+**Canoe, medium** -- Carries 6 men and 600 items of cargo, takes 3 men to portage.  
 
-**Voyager canoe** -- weighs 24st, carries 12 men and 60 cwt of cargo.  
-
-\newpage
+**Voyager canoe** -- Carries 12 men and 1200 items of cargo, takes 6 men to portage.  
 
 ## Hirelings
 It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
@@ -250,8 +269,6 @@ It costs 100c to place an advertisement in a settlement for hirelings. The adver
 Table: Hirelings
 
 **Horse archers** may act in both the move phase and the missile phase of combat.
-
-\newpage
 
 # Combat
 
@@ -328,8 +345,6 @@ When a combatant reaches 0 HP, they must make a saving throw. On a failure, they
 
 Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight. Resting in camp for a night restores some HP (depending on the comfort of your camp). Resting in a town or similar safe location for a night restores all HP. The grievously wounded require a week's rest in a town or similar safe location to restore all HP.
 
-\newpage
-
 # Dungeon Delving
 
 ## Turns
@@ -389,8 +404,6 @@ Table: Chase Results
 
 Food will distract unintelligent monsters from the chase, by dropping 1 days ration per monster HD. Treasure will distract intelligent monsters from the chase, by dropping 100c worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
 
-\newpage
-
 # Appendix
 
 ## Monsters, Treasure, and Spells
@@ -425,92 +438,3 @@ Monsters are able to see in complete darkness. When converting monsters from oth
 |15	|+15				|4					|2900			|
 
 Table: Monsters by HD
-
-## Thief
-Thieves can use clubs, knives, staves, and bows, and wear padded armor or mail, but cannot use shields or helms. When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals. 
-
-**Thievery**  
-Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
-
-- Hear noises through doors or across rooms
-- Pick locks or disable traps
-- Move silently or hide in shadows
-- Pick pockets
-
-To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
-
-**Backstab**  
-Thieves deal double damage against surprised opponents. 
-
-|Level|XP		|HD	|Save	|To-Hit	|Thievery	|
-|:---:|-------:|:---:|:---:|:------:|:---------:|
-|1		|0			|1		|14+	|+1		|5+			|
-|2		|1,250	|1		|13+	|+1		|4+			|
-|3		|2,500	|2		|12+	|+2		|4+			|
-|4		|5,000	|2		|11+	|+2		|4+			|
-|5		|10,000	|3		|10+	|+3		|3+			|
-|6		|20,000	|3		|9+	|+3		|3+			|
-|7		|40,000	|4		|8+	|+4		|3+			|
-|8		|80,000	|4		|7+	|+4		|2+			|
-|9		|160,000	|5		|6+	|+5		|2+			|
-
-Table: Thief Levels
-
-\newpage
-
-# Open Game License
-
-
-OPEN GAME LICENSE Version 1.0a
-
-The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
-
-1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement.
-
-2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
-
-3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
-
-4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
-
-5. Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
-
-6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
-
-7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
-
-8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
-
-9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
-
-10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
-
-11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
-
-12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
-
-13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
-
-14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
-
-15. COPYRIGHT NOTICE
-
-Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
-
-System Reference Document Copyright 2000–2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, based on original material by E. Gary Gygax and Dave Arneson.  
-
-Delving Deeper Reference Rules Compendium v4a, Copyright 2014, Simon J. Bull
-
-Delving Deeper Reference Rules Hypertext, Copyright 2014, Simon J. Bull
-
-White Box: Fantastic Medieval Adventure Game, Copyright 2016, Charles Mason
-
-Barrows and Basilisks, Copyright 2021, Tyler Farrington
-
-16. DESIGNATION OF PRODUCT IDENTITY
-
-The names "Barrows and Basilisks", "Underwater Owlbear", and all proper nouns, plots, storylines, locations, characters, art, and trade dress are designated as Product Identity. "Underwater Owlbear" logo and name are trademarks of Tyler Farrington, 2021.
-
-17. DESIGNATION OF OPEN GAME CONTENT
-
-All text and tables in this document, with the exception of all material specifically excluded in the declaration of product identity, are designated as Open Game Content.
