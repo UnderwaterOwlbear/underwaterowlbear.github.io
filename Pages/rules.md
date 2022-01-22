@@ -1,9 +1,8 @@
 ---
-title: House Rules for ODnD-like Games
+title: Rules
 author: Tyler Farrington
 date: 2022-01-22
 menu: yes
-link: rules
 
 ---
 
