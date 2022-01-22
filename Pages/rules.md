@@ -118,15 +118,14 @@ A man can carry up to an additional ten (10) items beyond the carrying limit dic
 
 Table: Armor and Encumbrance
 
-  
+**Plate armor** cannot be purchased from most armorers. It is a rare and valuable artifact.  
+
 |Item				|AC	|Cost	|
 |--------------|:---:|----:|
 |Shield			|+1	|5c	|
 |Helm				|+1	|10c	|
 
 Table: Shields and Helms
-
-**Plate armor** cannot be purchased from most armorers. It is a rare and valuable artifact.  
 
 **Shields** can be sundered to negate all damage from a hit.  
 
