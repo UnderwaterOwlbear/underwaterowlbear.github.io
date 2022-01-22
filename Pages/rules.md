@@ -1,8 +1,9 @@
 ---
-title: Rules
+title: House Rules for ODnD-like Games
 author: Tyler Farrington
 date: 2022-01-22
 menu: yes
+link: rules
 
 ---
 
@@ -118,6 +119,7 @@ A man can carry up to an additional ten (10) items beyond the carrying limit dic
 
 Table: Armor and Encumbrance
 
+  
 |Item				|AC	|Cost	|
 |--------------|:---:|----:|
 |Shield			|+1	|5c	|
@@ -188,7 +190,7 @@ Table: Weapons
 |Tent, three-person	|5c			|bulky		|
 |Torch					|1c			|				|
 |Tinderbox				|2c			|light		|
-|Waterskin, one day	|1c			|bulky		|
+|Waterskin, one day	|1c			|				|
 
 Table: Equipment
 
