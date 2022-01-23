@@ -1,476 +1,389 @@
+# Dying Earth Spells
+Taken from [John's](https://www.blogger.com/profile/07090296806321882601) comment on [Necropraxis](https://www.necropraxis.com/2012/08/21/dying-earth-spells-for-dd/). Direct Dropbox link to original [here](https://www.dropbox.com/s/ksixtum08fzcp6k/Dying-Earth-Spells-for-D-D.pdf).
+
 # Spell List  
 
-|d30|1^st^ LEVEL| 2^nd^ LEVEL| 3^rd^ LEVEL|
-|---|-----------|------------|------------|
-|1| The Abstention of the Written Path| Arbane\'s Fulgent Coruscations| Arbane\'s Precipitous Deluge|
-|2|The Apotropaic Circle| The Call to the Fetid Cloud| The Charm of Dire Sanguinity|
-|3| The Audible Glamer| The Cure for Honesty| The Charm of the Inveigling Tongue|
-|4| The Call to the Familiar Spirit| The Hands of Cold Certainty| Chun\'s Halo of the Unsleeping Eyes|
-|5| The Call to the Unseen Servant| Hornung\'s Deleterious Deflector| Felojun\'s Repudiation of Arrows|
-|6| The Charm of Appersonation| The Impudent Might of Ilskar the Bold| The Fury of the Captive Wind |
-|7| The Discerner of Enchantments| The Invigorator of Blades| The Globe of Distant Discernment| 
-|8| The Effervescent Lights of Kwalish |Krest\'s Cerebral Consonance| The Indefatigable Breath |
-|9| Evard\'s Frictionless Field |Leomund\'s Escalatory Escape| The Instant Galvanic Thrust| 
-|10| The Expeditious Retreat| Lugwiler\'s Dismal Itch| The Interminable Interim|
-|11| The Heavenly Screen |Lustoff\'s Vicarious Head| The Invocation of the Open Sky|
-|12| The Howling Rune| The Manifold Effigies of Being |Kuroth\'s Empathic Rapport |
-|13| The Hypnotic Charm |The Marvellous Magic Mouth |Leomund\'s Expansible Egg |
-|14| The Imperturbable Quiescent Sphere| Mazirian\'s Marasmic Malady| Leuk-O\'s Vile Menagerie|
-|15| The Importunate Insult |The Pattern of the Immanent Sublime| The Liberation of Warp|
-|16| The Indelible Emblem |Phandaal\'s Mantle of Stealth| Lorloveim\'s Creeping Shadow|
-|17| Isain\'s Fortuitous Interruption| The Prosaic Preservation of Pandelume| Melf\'s Maladweomer|
-|18| The Kaleidoscopic Spray Quaal\'s Near-Alchemical Transformance Mentzer\'s Relative Time Dilation 
-|19| Kazimir\'s Resplendent Coutre| The Ruby Ray of Reversal| Mzhentul\'s Remarkable Polar Pull| 
-|20| Laeral\'s Baleful Aura| The Spell of Barring and Broaching |Nchaser\'s Spectral Steed| 
-|21| The Lesser Sign of Sealing |The Spell of Phantasmal Forces| Nolzur\'s Metabolic Suspension| 
-|22| Melf\'s Impermeable Membrane| The Spell of the Imponderous Bounty| Nulathoe\'s Accoustic Enhancement| 
-|23| The Metamorphoun of Fire| The Spur to the Libidinous Earth| Phandaal\'s Vitriolic Critique| 
-|24| Nahal\'s Reckless Dweomer| Tasha\'s Uncontrollable Hideous Laughter| Rary\'s Erratic Displacement| 
-|25| Otto\'s Arachnid Grip| The Tone of Resonant Discord| The Seventh Set\'s Web of Hiding| 
-|26| Phandaal\'s Polyglottal Lobe| The Torment of Tantalus| The Snapping Teeth of Yecind| 
-|27| Sirrian\'s Aggrandisement| Turjan\'s Translocation| The Solvent of Horrid Corrosion| 
-|28| The Spell of Exquisite Repose| The Unfettered Eye| The Spell of the Abysmal Flame| 
-|29| The Spell of Pragmatic Amalgamation| The Veil of the Cimmerian Shade| The Spell of the Slow Hour|
-|30| Tenser\'s Floating Disc| The Web of Wondrous Entrapment |Xult\'s Peregrination of Probability|
+| d30 | 1st LEVEL                           | 2nd LEVEL                               |
+|-----|-------------------------------------|-----------------------------------------|
+| 1   | The Abstention of the Written Path  | Arbane’s Fulgent Coruscations           |
+| 2   | The Apotropaic Circle               | The Call to the Fetid Cloud             |
+| 3   | The Audible Glamer                  | The Cure for Honesty                    |
+| 4   | The Call to the Familiar Spirit     | The Hands of Cold Certainty             |
+| 5   | The Call to the Unseen Servant      | Hornung’s Deleterious Deflector         |
+| 6   | The Charm of Appersonation          | The Impudent Might of Ilskar the Bold   |
+| 7   | The Discerner of Enchantments       | The Invigorator of Blades               |
+| 8   | The Effervescent Lights of Kwalish  | Krest’s Cerebral Consonance             |
+| 9   | Evard’s Frictionless Field          | Leomund’s Escalatory Escape             |
+| 10  | The Expeditious Retreat             | Lugwiler’s Dismal Itch                  |
+| 11  | The Heavenly Screen                 | Lustoff’s Vicarious Head                |
+| 12  | The Howling Rune                    | The Manifold Effigies of Being          |
+| 13  | The Hypnotic Charm                  | The Marvellous Magic Mouth              |
+| 14  | The Imperturbable Quiescent Sphere  | Mazirian’s Marasmic Malady              |
+| 15  | The Importunate Insult              | The Pattern of the Immanent Sublime     |
+| 16  | The Indelible Emblem                | Phandaal’s Mantle of Stealth            |
+| 17  | Isain’s Fortuitous Interruption     | The Prosaic Preservation of Pandelume   |
+| 18  | The Kaleidoscopic Spray             | Quaal’s Near-Alchemical Transformance   |
+| 19  | Kazimir’s Resplendent Coutre        | The Ruby Ray of Reversal                |
+| 20  | Laeral’s Baleful Aura               | The Spell of Barring and Broaching      |
+| 21  | The Lesser Sign of Sealing          | The Spell of Phantasmal Forces          |
+| 22  | Melf’s Impermeable Membrane         | The Spell of the Imponderous Bounty     |
+| 23  | The Metamorphoun of Fire            | The Spur to the Libidinous Earth        |
+| 24  | Nahal’s Reckless Dweomer            | Tasha’s Uncontrollable Hideous Laughter |
+| 25  | Otto’s Arachnid Grip                | The Tone of Resonant Discord            |
+| 26  | Phandaal’s Polyglottal Lobe         | The Torment of Tantalus                 |
+| 27  | Sirrian’s Aggrandisement            | Turjan’s Translocation                  |
+| 28  | The Spell of Exquisite Repose       | The Unfettered Eye                      |
+| 29  | The Spell of Pragmatic Amalgamation | The Veil of the Cimmerian Shade         |
+| 30  | Tenser’s Floating Disc              | The Web of Wondrous Entrapment          |
 
-|d30|4^th^ LEVEL| 5^th^ LEVEL| 6^th^ LEVEL|
-|---|-----------|------------|------------|
-|1| Alamer\'s Cloak of the Consuming Chill| Alphon\'s Anguish of the North Wind| The Agency of Far Despatch| 
-|2| Arnd\'s Dimension Door| Archveult\'s Crude Fabrication| Ao\'s Enervating Opalescent Eyes| 
-|3| The Charm of the Inverted Pervulsion| The Augur of the Inscrutable Spheres| The Avulsion of the Spirit-Soul| 
-|4| The Efficacious Portal Ward| The Blade of Inexorable Disjection| The Binding of True Names| 
-|5| The Engendering Weave |Caligarde\'s Penetrating Vision| The Call to the Assiduous Pursuer| 
-|6| Evard\'s Black Tentacles| The Charm of Untiring Nourishment| The Call to Inflexible Salvation| 
-|7| Felojun\'s Incendiary Rune| Clambard\'s Remote Acquisition| The Contingency of the Foreknown|
-|8| Flamsterd\'s Curtain of the Violet Conflagration |The Conjure of the Elemental Id| Daern\'s Total Repulse|
-|9| The Gestation of the Ignoble Servitor| The Dweomer of Ignominious Dismissal| The Excellent Prismatic Spray| 
-|10| Gilgad\'s Hallucinatory Locale |The Elocation of Ka| Hornung\'s Indiscriminate Expulsion |
-|11| Hlal\'s Umbral Monstrosity| The Extirpation of the Ruinous Cloud| The Infallible Retrotropic Field| 
-|12| The Illusion of Vile Arthropods| Firdaan\'s Impenetrable Last Stand| Khelpen\'s Permutation of Gravity| 
-|13| The Impermanence of Being| The Hebetation of the Intellect| The Labyrinth of Elongated Shadows| 
-|14| Johydee\'s Gentle Admonishment |The Imperfect Invitation |The Omnipotent Sphere|
-|15| Leomund\'s Lamentable Belabourment |Johydee\'s Indisputable Fantasy| Otiluke\'s Freezing Orb| 
-|16| Lhegrand\'s Silvery Skin| Leomund\'s Dramatic Chest| Otto\'s Irresistable Dance| 
-|17| The Minor Globe of Invulnerability |Mentor\'s Perfect Inertia |The Scrutiny of the Omniscient Eye| 
-|18| Narissa\'s Blind Excess |The Oblong Barrier |The Sequester to the Ethereal Coil| 
-|19| The Onslaught of Dread Equines| Pandelume\'s Paroxysm of Pain| Serten\'s Immaculate Simulacrum| 
-|20| Otiluke\'s Resilient Sphere| The Pattern of the Proscriptive Watchdog| The Seven Symbols of Solomon| 
-|21| Quaal\'s Flawless Duplicity |Phandaal\'s Semblance of Psyche| Sirrian\'s Spell Engine| 
-|22| Rary\'s Mnemonic Enhancer |The Reign of Long Nerves| The Speculum of Retribution|  
-|23| The Seal Upon the Powers| The Satire of Life Renewed| The Spell of Elegant Dissolution|
-|24| The Spell of Expansive Excavation| The Seven Hundred and Seventy Steps of Slumber| The Spell of Forlorn Encystment|
-|25| The Spell of Mercurial Anatomy| The Shroud of Agonizing Immolation |The Spell of Geas| 
-|26| The Spell of the Peremptory Polymorph |Skye\'s Spell to Sidestep the Real| The Spell of Temporal Disjunction|
-|27| The Spell of Wyrd| The Spell of Celeritous Relocalisation |The Spell of the Stone that Weeps in Silence|
-|28| The Summons to the Inclement Clime| Tenser\'s Destructive Resonance| Tenser\'s Transformation of the Heroic and Grotesque|
-|29| Tasha\'s Morbid Jest| Tzunk\'s Distance Distortion| The Tower of Indomitable Intellect| 
-|30| Tulrun\'s Filamentary Extension| Yon\'s Obliging Parapet| The Wrack of the Recalcitrant Spirit|
+| d30 | 3rd LEVEL                           | 4th LEVEL                                       |
+|-----|-------------------------------------|-------------------------------------------------|
+| 1   | Arbane’s Precipitous Deluge         | Alamer’s Cloak of the Consuming Chill           |
+| 2   | The Charm of Dire Sanguinity        | Arnd’s Dimension Door                           |
+| 3   | The Charm of the Inveigling Tongue  | The Charm of the Inverted Pervulsion            |
+| 4   | Chun’s Halo of the Unsleeping Eyes  | The Efficacious Portal Ward                     |
+| 5   | Felojun’s Repudiation of Arrows     | The Engendering Weave                           |
+| 6   | The Fury of the Captive Wind        | Evard’s Black Tentacles                         |
+| 7   | The Globe of Distant Discernment    | Felojun’s Incendiary Rune                       |
+| 8   | The Indefatigable Breath            | Flamsterd’s Curtain of the Violet Conflagration |
+| 9   | The Instant Galvanic Thrust         | The Gestation of the Ignoble Servitor           |
+| 10  | The Interminable Interim            | Gilgad’s Hallucinatory Locale                   |
+| 11  | The Invocation of the Open Sky      | Hlal’s Umbral Monstrosity                       |
+| 12  | Kuroth’s Empathic Rapport           | The Illusion of Vile Arthropods                 |
+| 13  | Leomund’s Expansible Egg            | The Impermanence of Being                       |
+| 14  | Leuk-O’s Vile Menagerie             | Johydee’s Gentle Admonishment                   |
+| 15  | The Liberation of Warp              | Leomund’s Lamentable Belabourment               |
+| 16  | Lorloveim’s Creeping Shadow         | Lhegrand’s Silvery Skin                         |
+| 17  | Melf’s Maladweomer                  | The Minor Globe of Invulnerability              |
+| 18  | Mentzer’s Relative Time Dilation    | Narissa’s Blind Excess                          |
+| 19  | Mzhentul’s Remarkable Polar Pull    | The Onslaught of Dread Equines                  |
+| 20  | Nchaser’s Spectral Steed            | Otiluke’s Resilient Sphere                      |
+| 21  | Nolzur’s Metabolic Suspension       | Quaal’s Flawless Duplicity                      |
+| 22  | Nulathoe’s Accoustic Enhancement    | Rary’s Mnemonic Enhancer                        |
+| 23  | Phandaal’s Vitriolic Critique       | The Seal Upon the Powers                        |
+| 24  | Rary’s Erratic Displacement         | The Spell of Expansive Excavation               |
+| 25  | The Seventh Set’s Web of Hiding     | The Spell of Mercurial Anatomy                  |
+| 26  | The Snapping Teeth of Yecind        | The Spell of the Peremptory Polymorph           |
+| 27  | The Solvent of Horrid Corrosion     | The Spell of Wyrd                               |
+| 28  | The Spell of the Abysmal Flame      | The Summons to the Inclement Clime              |
+| 29  | The Spell of the Slow Hour          | Tasha’s Morbid Jest                             |
+| 30  | Xult’s Peregrination of Probability | Tulrun’s Filamentary Extension                  |
+
+| d30 | 5th LEVEL                                      | 6th LEVEL                                           |
+|-----|------------------------------------------------|-----------------------------------------------------|
+| 1   | Alphon’s Anguish of the North Wind             | The Agency of Far Despatch                          |
+| 2   | Archveult’s Crude Fabrication                  | Ao’s Enervating Opalescent Eyes                     |
+| 3   | The Augur of the Inscrutable Spheres           | The Avulsion of the Spirit-Soul                     |
+| 4   | The Blade of Inexorable Disjection             | The Binding of True Names                           |
+| 5   | Caligarde’s Penetrating Vision                 | The Call to the Assiduous Pursuer                   |
+| 6   | The Charm of Untiring Nourishment              | The Call to Inflexible Salvation                    |
+| 7   | Clambard’s Remote Acquisition                  | The Contingency of the Foreknown                    |
+| 8   | The Conjure of the Elemental Id                | Daern’s Total Repulse                               |
+| 9   | The Dweomer of Ignominious Dismissal           | The Excellent Prismatic Spray                       |
+| 10  | The Elocation of Ka                            | Hornung’s Indiscriminate Expulsion                  |
+| 11  | The Extirpation of the Ruinous Cloud           | The Infallible Retrotropic Field                    |
+| 12  | Firdaan’s Impenetrable Last Stand              | Khelpen’s Permutation of Gravity                    |
+| 13  | The Hebetation of the Intellect                | The Labyrinth of Elongated Shadows                  |
+| 14  | The Imperfect Invitation                       | The Omnipotent Sphere                               |
+| 15  | Johydee’s Indisputable Fantasy                 | Otiluke’s Freezing Orb                              |
+| 16  | Leomund’s Dramatic Chest                       | Otto’s Irresistable Dance                           |
+| 17  | Mentor’s Perfect Inertia                       | The Scrutiny of the Omniscient Eye                  |
+| 18  | The Oblong Barrier                             | The Sequester to the Ethereal Coil                  |
+| 19  | Pandelume’s Paroxysm of Pain                   | Serten’s Immaculate Simulacrum                      |
+| 20  | The Pattern of the Proscriptive Watchdog       | The Seven Symbols of Solomon                        |
+| 21  | Phandaal’s Semblance of Psyche                 | Sirrian’s Spell Engine                              |
+| 22  | The Reign of Long Nerves                       | The Speculum of Retribution                         |
+| 23  | The Satire of Life Renewed                     | The Spell of Elegant Dissolution                    |
+| 24  | The Seven Hundred and Seventy Steps of Slumber | The Spell of Forlorn Encystment                     |
+| 25  | The Shroud of Agonizing Immolation             | The Spell of Geas                                   |
+| 26  | Skye’s Spell to Sidestep the Real              | The Spell of Temporal Disjunction                   |
+| 27  | The Spell of Celeritous Relocalisation         | The Spell of the Stone that Weeps in Silence        |
+| 28  | Tenser’s Destructive Resonance                 | Tenser’s Transformation of the Heroic and Grotesque |
+| 29  | Tzunk’s Distance Distortion                    | The Tower of Indomitable Intellect                  |
+| 30  | Yon’s Obliging Parapet                         | The Wrack of the Recalcitrant Spirit                |
 
 # Starting Spells  
 
 All magic-users begin knowing the Arcane Cypher, plus three spells
 randomly determined from the following lists:
 
-|d10|Offensive |Defensive| Miscellaneous| 
-|---|----------|---------|--------------|
-|1|The Charm of Appersonation |The Apotropaic Circle | The Abstention of the Written Path| 
-|2| Evard\'s Frictionless Field | The Audible Glamer | The Call to the Familiar Spirit| 
-|3| The Hypnotic Charm | The Effervescent Lights of Kwalish | The Call to the Unseen Servant| 
-|4| The Importunate Insult | The Expeditious Retreat | The Discerner of Enchantments| 
-|5| The Kaleidoscopic Spray | The Heavenly Screen | The Indelible Emblem| 
-|6| Kazimir\'s Resplendent Coutre | The Howling Rune | Melf\'s Impermeable Membrane| 
-|7| Laeral\'s Baleful Aura | The Imperturbable Quiescent Sphere | Nahal\'s Reckless Dweomer| 
-|8| The Metamorphoun of Fire | Isain\'s Fortuitous Interruption | Phandaal\'s Polyglottal Lobe| 
-|9| Sirrian\'s Aggrandisement | The Lesser Sign of Sealing | The Spell of Pragmatic Amalgamation|  
-|0| The Spell of Exquisite Repose | Otto\'s Arachnid Grip | Tenser\'s Floating Disc|
+| d10 | Offensive                     | Defensive                          | Miscellaneous                       |
+|-----|-------------------------------|------------------------------------|-------------------------------------|
+| 1   | The Charm of Appersonation    | The Apotropaic Circle              | The Abstention of the Written Path  |
+| 2   | Evard\'s Frictionless Field   | The Audible Glamer                 | The Call to the Familiar Spirit     |
+| 3   | The Hypnotic Charm            | The Effervescent Lights of Kwalish | The Call to the Unseen Servant      |
+| 4   | The Importunate Insult        | The Expeditious Retreat            | The Discerner of Enchantments       |
+| 5   | The Kaleidoscopic Spray       | The Heavenly Screen                | The Indelible Emblem                |
+| 6   | Kazimir\'s Resplendent Coutre | The Howling Rune                   | Melf\'s Impermeable Membrane        |
+| 7   | Laeral\'s Baleful Aura        | The Imperturbable Quiescent Sphere | Nahal\'s Reckless Dweomer           |
+| 8   | The Metamorphoun of Fire      | Isain\'s Fortuitous Interruption   | Phandaal\'s Polyglottal Lobe        |
+| 9   | Sirrian\'s Aggrandisement     | The Lesser Sign of Sealing         | The Spell of Pragmatic Amalgamation |
+| 0   | The Spell of Exquisite Repose | Otto\'s Arachnid Grip              | Tenser\'s Floating Disc             |
 
 # Spells by Level  
 
 ## 0^th^ Level Spells
 
 ### The Arcane Cypher  
-
-**R:** 0 **D:** 2 rounds/level **AoE:** Special **Save:** None
-
+**R:** 0 **D:** 2 rounds/level **AoE:** Special **Save:** None  
 Read and understand magical inscriptions, scrolls, spell formulae, etc.
 Once deciphered can be read without recourse to spell.
 
 ## 1^st^ Level Spells  
 
 ### The Abstention of the Written Path
-
 **R:** 6\" **D:** 1 turn **AoE:** 1\"x1\" area/round **Save:** None  
 Detect secret passages, portals and openings.
 
 ### The Apotropaic Circle
-
 **R:** Touch **D:** 2 rounds/level **AoE:** \<1\" diameter **Save:** None  
 Trace a circle in powdered silver; blocks all conjured & extraplanar creatures and possession attempts.
 
 ### The Audible Glamer
-
 **R:** 6\" + 1\"/level **D:** 2 rounds/level **AoE:** Hearing range **Save:** None  
 Create auditory-only illusion.
 
 ### The Call to the Familiar Spirit
-
 **R:** Special **D:** Special **AoE:** Special **Save:** None  
 Burn 1000c incense, herbs & fat, incantation lasting 24 hours. Summons familiar.
 
-**The Call to the Unseen Servant **
+### The Call to the Unseen Servant
+**R:** 0 **D:** 6 turns + 1/level **AoE:** Special **Save:** None  
+Invisible creature acts as valet, servant etc. AC 4, MV 18\", HD 2; bound to obey caster but will not fight on their behalf. If abused seeks to pervert instructions.
 
-**R:** 0 **D:** 6 turns + 1/level **AoE:** Special **Save:** None
+### The Charm of Appersonation
+**R:** 0 **D:** 2-12 rounds +2/lvl **AoE:** Caster **Save:** None  
+Alter appearance and clothing to any humanoid figure. Cannot mimic specific individuals.
 
-Invisible creature acts as valet, servant etc. AC 4, MV 18\", HD 2;
-bound to obey caster but will not fight on their behalf. If abused seeks
-to pervert instructions.
+### The Discerner of Enchantments
+**R:** 6\" **D:** 2 rounds/level **AoE:** 1\" path **Save:** None  
+Detect magic and intensity.
 
-**The Charm of Appersonation **
+### The Effervescent Lights of Kwalish
+**R:** 4\" + 1\"/level **D:** 1 turn/level **AoE:** Special **Save:** None  
+Create A) 1-4 lights resembling torches, B) glowing spheres (as will-o-wisp), C) faintly glowing man-like shape. Moves as directed.
 
-**R:** 0 **D:** 2-12 rounds +2/lvl **AoE:** Caster **Save:** None Alter
-appearance and clothing to any humanoid figure. Cannot mimic specific
-individuals.
+### Evard\'s Frictionless Field
+**R:** 1\" **D:** 3 rounds + 1/level **AoE:** 1\" square **Save:** Special  
+Save vs. spell or slip and fall. If cast on item then save or drop immediately.
 
-**The Discerner of Enchantments **
+### The Expeditious Retreat
+**R:** 0 **D:** 3 rounds + 1/level **AoE:** Caster **Save:** None  
+Triple movement, running jumps 30\' forward or 10\' up, cannot take any other action while moving.
 
-**R:** 6\" **D:** 2 rounds/level **AoE:** 1\" path **Save:** None Detect
-magic and intensity.
+### The Heavenly Screen
+**R:** 3\" **D:** 2-8 rounds + 1/lvl **AoE:** 2\"x2\"2\" cube/level **Save:** None  
+Veil of silvery mist obscures vision beyond 2\'.
 
-**The Effervescent Lights of Kwalish **
+### The Howling Rune
+**R:** 1\" **D:** 4 hours + 1/level **AoE:** 1 object/creature **Save:** Negates  
+Target erupts in involuntary screaming (see Shrieker) when creature approaches within 10\'.
 
-**R:** 4\" + 1\"/level **D:** 1 turn/level **AoE:** Special **Save:**
-None
+### The Hypnotic Charm
+**R:** 12\" **D:** Special **AoE:** 1 person **Save:** Negates  
+Target regards caster as trusted friend and ally.
 
-Create A) 1-4 lights resembling torches, B) glowing spheres (as
-will-o-wisp), C) faintly glowing man-like shape. Moves as directed.
+|Intelligence |Period Between Saving Throws|
+|---|---|
+|3 or less| 3 months|
+|4 to 6 |2 months|
+|7 to 9 |1 month|
+|10 to 12 |3 weeks|
+|13 to 14 |2 weeks|
+|15 to 16 |1 week|
+|17 |3 days|
+|18 |2 days|
+|19 or more |1 day|
 
-**Evard\'s Frictionless Field **
+### The Imperturbable Quiescent Sphere
+**R:** 0 **D:** 5 rounds/level **AoE:** Caster **Save:** None  
+Invisible barrier gives AC 2 vs. missiles, AC 4 vs. other attacks.
 
-**R:** 1\" **D:** 3 rounds + 1/level **AoE:** 1\" square **Save:**
-Special Save vs. spell or slip and fall. If cast on item then save or
-drop immediately.
+### The Importunate Insult
+**R:** 3\" **D:** Instantaneous **AoE:** 2 HD/caster level **Save:** Negates  
+Target rushes to attack magic-user in rage, attacking melee only.
 
-**The Expeditious Retreat **
-
-**R:** 0 **D:** 3 rounds + 1/level **AoE:** Caster **Save:** None Triple
-movement, running jumps 30\' forward or 10\' up, cannot take any other
-action while moving.
-
-**The Heavenly Screen **
-
-**R:** 3\" **D:** 2-8 rounds + 1/lvl **AoE:** 2\"x2\"2\" cube/level
-**Save:** None Veil of silvery mist obscures vision beyond 2\'.
-
-**The Howling Rune **
-
-**R:** 1\" **D:** 4 hours + 1/level **AoE:** 1 object/creature **Save:**
-Negates Target erupts in involuntary screaming (see Shrieker) when
-creature approaches within 10\'.
-
-**The Hypnotic Charm **
-
-**R:** 12\" **D:** Special **AoE:** 1 person **Save:** Negates Target
-regards caster as trusted friend and ally.
-
-Intelligence Period Between Saving Throws
-
-3 or less 3 months
-
-4 to 6 2 months
-
-7 to 9 1 month
-
-10 to 12 3 weeks
-
-13 to 14 2 weeks
-
-15 to 16 1 week
-
-17 3 days
-
-18 2 days
-
-19 or more 1 day
-
-**The Imperturbable Quiescent Sphere **
-
-**R:** 0 **D:** 5 rounds/level **AoE:** Caster **Save:** None Invisible
-barrier gives AC 2 vs. missiles, AC 4 vs. other attacks.
-
-**The Importunate Insult **
-
-**R:** 3\" **D:** Instantaneous **AoE:** 2 HD/caster level **Save:**
-Negates Target rushes to attack magic-user in rage, attacking melee
-only.
-
-**The Indelible Emblem **
-
-**R:** Touch **D:** Permanent **AoE:** \<1 square foot **Save:** None
+### The Indelible Emblem
+**R:** Touch **D:** Permanent **AoE:** \<1 square foot **Save:** None  
 Inscribes personal mark and 6 other characters, visible or invisible.
 
-**Isain\'s Fortuitous Interruption **
+### Isain\'s Fortuitous Interruption
+**R:** 1\"/level **D:** 1 second/level **AoE:** Special **Save:** None  
+200 lb + 200 per caster level assumes mass of a feather, no falling damage.
 
-**R:** 1\"/level **D:** 1 second/level **AoE:** Special **Save:** None
-200 lb + 200 per caster level assumes mass of a feather, no falling
-damage.
+### The Kaleidoscopic Spray
+**R:** 0 **D:** Instantaneous **AoE:** ½\"x2\"x2\" wedge **Save:** Special  
+Vivid colour spray affects 1d6 creatures. Caster level or below: unconscious 2-8 rounds. 1-2 levels higher: blind 1-4 rounds. 3 or more levels higher: stunned for 1 round. 6 HD or more gets a saving throw.
 
-**The Kaleidoscopic Spray **
+### Kazimir\'s Resplendent Coutre
+**R:** 0 **D:** 1 hour/level **AoE:** Caster **Save:** None  
+Dazzlingly fashionable apparel, gain 2-8 charisma and viewers make immediate reaction checks, become impressed or jealous/irritated.
 
-**R:** 0 **D:** Instantaneous **AoE:** ½\"x2\"x2\" wedge **Save:**
-Special
+### Laeral\'s Baleful Aura
+**R:** 3\" **D:** 1 round **AoE:** Caster **Save:** Negates  
+Become unquantifiably terrifying; friends & foes save vs. magic or flee 1-3 rounds.
 
-Vivid colour spray affects 1d6 creatures. Caster level or below:
-unconscious 2-8 rounds. 1-2 levels higher: blind 1-4 rounds. 3 or more
-levels higher: stunned for 1 round. 6 HD or more gets a saving throw.
-
-**Kazimir\'s Resplendent Coutre** thanks ckutalik **R:** 0 **D:** 1
-hour/level **AoE:** Caster **Save:** None
-
-Dazzlingly fashionable apparel, gain 2-8 charisma and viewers make
-immediate reaction checks, become impressed or jealous/irritated.
-
-**Laeral\'s Baleful Aura **
-
-**R:** 3\" **D:** 1 round **AoE:** Caster **Save:** Negates Become
-unquantifiably terrifying; friends & foes save vs. magic or flee 1-3
-rounds.
-
-**The Lesser Sign of Sealing **
-
-**R:** 2\"/level **D:** Permanent **AoE:** 80 square feet/lvl **Save:**
-None
-
+### The Lesser Sign of Sealing
+**R:** 2\"/level **D:** Permanent **AoE:** 80 square feet/lvl **Save:** None  
 Seal door or gate as if securely barred and locked.
 
-**Melf\'s Impermeable Membrane **
-
-**R:** Touch **D:** 24 hours **AoE:** \<10 cubic feet/lvl **Save:**
+### Melf\'s Impermeable Membrane
+**R:** Touch **D:** 24 hours **AoE:** \<10 cubic feet/lvl **Save:** None  
 Repel all liquid from subject.
 
-**The Metamorphoun of Fire **
+### The Metamorphoun of Fire
+**R:** ½\"/level **D:** 2 rounds/level **AoE:** 10\' radius **Save:** None  
+Increase fires up to double size/heat or down to embers, spread onto any burnable material, or snuff out all fires entirely.
 
-**R:** ½\"/level **D:** 2 rounds/level **AoE:** 10\' radius **Save:**
-None
+### Nahal\'s Reckless Dweomer
+**R:** Special **D:** Special **AoE:** Special **Save:** Special  
+Attempt to cast any spell in spellbook; roll results on Wild Surge table.
 
-Increase fires up to double size/heat or down to embers, spread onto any
-burnable material, or snuff out all fires entirely.
+### Otto\'s Arachnid Grip
+**R:** Touch **D:** 3 rounds +1/level **AoE:** 1 creature **Save:** Negates  
+Climb vertical surfaces/ceilings at 3\". Objects less than 5 lb stick to hands.
 
-**Nahal\'s Reckless Dweomer **
+### Phandaal\'s Polyglottal Lobe
+**R:** Touch **D:** 5 rounds/level **AoE:** 1 object/creature **Save:** None  
+Understand and speak any one language.
 
-**R:** Special **D:** Special **AoE:** Special **Save:** Special Attempt
-to cast any spell in spellbook; roll results on Wild Surge table.
+### Sirrian\'s Aggrandisement / Sirrian\'s Reductor
+**R:** ½\"/level **D:** 1 turn/level **AoE:** \<10 cubic feet/lvl **Save:** Negates  
+Increase or decrease target\'s size up to 200%, Strength & damage change proportionately.
 
-**Otto\'s Arachnid Grip **
+### The Spell of Exquisite Repose
+**R:** 3\" + 1\"/level **D:** 5 rounds/level **AoE:** 3\" diameter **Save:** None  
+Cause comatose slumber, awaken only if slapped/wounded.
 
-**R:** Touch **D:** 3 rounds +1/level **AoE:** 1 creature **Save:**
-Negates Climb vertical surfaces/ceilings at 3\". Objects less than 5 lb
-stick to hands.
+|Hit Dice| Number Affected|
+|---|---|
+|Up to 1| 4-16 (4d4)|
+|1+1 to 2 |2-8 (2d4)|
+|2+1 to 3 |1-4 (1d4)|
+|3+1 to 4 |1-2 (½d4, round off)|
+|4+1 to 5 |0-1 (1d4, 3 or 4)|
 
-**Phandaal\'s Polyglottal Lobe **
+### The Spell of Pragmatic Amalgamation
+**R:** 3\" **D:** Permanent **AoE:** 5\'x5\' / level **Save:** None  
+Mend or rejoin broken objects.
 
-**R:** Touch **D:** 5 rounds/level **AoE:** 1 object/creature **Save:**
-None Understand and speak any one language.
+### Tenser\'s Floating Disc
+**R:** 2\" **D:** 3 turns + 1/level **AoE:** Special **Save:** None  
+Floating null-gravity plane supports 100 lb per level, moves as directed.
 
-**Sirrian\'s Aggrandisement / Sirrian\'s Reductor **
+## 2^nd^ Level Spells
 
-**R:** ½\"/level **D:** 1 turn/level **AoE:** \<10 cubic feet/lvl
-**Save:** Negates Increase or decrease target\'s size up to 200%,
-Strength & damage change proportionately.
+### Arbane\'s Fulgent Coruscations
+**R:** 12\" **D:** Instantaneous **AoE:** Special **Save:** None  
+Existing fire erupts in A) flashing fireworks, blind creatures within 12\" for 2-5 rounds or save vs. spell; or B) smoke 100 times volume of fire, obscure vision beyond 2\', lasts 1 round/level.
 
-**The Spell of Exquisite Repose **
+### The Call to the Fetid Cloud
+**R:** 3\" **D:** 1 round/level **AoE:** 2\"x2\"x2\" cloud **Save:** Special  
+Billowing vapours, save vs. poison or incapacitated (nausea) for 2-5 rounds after leaving cloud, or 1 round if saved.
 
-**R:** 3\" + 1\"/level **D:** 5 rounds/level **AoE:** 3\" diameter
-**Save:** None Cause comatose slumber, awaken only if slapped/wounded.
+### The Cure for Honesty
+**R:** 3\" **D:** Permanent **AoE:** 2\"x2\" **Save:** Negates  
+1 to 4 creatures permanently forget previous 1 minute per level of spellcaster. -2 to save if single target.
 
-Hit Dice Number Affected
+### The Hands of Cold Certainty
+**R:** 3\" **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+Invisible hands choke target for 1-4 damage/round and -2 penalty to attack rolls.
 
-Up to 1 4-16 (4d4)
+### Hornung\'s Deleterious Deflector
+**R:** 0 **D:** 2 rounds/level **AoE:** Caster **Save:** None  
+Missile attacks deflected to random target in 15\' radius (including caster).
 
-1+1 to 2 2-8 (2d4)
-
-2+1 to 3 1-4 (1d4)
-
-3+1 to 4 1-2 (½d4, round off)
-
-4+1 to 5 0-1 (1d4, 3 or 4)
-
-**The Spell of Pragmatic Amalgamation **
-
-**R:** 3\" **D:** Permanent **AoE:** 5\'x5\' / level **Save:** None Mend
-or rejoin broken objects.
-
-**Tenser\'s Floating Disc **
-
-**R:** 2\" **D:** 3 turns + 1/level **AoE:** Special **Save:** None
-Floating null-gravity plane supports 100 lb per level, moves as
-directed.
-
-**SECOND LEVEL SPELLS: **
-
-**Arbane\'s Fulgent Coruscations **
-
-**R:** 12\" **D:** Instantaneous **AoE:** Special **Save:** None
-
-Existing fire erupts in A) flashing fireworks, blind creatures within
-12\" for 2-5 rounds or save vs. spell; or B) smoke 100 times volume of
-fire, obscure vision beyond 2\', lasts 1 round/level.
-
-**The Call to the Fetid Cloud **
-
-**R:** 3\" **D:** 1 round/level **AoE:** 2\"x2\"x2\" cloud **Save:**
-Special
-
-Billowing vapours, save vs. poison or incapacitated (nausea) for 2-5
-rounds after leaving cloud, or 1 round if saved.
-
-**The Cure for Honesty **
-
-**R:** 3\" **D:** Permanent **AoE:** 2\"x2\" **Save:** Negates 1 to 4
-creatures permanently forget previous 1 minute per level of spellcaster.
--2 to save if single target.
-
-**The Hands of Cold Certainty **
-
-**R:** 3\" **D:** 1 round/level **AoE:** 1 creature **Save:** Negates
-Invisible hands choke target for 1-4 damage/round and -2 penalty to
-attack rolls.
-
-**Hornung\'s Deleterious Deflector **
-
-**R:** 0 **D:** 2 rounds/level **AoE:** Caster **Save:** None Missile
-attacks deflected to random target in 15\' radius (including caster).
-
-**The Impudent Might of Ilskar the Bold **
-
-**R:** Touch **D:** 1 hour/level **AoE:** 1 creature **Save:** None
+### The Impudent Might of Ilskar the Bold
+**R:** Touch **D:** 1 hour/level **AoE:** 1 creature **Save:** None  
 Raise Strength score 1-8 points.
 
-**The Invigorator of Blades **
+### The Invigorator of Blades
+**R:** Touch **D:** 1 turn **AoE:** 1 weapon **Save:** None  
+Blade recieves +3 to hit and damage for 1 strike only.
 
-**R:** Touch **D:** 1 turn **AoE:** 1 weapon **Save:** None Blade
-recieves +3 to hit and damage for 1 strike only.
+### Krest\'s Cerebral Consonance
+**R:** ½\"/level **D:** 1 round/level **AoE:** 1 creature/round **Save:** None  
+Read surface thoughts of 1 creature per round.
 
-**Krest\'s Cerebral Consonance **
+### Leomund\'s Escalatory Escape
+**R:** Touch **D:** 2 turns/level **AoE:** Special **Save:** None  
+Up to 6 creatures climb rope to hide in extradimensional space.
 
-**R:** ½\"/level **D:** 1 round/level **AoE:** 1 creature/round
-**Save:** None Read surface thoughts of 1 creature per round.
+### Lugwiler\'s Dismal Itch
+**R:** 1\"/level **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+Horrible itching causes -4 to AC and -2 to attack rolls.
 
-**Leomund\'s Escalatory Escape **
+### Lustoff\'s Vicarious Head
+**R:** 9\" (initial) **D:** 1 turn/level **AoE:** 1 creature **Save:** Negates  
+See through the senses of target creature.
 
-**R:** Touch **D:** 2 turns/level **AoE:** Special **Save:** None Up to
-6 creatures climb rope to hide in extradimensional space.
+### The Manifold Effigies of Being
+**R:** 0 **D:** 3 rounds/level **AoE:** Caster **Save:** None  
+D4 duplicates +1 per level form around caster, indistinguishable, disappear when struck.
 
-**Lugwiler\'s Dismal Itch **
+### The Marvellous Magic Mouth
+**R:** Special **D:** Special **AoE:** 1 object **Save:** None  
+Magic mouth speaks message when specific condition is met.
 
-**R:** 1\"/level **D:** 1 round/level **AoE:** 1 creature **Save:**
-Negates Horrible itching causes -4 to AC and -2 to attack rolls.
+### Mazirian\'s Marasmic Malady
+**R:** 1\" + ¼\"/level **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+Target reduced to Strength 3 or 50% damage.
 
-**Lustoff\'s Vicarious Head **
+### The Pattern of the Immanent Sublime
+**R:** 3\" **D:** Special **AoE:** 3\"x3\" **Save:** Negates  
+Display causes creatures to stand fascinated for as long as caster concentrates plus 2 rounds thereafter.
 
-**R:** 9\" (initial) **D:** 1 turn/level **AoE:** 1 creature **Save:**
-Negates See through the senses of target creature.
+### Phandaal\'s Mantle of Stealth
+**R:** Touch **D:** 2 rounds + 1/level **AoE:** 1 creature **Save:** None  
+Become invisible. Telltale shimmering allows attacks at -4 against invisible targets once spotted.
 
-**The Manifold Effigies of Being **
+### The Prosaic Preservation of Pandelume
+**R:** Touch **D:** Permanent **AoE:** 10 cubic feet/level **Save:** None  
+Target protected from rot and decay. Reverse ages non-living objects 100 years.
 
-**R:** 0 **D:** 3 rounds/level **AoE:** Caster **Save:** None D4
-duplicates +1 per level form around caster, indistinguishable, disappear
-when struck.
-
-**The Marvellous Magic Mouth **
-
-**R:** Special **D:** Special **AoE:** 1 object **Save:** None Magic
-mouth speaks message when specific condition is met.
-
-**Mazirian\'s Marasmic Malady **
-
-**R:** 1\" + ¼\"/level **D:** 1 round/level **AoE:** 1 creature
-**Save:** Negates Target reduced to Strength 3 or 50% damage.
-
-**The Pattern of the Immanent Sublime **
-
-**R:** 3\" **D:** Special **AoE:** 3\"x3\" **Save:** Negates Display
-causes creatures to stand fascinated for as long as caster concentrates
-plus 2 rounds thereafter.
-
-**Phandaal\'s Mantle of Stealth **
-
-**R:** Touch **D:** 2 rounds + 1/level **AoE:** 1 creature **Save:**
-None Become invisible. Telltale shimmering allows attacks at -4 against
-invisible targets once spotted.
-
-**The Prosaic Preservation of Pandelume **
-
-**R:** Touch **D:** Permanent **AoE:** 10 cubic feet/level **Save:**
-None Target protected from rot and decay. Reverse ages non-living
-objects 100 years.
-
-**Quaal\'s Near-Alchemical Transformance **
-
-**R:** 1\" **D:** 1 hour/level **AoE:** 10 lb/level **Save:** None
+### Quaal\'s Near-Alchemical Transformance
+**R:** 1\" **D:** 1 hour/level **AoE:** 10 lb/level **Save:** None  
 Copper, lead or brass changed to solid gold.
 
-**The Ruby Ray of Reversal **
+### The Ruby Ray of Reversal
+**R:** 8\" **D:** 1 round **AoE:** 1 creature **Save:** Negates  
+Target repeats actions in last round exactly.
 
-**R:** 8\" **D:** 1 round **AoE:** 1 creature **Save:** Negates Target
-repeats actions in last round exactly.
+### The Spell of Barring and Broaching
+**R:** 6\" **D:** Permanent **AoE:** 10 square feet/lvl **Save:** None  
+A) Broaching: opens all doors, locks, bars, chains etc. B) Barring: closes the same.
 
-**The Spell of Barring and Broaching **
+### The Spell of Phantasmal Forces
+**R:** 6\" + 1\"/level **D:** Special **AoE:** 4\" + 1\" sq/level **Save:** Special  
+Visual-only illusion lasts as long as caster concentrates. Believing creatures can suffer damage from illusionary effects.
 
-**R:** 6\" **D:** Permanent **AoE:** 10 square feet/lvl **Save:** None
-A) Broaching: opens all doors, locks, bars, chains etc. B) Barring:
-closes the same.
+### The Spell of the Imponderous Bounty
+**R:** Touch **D:** 6 hours + 1/level **AoE:** Caster **Save:** None  
+Enchant pockets to hold \<100 lb or 5 cubic feet at 1/10^th^ actual weight.
 
-**The Spell of Phantasmal Forces **
+### The Spur to the Libidinous Earth
+**R:** 10\" + 1\"/level **D:** 3 rounds + 1/level **AoE:** 1 creature **Save:** Special  
+Earth hands hold target motionless by legs, -2 to AC. Save vs. spell each round in contact with ground or be gripped. Hands are AC 5, HP double caster\'s.
 
-**R:** 6\" + 1\"/level **D:** Special **AoE:** 4\" + 1\" sq/level
-**Save:** Special
+### Tasha\'s Uncontrollable Hideous Laughter
+**R:** 5\" **D:** 4 rounds **AoE:** 1 creature **Save:** Negates  
+Lose actions for 1-4 rounds due to laughter.
 
-Visual-only illusion lasts as long as caster concentrates. Believing
-creatures can suffer damage from illusionary effects.
-
-**The Spell of the Imponderous Bounty **
-
-**R:** Touch **D:** 6 hours + 1/level **AoE:** Caster **Save:** None
-Enchant pockets to hold \<100 lb or 5 cubic feet at 1/10^th^ actual
-weight.
-
-**The Spur to the Libidinous Earth **
-
-**R:** 10\" + 1\"/level **D:** 3 rounds + 1/level **AoE:** 1 creature
-**Save:** Special
-
-Earth hands hold target motionless by legs, -2 to AC. Save vs. spell
-each round in contact with ground or be gripped. Hands are AC 5, HP
-double caster\'s.
-
-**Tasha\'s Uncontrollable Hideous Laughter **
-
-**R:** 5\" **D:** 4 rounds **AoE:** 1 creature **Save:** Negates Lose
-actions for 1-4 rounds due to laughter.
-
-**The Tone of Resonant Discord **
-
-**R:** 6\" **D:** Instantaneous **AoE:** 3 foot radius **Save:** None
+### The Tone of Resonant Discord
+**R:** 6\" **D:** Instantaneous **AoE:** 3 foot radius **Save:** None  
 Crystalline or ceramic objects within 3\' shatter.
 
-**The Torment of Tantalus **
+### The Torment of Tantalus
+**R:** 1\"/level **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+Target dying of thirst, can do nothing but look for drink, consumes any potable liquids.
 
-**R:** 1\"/level **D:** 1 round/level **AoE:** 1 creature **Save:**
-Negates Target dying of thirst, can do nothing but look for drink,
-consumes any potable liquids.
+### Turjan\'s Translocation
+**R:** 2\"/level **D:** 1 turn/level **AoE:** 1 object/creature **Save:** Negates  
+Levitate up to 100 lb vertically only, 20\' per round.
 
-**Turjan\'s Translocation **
-
-**R:** 2\"/level **D:** 1 turn/level **AoE:** 1 object/creature
-**Save:** Negates Levitate up to 100 lb vertically only, 20\' per round.
-
-**The Unfettered Eye **
-
-**R:** 1\"/level **D:** 1 round/level **AoE:** 1\" path **Save:** None
-
-Clearly see all invisible, astral, ethereal, hidden, out-of-phase
-creatures. First time casters save vs. magic or go insane 3-18 days due
-to terrifying abyssopelagic ethereal life.
+### The Unfettered Eye
+**R:** 1\"/level **D:** 1 round/level **AoE:** 1\" path **Save:** None  
+Clearly see all invisible, astral, ethereal, hidden, out-of-phase creatures. First time casters save vs. magic or go insane 3-18 days due to terrifying abyssopelagic ethereal life.
 
 **The Veil of the Cimmerian Shade **
 
