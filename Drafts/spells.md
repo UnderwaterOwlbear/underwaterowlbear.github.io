@@ -3,7 +3,7 @@ Taken from [John's](https://www.blogger.com/profile/07090296806321882601) commen
 
 # Spell List  
 
-| d30 | 1st LEVEL                           | 2nd LEVEL                               |
+| d30 | 1st Level                           | 2nd Level                               |
 |-----|-------------------------------------|-----------------------------------------|
 | 1   | The Abstention of the Written Path  | Arbane’s Fulgent Coruscations           |
 | 2   | The Apotropaic Circle               | The Call to the Fetid Cloud             |
@@ -36,7 +36,9 @@ Taken from [John's](https://www.blogger.com/profile/07090296806321882601) commen
 | 29  | The Spell of Pragmatic Amalgamation | The Veil of the Cimmerian Shade         |
 | 30  | Tenser’s Floating Disc              | The Web of Wondrous Entrapment          |
 
-| d30 | 3rd LEVEL                           | 4th LEVEL                                       |
+Table: 1^st^ and 2^nd^ Level Spells
+
+| d30 | 3rd Level                           | 4th Level                                       |
 |-----|-------------------------------------|-------------------------------------------------|
 | 1   | Arbane’s Precipitous Deluge         | Alamer’s Cloak of the Consuming Chill           |
 | 2   | The Charm of Dire Sanguinity        | Arnd’s Dimension Door                           |
@@ -69,7 +71,9 @@ Taken from [John's](https://www.blogger.com/profile/07090296806321882601) commen
 | 29  | The Spell of the Slow Hour          | Tasha’s Morbid Jest                             |
 | 30  | Xult’s Peregrination of Probability | Tulrun’s Filamentary Extension                  |
 
-| d30 | 5th LEVEL                                      | 6th LEVEL                                           |
+Table: 3^rd^ and 4^th^ Level Spells
+
+| d30 | 5th Level                                      | 6th Level                                           |
 |-----|------------------------------------------------|-----------------------------------------------------|
 | 1   | Alphon’s Anguish of the North Wind             | The Agency of Far Despatch                          |
 | 2   | Archveult’s Crude Fabrication                  | Ao’s Enervating Opalescent Eyes                     |
@@ -102,85 +106,161 @@ Taken from [John's](https://www.blogger.com/profile/07090296806321882601) commen
 | 29  | Tzunk’s Distance Distortion                    | The Tower of Indomitable Intellect                  |
 | 30  | Yon’s Obliging Parapet                         | The Wrack of the Recalcitrant Spirit                |
 
+Table: 4^th^ and 5^th^ Level Spells
+
 # Starting Spells  
 
 All magic-users begin knowing the Arcane Cypher, plus three spells
 randomly determined from the following lists:
 
-| d10 | Offensive                     | Defensive                          | Miscellaneous                       |
-|-----|-------------------------------|------------------------------------|-------------------------------------|
-| 1   | The Charm of Appersonation    | The Apotropaic Circle              | The Abstention of the Written Path  |
-| 2   | Evard\'s Frictionless Field   | The Audible Glamer                 | The Call to the Familiar Spirit     |
-| 3   | The Hypnotic Charm            | The Effervescent Lights of Kwalish | The Call to the Unseen Servant      |
-| 4   | The Importunate Insult        | The Expeditious Retreat            | The Discerner of Enchantments       |
-| 5   | The Kaleidoscopic Spray       | The Heavenly Screen                | The Indelible Emblem                |
-| 6   | Kazimir\'s Resplendent Coutre | The Howling Rune                   | Melf\'s Impermeable Membrane        |
-| 7   | Laeral\'s Baleful Aura        | The Imperturbable Quiescent Sphere | Nahal\'s Reckless Dweomer           |
-| 8   | The Metamorphoun of Fire      | Isain\'s Fortuitous Interruption   | Phandaal\'s Polyglottal Lobe        |
-| 9   | Sirrian\'s Aggrandisement     | The Lesser Sign of Sealing         | The Spell of Pragmatic Amalgamation |
-| 0   | The Spell of Exquisite Repose | Otto\'s Arachnid Grip              | Tenser\'s Floating Disc             |
+| d10 | Offensive                     |
+|-----|-------------------------------|
+| 1   | The Charm of Appersonation    |
+| 2   | Evard’s Frictionless Field    |
+| 3   | The Hypnotic Charm            |
+| 4   | The Importunate Insult        |
+| 5   | The Kaleidoscopic Spray       |
+| 6   | Kazimir’s Resplendent Coutre  |
+| 7   | Laeral’s Baleful Aura         |
+| 8   | The Metamorphoun of Fire      |
+| 9   | Sirrian’s Aggrandisement      |
+| 0   | The Spell of Exquisite Repose |
+
+Table: Starting Offensive Spells
+
+| d10 | Defensive                          |
+|-----|------------------------------------|
+| 1   | The Apotropaic Circle              |
+| 2   | The Audible Glamer                 |
+| 3   | The Effervescent Lights of Kwalish |
+| 4   | The Expeditious Retreat            |
+| 5   | The Heavenly Screen                |
+| 6   | The Howling Rune                   |
+| 7   | The Imperturbable Quiescent Sphere |
+| 8   | Isain’s Fortuitous Interruption    |
+| 9   | The Lesser Sign of Sealing         |
+| 0   | Otto’s Arachnid Grip               |
+
+Table: Starting Defensive Spells
+
+| d10 | Miscellaneous                       |
+|-----|-------------------------------------|
+| 1   | The Abstention of the Written Path  |
+| 2   | The Call to the Familiar Spirit     |
+| 3   | The Call to the Unseen Servant      |
+| 4   | The Discerner of Enchantments       |
+| 5   | The Indelible Emblem                |
+| 6   | Melf’s Impermeable Membrane         |
+| 7   | Nahal’s Reckless Dweomer            |
+| 8   | Phandaal’s Polyglottal Lobe         |
+| 9   | The Spell of Pragmatic Amalgamation |
+| 0   | Tenser’s Floating Disc              |
+
+Table: Starting Misc. Spells
 
 # Spells by Level  
 
 ## 0^th^ Level Spells
 
 ### The Arcane Cypher  
-**R:** 0 **D:** 2 rounds/level **AoE:** Special **Save:** None  
+**R:** 0  
+**D:** 2 rounds/level  
+**AoE:** Special  
+**Save:** None  
 Read and understand magical inscriptions, scrolls, spell formulae, etc.
 Once deciphered can be read without recourse to spell.
 
 ## 1^st^ Level Spells  
 
 ### The Abstention of the Written Path
-**R:** 6\" **D:** 1 turn **AoE:** 1\"x1\" area/round **Save:** None  
+**R:** 6\"  
+**D:** 1 turn  
+**AoE:** 1\"x1\" area/round  
+**Save:** None  
 Detect secret passages, portals and openings.
 
 ### The Apotropaic Circle
-**R:** Touch **D:** 2 rounds/level **AoE:** \<1\" diameter **Save:** None  
+**R:** Touch  
+**D:** 2 rounds/level  
+**AoE:** \<1\" diameter  
+**Save:** None  
 Trace a circle in powdered silver; blocks all conjured & extraplanar creatures and possession attempts.
 
 ### The Audible Glamer
-**R:** 6\" + 1\"/level **D:** 2 rounds/level **AoE:** Hearing range **Save:** None  
+**R:** 6\" + 1\"/level  
+**D:** 2 rounds/level  
+**AoE:** Hearing range  
+**Save:** None  
 Create auditory-only illusion.
 
 ### The Call to the Familiar Spirit
-**R:** Special **D:** Special **AoE:** Special **Save:** None  
+**R:** Special  
+**D:** Special  
+**AoE:** Special  
+**Save:** None  
 Burn 1000c incense, herbs & fat, incantation lasting 24 hours. Summons familiar.
 
 ### The Call to the Unseen Servant
-**R:** 0 **D:** 6 turns + 1/level **AoE:** Special **Save:** None  
+**R:** 0  
+**D:** 6 turns + 1/level  
+**AoE:** Special  
+**Save:** None  
 Invisible creature acts as valet, servant etc. AC 4, MV 18\", HD 2; bound to obey caster but will not fight on their behalf. If abused seeks to pervert instructions.
 
 ### The Charm of Appersonation
-**R:** 0 **D:** 2-12 rounds +2/lvl **AoE:** Caster **Save:** None  
+**R:** 0  
+**D:** 2-12 rounds +2/lvl  
+**AoE:** Caster  
+**Save:** None  
 Alter appearance and clothing to any humanoid figure. Cannot mimic specific individuals.
 
 ### The Discerner of Enchantments
-**R:** 6\" **D:** 2 rounds/level **AoE:** 1\" path **Save:** None  
+**R:** 6\"  
+**D:** 2 rounds/level  
+**AoE:** 1\" path  
+**Save:** None  
 Detect magic and intensity.
 
 ### The Effervescent Lights of Kwalish
-**R:** 4\" + 1\"/level **D:** 1 turn/level **AoE:** Special **Save:** None  
+**R:** 4\" + 1\"/level  
+**D:** 1 turn/level  
+**AoE:** Special  
+**Save:** None  
 Create A) 1-4 lights resembling torches, B) glowing spheres (as will-o-wisp), C) faintly glowing man-like shape. Moves as directed.
 
 ### Evard\'s Frictionless Field
-**R:** 1\" **D:** 3 rounds + 1/level **AoE:** 1\" square **Save:** Special  
+**R:** 1\"  
+**D:** 3 rounds + 1/level  
+**AoE:** 1\" square  
+**Save:** Special  
 Save vs. spell or slip and fall. If cast on item then save or drop immediately.
 
 ### The Expeditious Retreat
-**R:** 0 **D:** 3 rounds + 1/level **AoE:** Caster **Save:** None  
+**R:** 0  
+**D:** 3 rounds + 1/level  
+**AoE:** Caster  
+**Save:** None  
 Triple movement, running jumps 30\' forward or 10\' up, cannot take any other action while moving.
 
 ### The Heavenly Screen
-**R:** 3\" **D:** 2-8 rounds + 1/lvl **AoE:** 2\"x2\"2\" cube/level **Save:** None  
+**R:** 3\"  
+**D:** 2-8 rounds + 1/lvl  
+**AoE:** 2\"x2\"2\" cube/level  
+**Save:** None  
 Veil of silvery mist obscures vision beyond 2\'.
 
 ### The Howling Rune
-**R:** 1\" **D:** 4 hours + 1/level **AoE:** 1 object/creature **Save:** Negates  
+**R:** 1\"  
+**D:** 4 hours + 1/level  
+**AoE:** 1 object/creature  
+**Save:** Negates  
 Target erupts in involuntary screaming (see Shrieker) when creature approaches within 10\'.
 
 ### The Hypnotic Charm
-**R:** 12\" **D:** Special **AoE:** 1 person **Save:** Negates  
+**R:** 12\"  
+**D:** Special  
+**AoE:** 1 person  
+**Save:** Negates  
 Target regards caster as trusted friend and ally.
 
 |Intelligence |Period Between Saving Throws|
@@ -196,63 +276,108 @@ Target regards caster as trusted friend and ally.
 |19 or more |1 day|
 
 ### The Imperturbable Quiescent Sphere
-**R:** 0 **D:** 5 rounds/level **AoE:** Caster **Save:** None  
+**R:** 0  
+**D:** 5 rounds/level  
+**AoE:** Caster  
+**Save:** None  
 Invisible barrier gives AC 2 vs. missiles, AC 4 vs. other attacks.
 
 ### The Importunate Insult
-**R:** 3\" **D:** Instantaneous **AoE:** 2 HD/caster level **Save:** Negates  
+**R:** 3\"  
+**D:** Instantaneous  
+**AoE:** 2 HD/caster level  
+**Save:** Negates  
 Target rushes to attack magic-user in rage, attacking melee only.
 
 ### The Indelible Emblem
-**R:** Touch **D:** Permanent **AoE:** \<1 square foot **Save:** None  
+**R:** Touch  
+**D:** Permanent  
+**AoE:** \<1 square foot  
+**Save:** None  
 Inscribes personal mark and 6 other characters, visible or invisible.
 
 ### Isain\'s Fortuitous Interruption
-**R:** 1\"/level **D:** 1 second/level **AoE:** Special **Save:** None  
+**R:** 1\"/level  
+**D:** 1 second/level  
+**AoE:** Special  
+**Save:** None  
 200 lb + 200 per caster level assumes mass of a feather, no falling damage.
 
 ### The Kaleidoscopic Spray
-**R:** 0 **D:** Instantaneous **AoE:** ½\"x2\"x2\" wedge **Save:** Special  
+**R:** 0  
+**D:** Instantaneous  
+**AoE:** ½\"x2\"x2\" wedge  
+**Save:** Special  
 Vivid colour spray affects 1d6 creatures. Caster level or below: unconscious 2-8 rounds. 1-2 levels higher: blind 1-4 rounds. 3 or more levels higher: stunned for 1 round. 6 HD or more gets a saving throw.
 
 ### Kazimir\'s Resplendent Coutre
-**R:** 0 **D:** 1 hour/level **AoE:** Caster **Save:** None  
+**R:** 0  
+**D:** 1 hour/level  
+**AoE:** Caster  
+**Save:** None  
 Dazzlingly fashionable apparel, gain 2-8 charisma and viewers make immediate reaction checks, become impressed or jealous/irritated.
 
 ### Laeral\'s Baleful Aura
-**R:** 3\" **D:** 1 round **AoE:** Caster **Save:** Negates  
+**R:** 3\"  
+**D:** 1 round  
+**AoE:** Caster  
+**Save:** Negates  
 Become unquantifiably terrifying; friends & foes save vs. magic or flee 1-3 rounds.
 
 ### The Lesser Sign of Sealing
-**R:** 2\"/level **D:** Permanent **AoE:** 80 square feet/lvl **Save:** None  
+**R:** 2\"/level  
+**D:** Permanent  
+**AoE:** 80 square feet/lvl  
+**Save:** None  
 Seal door or gate as if securely barred and locked.
 
 ### Melf\'s Impermeable Membrane
-**R:** Touch **D:** 24 hours **AoE:** \<10 cubic feet/lvl **Save:** None  
+**R:** Touch  
+**D:** 24 hours  
+**AoE:** \<10 cubic feet/lvl  
+**Save:** None  
 Repel all liquid from subject.
 
 ### The Metamorphoun of Fire
-**R:** ½\"/level **D:** 2 rounds/level **AoE:** 10\' radius **Save:** None  
+**R:** ½\"/level  
+**D:** 2 rounds/level  
+**AoE:** 10\' radius  
+**Save:** None  
 Increase fires up to double size/heat or down to embers, spread onto any burnable material, or snuff out all fires entirely.
 
 ### Nahal\'s Reckless Dweomer
-**R:** Special **D:** Special **AoE:** Special **Save:** Special  
+**R:** Special  
+**D:** Special  
+**AoE:** Special  
+**Save:** Special  
 Attempt to cast any spell in spellbook; roll results on Wild Surge table.
 
 ### Otto\'s Arachnid Grip
-**R:** Touch **D:** 3 rounds +1/level **AoE:** 1 creature **Save:** Negates  
+**R:** Touch  
+**D:** 3 rounds +1/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 Climb vertical surfaces/ceilings at 3\". Objects less than 5 lb stick to hands.
 
 ### Phandaal\'s Polyglottal Lobe
-**R:** Touch **D:** 5 rounds/level **AoE:** 1 object/creature **Save:** None  
+**R:** Touch  
+**D:** 5 rounds/level  
+**AoE:** 1 object/creature  
+**Save:** None  
 Understand and speak any one language.
 
 ### Sirrian\'s Aggrandisement / Sirrian\'s Reductor
-**R:** ½\"/level **D:** 1 turn/level **AoE:** \<10 cubic feet/lvl **Save:** Negates  
+**R:** ½\"/level  
+**D:** 1 turn/level  
+**AoE:** \<10 cubic feet/lvl  
+**Save:** Negates  
 Increase or decrease target\'s size up to 200%, Strength & damage change proportionately.
 
 ### The Spell of Exquisite Repose
-**R:** 3\" + 1\"/level **D:** 5 rounds/level **AoE:** 3\" diameter **Save:** None  
+**R:** 3\" + 1\"/level  
+**D:** 5 rounds/level  
+**AoE:** 3\" diameter  
+**Save:** None  
 Cause comatose slumber, awaken only if slapped/wounded.
 
 |Hit Dice| Number Affected|
@@ -264,475 +389,544 @@ Cause comatose slumber, awaken only if slapped/wounded.
 |4+1 to 5 |0-1 (1d4, 3 or 4)|
 
 ### The Spell of Pragmatic Amalgamation
-**R:** 3\" **D:** Permanent **AoE:** 5\'x5\' / level **Save:** None  
+**R:** 3\"  
+**D:** Permanent  
+**AoE:** 5\'x5\' / level  
+**Save:** None  
 Mend or rejoin broken objects.
 
 ### Tenser\'s Floating Disc
-**R:** 2\" **D:** 3 turns + 1/level **AoE:** Special **Save:** None  
+**R:** 2\"  
+**D:** 3 turns + 1/level  
+**AoE:** Special  
+**Save:** None  
 Floating null-gravity plane supports 100 lb per level, moves as directed.
 
 ## 2^nd^ Level Spells
 
 ### Arbane\'s Fulgent Coruscations
-**R:** 12\" **D:** Instantaneous **AoE:** Special **Save:** None  
+**R:** 12\"  
+**D:** Instantaneous  
+**AoE:** Special  
+**Save:** None  
 Existing fire erupts in A) flashing fireworks, blind creatures within 12\" for 2-5 rounds or save vs. spell; or B) smoke 100 times volume of fire, obscure vision beyond 2\', lasts 1 round/level.
 
 ### The Call to the Fetid Cloud
-**R:** 3\" **D:** 1 round/level **AoE:** 2\"x2\"x2\" cloud **Save:** Special  
+**R:** 3\"  
+**D:** 1 round/level  
+**AoE:** 2\"x2\"x2\" cloud  
+**Save:** Special  
 Billowing vapours, save vs. poison or incapacitated (nausea) for 2-5 rounds after leaving cloud, or 1 round if saved.
 
 ### The Cure for Honesty
-**R:** 3\" **D:** Permanent **AoE:** 2\"x2\" **Save:** Negates  
+**R:** 3\"  
+**D:** Permanent  
+**AoE:** 2\"x2\"  
+**Save:** Negates  
 1 to 4 creatures permanently forget previous 1 minute per level of spellcaster. -2 to save if single target.
 
 ### The Hands of Cold Certainty
-**R:** 3\" **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+**R:** 3\"  
+**D:** 1 round/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 Invisible hands choke target for 1-4 damage/round and -2 penalty to attack rolls.
 
 ### Hornung\'s Deleterious Deflector
-**R:** 0 **D:** 2 rounds/level **AoE:** Caster **Save:** None  
+**R:** 0  
+**D:** 2 rounds/level  
+**AoE:** Caster  
+**Save:** None  
 Missile attacks deflected to random target in 15\' radius (including caster).
 
 ### The Impudent Might of Ilskar the Bold
-**R:** Touch **D:** 1 hour/level **AoE:** 1 creature **Save:** None  
+**R:** Touch  
+**D:** 1 hour/level  
+**AoE:** 1 creature  
+**Save:** None  
 Raise Strength score 1-8 points.
 
 ### The Invigorator of Blades
-**R:** Touch **D:** 1 turn **AoE:** 1 weapon **Save:** None  
+**R:** Touch  
+**D:** 1 turn  
+**AoE:** 1 weapon  
+**Save:** None  
 Blade recieves +3 to hit and damage for 1 strike only.
 
 ### Krest\'s Cerebral Consonance
-**R:** ½\"/level **D:** 1 round/level **AoE:** 1 creature/round **Save:** None  
+**R:** ½\"/level  
+**D:** 1 round/level  
+**AoE:** 1 creature/round  
+**Save:** None  
 Read surface thoughts of 1 creature per round.
 
 ### Leomund\'s Escalatory Escape
-**R:** Touch **D:** 2 turns/level **AoE:** Special **Save:** None  
+**R:** Touch  
+**D:** 2 turns/level  
+**AoE:** Special  
+**Save:** None  
 Up to 6 creatures climb rope to hide in extradimensional space.
 
 ### Lugwiler\'s Dismal Itch
-**R:** 1\"/level **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+**R:** 1\"/level  
+**D:** 1 round/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 Horrible itching causes -4 to AC and -2 to attack rolls.
 
 ### Lustoff\'s Vicarious Head
-**R:** 9\" (initial) **D:** 1 turn/level **AoE:** 1 creature **Save:** Negates  
+**R:** 9\" (initial)  
+**D:** 1 turn/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 See through the senses of target creature.
 
 ### The Manifold Effigies of Being
-**R:** 0 **D:** 3 rounds/level **AoE:** Caster **Save:** None  
+**R:** 0  
+**D:** 3 rounds/level  
+**AoE:** Caster  
+**Save:** None  
 D4 duplicates +1 per level form around caster, indistinguishable, disappear when struck.
 
 ### The Marvellous Magic Mouth
-**R:** Special **D:** Special **AoE:** 1 object **Save:** None  
+**R:** Special  
+**D:** Special  
+**AoE:** 1 object  
+**Save:** None  
 Magic mouth speaks message when specific condition is met.
 
 ### Mazirian\'s Marasmic Malady
-**R:** 1\" + ¼\"/level **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+**R:** 1\" + ¼\"/level  
+**D:** 1 round/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 Target reduced to Strength 3 or 50% damage.
 
 ### The Pattern of the Immanent Sublime
-**R:** 3\" **D:** Special **AoE:** 3\"x3\" **Save:** Negates  
+**R:** 3\"  
+**D:** Special  
+**AoE:** 3\"x3\"  
+**Save:** Negates  
 Display causes creatures to stand fascinated for as long as caster concentrates plus 2 rounds thereafter.
 
 ### Phandaal\'s Mantle of Stealth
-**R:** Touch **D:** 2 rounds + 1/level **AoE:** 1 creature **Save:** None  
+**R:** Touch  
+**D:** 2 rounds + 1/level  
+**AoE:** 1 creature  
+**Save:** None  
 Become invisible. Telltale shimmering allows attacks at -4 against invisible targets once spotted.
 
 ### The Prosaic Preservation of Pandelume
-**R:** Touch **D:** Permanent **AoE:** 10 cubic feet/level **Save:** None  
+**R:** Touch  
+**D:** Permanent  
+**AoE:** 10 cubic feet/level  
+**Save:** None  
 Target protected from rot and decay. Reverse ages non-living objects 100 years.
 
 ### Quaal\'s Near-Alchemical Transformance
-**R:** 1\" **D:** 1 hour/level **AoE:** 10 lb/level **Save:** None  
+**R:** 1\"  
+**D:** 1 hour/level  
+**AoE:** 10 lb/level  
+**Save:** None  
 Copper, lead or brass changed to solid gold.
 
 ### The Ruby Ray of Reversal
-**R:** 8\" **D:** 1 round **AoE:** 1 creature **Save:** Negates  
+**R:** 8\"  
+**D:** 1 round  
+**AoE:** 1 creature  
+**Save:** Negates  
 Target repeats actions in last round exactly.
 
 ### The Spell of Barring and Broaching
-**R:** 6\" **D:** Permanent **AoE:** 10 square feet/lvl **Save:** None  
+**R:** 6\"  
+**D:** Permanent  
+**AoE:** 10 square feet/lvl  
+**Save:** None  
 A) Broaching: opens all doors, locks, bars, chains etc. B) Barring: closes the same.
 
 ### The Spell of Phantasmal Forces
-**R:** 6\" + 1\"/level **D:** Special **AoE:** 4\" + 1\" sq/level **Save:** Special  
+**R:** 6\" + 1\"/level  
+**D:** Special  
+**AoE:** 4\" + 1\" sq/level  
+**Save:** Special  
 Visual-only illusion lasts as long as caster concentrates. Believing creatures can suffer damage from illusionary effects.
 
 ### The Spell of the Imponderous Bounty
-**R:** Touch **D:** 6 hours + 1/level **AoE:** Caster **Save:** None  
+**R:** Touch  
+**D:** 6 hours + 1/level  
+**AoE:** Caster  
+**Save:** None  
 Enchant pockets to hold \<100 lb or 5 cubic feet at 1/10^th^ actual weight.
 
 ### The Spur to the Libidinous Earth
-**R:** 10\" + 1\"/level **D:** 3 rounds + 1/level **AoE:** 1 creature **Save:** Special  
+**R:** 10\" + 1\"/level  
+**D:** 3 rounds + 1/level  
+**AoE:** 1 creature  
+**Save:** Special  
 Earth hands hold target motionless by legs, -2 to AC. Save vs. spell each round in contact with ground or be gripped. Hands are AC 5, HP double caster\'s.
 
 ### Tasha\'s Uncontrollable Hideous Laughter
-**R:** 5\" **D:** 4 rounds **AoE:** 1 creature **Save:** Negates  
+**R:** 5\"  
+**D:** 4 rounds  
+**AoE:** 1 creature  
+**Save:** Negates  
 Lose actions for 1-4 rounds due to laughter.
 
 ### The Tone of Resonant Discord
-**R:** 6\" **D:** Instantaneous **AoE:** 3 foot radius **Save:** None  
+**R:** 6\"  
+**D:** Instantaneous  
+**AoE:** 3 foot radius  
+**Save:** None  
 Crystalline or ceramic objects within 3\' shatter.
 
 ### The Torment of Tantalus
-**R:** 1\"/level **D:** 1 round/level **AoE:** 1 creature **Save:** Negates  
+**R:** 1\"/level  
+**D:** 1 round/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 Target dying of thirst, can do nothing but look for drink, consumes any potable liquids.
 
 ### Turjan\'s Translocation
-**R:** 2\"/level **D:** 1 turn/level **AoE:** 1 object/creature **Save:** Negates  
+**R:** 2\"/level  
+**D:** 1 turn/level  
+**AoE:** 1 object/creature  
+**Save:** Negates  
 Levitate up to 100 lb vertically only, 20\' per round.
 
 ### The Unfettered Eye
-**R:** 1\"/level **D:** 1 round/level **AoE:** 1\" path **Save:** None  
+**R:** 1\"/level  
+**D:** 1 round/level  
+**AoE:** 1\" path  
+**Save:** None  
 Clearly see all invisible, astral, ethereal, hidden, out-of-phase creatures. First time casters save vs. magic or go insane 3-18 days due to terrifying abyssopelagic ethereal life.
 
-**The Veil of the Cimmerian Shade **
+### The Veil of the Cimmerian Shade
+**R:** 1\"/level  
+**D:** 1 turn + 1 rd/lvl  
+**AoE:** 1½\" globe  
+**Save:** None  
+Impenetrable darkness in area of effect.
 
-**R:** 1\"/level **D:** 1 turn + 1 rd/lvl **AoE:** 1½\" globe **Save:**
-None Impenetrable darkness in area of effect.
+### The Web of Wondrous Entrapment
+**R:** ½\"/level  
+**D:** 2 turns/level  
+**AoE:** 3\" cube  
+**Save:** Neg or ½  
+Mass of webs, entrapped creatures are stuck, 5% cumulative chance per turn suffocate to death. Highly flammable. Strength 13+ break through 1\'/round, huge strong creatures 10\'/round.
 
-**The Web of Wondrous Entrapment **
+## 3^rd^ Level Spells
 
-**R:** ½\"/level **D:** 2 turns/level **AoE:** 3\" cube **Save:** Neg or
-½
+## Arbane\'s Precipitous Deluge
+**R:** 1\"/level  
+**D:** 1 round/level  
+**AoE:** 3\" diameter  
+**Save:** None  
+Instant rainfall drenches everything, extinguishes all fires including spells. Magical fires cause huge steam clouds for 1-3 damage/round lasting 2-5 rounds.
 
-Mass of webs, entrapped creatures are stuck, 5% cumulative chance per
-turn suffocate to death. Highly flammable. Strength 13+ break through
-1\'/round, huge strong creatures 10\'/round.
+### The Charm of Dire Sanguinity
+**R:** 12\"  
+**D:** 1d4 rounds + 1/lvl  
+**AoE:** 1 person  
+**Save:** Negates  
+Target truly enjoys killing and goes berserk, attacking friend and foe alike.
 
-**THIRD LEVEL SPELLS: **
-
-**Arbane\'s Precipitous Deluge **
-
-**R:** 1\"/level **D:** 1 round/level **AoE:** 3\" diameter **Save:**
-None
-
-Instant rainfall drenches everything, extinguishes all fires including
-spells. Magical fires cause huge steam clouds for 1-3 damage/round
-lasting 2-5 rounds.
-
-**The Charm of Dire Sanguinity **
-
-**R:** 12\" **D:** 1d4 rounds + 1/lvl **AoE:** 1 person **Save:**
-Negates Target truly enjoys killing and goes berserk, attacking friend
-and foe alike.
-
-**The Charm of the Inveigling Tongue**
-
-**R:** 3\" **D:** 1 hour + 1/level **AoE:** 1 creature **Save:** Negates
+### The Charm of the Inveigling Tongue
+**R:** 3\"  
+**D:** 1 hour + 1/level  
+**AoE:** 1 creature  
+**Save:** Negates  
 Target obeys any one \"reasonable\" suggestion by caster.
 
-**Chun\'s Halo of the Unsleeping Eyes **
+### Chun\'s Halo of the Unsleeping Eyes
+**R:** 0  
+**D:** 1 turn/level  
+**AoE:** Caster  
+**Save:** None  
+Halo of eyeballs let caster see in all directions, infravision 12\", never surprised or backstabbed.
 
-**R:** 0 **D:** 1 turn/level **AoE:** Caster **Save:** None Halo of
-eyeballs let caster see in all directions, infravision 12\", never
-surprised or backstabbed.
+### Felojun\'s Repudiation of Arrows
+**R:** Touch  
+**D:** 1 turn/level  
+**AoE:** 1 creature  
+**Save:** None  
+Total invulnerability to small projectiles -- arrows, axes, javelins etc -- and -1 damage per die from large missiles, catapult stones etc.
 
-**Felojun\'s Repudiation of Arrows **
+### The Fury of the Captive Wind
+**R:** 0  
+**D:** 1 round  
+**AoE:** 1\" path, 10\"/level  
+**Save:** None  
+Gust of air extinguishes unprotected flames, fans fires outward, pushes flying creatures backward, deflects missile fire and breath weapons, knocks man-sized creatures over unless roll under Dexterity.
 
-**R:** Touch **D:** 1 turn/level **AoE:** 1 creature **Save:** None
+### The Globe of Distant Discernment
+**R:** Special  
+**D:** 1 round/level  
+**AoE:** Special  
+**Save:** None  
+See anything in sight from chosen locale; locale must be familiar or obvious.
 
-Total invulnerability to small projectiles -- arrows, axes, javelins etc
--- and -1 damage per die from large missiles, catapult stones etc.
-
-**The Fury of the Captive Wind **
-
-**R:** 0 **D:** 1 round **AoE:** 1\" path, 10\"/level **Save:** None
-
-Gust of air extinguishes unprotected flames, fans fires outward, pushes
-flying creatures backward, deflects missile fire and breath weapons,
-knocks man-sized creatures over unless roll under Dexterity.
-
-**The Globe of Distant Discernment **
-
-**R:** Special **D:** 1 round/level **AoE:** Special **Save:** None See
-anything in sight from chosen locale; locale must be familiar or
-obvious.
-
-**The Indefatigable Breath **
-
-**R:** Touch **D:** 1 hour/level + 1d4 **AoE:** Special **Save:** None
+### The Indefatigable Breath
+**R:** Touch  
+**D:** 1 hour/level + 1d4  
+**AoE:** Special  
+**Save:** None  
 Function without breathing. Duration divided by number affected.
 
-**The Instant Galvanic Thrust **
+### The Instant Galvanic Thrust
+**R:** 4\" + 1\"/level  
+**D:** Instantaneous  
+**AoE:** 1\"x4\" or ½\"x8\"
+**Save:** ½  
+Lightning bolt causes d6 damage per level (or save for half). Ignites combustibles, sunders doors, splinters 1\' stone, melts soft metal. Bolt reflects off non-conducting materials.
 
-**R:** 4\" + 1\"/level **D:** Instantaneous **AoE:** 1\"x4\" or ½\"x8\"
-**Save:** ½
+### The Interminable Interim
+**R:** 1\"/level  
+**D:** Special  
+**AoE:** 1 creature  
+**Save:** Negates  
+Target encased in amber, suspended animation completely unaffected by anything until dispelled or touched by caster. Direct spell or magic trap glyph.
 
-Lightning bolt causes d6 damage per level (or save for half). Ignites
-combustibles, sunders doors, splinters 1\' stone, melts soft metal. Bolt
-reflects off non-conducting materials.
+### The Invocation of the Open Sky
+**R:** 0  
+**D:** 1 turn/level + 1d6  
+**AoE:** Caster  
+**Save:** None  
+Caster can fly 24\" (x½ ascending, x2 diving). Exact duration unknown/random.
 
-**The Interminable Interim **
+### Kuroth\'s Empathic Rapport
+**R:** 20\" (initial)  
+**D:** 2 turns/level  
+**AoE:** 1 creature/3 levels  
+**Save:** None  
+Telepathic bond between willing subjects while on same plane of existence.
 
-**R:** 1\"/level **D:** Special **AoE:** 1 creature **Save:** Negates
-
-Target encased in amber, suspended animation completely unaffected by
-anything until dispelled or touched by caster. Direct spell or magic
-trap glyph.
-
-**The Invocation of the Open Sky **
-
-**R:** 0 **D:** 1 turn/level + 1d6 **AoE:** Caster **Save:** None Caster
-can fly 24\" (x½ ascending, x2 diving). Exact duration unknown/random.
-
-**Kuroth\'s Empathic Rapport **
-
-**R:** 20\" (initial) **D:** 2 turns/level **AoE:** 1 creature/3 levels
-**Save:** None Telepathic bond between willing subjects while on same
-plane of existence.
-
-**Leomund\'s Expansible Egg **
-
-**R:** Touch **D:** 4 hours + 1/level **AoE:** 1\" diameter **Save:**
-None
-
-Hemisphere of force maintains comfortable temperature, keeps out
-wind/rain, transparent inside but opaque from without. Illuminated at
+### Leomund\'s Expansible Egg
+**R:** Touch  
+**D:** 4 hours + 1/level  
+**AoE:** 1\" diameter  
+**Save:** None  
+Hemisphere of force maintains comfortable temperature, keeps out wind/rain, transparent inside but opaque from without. Illuminated at
 caster\'s command. Objects/creatures pass through freely.
 
-**Leuk-O\'s Vile Menagerie **
+### Leuk-O\'s Vile Menagerie
+**R:** 3\"  
+**D:** 3 rounds + 1/level  
+**AoE:** Special  
+**Save:** None  
+Give form to one or more monsters which are 90% likely to obey caster\'s commands. Roll below:
 
-**R:** 3\" **D:** 3 rounds + 1/level **AoE:** Special **Save:** None
-Give form to one or more monsters which are 90% likely to obey caster\'s
-commands. Roll below:
+### The Liberation of Warp
+**R:** 12\"  
+**D:** Permanent  
+**AoE:** 3\" cube  
+**Save:** None  
+Remove all temporary spells and disrupt spellcasting. % success equal to ratio of dispeller over spellcaster (e.g. 50% for 5^th^ level vs. 10^th^ level).
 
-**Size Number Locomotion Move** Special **Effect **
+### Lorloveim\'s Creeping Shadow
+**R:** 0  
+**D:** 1 round/level  
+**AoE:** Caster  
+**Save:** None  
+Elongate shadow at 15\"/round. Can see, hear, speak through shadow. Struck only by magic, AC as caster, HP loss suffered by caster.
 
-1 4 HD 1 1 Slithering 6" 1 Acid blood D4 damage after wounding 2 3 HD
-1d4 2 Hopping 6" + 6" 2 Acid spit D6 damage ranged attack 3-4 2 HD 1d6 3
-Skittering 9" 3 Big ½ movement, x2 HD 5-6 1 HD 2d4 4 Loping 12" 4
-Bloodsucking Drain D6 damage/round after hit 5 Buzzing 15" 5 Draining -1
-ST per hit
+### Melf\'s Maladweomer
+**R:** 4\" + 1\"/level  
+**D:** Special  
+**AoE:** 1 creature  
+**Save:** Negates  
+Next spell cast chosen randomly from all spells in mind.
 
-**Type AC** 6 Flapping 18" 6 Fast ½ HD, x2 movement, x2 attack 1
-Amoeboid AC 2 7 Invisible -4 to hit
+### Mentzer\'s Relative Time Dilation
+**R:** 9\" + 1\"/level  
+**D:** 3 rounds + 1/level  
+**AoE:** 1 creature/level  
+**Save:** None  
+Affected creatures move and attack at ½ rate.
 
-2 Crustacean AC 3 **Attack Damage** 8 Ooze Dissolves metal 3 Insectoid
-AC 4 1 Stinging tail 1d4 9 Phase Move through walls 4 Reptilian AC 5 2
-Lashing tendrils 1d4 10 Poison Save +4 or die 5 Amphibian AC 6 3
-Crushers/horns 1d6 11 Psychic Save vs. paralysis or stunned 6 Mammalian
-AC 7 4 Rending claws 1d6 12 Prehensile tongue Extra attack as giant frog
-7 Avian AC 8 5 Slicing mandibles 1d8 13 Regenerate 1 hp/round 8 Mollusc
-AC 9 6 Razor teeth 1d8 14 Severing/mangling Natural 20 incapacitates
-limb 7-8 Roll twice 15 Stinking -2 to hit within 10\'
+### Mzhentul\'s Remarkable Polar Pull
+**R:** 3\" + 1\"/level  
+**D:** 1 round/2 levels  
+**AoE:** 10\' cube  
+**Save:** None  
+Earth or stone object functions as magnet.
 
-16-20 Roll twice
+|Distance from magnet| Strength of attraction| Missile attack penalty| 
+|--------------------|-----------------------|-----------------------|
+|\<5\'					|20							|-20							|
+|\<10\'					|18 							|-10							|
+|\<20\' 					|14 							|-5							|
+|\<30\' 					|10 							|-2							|
+|\<40\' 					|4 							|-1							|
 
-**The Liberation of Warp **
+Opposed Strength check or ferrous item wrenched from grasp, armoured characters dragged closer distance in feet equal to number by which they failed.
 
-**R:** 12\" **D:** Permanent **AoE:** 3\" cube **Save:** None
+### Nchaser\'s Spectral Steed
+**R:** Touch  
+**D:** 1 hour/level  
+**AoE:** Special  
+**Save:** None  
+Phantasmal, milky-eyed horse-like creature will bear subject at movement 4\" per caster level. Shunned by animals, crosses any terrrain without difficulty. AC 2, HP 7 + caster level.
 
-Remove all temporary spells and disrupt spellcasting. % success equal to
-ratio of dispeller over spellcaster (e.g. 50% for 5^th^ level vs. 10^th^
-level).
+### Nolzur\'s Metabolic Suspension
+**R:** Touch  
+**D:** 6 hours + 1/level  
+**AoE:** 1 creature  
+**Save:** Negates  
+Target enters catalepsy indistinguishable from death; aware but unfeeling, wounds ½ damage, poison/paralysis/energy drain ineffective. 1 full round to restore bodily functions.
 
-**Lorloveim\'s Creeping Shadow **
+### Nulathoe\'s Accoustic Enhancement
+**R:** Special  
+**D:** 1 round/level  
+**AoE:** Special  
+**Save:** None  
+Hear anything in range from chosen locale; locale must be familiar or obvious.
 
-**R:** 0 **D:** 1 round/level **AoE:** Caster **Save:** None
+### Phandaal\'s Vitriolic Critique
+**R:** Touch  
+**D:** Special  
+**AoE:** 1\" radius  
+**Save:** ½  
+Anyone besides caster (or those he/she instructs) reading text causes explosion, 6d4+6 damage with no save to reader, ditto all within blast radius or save for half. Writing is destroyed.
 
-Elongate shadow at 15\"/round. Can see, hear, speak through shadow.
-Struck only by magic, AC as caster, HP loss suffered by caster.
-
-**Melf\'s Maladweomer **
-
-**R:** 4\" + 1\"/level **D:** Special **AoE:** 1 creature **Save:**
-Negates Next spell cast chosen randomly from all spells in mind.
-
-**Mentzer\'s Relative Time Dilation **
-
-**R:** 9\" + 1\"/level **D:** 3 rounds + 1/level **AoE:** 1
-creature/level **Save:** None Affected creatures move and attack at ½
-rate.
-
-**Mzhentul\'s Remarkable Polar Pull **
-
-**R:** 3\" + 1\"/level **D:** 1 round/2 levels **AoE:** 10\' cube
-**Save:** None Earth or stone object functions as magnet.
-
-Distance from magnet Strength of attraction Missile attack penalty \<5\'
-20 -20
-
-\<10\' 18 -10
-
-\<20\' 14 -5
-
-\<30\' 10 -2
-
-\<40\' 4 -1
-
-Opposed Strength check or ferrous item wrenched from grasp, armoured
-characters dragged closer distance in feet equal to number by which they
-failed.
-
-**Nchaser\'s Spectral Steed **
-
-**R:** Touch **D:** 1 hour/level **AoE:** Special **Save:** None
-
-Phantasmal, milky-eyed horse-like creature will bear subject at movement
-4\" per caster level. Shunned by animals, crosses any terrrain without
-difficulty. AC 2, HP 7 + caster level.
-
-**Nolzur\'s Metabolic Suspension **
-
-**R:** Touch **D:** 6 hours + 1/level **AoE:** 1 creature **Save:**
-Negates
-
-Target enters catalepsy indistinguishable from death; aware but
-unfeeling, wounds ½ damage, poison/paralysis/energy drain ineffective. 1
-full round to restore bodily functions.
-
-**Nulathoe\'s Accoustic Enhancement **
-
-**R:** Special **D:** 1 round/level **AoE:** Special **Save:** None Hear
-anything in range from chosen locale; locale must be familiar or
-obvious.
-
-**Phandaal\'s Vitriolic Critique **
-
-**R:** Touch **D:** Special **AoE:** 1\" radius **Save:** ½
-
-Anyone besides caster (or those he/she instructs) reading text causes
-explosion, 6d4+6 damage with no save to reader, ditto all within blast
-radius or save for half. Writing is destroyed.
-
-**Rary\'s Erratic Displacement **
-
-**R:** 0 **D:** 1 round/level **AoE:** Caster **Save:** None
-
-Teleport in random period (2d4 initiative order) and direction (d12
-o\'clock), 2\' distance. 75% spell-casting fails while blinking.
+### Rary\'s Erratic Displacement
+**R:** 0  
+**D:** 1 round/level  
+**AoE:** Caster  
+**Save:** None  
+Teleport in random period (2d4 initiative order) and direction (d12 o\'clock), 2\' distance. 75% spell-casting fails while blinking.
 Opponents can attack only if initiative comes before the \"blink\".
 
-**The Seventh Set\'s Web of Hiding **
+### The Seventh Set\'s Web of Hiding
+**R:** Touch  
+**D:** 1 hour/level  
+**AoE:** 1\" radius  
+**Save:** None  
+Immobile circle renders all creatures invisible & inaudible from those outside area of effect.
 
-**R:** Touch **D:** 1 hour/level **AoE:** 1\" radius **Save:** None
-Immobile circle renders all creatures invisible & inaudible from those
-outside area of effect.
+### The Snapping Teeth of Yecind
+**R:** Touch  
+**D:** 1 turn/level  
+**AoE:** 1 creature/object  
+**Save:** None  
+Snapping teeth in location touched attack creatures within 1\', 1-4 damage as 4 HD monster.
 
-**The Snapping Teeth of Yecind **
+### The Solvent of Horrid Corrosion
+**R:** 1\"  
+**D:** 3 rounds  
+**AoE:** 1 sq foot/level  
+**Save:** ½  
+Acidic slime dissolves 6 inches wood, 4 inches stone, 1 inch metal per round. Flesh takes 2d4 damage per round.
 
-**R:** Touch **D:** 1 turn/level **AoE:** 1 creature/object **Save:**
-None Snapping teeth in location touched attack creatures within 1\', 1-4
-damage as 4 HD monster.
+### The Spell of the Abysmal Flame
+**R:** 10\" + 1\"/level  
+**D:** Instantaneous  
+**AoE:** 2\" radius sphere
+**Save:** ½  
+Burst of flame causes d6 damage per level (or save for half), incinerates combustibles, melts soft metal. Flame conforms to shape of area, equal to normal spherical volume (33,000 cubic feet).
 
-**The Solvent of Horrid Corrosion **
+### The Spell of the Slow Hour
+**R:** 6\"  
+**D:** 3 rounds + 1/level  
+**AoE:** 1 creature/level  
+**Save:** None  
+Affected creatures function at 2x normal movement & attack. Reaction times, spell casting not affected. Recipients aged 1 year due to sped-up metabolism.
 
-**R:** 1\" **D:** 3 rounds **AoE:** 1 sq foot/level **Save:** ½
+### Xult\'s Peregrination of Probability
+**R:** Special  
+**D:** Instantaneous  
+**AoE:** Special  
+**Save:** None  
+1 event taking place in previous round is recalculated (dice rerolled). Second outcome cannot be changed.
 
-Acidic slime dissolves 6 inches wood, 4 inches stone, 1 inch metal per
-round. Flesh takes 2d4 damage per round.
+## 4^th^ Level Spells
 
-**The Spell of the Abysmal Flame **
+### Alamer\'s Cloak of the Consuming Chill / Alamer\'s Cloak of Burning
+Embers
+**R:** 0  
+**D:** 2 rounds + 1/level  
+**AoE:** Caster  
+**Save:** None  
+Caster surrounded by aura of flame. A) cold flame, caster immune to fire, creatures striking in melee take 2- 8 cold damage. Caster takes double damage from cold. B) hot flame, effects reversed.
 
-**R:** 10\" + 1\"/level **D:** Instantaneous **AoE:** 2\" radius sphere
-**Save:** ½
+### Arnd\'s Dimension Door
+**R:** Special  
+**D:** Instant  
+**AoE:** Caster  
+**Save:** None  
+Step through interspatial door and reappear anywhere in sight.
 
-Burst of flame causes d6 damage per level (or save for half),
-incinerates combustibles, melts soft metal. Flame conforms to shape of
-area, equal to normal spherical volume (33,000 cubic feet).
+### The Charm of the Inverted Pervulsion
+**R:** 3\"  
+**D:** Special  
+**AoE:** 1 creature  
+**Save:** Negates  
+Recipient\'s next offensive spell affects its own caster rather than intended target.
 
-**The Spell of the Slow Hour **
+### The Efficacious Portal Ward
+**R:** 0  
+**D:** 1 day/level  
+**AoE:** 6\" radius  
+**Save:** None  
+All planar gates & portals sealed, teleportation wil not function in warded area.
 
-**R:** 6\" **D:** 3 rounds + 1/level **AoE:** 1 creature/level **Save:**
-None
+### The Engendering Weave
+**R:** Touch  
+**D:** 1 hour/level  
+**AoE:** 1 cubic foot/level  
+**Save:** None  
+Create item of non-living matter -- rope, door etc.
 
-Affected creatures function at 2x normal movement & attack. Reaction
-times, spell casting not affected. Recipients aged 1 year due to sped-up
-metabolism.
+### Evard\'s Black Tentacles
+**R:** 3\"  
+**D:** 1 round/level  
+**AoE:** 30 square feet/level  
+**Save:** None  
+Writhing tentacles spring from ground. Number = caster level, 10\' long, AC 4, HP = caster level, attack any creature in range. Save vs. spell or 2-8 damage and be held and squeezed for 3-12 automatic damage each round.
 
-**Xult\'s Peregrination of Probability **
+### Felojun\'s Incendiary Rune
+**R:** Touch  
+**D:** Special  
+**AoE:** 1 object  
+**Save:** ½  
+Any creature other than caster + those attuned passing within ½\" causes burst of flame 1\" radius, 1d4 damage + 1 per caster level.
 
-**R:** Special **D:** Instantaneous **AoE:** Special **Save:** None 1
-event taking place in previous round is recalculated (dice rerolled).
-Second outcome cannot be changed.
+### Flamsterd\'s Curtain of the Violet Conflagration
+**R:** 6\"  
+**D:** 1 round/level  
+**AoE:** Special  
+**Save:** None  
+Immobile curtain of fire 20\' high, 20\' long/level. 2-8 heat damage within 10\' and 1-4 within 20\' on one side of wall only. Passing through flames causes 2-12 damage + 1 per caster level. Undead take double damage.
 
-**FOURTH LEVEL SPELLS: **
+### The Gestation of the Ignoble Servitor
+**R:** 3\"  
+**D:** Permanent  
+**AoE:** Special  
+**Save:** None  
+Creates a mephit from elemental matter (barrel of water, pile of slop etc). Alternatively roll on table:
 
-**Alamer\'s Cloak of the Consuming Chill / Alamer\'s Cloak of Burning
-Embers **
+| d20   | Mephit type                                 |
+|-------|---------------------------------------------|
+| 1     | air                                         |
+| 2     | ash                                         |
+| 3     | dust                                        |
+| 4     | earth                                       |
+| 5     | fire                                        |
+| 6     | ice                                         |
+| 7     | lightning                                   |
+| 8     | magma                                       |
+| 9     | mineral                                     |
+| 10    | mist                                        |
+| 11    | ooze                                        |
+| 12    | radiance                                    |
+| 13    | salt                                        |
+| 14    | smoke                                       |
+| 15    | steam                                       |
+| 16    | water                                       |
+| 17-20 | Spell fails^\*^                             |
 
-**R:** 0 **D:** 2 rounds + 1/level **AoE:** Caster **Save:** None
+^\*^Pathetic half-formed elemental monstrosity lives 1d4 turns.  
 
-Caster surrounded by aura of flame. A) cold flame, caster immune to
-fire, creatures striking in melee take 2- 8 cold damage. Caster takes
-double damage from cold. B) hot flame, effects reversed.
-
-**Arnd\'s Dimension Door **
-
-**R:** Special **D:** Instant **AoE:** Caster **Save:** None Step
-through interspatial door and reappear anywhere in sight.
-
-**The Charm of the Inverted Pervulsion **
-
-**R:** 3\" **D:** Special **AoE:** 1 creature **Save:** Negates
-Recipient\'s next offensive spell affects its own caster rather than
-intended target.
-
-**The Efficacious Portal Ward **
-
-**R:** 0 **D:** 1 day/level **AoE:** 6\" radius **Save:** None All
-planar gates & portals sealed, teleportation wil not function in warded
-area.
-
-**The Engendering Weave **
-
-**R:** Touch **D:** 1 hour/level **AoE:** 1 cubic foot/level **Save:**
-None Create item of non-living matter -- rope, door etc.
-
-**Evard\'s Black Tentacles **
-
-**R:** 3\" **D:** 1 round/level **AoE:** 30 square feet/level **Save:**
-None
-
-Writhing tentacles spring from ground. Number = caster level, 10\' long,
-AC 4, HP = caster level, attack any creature in range. Save vs. spell or
-2-8 damage and be held and squeezed for 3-12 automatic damage each
-round.
-
-**Felojun\'s Incendiary Rune **
-
-**R:** Touch **D:** Special **AoE:** 1 object **Save:** ½
-
-Any creature other than caster + those attuned passing within ½\" causes
-burst of flame 1\" radius, 1d4 damage + 1 per caster level.
-
-**Flamsterd\'s Curtain of the Violet Conflagration **
-
-**R:** 6\" **D:** 1 round/level **AoE:** Special **Save:** None Immobile
-curtain of fire 20\' high, 20\' long/level. 2-8 heat damage within 10\'
-and 1-4 within 20\' on one side of
-
-wall only. Passing through flames causes 2-12 damage + 1 per caster
-level. Undead take double damage.
-
-**The Gestation of the Ignoble Servitor **
-
-**R:** 3\" **D:** Permanent **AoE:** Special **Save:** None Creates a
-mephit from elemental matter (barrel of water, pile of slop etc).
-Alternatively roll on table:
-
-D20 Mephit type D20 Mephit type
-
-1 air 10 mist
-
-2 ash 11 ooze
-
-3 dust 12 radiance
-
-4 earth 13 salt
-
-5 fire 14 smoke
-
-6 ice 15 steam
-
-7 lightning 16 water
-
-8 magma 17-20 Spell fails; pathetic half-formed elemental
-
-^monstrosity\ lives\ 1d4\ turns^ 9 mineral
-
-1 turn to complete. Mephit will not betray creator but check each day
-for desertion, loyalty 55% + charisma adjustment.
+1 turn to complete. Mephit will not betray creator but check each day for desertion, loyalty 55% + Charisma adjustment.
 
 **Gilgad\'s Hallucinatory Locale **
 
