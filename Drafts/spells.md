@@ -3,117 +3,222 @@ Taken from [John's](https://www.blogger.com/profile/07090296806321882601) commen
 
 # Spell List  
 
-| d30 | 1st Level                           | 2nd Level                               |
-|-----|-------------------------------------|-----------------------------------------|
-| 1   | The Abstention of the Written Path  | Arbane’s Fulgent Coruscations           |
-| 2   | The Apotropaic Circle               | The Call to the Fetid Cloud             |
-| 3   | The Audible Glamer                  | The Cure for Honesty                    |
-| 4   | The Call to the Familiar Spirit     | The Hands of Cold Certainty             |
-| 5   | The Call to the Unseen Servant      | Hornung’s Deleterious Deflector         |
-| 6   | The Charm of Appersonation          | The Impudent Might of Ilskar the Bold   |
-| 7   | The Discerner of Enchantments       | The Invigorator of Blades               |
-| 8   | The Effervescent Lights of Kwalish  | Krest’s Cerebral Consonance             |
-| 9   | Evard’s Frictionless Field          | Leomund’s Escalatory Escape             |
-| 10  | The Expeditious Retreat             | Lugwiler’s Dismal Itch                  |
-| 11  | The Heavenly Screen                 | Lustoff’s Vicarious Head                |
-| 12  | The Howling Rune                    | The Manifold Effigies of Being          |
-| 13  | The Hypnotic Charm                  | The Marvellous Magic Mouth              |
-| 14  | The Imperturbable Quiescent Sphere  | Mazirian’s Marasmic Malady              |
-| 15  | The Importunate Insult              | The Pattern of the Immanent Sublime     |
-| 16  | The Indelible Emblem                | Phandaal’s Mantle of Stealth            |
-| 17  | Isain’s Fortuitous Interruption     | The Prosaic Preservation of Pandelume   |
-| 18  | The Kaleidoscopic Spray             | Quaal’s Near-Alchemical Transformance   |
-| 19  | Kazimir’s Resplendent Coutre        | The Ruby Ray of Reversal                |
-| 20  | Laeral’s Baleful Aura               | The Spell of Barring and Broaching      |
-| 21  | The Lesser Sign of Sealing          | The Spell of Phantasmal Forces          |
-| 22  | Melf’s Impermeable Membrane         | The Spell of the Imponderous Bounty     |
-| 23  | The Metamorphoun of Fire            | The Spur to the Libidinous Earth        |
-| 24  | Nahal’s Reckless Dweomer            | Tasha’s Uncontrollable Hideous Laughter |
-| 25  | Otto’s Arachnid Grip                | The Tone of Resonant Discord            |
-| 26  | Phandaal’s Polyglottal Lobe         | The Torment of Tantalus                 |
-| 27  | Sirrian’s Aggrandisement            | Turjan’s Translocation                  |
-| 28  | The Spell of Exquisite Repose       | The Unfettered Eye                      |
-| 29  | The Spell of Pragmatic Amalgamation | The Veil of the Cimmerian Shade         |
-| 30  | Tenser’s Floating Disc              | The Web of Wondrous Entrapment          |
+| d30 | 1st Level Spell                     |
+|-----|-------------------------------------|
+| 1   | The Abstention of the Written Path  |
+| 2   | The Apotropaic Circle               |
+| 3   | The Audible Glamer                  |
+| 4   | The Call to the Familiar Spirit     |
+| 5   | The Call to the Unseen Servant      |
+| 6   | The Charm of Appersonation          |
+| 7   | The Discerner of Enchantments       |
+| 8   | The Effervescent Lights of Kwalish  |
+| 9   | Evard’s Frictionless Field          |
+| 10  | The Expeditious Retreat             |
+| 11  | The Heavenly Screen                 |
+| 12  | The Howling Rune                    |
+| 13  | The Hypnotic Charm                  |
+| 14  | The Imperturbable Quiescent Sphere  |
+| 15  | The Importunate Insult              |
+| 16  | The Indelible Emblem                |
+| 17  | Isain’s Fortuitous Interruption     |
+| 18  | The Kaleidoscopic Spray             |
+| 19  | Kazimir’s Resplendent Coutre        |
+| 20  | Laeral’s Baleful Aura               |
+| 21  | The Lesser Sign of Sealing          |
+| 22  | Melf’s Impermeable Membrane         |
+| 23  | The Metamorphoun of Fire            |
+| 24  | Nahal’s Reckless Dweomer            |
+| 25  | Otto’s Arachnid Grip                |
+| 26  | Phandaal’s Polyglottal Lobe         |
+| 27  | Sirrian’s Aggrandisement            |
+| 28  | The Spell of Exquisite Repose       |
+| 29  | The Spell of Pragmatic Amalgamation |
+| 30  | Tenser’s Floating Disc              |
 
-Table: 1^st^ and 2^nd^ Level Spells
+Table: 1^st^ Level Spells
 
-| d30 | 3rd Level                           | 4th Level                                       |
-|-----|-------------------------------------|-------------------------------------------------|
-| 1   | Arbane’s Precipitous Deluge         | Alamer’s Cloak of the Consuming Chill           |
-| 2   | The Charm of Dire Sanguinity        | Arnd’s Dimension Door                           |
-| 3   | The Charm of the Inveigling Tongue  | The Charm of the Inverted Pervulsion            |
-| 4   | Chun’s Halo of the Unsleeping Eyes  | The Efficacious Portal Ward                     |
-| 5   | Felojun’s Repudiation of Arrows     | The Engendering Weave                           |
-| 6   | The Fury of the Captive Wind        | Evard’s Black Tentacles                         |
-| 7   | The Globe of Distant Discernment    | Felojun’s Incendiary Rune                       |
-| 8   | The Indefatigable Breath            | Flamsterd’s Curtain of the Violet Conflagration |
-| 9   | The Instant Galvanic Thrust         | The Gestation of the Ignoble Servitor           |
-| 10  | The Interminable Interim            | Gilgad’s Hallucinatory Locale                   |
-| 11  | The Invocation of the Open Sky      | Hlal’s Umbral Monstrosity                       |
-| 12  | Kuroth’s Empathic Rapport           | The Illusion of Vile Arthropods                 |
-| 13  | Leomund’s Expansible Egg            | The Impermanence of Being                       |
-| 14  | Leuk-O’s Vile Menagerie             | Johydee’s Gentle Admonishment                   |
-| 15  | The Liberation of Warp              | Leomund’s Lamentable Belabourment               |
-| 16  | Lorloveim’s Creeping Shadow         | Lhegrand’s Silvery Skin                         |
-| 17  | Melf’s Maladweomer                  | The Minor Globe of Invulnerability              |
-| 18  | Mentzer’s Relative Time Dilation    | Narissa’s Blind Excess                          |
-| 19  | Mzhentul’s Remarkable Polar Pull    | The Onslaught of Dread Equines                  |
-| 20  | Nchaser’s Spectral Steed            | Otiluke’s Resilient Sphere                      |
-| 21  | Nolzur’s Metabolic Suspension       | Quaal’s Flawless Duplicity                      |
-| 22  | Nulathoe’s Accoustic Enhancement    | Rary’s Mnemonic Enhancer                        |
-| 23  | Phandaal’s Vitriolic Critique       | The Seal Upon the Powers                        |
-| 24  | Rary’s Erratic Displacement         | The Spell of Expansive Excavation               |
-| 25  | The Seventh Set’s Web of Hiding     | The Spell of Mercurial Anatomy                  |
-| 26  | The Snapping Teeth of Yecind        | The Spell of the Peremptory Polymorph           |
-| 27  | The Solvent of Horrid Corrosion     | The Spell of Wyrd                               |
-| 28  | The Spell of the Abysmal Flame      | The Summons to the Inclement Clime              |
-| 29  | The Spell of the Slow Hour          | Tasha’s Morbid Jest                             |
-| 30  | Xult’s Peregrination of Probability | Tulrun’s Filamentary Extension                  |
+| d30 | 2nd Level Spell                         |
+|-----|-----------------------------------------|
+| 1   | Arbane’s Fulgent Coruscations           |
+| 2   | The Call to the Fetid Cloud             |
+| 3   | The Cure for Honesty                    |
+| 4   | The Hands of Cold Certainty             |
+| 5   | Hornung’s Deleterious Deflector         |
+| 6   | The Impudent Might of Ilskar the Bold   |
+| 7   | The Invigorator of Blades               |
+| 8   | Krest’s Cerebral Consonance             |
+| 9   | Leomund’s Escalatory Escape             |
+| 10  | Lugwiler’s Dismal Itch                  |
+| 11  | Lustoff’s Vicarious Head                |
+| 12  | The Manifold Effigies of Being          |
+| 13  | The Marvellous Magic Mouth              |
+| 14  | Mazirian’s Marasmic Malady              |
+| 15  | The Pattern of the Immanent Sublime     |
+| 16  | Phandaal’s Mantle of Stealth            |
+| 17  | The Prosaic Preservation of Pandelume   |
+| 18  | Quaal’s Near-Alchemical Transformance   |
+| 19  | The Ruby Ray of Reversal                |
+| 20  | The Spell of Barring and Broaching      |
+| 21  | The Spell of Phantasmal Forces          |
+| 22  | The Spell of the Imponderous Bounty     |
+| 23  | The Spur to the Libidinous Earth        |
+| 24  | Tasha’s Uncontrollable Hideous Laughter |
+| 25  | The Tone of Resonant Discord            |
+| 26  | The Torment of Tantalus                 |
+| 27  | Turjan’s Translocation                  |
+| 28  | The Unfettered Eye                      |
+| 29  | The Veil of the Cimmerian Shade         |
+| 30  | The Web of Wondrous Entrapment          |
 
-Table: 3^rd^ and 4^th^ Level Spells
+Table: 2^nd^ Level Spells
 
-| d30 | 5th Level                                      | 6th Level                                           |
-|-----|------------------------------------------------|-----------------------------------------------------|
-| 1   | Alphon’s Anguish of the North Wind             | The Agency of Far Despatch                          |
-| 2   | Archveult’s Crude Fabrication                  | Ao’s Enervating Opalescent Eyes                     |
-| 3   | The Augur of the Inscrutable Spheres           | The Avulsion of the Spirit-Soul                     |
-| 4   | The Blade of Inexorable Disjection             | The Binding of True Names                           |
-| 5   | Caligarde’s Penetrating Vision                 | The Call to the Assiduous Pursuer                   |
-| 6   | The Charm of Untiring Nourishment              | The Call to Inflexible Salvation                    |
-| 7   | Clambard’s Remote Acquisition                  | The Contingency of the Foreknown                    |
-| 8   | The Conjure of the Elemental Id                | Daern’s Total Repulse                               |
-| 9   | The Dweomer of Ignominious Dismissal           | The Excellent Prismatic Spray                       |
-| 10  | The Elocation of Ka                            | Hornung’s Indiscriminate Expulsion                  |
-| 11  | The Extirpation of the Ruinous Cloud           | The Infallible Retrotropic Field                    |
-| 12  | Firdaan’s Impenetrable Last Stand              | Khelpen’s Permutation of Gravity                    |
-| 13  | The Hebetation of the Intellect                | The Labyrinth of Elongated Shadows                  |
-| 14  | The Imperfect Invitation                       | The Omnipotent Sphere                               |
-| 15  | Johydee’s Indisputable Fantasy                 | Otiluke’s Freezing Orb                              |
-| 16  | Leomund’s Dramatic Chest                       | Otto’s Irresistable Dance                           |
-| 17  | Mentor’s Perfect Inertia                       | The Scrutiny of the Omniscient Eye                  |
-| 18  | The Oblong Barrier                             | The Sequester to the Ethereal Coil                  |
-| 19  | Pandelume’s Paroxysm of Pain                   | Serten’s Immaculate Simulacrum                      |
-| 20  | The Pattern of the Proscriptive Watchdog       | The Seven Symbols of Solomon                        |
-| 21  | Phandaal’s Semblance of Psyche                 | Sirrian’s Spell Engine                              |
-| 22  | The Reign of Long Nerves                       | The Speculum of Retribution                         |
-| 23  | The Satire of Life Renewed                     | The Spell of Elegant Dissolution                    |
-| 24  | The Seven Hundred and Seventy Steps of Slumber | The Spell of Forlorn Encystment                     |
-| 25  | The Shroud of Agonizing Immolation             | The Spell of Geas                                   |
-| 26  | Skye’s Spell to Sidestep the Real              | The Spell of Temporal Disjunction                   |
-| 27  | The Spell of Celeritous Relocalisation         | The Spell of the Stone that Weeps in Silence        |
-| 28  | Tenser’s Destructive Resonance                 | Tenser’s Transformation of the Heroic and Grotesque |
-| 29  | Tzunk’s Distance Distortion                    | The Tower of Indomitable Intellect                  |
-| 30  | Yon’s Obliging Parapet                         | The Wrack of the Recalcitrant Spirit                |
+| d30 | 3rd Level Spell                     |
+|-----|-------------------------------------|
+| 1   | Arbane’s Precipitous Deluge         |
+| 2   | The Charm of Dire Sanguinity        |
+| 3   | The Charm of the Inveigling Tongue  |
+| 4   | Chun’s Halo of the Unsleeping Eyes  |
+| 5   | Felojun’s Repudiation of Arrows     |
+| 6   | The Fury of the Captive Wind        |
+| 7   | The Globe of Distant Discernment    |
+| 8   | The Indefatigable Breath            |
+| 9   | The Instant Galvanic Thrust         |
+| 10  | The Interminable Interim            |
+| 11  | The Invocation of the Open Sky      |
+| 12  | Kuroth’s Empathic Rapport           |
+| 13  | Leomund’s Expansible Egg            |
+| 14  | Leuk-O’s Vile Menagerie             |
+| 15  | The Liberation of Warp              |
+| 16  | Lorloveim’s Creeping Shadow         |
+| 17  | Melf’s Maladweomer                  |
+| 18  | Mentzer’s Relative Time Dilation    |
+| 19  | Mzhentul’s Remarkable Polar Pull    |
+| 20  | Nchaser’s Spectral Steed            |
+| 21  | Nolzur’s Metabolic Suspension       |
+| 22  | Nulathoe’s Accoustic Enhancement    |
+| 23  | Phandaal’s Vitriolic Critique       |
+| 24  | Rary’s Erratic Displacement         |
+| 25  | The Seventh Set’s Web of Hiding     |
+| 26  | The Snapping Teeth of Yecind        |
+| 27  | The Solvent of Horrid Corrosion     |
+| 28  | The Spell of the Abysmal Flame      |
+| 29  | The Spell of the Slow Hour          |
+| 30  | Xult’s Peregrination of Probability |
 
-Table: 4^th^ and 5^th^ Level Spells
+Table: 3^rd^ Level Spells
+
+| d30 | 4th Level Spell                                 |
+|-----|-------------------------------------------------|
+| 1   | Alamer’s Cloak of the Consuming Chill           |
+| 2   | Arnd’s Dimension Door                           |
+| 3   | The Charm of the Inverted Pervulsion            |
+| 4   | The Efficacious Portal Ward                     |
+| 5   | The Engendering Weave                           |
+| 6   | Evard’s Black Tentacles                         |
+| 7   | Felojun’s Incendiary Rune                       |
+| 8   | Flamsterd’s Curtain of the Violet Conflagration |
+| 9   | The Gestation of the Ignoble Servitor           |
+| 10  | Gilgad’s Hallucinatory Locale                   |
+| 11  | Hlal’s Umbral Monstrosity                       |
+| 12  | The Illusion of Vile Arthropods                 |
+| 13  | The Impermanence of Being                       |
+| 14  | Johydee’s Gentle Admonishment                   |
+| 15  | Leomund’s Lamentable Belabourment               |
+| 16  | Lhegrand’s Silvery Skin                         |
+| 17  | The Minor Globe of Invulnerability              |
+| 18  | Narissa’s Blind Excess                          |
+| 19  | The Onslaught of Dread Equines                  |
+| 20  | Otiluke’s Resilient Sphere                      |
+| 21  | Quaal’s Flawless Duplicity                      |
+| 22  | Rary’s Mnemonic Enhancer                        |
+| 23  | The Seal Upon the Powers                        |
+| 24  | The Spell of Expansive Excavation               |
+| 25  | The Spell of Mercurial Anatomy                  |
+| 26  | The Spell of the Peremptory Polymorph           |
+| 27  | The Spell of Wyrd                               |
+| 28  | The Summons to the Inclement Clime              |
+| 29  | Tasha’s Morbid Jest                             |
+| 30  | Tulrun’s Filamentary Extension                  |
+
+Table: 4^th^ Level Spells
+
+| d30 | 5th Level Spell                                |
+|-----|------------------------------------------------|
+| 1   | Alphon’s Anguish of the North Wind             |
+| 2   | Archveult’s Crude Fabrication                  |
+| 3   | The Augur of the Inscrutable Spheres           |
+| 4   | The Blade of Inexorable Disjection             |
+| 5   | Caligarde’s Penetrating Vision                 |
+| 6   | The Charm of Untiring Nourishment              |
+| 7   | Clambard’s Remote Acquisition                  |
+| 8   | The Conjure of the Elemental Id                |
+| 9   | The Dweomer of Ignominious Dismissal           |
+| 10  | The Elocation of Ka                            |
+| 11  | The Extirpation of the Ruinous Cloud           |
+| 12  | Firdaan’s Impenetrable Last Stand              |
+| 13  | The Hebetation of the Intellect                |
+| 14  | The Imperfect Invitation                       |
+| 15  | Johydee’s Indisputable Fantasy                 |
+| 16  | Leomund’s Dramatic Chest                       |
+| 17  | Mentor’s Perfect Inertia                       |
+| 18  | The Oblong Barrier                             |
+| 19  | Pandelume’s Paroxysm of Pain                   |
+| 20  | The Pattern of the Proscriptive Watchdog       |
+| 21  | Phandaal’s Semblance of Psyche                 |
+| 22  | The Reign of Long Nerves                       |
+| 23  | The Satire of Life Renewed                     |
+| 24  | The Seven Hundred and Seventy Steps of Slumber |
+| 25  | The Shroud of Agonizing Immolation             |
+| 26  | Skye’s Spell to Sidestep the Real              |
+| 27  | The Spell of Celeritous Relocalisation         |
+| 28  | Tenser’s Destructive Resonance                 |
+| 29  | Tzunk’s Distance Distortion                    |
+| 30  | Yon’s Obliging Parapet                         |
+
+Table: 5^th^ Level Spells
+
+| d30 | 6th Level Spell                                     |
+|-----|-----------------------------------------------------|
+| 1   | The Agency of Far Despatch                          |
+| 2   | Ao’s Enervating Opalescent Eyes                     |
+| 3   | The Avulsion of the Spirit-Soul                     |
+| 4   | The Binding of True Names                           |
+| 5   | The Call to the Assiduous Pursuer                   |
+| 6   | The Call to Inflexible Salvation                    |
+| 7   | The Contingency of the Foreknown                    |
+| 8   | Daern’s Total Repulse                               |
+| 9   | The Excellent Prismatic Spray                       |
+| 10  | Hornung’s Indiscriminate Expulsion                  |
+| 11  | The Infallible Retrotropic Field                    |
+| 12  | Khelpen’s Permutation of Gravity                    |
+| 13  | The Labyrinth of Elongated Shadows                  |
+| 14  | The Omnipotent Sphere                               |
+| 15  | Otiluke’s Freezing Orb                              |
+| 16  | Otto’s Irresistable Dance                           |
+| 17  | The Scrutiny of the Omniscient Eye                  |
+| 18  | The Sequester to the Ethereal Coil                  |
+| 19  | Serten’s Immaculate Simulacrum                      |
+| 20  | The Seven Symbols of Solomon                        |
+| 21  | Sirrian’s Spell Engine                              |
+| 22  | The Speculum of Retribution                         |
+| 23  | The Spell of Elegant Dissolution                    |
+| 24  | The Spell of Forlorn Encystment                     |
+| 25  | The Spell of Geas                                   |
+| 26  | The Spell of Temporal Disjunction                   |
+| 27  | The Spell of the Stone that Weeps in Silence        |
+| 28  | Tenser’s Transformation of the Heroic and Grotesque |
+| 29  | The Tower of Indomitable Intellect                  |
+| 30  | The Wrack of the Recalcitrant Spirit                |
+
+Table: 6^th^ Level Spells
 
 # Starting Spells  
 
 All magic-users begin knowing the Arcane Cypher, plus three spells
 randomly determined from the following lists:
 
-| d10 | Offensive                     |
+| d10 | Offensive Spell               |
 |-----|-------------------------------|
 | 1   | The Charm of Appersonation    |
 | 2   | Evard’s Frictionless Field    |
@@ -128,7 +233,7 @@ randomly determined from the following lists:
 
 Table: Starting Offensive Spells
 
-| d10 | Defensive                          |
+| d10 | Defensive Spell                    |
 |-----|------------------------------------|
 | 1   | The Apotropaic Circle              |
 | 2   | The Audible Glamer                 |
@@ -143,7 +248,7 @@ Table: Starting Offensive Spells
 
 Table: Starting Defensive Spells
 
-| d10 | Miscellaneous                       |
+| d10 | Miscellaneous Spell                 |
 |-----|-------------------------------------|
 | 1   | The Abstention of the Written Path  |
 | 2   | The Call to the Familiar Spirit     |
