@@ -3,6 +3,7 @@ title: Dying Earth Spells
 link: Spells
 author: Tyler Farrington
 date: 2022-01-30
+menu: no
 
 ---
 
