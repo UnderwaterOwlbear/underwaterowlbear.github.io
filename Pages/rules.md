@@ -122,7 +122,7 @@ Table: Armor and Encumbrance
 
 |Item				|AC	|Cost	|
 |--------------|:---:|----:|
-|Shield			|+2	|5c	|
+|Shield			|+1	|5c	|
 |Helm				|+1	|10c	|
 
 Table: Shields and Helms
@@ -225,7 +225,7 @@ Table: Equipment
 |Mule				|10c			|
 |Horse			|20c			|
 |Warhorse		|50c			|
-|Canoe, small	|20c			|
+|Canoe		|20c			|
 
 Table: Transportaion
 
@@ -233,13 +233,15 @@ Table: Transportaion
 
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 
-**Mules** have a morale score of 7. They can carry up to 40 items unencumbered, or up to 80 items when encumbered.  
+**Mules** have a morale score of 7.  
 
-**Horses** have a morale score of 6. They can carry a rider and up to 20 items unencumbered, or a rider up to 80 items when encumbered.  
+**Horses** have a morale score of 6.  
 
-**Warhorses** have a morale score of 9. They can carry a rider and up to 20 items unencumbered, or a rider and up to 80 items when encumbered.  
+**Warhorses** have a morale score of 9.  
 
-**Canoe** -- Carries 2 men and 300 items of cargo, takes one man to portage.  
+**Canoe** -- Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
+
+Mounts such as mules and horses can carry up to 40 items when unencumbered, or up to 80 items when encumbered. Each rider counts as 20 items for the purposes of carrying capacity.  
 
 ## Hirelings
 It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
@@ -270,12 +272,25 @@ Common situations where players may surprise monsters:
 
 - Bursting through a door on the first try.
 - Entering a room by picking the a locked door.
-- A thief successfully hides in shadows or moves silently (only thief has initiative, the rest of the party must roll as normal).
+- A thief successfully hides in shadows or moves silently (only the thief has a chance to surprise).
 
 Common situations where monsters may surprise players:
 
 - The party has no light sources.
 - The party enters a room after an unsuccessful attempt to force the door, if the party did not hear any noises before entering.
+
+## Reactions
+When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
+
+|2d6			|Reaction		|
+|-----------|--------------|
+|2-			|Hostile			|
+|3-5			|Negative		|
+|6-8			|Uncertain		|
+|9-11			|Positive		|
+|12+			|Enthusiastic	|
+
+Table: Reaction Roll Results
 
 ## Distance
 In the dungeon, lines of sight are so short, and lighting so dim, that encounters always happen in the same room or corridor as the players (meaning, within one move action of each other).  
@@ -286,7 +301,9 @@ In the wilderness, encountered monsters may be noticed at greater distances:
 - If neither side is surprised -- 4d6 moves away
 
 ## Evasion
-Monsters may chase fleeing characters. Each turn of the chase, roll a d6. Consult the table below to determine what happens. Note that closed or locked doors may be in the way of the fleeing party. These must be dealt with as normal -- failure indicates they are stymied by the obstacle long enough for the pursuing monster to catch them.
+If the party surprises a monster, they can evade the monster automatically by retreating from the dungeon room or taking a circuitous wilderness path. If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it.  
+
+Each turn of the chase, roll a d6. Consult the table below to determine what happens. Note that closed or locked doors may be in the way of the fleeing party. These must be dealt with as normal -- failure indicates they are stymied by the obstacle long enough for the pursuing monster to catch them.
 
 |d6	|Unencumbered	|Encumbered	|
 |:---:|:------------:|:---------:|
@@ -304,19 +321,6 @@ Table: Chase Results
 **E** = Escape. The party successfully evades the monster.
 
 Food will distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will distract intelligent monsters from the chase, by dropping 100c worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
-
-## Reactions
-When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
-
-|2d6			|Reaction		|
-|-----------|--------------|
-|2-			|Hostile			|
-|3-5			|Negative		|
-|6-8			|Uncertain		|
-|9-11			|Positive		|
-|12+			|Enthusiastic	|
-
-Table: Reaction Roll Results
 
 # Combat
 
