@@ -5,7 +5,7 @@ date: 2022-02-13
 
 ---
 
-## Simple Death, Dying, and Dismemberment Rules
+# Simple Death, Dying, and Dismemberment Rules
 Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
 
 Resting in camp for a night restores d6 HP, as long as the character has both shelter and food. Each day without food reduces max HP by 1 HP per HD. Resting in a town or similar safe location for a night restores all HP.
