@@ -25,7 +25,7 @@ If coming from other old-school games, these are the assumptions used for a few 
 
 When you have advantage on a roll, roll two dice instead of one and take the better result. When you have disadvantage on a roll, roll two dice instead of one and take the worse result.
 
-## Experience and Advancement
+## Experience \& Advancement
 Pick a class. You start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 coins. You gain 1 XP for every coin that you spend on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
 
 When you gain a level, roll all of your hit dice (HD). They are d6. If the sum of dice rolled is greater than your current maximum HP, the sum becomes your new maximum HP. If it is equal to or less than your current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
@@ -227,10 +227,12 @@ Table: Equipment
 |Cart, hand		|5c			|
 |Cart, draft	|10c			|
 |Wagon			|100c			|
+|Ox				|2c			|
 |Mule				|10c			|
 |Horse			|20c			|
 |Warhorse		|50c			|
-|Canoe		|20c			|
+|Canoe			|20c			|
+|Longship		|?				|
 
 Table: Transportaion
 
@@ -238,13 +240,15 @@ Table: Transportaion
 
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 
-**Mules** have a morale score of 7.  
+**Mules** have a morale score of 7, and are only as fast as a walking person.  
 
 **Horses** have a morale score of 6.  
 
 **Warhorses** have a morale score of 9.  
 
 **Canoe** -- Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
+
+**Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
 Mounts such as mules and horses can carry up to 40 items when unencumbered, or up to 80 items when encumbered. Each rider counts as 20 items for the purposes of carrying capacity.  
 
@@ -343,7 +347,7 @@ To determine initiative within the combat round, roll a d6 at the start of comba
 	- Spells cast this round take effect.
 	- Spells cast by the side with initiative take effect first.
 
-## Attacks and Damage
+## Attacks \& Damage
 **Basic Attacks** Roll a d20 and add your to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal your weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
 
 **Charge** A combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy.
@@ -355,7 +359,7 @@ To determine initiative within the combat round, roll a d6 at the start of comba
 ## Saving Throws
 Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to your character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
 
-## Death and Healing
+## Death \& Healing
 Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
 
 Resting in camp for a night restores d6 HP, as long as the character has both shelter and food. Each day without food reduces max HP by 1 HP per HD. Resting in a town or similar safe location for a night restores all HP.
@@ -412,7 +416,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 ## Traps
 **Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If you don’t want to risk this, find a clever way to bypass the trap.
 
-## Encounters
+## Wandering Monsters
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. Choose the result from the appropriate column depending on whether all, some, or none of the characters in the party have light.
 
 |d6	|Fully Lit	|Partially Lit	|Unlit			|
@@ -430,9 +434,103 @@ Table: Dungeon Event Rolls
 **O** = Omen. Signs of a wandering monster are encountered.  
 **L** = Light sources depleted. All currently lit light sources are depleted. New light sources are automatically lit as a free action (unless in combat, see **tinderbox** rules).
 
+# Lords & Domains
+
+## Rural Areas
+
+95% of population lives in rural areas. Density of ~20 people / sq mi.
+
+### Hide
+**Subdivions** 1 household  
+**Size** ~120 acres  
+**Population** ~4 serfs  
+**Tax Revenue** 2s to lord  
+**Military** 1 levy  
+**Administration** None  
+
+### Tithing
+**Subdivions** 5 hides  
+**Size** 1 sq mi  
+**Population** ~20 serfs  
+**Tax Revenue** 10s to lord  
+**Military** 5 levy, 1 thane  
+**Administration** Lord  
+
+### Manor
+**Subdivions** 5 tithings  
+**Size** 5 sq mi  
+**Population** ~100 serfs  
+**Tax Revenue** 50s to lord  
+**Military** 25 levy, 5 thanes  
+**Administration** Lord  
+Manors vary in size, and some may contain more than 5 tithings. Lords may keep all tax revenue generated by their manor, but are obligated to provide military service to the king when marshalled.  
+
+## Urban Areas
+
+4% of population lives in small towns or ports. 1% of population lives in large towns or ports.
+
+### Small Town
+**Size** ~7 acres  
+**Population** ~2,000 freemen  
+**Tax Revenue** 100s to king  
+**Military** 50 levy  
+**Administration** Freemen court (*moot*)  
+
+### Large Town
+**Size** ~30 acres  
+**Population** ~4,000 freemen  
+**Tax Revenue** 200s to king  
+**Military** 100 levy  
+**Administration** Freemen court (*moot*)  
+
+### Small Port
+**Size** ~7 acres  
+**Population** ~2,000 freemen  
+**Tax Revenue** Exempt  
+**Military** 50 levy, 5 longships  
+**Administration** Freemen court (*moot*)  
+Ports were often granted exemption from taxation and relative autonomy in return for providing for the naval defense of the king's realm.  
+
+### Large Port
+**Size** ~30 acres  
+**Population** ~4,000 freemen  
+**Tax Revenue** Exempt  
+**Military** 100 levy, 10 longships  
+**Administration** Freemen court (*moot*)  
+Ports were often granted exemption from taxation and relative autonomy in return for providing for the naval defense of the king's realm.  
+
+## The Realm
+
+### Hundred
+**Subdivions** 100 hides  
+**Size** ~20 sq mi  
+**Population** ~400  
+A census division for the purposes of surveying population and military capacity.  
+
+### Shire
+**Subdivions** 4-40 hundreds / towns / ports  
+**Size** 80-800 sq mi  
+**Population** 1,600-16,000  
+**Administration** Reeve  
+An administrative division for judicial purposes.  
+
+### Small Kingdom
+**Subdivions** 1-4 small towns or ports, 0-1 large town or port, 4-8 shires  
+**Size** 5,000-25,000 sq mi  
+**Population** 100,000-500,000  
+**Military** 25,000-125,000 levy, 5,000-25,000 thanes, 0-30 longships  
+**Administration** King  
+
+### Large Kingdom
+**Subdivions** 5-20 small towns or ports, 1-5 large towns or ports, 20-40 shires  
+**Size** 25,000-100,000 sq mi  
+**Population** 500,000-2,000,000  
+**Military** 125,000-500,000 levy, 25,000-100,000 thanes, 20-100 longships  
+**Administration** King  
+
 # Appendix
 
-## Monsters, Treasure, and Spells
+## Monsters, Treasure, \& Spells
 
 It is suggested to reference one of the following resources for monster lists, treasure tables, and spell lists:
 
@@ -446,21 +544,21 @@ Monsters are able to see in complete darkness. When converting monsters from oth
 
 |HD	|To-Hit Bonus	|Saving Throw	|XP Awarded	|
 |----:|:------------:|:------------:|----------:|
-|<1	|+0				|19				|10			|
-|1		|+1				|18				|15			|
-|2		|+2				|17				|30			|
-|3		|+3				|16				|60			|
-|4		|+4				|15				|120			|
-|5		|+5				|14				|240			|
-|6		|+6				|13				|400			|
-|7		|+7				|12				|600			|
-|8		|+8				|11				|800			|
-|9		|+9				|10				|1100			|
-|10	|+10				|9					|1400			|
-|11	|+11				|8					|1700			|
-|12	|+12				|7					|2000			|
-|13	|+13				|6					|2300			|
-|14	|+14				|5					|2600			|
-|15	|+15				|4					|2900			|
+|<1	|+0				|19+				|10			|
+|1		|+1				|18+				|15			|
+|2		|+2				|17+				|30			|
+|3		|+3				|16+				|60			|
+|4		|+4				|15+				|120			|
+|5		|+5				|14+				|240			|
+|6		|+6				|13+				|400			|
+|7		|+7				|12+				|600			|
+|8		|+8				|11+				|800			|
+|9		|+9				|10+				|1100			|
+|10	|+10				|9+				|1400			|
+|11	|+11				|8+				|1700			|
+|12	|+12				|7+				|2000			|
+|13	|+13				|6+				|2300			|
+|14	|+14				|5+				|2600			|
+|15	|+15				|4+				|2900			|
 
 Table: Monsters by HD
