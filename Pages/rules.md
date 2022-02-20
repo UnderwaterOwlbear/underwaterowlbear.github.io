@@ -16,12 +16,11 @@ Forked from v1.05.
 
 ## Basic Rules
 If coming from other old-school games, these are the assumptions used for a few important rules:
-
-* HD are d6 for all character classes and all monsters.
-* To-hit bonus equal to HD for fighters and monsters.
-* Ascending AC with unarmored AC = 10.
-* Roll-over saving throws.
-* Weapon damage is d6 unless otherwise noted.
+- HD are d6 for all character classes and all monsters.
+- To-hit bonus equal to HD for fighters and monsters.
+- Ascending AC with unarmored AC = 10.
+- Roll-over saving throws.
+- Weapon damage is d6 unless otherwise noted.
 
 When you have advantage on a roll, roll two dice instead of one and take the better result. When you have disadvantage on a roll, roll two dice instead of one and take the worse result.
 
@@ -77,7 +76,6 @@ Table: Mage Levels
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
 **Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
-
 - Hear noises through doors or across rooms
 - Pick locks or disable traps
 - Move silently or hide in shadows
@@ -129,7 +127,6 @@ Table: Shields and Helms
 **Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).  
 
 **Shields** can be made of various materials:  
-
 - **Wood**: the typical shield, 5c
 - **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 15c
 - **Mirrored**: grants advantage to saves vs. gaze attacks, 150c
@@ -162,7 +159,6 @@ Table: Weapons
 **Spears** may be wielded normally in one hand, or be wielded in two hands to deal 2d6 damage against charged or charging enemies.  
 
 **Swords** are the weapon of the military elite, and can be made of various materials:  
-
 - **Cold Iron**: +2 to hit vs. fey, 15c
 - **Steel**: +1 to hit, 60c
 - **Fine Steel**: +2 to hit, 120c
@@ -277,14 +273,12 @@ Table: Hirelings
 ## Surprise
 To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.
 
-Common situations where players may surprise monsters:
-
+Common situations where players may surprise monsters:  
 - Bursting through a door on the first try.
 - Entering a room by picking the a locked door.
 - A thief successfully hides in shadows or moves silently (only the thief has a chance to surprise).
 
-Common situations where monsters may surprise players:
-
+Common situations where monsters may surprise players:  
 - The party has no light sources.
 - The party enters a room after an unsuccessful attempt to force the door, if the party did not hear any noises before entering.
 
@@ -304,8 +298,7 @@ Table: Reaction Roll Results
 ## Distance
 In the dungeon, lines of sight are so short, and lighting so dim, that encounters always happen in the same room or corridor as the players (meaning, within one move action of each other).  
 
-In the wilderness, encountered monsters may be noticed at greater distances:
-
+In the wilderness, encountered monsters may be noticed at greater distances:  
 - If a side is surprised -- 1d4 moves away
 - If neither side is surprised -- 4d6 moves away
 
@@ -334,8 +327,7 @@ Food will distract unintelligent monsters from the chase, by dropping 1 day's ra
 # Combat
 
 ## Initiative
-To determine initiative within the combat round, roll a d6 at the start of combat. On a 4+, players have the initiative. On a 3 or less, the monsters have the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:
-
+To determine initiative within the combat round, roll a d6 at the start of combat. On a 4+, players have the initiative. On a 3 or less, the monsters have the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
 1. **Magic, cast**
 	- Spellcasters declare what spell (if any) they will cast that turn, and begin to cast it.  
 2. **Move or Missile**
@@ -396,8 +388,7 @@ Table: Morale Scores
 # Dungeon Delving
 
 ## Turns
-One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:
-
+One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
 - Move to the next room
 - Open a stuck or locked door
 - Search the current room
