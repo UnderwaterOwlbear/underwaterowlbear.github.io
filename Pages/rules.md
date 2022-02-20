@@ -1,7 +1,7 @@
 ---
 title: Rules
 author: Tyler Farrington
-date: 2022-02-06
+date: 2022-02-19
 menu: yes
 
 ---
@@ -26,15 +26,16 @@ If coming from other old-school games, these are the assumptions used for a few 
 When you have advantage on a roll, roll two dice instead of one and take the better result. When you have disadvantage on a roll, roll two dice instead of one and take the worse result.
 
 ## Experience and Advancement
-Pick a class. You start at 1st level with 0 experience points (XP). You gain 1 XP for every coin that you spend on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
+Pick a class. You start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 coins. You gain 1 XP for every coin that you spend on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
 
 When you gain a level, roll all of your hit dice (HD). They are d6. If the sum of dice rolled is greater than your current maximum HP, the sum becomes your new maximum HP. If it is equal to or less than your current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
 
 ## Fighter
-You start with d6 HP and 3d6x10 coins. Fighters can use all weapons and any armor, shield, or helm. When they reach 9th level, they become a Lord (or Lady) and can build a stronghold to attract subjects. 
-
-**Cleave**  
-Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.
+**Weapons** Any   
+**Armor** Any      
+**Name Level** When they reach 9th level, they become a Lord (or Lady) and can build a stronghold to attract subjects.  
+**Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
+**Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.   
 
 |Level|XP		|HD	|Save	|To-Hit	|
 |:---:|-------:|:---:|:---:|:------:|
@@ -51,10 +52,10 @@ Upon slaying an enemy, a fighter may immediately make an additional attack again
 Table: Fighter Levels
 
 ## Mage
-You start with d6 HP and 3d6x10 coins. Mages may use knives, clubs, and staves, and may not use armor, shields, or helms. When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices
-
-**Spellcasting**  
-Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.
+**Weapons** Knives, clubs, and staves  
+**Armor** None    
+**Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
+**Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
 |Level|XP		|HD	|Save	|To-Hit	|1st|2nd|3rd|4th|5th|
 |:---:|-------:|:---:|:---:|:------:|:-:|:-:|:-:|:-:|:-:|
@@ -71,10 +72,11 @@ Mages may memorize and cast a number of spells per day of a maximum spell level 
 Table: Mage Levels
 
 ## Thief
-You start with d6 HP and 3d6x10 coins. Thieves can use clubs, knives, staves, and bows, and wear padded armor or mail, but cannot use shields or helms. When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals. 
-
-**Thievery**  
-Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+**Weapons** Any except swords  
+**Armor** Padded  
+**Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
+**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
 
 - Hear noises through doors or across rooms
 - Pick locks or disable traps
@@ -82,9 +84,6 @@ Thieves may use their thievery skill to perform the following feats of stealth a
 - Pick pockets
 
 To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
-
-**Backstab**  
-Thieves have advantage on attacks against, and deal double damage to, surprised opponents. 
 
 |Level|XP		|HD	|Save	|To-Hit	|Thievery	|
 |:---:|-------:|:---:|:---:|:------:|:---------:|
@@ -103,7 +102,7 @@ Table: Thief Levels
 # Equipment
 
 ## Encumbrance and Movement
-A man can carry a number of items based on what type of armor he is wearing. Some items are *bulky* -- these require two hands to carry and count as two items for encumbrance purposes. Some items are *light* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
+A man can carry a number of items based on what type of armor he is wearing. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
 
 A man can carry up to an additional ten (10) items beyond the carrying limit dictated by their armor. When they are doing so, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
@@ -122,14 +121,18 @@ Table: Armor and Encumbrance
 
 |Item				|AC	|Cost	|
 |--------------|:---:|----:|
-|Shield			|+1	|5c	|
+|Shield			|+1	|\*	|
 |Helm				|+1	|10c	|
 
 Table: Shields and Helms
 
-**Shields** can be sundered to negate all damage from a hit. Magical shields are merely cast aside rather than being destroyed entirely.  
+**Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).  
 
-**Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).
+**Shields** can be made of various materials:  
+
+- **Wood**: the typical shield, 5c
+- **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 15c
+- **Mirrored**: grants advantage to saves vs. gaze attacks, 150c
 
 |Weapon				|Damage	|Cost	|Notes		|
 |-----------------|:-------|----:|:---------:|
@@ -138,37 +141,38 @@ Table: Shields and Helms
 |Bow					|d6		|30c	|bulky		|
 |Arrows, quiver	|-			|5c	|				|
 |Club					|d6		|1c	|				|
-|Knife				|d3		|3c	|thrown, light|
-|Sling				|d3		|3c	|light		|
+|Knife				|d3		|3c	|thrown, tiny|
+|Sling				|d3		|3c	|tiny			|
 |Staff				|d6		|2c	|bulky		|
-|Spear				|d6		|3c	|thrown		|
-|Sword				|d6		|15c	|				|
+|Spear				|d6		|3c	|thrown, bulky		|
+|Sword				|d6		|\*	|				|
 |Torch				|d3		|1c	|				|
 |Unarmed				|1			|-		|				|
 
 Table: Weapons
 
-**Hand Axes** deal 3d6 damage on a critical hit, and can be thrown.  
-
-**Battle Axes** deal 3d6 damage on a critical hit, and can disarm the enemy of a weapon or shield rather than harming them.  
+**Battle Axes** deal 3d6 damage on a critical hit.  
 
 **Bows** require **arrows** -- a quiver of which is depleted after combat on a roll of 6+ on a d6.  
-
-**Knives** deal d6 damage against surprised enemies, and can be thrown.  
 
 **Slings** can use rocks and pebbles as ammunition.  
 
 **Staves** grant +1 AC when wielded in two hands.  
 
-**Spears** deal 2d6 damage against charged or charging enemies, and can be thrown.  
+**Spears** may be wielded normally in one hand, or be wielded in two hands to deal 2d6 damage against charged or charging enemies.  
 
-**Swords** reroll damage roll results of 1, due to their keen edge (subsequent results of 1 beyond the first are not rerolled).  
+**Swords** are the weapon of the military elite, and can be made of various materials:  
+
+- **Cold Iron**: +2 to hit vs. fey, 15c
+- **Steel**: +1 to hit, 60c
+- **Fine Steel**: +2 to hit, 120c
+- **Silvered**: effective against undead and spirits, 150c
 
 **Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.    
 
 |Item						|Cost			|Notes		|
 |--------------------|----------:|:---------:|
-|Backpack, leather	|4c			|light		|
+|Backpack, leather	|4c			|tiny			|
 |Bedroll					|2c			|				|
 |Candles, four			|1c			|				|
 |Crowbar					|5c			|				|
@@ -176,15 +180,16 @@ Table: Weapons
 |Hammer					|2c			|				|
 |Pickaxe					|5c			|				|
 |Pole, 10ft				|1c			|				|
+|Quicksilver, vial	|10c			|tiny			|
 |Rations, one day		|1c			|				|
 |Rope, 100ft			|2c			|				|
-|Sack, large			|2c			|light		|
-|Sack, small			|1c			|light		|
+|Sack, large			|2c			|tiny			|
+|Sack, small			|1c			|tiny			|
 |Shovel					|3c			|				|
 |Spikes, iron, six	|1c			|				|
 |Tent, three-person	|5c			|bulky		|
 |Torch					|1c			|				|
-|Tinderbox				|2c			|light		|
+|Tinderbox				|2c			|tiny			|
 |Waterskin, one day	|1c			|				|
 
 Table: Equipment
