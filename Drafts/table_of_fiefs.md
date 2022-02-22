@@ -1,0 +1,10 @@
+| Name    | Purpose                 | Subdivisons                   | Area            | Commoners are... | Adminstered by...        | Tax Revenue | Thanes    | Levy         | Ships           |
+|---------|-------------------------|-------------------------------|-----------------|------------------|--------------------------|-------------|-----------|--------------|-----------------|
+| Hide    | Census division         | ~4 people                     | ~120 acres      | -                | -                        | 2s          | -         | 1            | -               |
+| Hundred | Census division         | 100 hides                     | 10 sq mi        | -                | -                        | 200s        | 20        | 100          | -               |
+| Shire   | Administrative division | 4-40 hundreds / towns / ports | 40-400 sq mi    | -                | Reeve (answers to king)  | -           | 80-800    | 400-4,000    | Variable        |
+| Kingdom | Administrative division | ~20 shires                    | 800-8,000 sq mi | -                | King                     | -           | 400-4,000 | 2,000-20,000 | Variable        |
+| Tithing | Rural area              | 5 hides                       | 1 sq mi         | Serfs            | Knight (answers to lord) | 10s         | 1         | 5            | -               |
+| Manor   | Rural area              | 1 or more tithings            | >1 sq mi        | Serfs            | Lord                     | 10s / fief  | 1 / fief  | 5 / fief     | -               |
+| Town    | Urban area              | ~4,000 people                 | 10 sq mi        | Free             | Freeman court (moot)     | 2,000s      | -         | 200          | -               |
+| Port    | Urban area              | ~4,000 people                 | ~10 mi of coast | Free             | Freeman court (moot)     | Exempt      | -         | 200          | 1 / mi of coast |

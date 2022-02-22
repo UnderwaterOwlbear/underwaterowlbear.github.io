@@ -22,17 +22,17 @@ If coming from other old-school games, these are the assumptions used for a few 
 - Roll-over saving throws.
 - Weapon damage is d6 unless otherwise noted.
 
-When you have advantage on a roll, roll two dice instead of one and take the better result. When you have disadvantage on a roll, roll two dice instead of one and take the worse result.
+When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
 ## Experience \& Advancement
-Pick a class. You start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 coins. You gain 1 XP for every coin that you spend on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
+Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 coins. Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
 
-When you gain a level, roll all of your hit dice (HD). They are d6. If the sum of dice rolled is greater than your current maximum HP, the sum becomes your new maximum HP. If it is equal to or less than your current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
+When a character gains a level, roll all of their hit dice (HD). They are d6. If the sum of dice rolled is greater than their current maximum HP, the sum becomes their new maximum HP. If it is equal to or less than their current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
 
 ## Fighter
 **Weapons** Any   
 **Armor** Any      
-**Name Level** When they reach 9th level, they become a Lord (or Lady) and can build a stronghold to attract subjects.  
+**Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
 **Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.   
 
@@ -148,7 +148,7 @@ Table: Shields and Helms
 
 Table: Weapons
 
-**Battle Axes** deal 3d6 damage on a critical hit.  
+**Battle Axes** deal triple damage on a critical hit.  
 
 **Bows** require **arrows** -- a quiver of which is depleted after combat on a roll of 6+ on a d6.  
 
@@ -156,7 +156,7 @@ Table: Weapons
 
 **Staves** grant +1 AC when wielded in two hands.  
 
-**Spears** may be wielded normally in one hand, or be wielded in two hands to deal 2d6 damage against charged or charging enemies.  
+**Spears** may be wielded normally in one hand, or be wielded in two hands to deal double damage against charging enemies.  
 
 **Swords** are the weapon of the military elite, and can be made of various materials:  
 - **Cold Iron**: +2 to hit vs. fey, 15c
@@ -296,7 +296,9 @@ When encountering a wandering monster or other entity, and their disposition is 
 Table: Reaction Roll Results
 
 ## Distance
-In the dungeon, lines of sight are so short, and lighting so dim, that encounters always happen in the same room or corridor as the players (meaning, within one move action of each other).  
+In the dungeon, lines of sight are so short, and lighting so dim, that encounters usually happen at close distances: 
+- If a side is surprised -- in the same room or corridor as the players (meaning, within one move action of each other).  
+- If neither side is surprised -- 1d4 rooms away (noticed by smell or sound if no line of sight)
 
 In the wilderness, encountered monsters may be noticed at greater distances:  
 - If a side is surprised -- 1d4 moves away
@@ -340,16 +342,16 @@ To determine initiative within the combat round, roll a d6 at the start of comba
 	- Spells cast by the side with initiative take effect first.
 
 ## Attacks \& Damage
-**Basic Attacks** Roll a d20 and add your to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal your weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
+**Basic Attacks** Roll a d20 and add to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
 
-**Charge** A combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy.
+**Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
 
 **Withdraw** When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the combatant only makes a half move.
 
 **Combat Maneuvers** A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack and damage roll as normal. If he hits, his opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
 
 ## Saving Throws
-Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to your character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
+Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to the character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
 
 ## Death \& Healing
 Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
@@ -404,8 +406,20 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 **Spiking Doors** Doors will open freely for monsters unless wedged shut with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
 
+**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, the monster can force open the door with a d6 roll determined by the table below:
+
+|No. Holding Door	|Monster needs a...	|
+|-----------------|--------------------|
+|0						|None, door opens freely|
+|1						|2+						|
+|2						|3+						|
+|3						|4+						|
+|4 or more			|5+						|
+
+Table: Holding Doors
+
 ## Traps
-**Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If you don’t want to risk this, find a clever way to bypass the trap.
+**Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
 
 ## Wandering Monsters
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. Choose the result from the appropriate column depending on whether all, some, or none of the characters in the party have light.
