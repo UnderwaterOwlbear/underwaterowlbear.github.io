@@ -106,43 +106,41 @@ A man can carry up to an additional ten (10) items beyond the carrying limit dic
 
 ## Items
 
-|Armor			|AC	|Cost	|Items Carried	|
-|--------------|:---:|----:|-------------:|
-|Unarmored		|10	|-		|10				|
-|Padded Armor	|12	|15c	|8					|
-|Mail Armor		|14	|100c	|6					|
-|Plate Armor	|16	|-		|4					|
+|Armor					|AC	|Cost	|Items Carried	|
+|--------------------|:---:|----:|-------------:|
+|Unarmored				|10	|-		|10				|
+|Padded Gambeson		|12	|1s	|8					|
+|Mail Hauberk			|14	|25s	|6					|
+|Bronze Breastplate	|16	|300s	|4					|
 
 Table: Armor and Encumbrance
 
-**Plate armor** cannot be purchased from most armorers. It is a rare and valuable artifact.  
-
 |Item				|AC	|Cost	|
 |--------------|:---:|----:|
-|Shield			|+1	|\*	|
-|Helm				|+1	|10c	|
+|Shield			|+1	|2s	|
+|Helm				|+1	|20s	|
 
 Table: Shields and Helms
 
 **Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).  
 
 **Shields** can be made of various materials:  
-- **Wood**: the typical shield, 5c
-- **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 15c
-- **Mirrored**: grants advantage to saves vs. gaze attacks, 150c
+- **Wood**: the typical shield, 2s
+- **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 5s
+- **Mirrored Bronze**: grants advantage to saves vs. gaze attacks, 10s
 
 |Weapon				|Damage	|Cost	|Notes		|
 |-----------------|:-------|----:|:---------:|
-|Axe, battle		|d6		|6c	|bulky		|
-|Axe, hand			|d6		|3c	|thrown		|
-|Bow					|d6		|30c	|bulky		|
-|Arrows, quiver	|-			|5c	|				|
-|Club					|d6		|1c	|				|
-|Knife				|d3		|3c	|thrown, tiny|
-|Sling				|d3		|3c	|tiny			|
-|Staff				|d6		|2c	|bulky		|
-|Spear				|d6		|3c	|thrown, bulky		|
-|Sword				|d6		|\*	|				|
+|Axe, battle		|d6		|1s	|bulky		|
+|Axe, hand			|d6		|10d	|thrown		|
+|Bow					|d6		|4s	|bulky		|
+|Arrows, quiver	|-			|1s	|				|
+|Club					|d6		|-		|				|
+|Knife				|d3		|4d	|thrown, tiny|
+|Sling				|d3		|4d	|tiny			|
+|Staff				|d6		|-		|bulky		|
+|Spear				|d6		|1s	|thrown, bulky		|
+|Sword				|d6		|4s	|				|
 |Torch				|d3		|1c	|				|
 |Unarmed				|1			|-		|				|
 
@@ -159,34 +157,34 @@ Table: Weapons
 **Spears** may be wielded normally in one hand, or be wielded in two hands to deal double damage against charging enemies.  
 
 **Swords** are the weapon of the military elite, and can be made of various materials:  
-- **Cold Iron**: +2 to hit vs. fey, 15c
-- **Steel**: +1 to hit, 60c
-- **Fine Steel**: +2 to hit, 120c
-- **Silvered**: effective against undead and spirits, 150c
+- **Cold Iron**: +2 to hit vs. fey, 4s
+- **Steel**: +1 to hit, 16s
+- **Fine Steel**: +2 to hit, 30s
+- **Silvered**: effective against undead and spirits, 60s
 
 **Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.    
 
 |Item						|Cost			|Notes		|
 |--------------------|----------:|:---------:|
-|Backpack, leather	|4c			|tiny			|
-|Bedroll					|2c			|				|
-|Candles, four			|1c			|				|
-|Crowbar					|5c			|				|
-|Grimoire				|30c			|				|
-|Hammer					|2c			|				|
-|Pickaxe					|5c			|				|
-|Pole, 10ft				|1c			|				|
-|Quicksilver, vial	|10c			|tiny			|
-|Rations, one day		|1c			|				|
-|Rope, 100ft			|2c			|				|
-|Sack, large			|2c			|tiny			|
-|Sack, small			|1c			|tiny			|
-|Shovel					|3c			|				|
-|Spikes, iron, six	|1c			|				|
-|Tent, three-person	|5c			|bulky		|
-|Torch					|1c			|				|
-|Tinderbox				|2c			|tiny			|
-|Waterskin, one day	|1c			|				|
+|Backpack, leather	|4d			|tiny			|
+|Bedroll					|2d			|				|
+|Candles, four			|1d			|				|
+|Crowbar					|3d			|				|
+|Grimoire				|2s			|				|
+|Hammer					|3d			|				|
+|Pickaxe					|3d			|				|
+|Pole, 10ft				|1d			|				|
+|Quicksilver, vial	|1s			|tiny			|
+|Rations, one day		|0.2d			|				|
+|Rope, 100ft			|2d			|				|
+|Sack, large			|2d			|tiny			|
+|Sack, small			|1d			|tiny			|
+|Shovel					|3d			|				|
+|Spikes, iron, six	|6d			|				|
+|Tent, three-person	|1s			|bulky		|
+|Torch					|1d			|				|
+|Tinderbox				|2d			|tiny			|
+|Waterskin, one day	|1d			|				|
 
 Table: Equipment
 
@@ -220,14 +218,14 @@ Table: Equipment
 
 |Transport		|Cost			|
 |--------------|----------:|
-|Cart, hand		|5c			|
-|Cart, draft	|10c			|
-|Wagon			|100c			|
-|Ox				|2c			|
-|Mule				|10c			|
-|Horse			|20c			|
-|Warhorse		|50c			|
-|Canoe			|20c			|
+|Cart, hand		|10d			|
+|Cart, draft	|1s			|
+|Wagon			|3s			|
+|Ox				|2s			|
+|Mule				|3s			|
+|Horse			|5s			|
+|Warhorse		|10s			|
+|Canoe			|5s			|
 |Longship		|?				|
 
 Table: Transportaion
@@ -409,8 +407,8 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 **Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, the monster can force open the door with a d6 roll determined by the table below:
 
 |No. Holding Door	|Monster needs a...	|
-|-----------------|--------------------|
-|0						|None, door opens freely|
+|:---------------:|:------------------:|
+|0						|Door opens freely	|
 |1						|2+						|
 |2						|3+						|
 |3						|4+						|
@@ -532,6 +530,26 @@ An administrative division for judicial purposes.
 **Population** 500,000-2,000,000  
 **Military** 125,000-500,000 levy, 25,000-100,000 thanes, 20-100 longships  
 **Administration** King  
+
+# Strongholds
+
+The following are the estimates of raw materials and labor that went into the tower of Langeais, a rectangular, tapering stone tower built in 992-994.  The source is [6], pp. 47ff.  The dimensions at the base were 17.5 meters by 10 meters; the height was 16m (3 floors); the walls were 1.5m thick, made of two shells filled with loose rock.
+
+Limestone in building: about 1050 cubic meters, or 2 600 000 kg
+Wood in building: 47.5 cubic meters, or 34 600 kg
+Nails: 3 400, or 50 kg
+Mortar: 350 cubic meters.
+To make the mortar:
+  sand: 225 cubic meters, or 360 000 kg
+  limestone: 40 cubic meters, or 160 000 kg
+  green wood: 540 cubic meters, or 286 000 kg
+Labor Costs, in Average Working Days (AWD):
+  procurement: 14 250
+  transport: 2 880
+  labor:
+    unskilled: 63 500
+    mason: 12 700
+    smith: 1 600
 
 # Appendix
 
