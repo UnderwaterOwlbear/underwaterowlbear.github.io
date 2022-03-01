@@ -59,4 +59,12 @@ This is a fusion of Gehenna and Baator. Gehenna is a real name, from Judaism, an
 
 ![Nessus](_nessus.jpeg)
 
+## My Great Wheel
 
+- Ethereal
+- Shadow
+- Faerie
+- Underworld
+- Carcosa
+- Abyss / Chaos / Void / Ginnungagap
+- Tartarus
