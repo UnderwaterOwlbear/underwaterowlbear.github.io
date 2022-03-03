@@ -16,16 +16,17 @@ Forked from v1.05.
 
 ## Basic Rules
 If coming from other old-school games, these are the assumptions used for a few important rules:
+- No ability scores.
 - HD are d6 for all character classes and all monsters.
 - To-hit bonus equal to HD for fighters and monsters.
 - Ascending AC with unarmored AC = 10.
-- Roll-over saving throws.
+- Roll-over saving throws, single save.
 - Weapon damage is d6 unless otherwise noted.
 
 When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
 ## Experience \& Advancement
-Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 coins. Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
+Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
 
 When a character gains a level, roll all of their hit dice (HD). They are d6. If the sum of dice rolled is greater than their current maximum HP, the sum becomes their new maximum HP. If it is equal to or less than their current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
 
@@ -109,39 +110,39 @@ A man can carry up to an additional ten (10) items beyond the carrying limit dic
 |Armor					|AC	|Cost	|Items Carried	|
 |--------------------|:---:|----:|-------------:|
 |Unarmored				|10	|-		|10				|
-|Padded Gambeson		|12	|1s	|8					|
-|Mail Hauberk			|14	|25s	|6					|
-|Bronze Breastplate	|16	|300s	|4					|
+|Padded Gambeson		|12	|10sp	|8					|
+|Mail Hauberk			|14	|250sp|6					|
+|Bronze Breastplate	|16	|3,000sp|4					|
 
 Table: Armor and Encumbrance
 
 |Item				|AC	|Cost	|
 |--------------|:---:|----:|
-|Shield			|+1	|2s	|
-|Helm				|+1	|20s	|
+|Shield			|+1	|10sp	|
+|Helm				|+1	|20sp	|
 
 Table: Shields and Helms
 
 **Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).  
 
 **Shields** can be made of various materials:  
-- **Wood**: the typical shield, 2s
-- **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 5s
-- **Mirrored Bronze**: grants advantage to saves vs. gaze attacks, 10s
+- **Wood**: the typical shield, 20sp
+- **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 50sp
+- **Mirrored Bronze**: grants advantage to saves vs. gaze attacks, 100sp
 
 |Weapon				|Damage	|Cost	|Notes		|
 |-----------------|:-------|----:|:---------:|
-|Axe, battle		|d6		|1s	|bulky		|
-|Axe, hand			|d6		|10d	|thrown		|
-|Bow					|d6		|4s	|bulky		|
-|Arrows, quiver	|-			|1s	|				|
+|Axe, battle		|d6		|10sp	|bulky		|
+|Axe, hand			|d6		|10sp	|thrown		|
+|Bow					|d6		|40sp	|bulky		|
+|Arrows, quiver	|-			|10sp	|				|
 |Club					|d6		|-		|				|
-|Knife				|d3		|4d	|thrown, tiny|
-|Sling				|d3		|4d	|tiny			|
+|Knife				|d3		|4sp	|thrown, tiny|
+|Sling				|d3		|4sp	|tiny			|
 |Staff				|d6		|-		|bulky		|
-|Spear				|d6		|1s	|thrown, bulky		|
-|Sword				|d6		|4s	|				|
-|Torch				|d3		|1c	|				|
+|Spear				|d6		|10sp	|thrown, bulky		|
+|Sword				|d6		|40sp	|				|
+|Torch				|d3		|1sp	|				|
 |Unarmed				|1			|-		|				|
 
 Table: Weapons
@@ -157,34 +158,35 @@ Table: Weapons
 **Spears** may be wielded normally in one hand, or be wielded in two hands to deal double damage against charging enemies.  
 
 **Swords** are the weapon of the military elite, and can be made of various materials:  
-- **Cold Iron**: +2 to hit vs. fey, 4s
-- **Steel**: +1 to hit, 16s
-- **Fine Steel**: +2 to hit, 30s
-- **Silvered**: effective against undead and spirits, 60s
+- **Cold Iron**: +2 to hit vs. fey, 40s
+- **Steel**: +1 to hit, 160s
+- **Fine Steel**: +2 to hit, 300s
+- **Silvered**: effective against undead and spirits, 600s
 
 **Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.    
 
 |Item						|Cost			|Notes		|
 |--------------------|----------:|:---------:|
-|Backpack, leather	|4d			|tiny			|
-|Bedroll					|2d			|				|
-|Candles, four			|1d			|				|
-|Crowbar					|3d			|				|
-|Grimoire				|2s			|				|
-|Hammer					|3d			|				|
-|Pickaxe					|3d			|				|
-|Pole, 10ft				|1d			|				|
-|Quicksilver, vial	|1s			|tiny			|
-|Rations, one day		|0.2d			|				|
-|Rope, 100ft			|2d			|				|
-|Sack, large			|2d			|tiny			|
-|Sack, small			|1d			|tiny			|
-|Shovel					|3d			|				|
-|Spikes, iron, six	|6d			|				|
-|Tent, three-person	|1s			|bulky		|
-|Torch					|1d			|				|
-|Tinderbox				|2d			|tiny			|
-|Waterskin, one day	|1d			|				|
+|Backpack, leather	|4sp			|tiny			|
+|Bedroll					|2sp			|				|
+|Candles, four			|1sp			|				|
+|Crowbar					|3sp			|				|
+|Grimoire				|20sp			|				|
+|Hammer					|3sp			|				|
+|Mirror					|10sp			|tiny			|
+|Pickaxe					|3sp			|				|
+|Pole, 10ft				|1sp			|				|
+|Quicksilver, vial	|10sp			|tiny			|
+|Rations, one day		|1sp			|				|
+|Rope, 100ft			|2sp			|				|
+|Sack, large			|2sp			|tiny			|
+|Sack, small			|1sp			|tiny			|
+|Shovel					|3sp			|				|
+|Spikes, iron, six	|6sp			|				|
+|Tent, three-person	|10sp			|bulky		|
+|Torch					|1sp			|				|
+|Tinderbox				|2sp			|tiny			|
+|Waterskin, one day	|1sp			|				|
 
 Table: Equipment
 
@@ -218,15 +220,15 @@ Table: Equipment
 
 |Transport		|Cost			|
 |--------------|----------:|
-|Cart, hand		|10d			|
-|Cart, draft	|1s			|
-|Wagon			|3s			|
-|Ox				|2s			|
-|Mule				|3s			|
-|Horse			|5s			|
-|Warhorse		|10s			|
-|Canoe			|5s			|
-|Longship		|?				|
+|Cart, hand		|5sp			|
+|Cart, draft	|10sp			|
+|Wagon			|30sp			|
+|Ox				|20sp			|
+|Mule				|30sp			|
+|Horse			|50sp			|
+|Warhorse		|100sp		|
+|Canoe			|50sp			|
+|Longship		|10,000sp	|
 
 Table: Transportaion
 
@@ -251,16 +253,16 @@ It costs 100c to place an advertisement in a settlement for hirelings. The adver
 
 |Type					|Notes							|Cost per Month		|
 |-----------------|--------------------------|-------------------:|
-|Servant				|HD 1 AC 10 D none M 6		|4c						|
-|Foot, Light		|HD 1 AC 14 D d6 M 7			|20c						|
-|Foot, Armored		|HD 1 AC 16 D d6 M 8			|40c						|
-|Foot, Archer		|HD 1 AC 12 D d6 M 7			|60c						|
-|Horse, Light		|HD 2 AC 14 D d6 M 7			|100c						|
-|Horse, Armored	|HD 2 AC 16 D d6 M 8			|160c						|
-|Horse, Archer		|HD 2 AC 12 D d6 M 8			|160c						|
-|Armorer				|Need 1 per 50 soldiers		|100c						|
-|Blacksmith			|Need 1 per 50 mounts		|20c						|
-|Engineer			|Builds strongholds			|800c						|
+|Servant				|HD 1 AC 10 D none M 6		|4s						|
+|Foot, Light		|HD 1 AC 14 D d6 M 7			|20s						|
+|Foot, Armored		|HD 1 AC 16 D d6 M 8			|40s						|
+|Foot, Archer		|HD 1 AC 12 D d6 M 7			|60s						|
+|Horse, Light		|HD 2 AC 14 D d6 M 7			|100s						|
+|Horse, Armored	|HD 2 AC 16 D d6 M 8			|160s						|
+|Horse, Archer		|HD 2 AC 12 D d6 M 8			|160s						|
+|Armorer				|Need 1 per 50 soldiers		|100s						|
+|Blacksmith			|Need 1 per 50 mounts		|20s						|
+|Engineer			|Builds strongholds			|800s						|
 
 Table: Hirelings
 
@@ -327,7 +329,7 @@ Food will distract unintelligent monsters from the chase, by dropping 1 day's ra
 # Combat
 
 ## Initiative
-To determine initiative within the combat round, roll a d6 at the start of combat. On a 4+, players have the initiative. On a 3 or less, the monsters have the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
+To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
 1. **Magic, cast**
 	- Spellcasters declare what spell (if any) they will cast that turn, and begin to cast it.  
 2. **Move or Missile**
@@ -404,17 +406,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 **Spiking Doors** Doors will open freely for monsters unless wedged shut with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
 
-**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, the monster can force open the door with a d6 roll determined by the table below:
-
-|No. Holding Door	|Monster needs a...	|
-|:---------------:|:------------------:|
-|0						|Door opens freely	|
-|1						|2+						|
-|2						|3+						|
-|3						|4+						|
-|4 or more			|5+						|
-
-Table: Holding Doors
+**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, each side trying to force the door rolls a d6, with a bonus to the roll equal to the HD of those trying to hold or force the door. Note that a maximum of three (3) human-sized beings may attempt to hold a door at one time. Example: a 2nd level fighter (2 HD) and a 1st level mage (1 HD) attempt to hold a door shut against a pursuing ghoul (2 HD). The characters would roll d6+3, and the ghoul d6+2.
 
 ## Traps
 **Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
@@ -436,120 +428,6 @@ Table: Dungeon Event Rolls
 **W** = Wandering monster encounter. Roll for an encounter on the appropriate encounter table.  
 **O** = Omen. Signs of a wandering monster are encountered.  
 **L** = Light sources depleted. All currently lit light sources are depleted. New light sources are automatically lit as a free action (unless in combat, see **tinderbox** rules).
-
-# Lords & Domains
-
-## Rural Areas
-
-95% of population lives in rural areas. Density of ~20 people / sq mi.
-
-### Hide
-**Subdivions** 1 household  
-**Size** ~120 acres  
-**Population** ~4 serfs  
-**Tax Revenue** 2s to lord  
-**Military** 1 levy  
-**Administration** None  
-
-### Tithing
-**Subdivions** 5 hides  
-**Size** 1 sq mi  
-**Population** ~20 serfs  
-**Tax Revenue** 10s to lord  
-**Military** 5 levy, 1 thane  
-**Administration** Lord  
-
-### Manor
-**Subdivions** 5 tithings  
-**Size** 5 sq mi  
-**Population** ~100 serfs  
-**Tax Revenue** 50s to lord  
-**Military** 25 levy, 5 thanes  
-**Administration** Lord  
-Manors vary in size, and some may contain more than 5 tithings. Lords may keep all tax revenue generated by their manor, but are obligated to provide military service to the king when marshalled.  
-
-## Urban Areas
-
-4% of population lives in small towns or ports. 1% of population lives in large towns or ports.
-
-### Small Town
-**Size** ~7 acres  
-**Population** ~2,000 freemen  
-**Tax Revenue** 100s to king  
-**Military** 50 levy  
-**Administration** Freemen court (*moot*)  
-
-### Large Town
-**Size** ~30 acres  
-**Population** ~4,000 freemen  
-**Tax Revenue** 200s to king  
-**Military** 100 levy  
-**Administration** Freemen court (*moot*)  
-
-### Small Port
-**Size** ~7 acres  
-**Population** ~2,000 freemen  
-**Tax Revenue** Exempt  
-**Military** 50 levy, 5 longships  
-**Administration** Freemen court (*moot*)  
-Ports were often granted exemption from taxation and relative autonomy in return for providing for the naval defense of the king's realm.  
-
-### Large Port
-**Size** ~30 acres  
-**Population** ~4,000 freemen  
-**Tax Revenue** Exempt  
-**Military** 100 levy, 10 longships  
-**Administration** Freemen court (*moot*)  
-Ports were often granted exemption from taxation and relative autonomy in return for providing for the naval defense of the king's realm.  
-
-## The Realm
-
-### Hundred
-**Subdivions** 100 hides  
-**Size** ~20 sq mi  
-**Population** ~400  
-A census division for the purposes of surveying population and military capacity.  
-
-### Shire
-**Subdivions** 4-40 hundreds / towns / ports  
-**Size** 80-800 sq mi  
-**Population** 1,600-16,000  
-**Administration** Reeve  
-An administrative division for judicial purposes.  
-
-### Small Kingdom
-**Subdivions** 1-4 small towns or ports, 0-1 large town or port, 4-8 shires  
-**Size** 5,000-25,000 sq mi  
-**Population** 100,000-500,000  
-**Military** 25,000-125,000 levy, 5,000-25,000 thanes, 0-30 longships  
-**Administration** King  
-
-### Large Kingdom
-**Subdivions** 5-20 small towns or ports, 1-5 large towns or ports, 20-40 shires  
-**Size** 25,000-100,000 sq mi  
-**Population** 500,000-2,000,000  
-**Military** 125,000-500,000 levy, 25,000-100,000 thanes, 20-100 longships  
-**Administration** King  
-
-# Strongholds
-
-The following are the estimates of raw materials and labor that went into the tower of Langeais, a rectangular, tapering stone tower built in 992-994.  The source is [6], pp. 47ff.  The dimensions at the base were 17.5 meters by 10 meters; the height was 16m (3 floors); the walls were 1.5m thick, made of two shells filled with loose rock.
-
-Limestone in building: about 1050 cubic meters, or 2 600 000 kg
-Wood in building: 47.5 cubic meters, or 34 600 kg
-Nails: 3 400, or 50 kg
-Mortar: 350 cubic meters.
-To make the mortar:
-  sand: 225 cubic meters, or 360 000 kg
-  limestone: 40 cubic meters, or 160 000 kg
-  green wood: 540 cubic meters, or 286 000 kg
-Labor Costs, in Average Working Days (AWD):
-  procurement: 14 250
-  transport: 2 880
-  labor:
-    unskilled: 63 500
-    mason: 12 700
-    smith: 1 600
 
 # Appendix
 
