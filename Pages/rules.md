@@ -101,18 +101,18 @@ Table: Thief Levels
 # Equipment
 
 ## Encumbrance and Movement
-A man can carry a number of items based on what type of armor he is wearing. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
+A man can carry up to ten (10) items. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
 
-A man can carry up to an additional ten (10) items beyond the carrying limit dictated by their armor. When they are doing so, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
+A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ## Items
 
-|Armor					|AC	|Cost	|Items Carried	|
+|Armor					|AC	|Cost	|Encumbrance as...|
 |--------------------|:---:|----:|-------------:|
-|Unarmored				|10	|-		|10				|
-|Padded Gambeson		|12	|10sp	|8					|
-|Mail Hauberk			|14	|250sp|6					|
-|Bronze Breastplate	|16	|3,000sp|4					|
+|Unarmored				|10	|-		|-					|
+|Padded Gambeson		|12	|10sp	|2 items			|
+|Mail Hauberk			|14	|250sp|4 items			|
+|Bronze Breastplate	|16	|3,000sp|6 items		|
 
 Table: Armor and Encumbrance
 
@@ -223,7 +223,6 @@ Table: Equipment
 |Cart, hand		|5sp			|
 |Cart, draft	|10sp			|
 |Wagon			|30sp			|
-|Ox				|20sp			|
 |Mule				|30sp			|
 |Horse			|50sp			|
 |Warhorse		|100sp		|
@@ -406,7 +405,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 **Spiking Doors** Doors will open freely for monsters unless wedged shut with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
 
-**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, each side trying to force the door rolls a d6, with a bonus to the roll equal to the HD of those trying to hold or force the door. Note that a maximum of three (3) human-sized beings may attempt to hold a door at one time. Example: a 2nd level fighter (2 HD) and a 1st level mage (1 HD) attempt to hold a door shut against a pursuing ghoul (2 HD). The characters would roll d6+3, and the ghoul d6+2.
+**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, each side trying to force the door rolls a d6. Player characters gain +1 for each character holding the door. Note that a maximum of three (3) human-sized beings may attempt to hold a door at one time. Monsters gain +1 per HD, max +7. The higher roll wins, with the side holding the door winning ties.
 
 ## Traps
 **Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
