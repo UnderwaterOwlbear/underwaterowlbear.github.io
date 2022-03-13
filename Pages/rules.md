@@ -1,16 +1,10 @@
 ---
-title: Rules
+title: Barrows /& Basilisks v1.06
 author: Tyler Farrington
-date: 2022-02-19
+date: 2022-03-13
 menu: yes
 
 ---
-
-# House Rules for ODnD-like Games
-
-These are a nightly build of my house rules, based on [Barrows & Basilisks](https://underwaterowlbear.itch.io/barrows-basilisks). Probably in flux, use at your own risk.
-
-Forked from v1.05.
 
 # Character Creation
 
