@@ -1,5 +1,5 @@
 ---
-title: Lords \& Domains
+title: Lords & Domains
 author: Tyler Farrington
 date: 2022-02-20
 

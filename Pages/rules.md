@@ -1,10 +1,12 @@
 ---
-title: Barrows /& Basilisks v1.06
+title: B&B v1.06
 author: Tyler Farrington
 date: 2022-03-13
 menu: yes
 
 ---
+
+# Barrows & Basilisks v1.06
 
 # Character Creation
 
