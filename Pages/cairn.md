@@ -13,21 +13,23 @@ menu: yes
 
 # Character Creation
 
-**HP** Start with 3 HP.  
-
-**Abilities** Start with the following abilities:
-- Fortitude (FORT) 11
-- Reflex (REF) 11
-- Will (WILL) 11
-Distribute +4 amongst the three saves as desired.  
-
-**Gear** Start with two (2) Supply, a simple weapon (d6), and 3d6x10 coins.  
+Start with... 
+- 3 hit protection (**HP**).  
+- The following abilities:
+	- Fortitude	(FORT)	11
+	- Reflex 	(REF) 	11
+	- Will 		(WILL) 	11  
+	- Distribute +4 amongst the three ablities as desired.  
+- The following gear: 
+	- Two (2) Supply
+	- A simple weapon (d6)
+	- 3d6x10 coins.  
 
 # Equipment & Inventory
 
-**Inventory** A character has ten (10) inventory slots. An item usually takes up one slot. **Bulky** items take up two slots and generally take two hands to use. Any number of **tiny** items can fit together into one slot. If all inventory slots are full, the character is reduced to 0 HP.  
+A character has ten (10) inventory slots. An item usually takes up one slot. **Bulky** items take up two slots and generally take two hands to use. Any number of **tiny** items can fit together into one slot. If all inventory slots are full, the character is reduced to 0 HP.  
 
-**Supply** Common adventuring equipment and resources are abstracted into **Supply**. Each unit of Supply takes up one (1) slot, costs 10 coins, and can be readily converted into...
+Common adventuring equipment and resources are abstracted into **Supply**. Each unit of Supply takes up one (1) slot, costs 10 coins, and can be readily converted into...
 - Rations, 3 days
 - Torches, three (3)
 - Ammunition for one (1) missile weapon
@@ -68,14 +70,14 @@ Table: Vehicles
 When doing something risky, a character must roll a d20 *under* the appropriate ability to succeed.
 - **Fortitude (FORT)** for tests of strength or endurance
 - **Reflex (REF)** for tests of agility or precision
-- **Willpower (WILL)** for tests of concentration, battles of will, or interactions with magic
+- **Willpower (WILL)** for tests of concentration, battles of will, or interactions with magic  
 If they have **advantage** on a save, roll 2d20 and take the better result. If they have **disadvantage**, roll 2d20 and take the worse result.
 
 # Combat
 
-**Surprise** To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.  
+**SURPRISE** To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.  
 
-**Reaction** When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.  
+**REACTION** When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.  
 
 |2d6			|Reaction		|
 |-----------|--------------|
@@ -86,7 +88,7 @@ If they have **advantage** on a save, roll 2d20 and take the better result. If t
 |12+			|Enthusiastic	|
 Table: Reaction Roll Results
 
-**Distance** Wandering monster encounters take place at the following distance, depending on location and whether any parties are surprised.
+**DISTANCE** Wandering monster encounters take place at the following distance, depending on location and whether any parties are surprised.
 
 |               | Indoor         | Outdoor        |
 |---------------|----------------|----------------|
@@ -94,22 +96,22 @@ Table: Reaction Roll Results
 | Not Surprised | 1d4 moves away | 4d6 moves away |
 Table: Distance of Encounters
 
-**Actions** Each combatant may make one move (typically ~30 ft) and one action (such as an attack, a spell, another move, or interacting with something).  
+**ACTIONS** Each combatant may make one move (typically ~30 ft) and one action (such as an attack, a spell, another move, or interacting with something).  
 
-**Initiative** Actions are resolved in the following phases each round of combat. Player characters must make a **REF** save to act before their enemies in a given phase.  
+**INITIATIVE** Actions are resolved in the following phases each round of combat. Player characters must make a **REF** save to act before their enemies in a given phase.  
 
 1. Missile and thrown weapons
 2. Movement
 3. Melee weapons
 4. Magic
 
-**Attacks & Damage** The attacker rolls their weapon damage. The defender's Armor is subtracted from the damage result (note that no-one can have more than 3 Armor). The remaining total is subtracted from the defender's HP. 
+**ATTACKS & DAMAGE** The attacker rolls their weapon damage. The defender's Armor is subtracted from the damage result (note that no-one can have more than 3 Armor). The remaining total is subtracted from the defender's HP. 
 
-**Impaired** attacks deal d4 damage regardless of weapon. **Enhanced** attacks deal d12 damage regardless of weapon.  
+**IMPAIRED** attacks deal d4 damage regardless of weapon. **ENHANCED** attacks deal d12 damage regardless of weapon.  
 
-**Blast** weapons deal damage to all targets in the area. If unsure how many targets can be affected, roll the related damage die for a result.  
+**BLAST** weapons deal damage to all targets in the area. If unsure how many targets can be affected, roll the related damage die for a result.  
 
-**Critical Damage** If damage reduces a defender's HP below 0, the remaining damage is subtracted from the defender's **FORT** ability. Then, the defender must make a **FORT** save to avoid **critical damage**. Note that sometimes, ability score damage and critical damage may be directed at **REF** or **WILL** abilities, as noted in the attack description.  
+**CRITICAL DAMAGE** If damage reduces a defender's HP below 0, the remaining damage is subtracted from the defender's **FORT** ability. Then, the defender must make a **FORT** save to avoid **critical damage**. Note that sometimes, ability score damage and critical damage may be directed at **REF** or **WILL** abilities, as noted in the attack description.  
 
 If this save is failed, the defender is... 
 
@@ -127,15 +129,15 @@ If this save is failed, the defender is...
 | 6   | **Dismembered, Leg** Lose a leg. Move speed and carrying capacity halved. |
 Table: Grevious Wounds - Fortitude
 
-**Ability Score Loss** If a character's **FORT** is reduced to 0, they die. If their **REF** is reduced to 0, they are paralyzed. If their **WILL** is reduced to 0, they are comatose or insane.  
+**ABILITY SCORE LOSS** If a character's **FORT** is reduced to 0, they die. If their **REF** is reduced to 0, they are paralyzed. If their **WILL** is reduced to 0, they are comatose or insane.  
 
-**Healing** Rest for a moment to recover all HP. Rest for a week in a safe place to recover ability scores. 
+**HEALING** Rest for a moment to recover all HP. Rest for a week in a safe place to recover ability scores. 
 
-**Deprivation & Fatigue** If deprived of a need such as food or sleep, a character is **Deprived** and cannot recover HP or ability scores. If Deprived for more than a day, they accumulate **Fatigue** at a rate of one per day. Each Fatigue takes up one inventory slot, and are removed with a night's rest in a safe location once no longer Deprived.  
+**DEPRIVATION & FATIGUE** If deprived of a need such as food or sleep, a character is **Deprived** and cannot recover HP or ability scores. If Deprived for more than a day, they accumulate **Fatigue** at a rate of one per day. Each Fatigue takes up one inventory slot, and are removed with a night's rest in a safe location once no longer Deprived.  
 
-**Morale** Single foes will flee from combat upon reaching 0 HP unless they make a successful **WILL** save. Groups of enemies and allies will flee upon taking their first casualty or upon taking 50% casualties, unless they make a successful **WILL** save. The group's leader may use their **WILL** save result in place of the group's if desired. 
+**MORALE** Single foes will flee from combat upon reaching 0 HP unless they make a successful **WILL** save. Groups of enemies and allies will flee upon taking their first casualty or upon taking 50% casualties, unless they make a successful **WILL** save. The group's leader may use their **WILL** save result in place of the group's if desired. 
 
-**Fleeing** Fleeing combat requires a successful **REF** save and a location to run to.
+**FLEEING** Fleeing combat requires a successful **REF** save and a location to run to.
 
 ## Treasure
 
