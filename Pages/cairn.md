@@ -70,7 +70,8 @@ Table: Vehicles
 When doing something risky, a character must roll a d20 *under* the appropriate ability to succeed.
 - **Fortitude (FORT)** for tests of strength or endurance
 - **Reflex (REF)** for tests of agility or precision
-- **Willpower (WILL)** for tests of concentration, battles of will, or interactions with magic  
+- **Willpower (WILL)** for tests of concentration, battles of will, or interactions with magic
+
 If they have **advantage** on a save, roll 2d20 and take the better result. If they have **disadvantage**, roll 2d20 and take the worse result.
 
 # Combat
