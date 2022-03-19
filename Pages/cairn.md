@@ -1,11 +1,14 @@
 -----
+title: ItB v0.01
 author: Tyler Farrington
 date: 2022-03-19
-menu: yes
 
 -----
 
-# Cairn Hack
+# Into the Barrow - A Cairn Hack v0.01
+
+*Based on Yochai Gal's [Cairn](https://cairnrpg.com/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*  
+*by Tyler Farrington*  
 
 # Character Creation
 
@@ -35,9 +38,10 @@ Distribute +4 amongst the three saves as desired.
 |-----------------|-----------------------------|--------|----------------|------|
 | Simple weapon   | Club, cleaver, hatchet      | d6     |                | 10   |
 | Simple polearm  | Staff, pitchfork      		| d8     | bulky          | 15   |
+| Simple thrown	| Dagger, dart						| d4     | thrown, tiny   | 10   |
 | Martial weapon  | Sword, battleaxe, mace      | d8     |                | 20   |
 | Martial polearm | Halberd, poleaxe, warhammer | d10    | bulky          | 40   |
-| Thrown weapon   | Spear, handaxe              | d6     | thrown         | 20   |
+| Martial thrown  | Spear, handaxe              | d6     | thrown         | 20   |
 | Simple missile  | Sling, blowgun              | d4     | missile        | 10   |
 | Martial missile | Hunting bow                 | d6     | missile        | 20   |
 | Heavy missile   | Longbow, crossbow           | d8     | missile, bulky | 40   |
