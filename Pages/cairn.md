@@ -1,9 +1,10 @@
------
+---
 title: ItB v0.01
 author: Tyler Farrington
 date: 2022-03-19
+menu: yes
 
------
+---
 
 # Into the Barrow - A Cairn Hack v0.01
 
