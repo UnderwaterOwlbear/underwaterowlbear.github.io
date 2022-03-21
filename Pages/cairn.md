@@ -19,11 +19,37 @@ Start with...
 	- Fortitude	(FORT)	11
 	- Reflex 	(REF) 	11
 	- Will 		(WILL) 	11  
-	- Distribute +4 amongst the three ablities as desired.  
 - The following gear: 
 	- Two (2) Supply
-	- A simple weapon (d6)
 	- 3d6x10 coins.  
+- A starting package from below
+
+## Man-at-Arms
+- Poleaxe (d10, bulky)
+- Mail (armor 2)
+- Helm (armor +1, sunder)
+- Messer (d6)
+
+# Knight
+- Arming sword (d8)
+- Mail (armor 2)
+- Shield (armor +1, sunder)
+- Horse (+4 slots, fast)
+
+# Yeoman
+- Longbow (d8, bulky)
+- Tomahawk (d6, thrown)
+- Hunting dog (2 HP, bite d6)
+
+# Friar
+- Morningstar (d6)
+- Shield (armor +1, sunder)
+- Mead
+- Prayer book
+
+# Mage
+- Staff (d8, bulky)
+- Spellbook
 
 # Equipment & Inventory
 
@@ -39,12 +65,12 @@ Common adventuring equipment and resources are abstracted into **Supply**. Each 
 
 | Weapon          | Example                     | Damage | Special        | Cost |
 |-----------------|-----------------------------|--------|----------------|------|
+| Simple thrown	| Dagger, dart						| d4     | thrown, tiny   | 10   |
 | Simple weapon   | Club, cleaver, hatchet      | d6     |                | 10   |
 | Simple polearm  | Staff, pitchfork      		| d8     | bulky          | 15   |
-| Simple thrown	| Dagger, dart						| d4     | thrown, tiny   | 10   |
+| Martial thrown  | Spear, handaxe              | d6     | thrown         | 20   |
 | Martial weapon  | Sword, battleaxe, mace      | d8     |                | 20   |
 | Martial polearm | Halberd, poleaxe, warhammer | d10    | bulky          | 40   |
-| Martial thrown  | Spear, handaxe              | d6     | thrown         | 20   |
 | Simple missile  | Sling, blowgun              | d4     | missile        | 10   |
 | Martial missile | Hunting bow                 | d6     | missile        | 20   |
 | Heavy missile   | Longbow, crossbow           | d8     | missile, bulky | 40   |
@@ -52,7 +78,8 @@ Table: Weapons
 
 | Armor        | Example                     | Armor Value | Special | Cost |
 |--------------|-----------------------------|-------------|---------|------|
-| Shield       | Kite shield, round shield   | +1          |         | 10   |
+| Shield       | Kite shield, round shield   | +1          | sunder  | 10   |
+| Helm			|                             | +1          | sunder  | 20   |
 | Light armor  | Padded gambeson, mail shirt | 1           |         | 10   |
 | Medium armor | Mail hauberk, brigandine    | 2           |         | 20   |
 | Heavy armor  | Plate harness               | 3           | bulky   | 40   |
