@@ -16,9 +16,9 @@ menu: yes
 Start with... 
 - 3 hit protection (**HP**).  
 - The following abilities:
-	- Fortitude	(FORT)	11
-	- Reflex 	(REF) 	11
-	- Will 		(WILL) 	11  
+	- Strength	(STR)	11
+	- Dexterity 	(DEX) 	11
+	- Willpower 	(WIL) 	11  
 - The following gear: 
 	- Two (2) Supply
 	- 3d6x10 coins.  
@@ -30,24 +30,24 @@ Start with...
 - Helm (armor +1, sunder)
 - Messer (d6)
 
-# Knight
+## Knight
 - Arming sword (d8)
 - Mail (armor 2)
 - Shield (armor +1, sunder)
 - Horse (+4 slots, fast)
 
-# Yeoman
+## Yeoman
 - Longbow (d8, bulky)
 - Tomahawk (d6, thrown)
 - Hunting dog (2 HP, bite d6)
 
-# Friar
+## Friar
 - Morningstar (d6)
 - Shield (armor +1, sunder)
 - Mead
 - Prayer book
 
-# Mage
+## Mage
 - Staff (d8, bulky)
 - Spellbook
 
@@ -63,27 +63,41 @@ Common adventuring equipment and resources are abstracted into **Supply**. Each 
 - Camping equipment suitable for a night in the wilderness.
 - Any other miscellaneous common item that the GM deems appropriate.
 
-| Weapon          | Example                     | Damage | Special        | Cost |
-|-----------------|-----------------------------|--------|----------------|------|
-| Simple thrown	| Dagger, dart						| d4     | thrown, tiny   | 10   |
-| Simple weapon   | Club, cleaver, hatchet      | d6     |                | 10   |
-| Simple polearm  | Staff, pitchfork      		| d8     | bulky          | 15   |
-| Martial thrown  | Spear, handaxe              | d6     | thrown         | 20   |
-| Martial weapon  | Sword, battleaxe, mace      | d8     |                | 20   |
-| Martial polearm | Halberd, poleaxe, warhammer | d10    | bulky          | 40   |
-| Simple missile  | Sling, blowgun              | d4     | missile        | 10   |
-| Martial missile | Hunting bow                 | d6     | missile        | 20   |
-| Heavy missile   | Longbow, crossbow           | d8     | missile, bulky | 40   |
+| Type    | Weapon      | Damage | Special                | Cost |
+|---------|-------------|--------|------------------------|------|
+| Simple  | Dagger      | d4     | thrown, tiny           | 10   |
+| Simple  | Club        | d6     |                        | 10   |
+| Simple  | Staff       | d8     | bulky                  | 10   |
+| Simple  | Sling       | d4     | missile, tiny          | 10   |
+| Simple  | Hunting bow | d6     | missile                | 20   |
+| Martial | Sword       | d8     |                        | 20   |
+| Martial | Spear       | d6     | thrown                 | 20   |
+| Martial | Handaxe     | d6     | thrown                 | 20   |
+| Martial | Mace        | d6     | piercing 1             | 20   |
+| Martial | Battleaxe   | d10    | bulky                  | 20   |
+| Martial | Poleaxe     | d8     | bulky, piercing 1      | 20   |
+| Martial | Pike        | d8     | bulky, reach           | 20   |
+| Martial | Longbow     | d8     | missile, bulky         | 40   |
+| Martial | Crossbow    | d10    | missile, bulky, reload | 40   |
 Table: Weapons
 
-| Armor        | Example                     | Armor Value | Special | Cost |
-|--------------|-----------------------------|-------------|---------|------|
-| Shield       | Kite shield, round shield   | +1          | sunder  | 10   |
-| Helm			|                             | +1          | sunder  | 20   |
-| Light armor  | Padded gambeson, mail shirt | 1           |         | 10   |
-| Medium armor | Mail hauberk, brigandine    | 2           |         | 20   |
-| Heavy armor  | Plate harness               | 3           | bulky   | 40   |
+**THROWN** weapons may be thrown at short range.  
+**BULKY** weapons must be wielded in two hands.  
+**MISSILE** weapons may be loosed in the missile phase of combat, and require ammunition.  
+**PIERCING** weapons ignore the indicated points worth of enemy **armor** (usually 1 point).  
+**REACH** weapons always attack first in the melee phase of combat.  
+**RELOAD** weapons can only be fired every other round.  
+
+| Armor                     | Armor Value | Special | Cost |
+|-----------------------------|-------------|---------|------|
+| Shield                      | +1          | sunder  | 10   |
+| Helm                        | +1          | sunder  | 20   |
+| Padded gambeson, mail shirt | 1           |         | 10   |
+| Mail hauberk, brigandine    | 2           |         | 20   |
+| Plate harness               | 3           | bulky   | 40   |
 Table: Armor
+
+**SUNDER** shields and helms may be sundered to negate all damage from an attack.
 
 | Vehicle | Capacity | Speed  | Cost |
 |---------|----------|--------|------|
@@ -95,9 +109,9 @@ Table: Vehicles
 
 # Saves
 When doing something risky, a character must roll a d20 *under* the appropriate ability to succeed.
-- **Fortitude (FORT)** for tests of strength or endurance
-- **Reflex (REF)** for tests of agility or precision
-- **Willpower (WILL)** for tests of concentration, battles of will, or interactions with magic
+- **Strength (STR)** for tests of strength or endurance
+- **Dexterity (DEX)** for tests of agility or precision
+- **Willpower (WIL)** for tests of concentration, battles of will, or interactions with magic
 
 If they have **advantage** on a save, roll 2d20 and take the better result. If they have **disadvantage**, roll 2d20 and take the worse result.
 
@@ -126,7 +140,7 @@ Table: Distance of Encounters
 
 **ACTIONS** Each combatant may make one move (typically ~30 ft) and one action (such as an attack, a spell, another move, or interacting with something).  
 
-**INITIATIVE** Actions are resolved in the following phases each round of combat. Player characters must make a **REF** save to act before their enemies in a given phase.  
+**INITIATIVE** Actions are resolved in the following phases each round of combat. Player characters must make a **DEX** save to act before their enemies in a given phase.  
 
 1. Missile and thrown weapons
 2. Movement
@@ -139,7 +153,7 @@ Table: Distance of Encounters
 
 **BLAST** weapons deal damage to all targets in the area. If unsure how many targets can be affected, roll the related damage die for a result.  
 
-**CRITICAL DAMAGE** If damage reduces a defender's HP below 0, the remaining damage is subtracted from the defender's **FORT** ability. Then, the defender must make a **FORT** save to avoid **critical damage**. Note that sometimes, ability score damage and critical damage may be directed at **REF** or **WILL** abilities, as noted in the attack description.  
+**CRITICAL DAMAGE** If damage reduces a defender's HP below 0, the remaining damage is subtracted from the defender's **STR** ability. Then, the defender must make a **STR** save to avoid **critical damage**. Note that sometimes, ability score damage and critical damage may be directed at **DEX** or **WIL** abilities, as noted in the attack description.  
 
 If this save is failed, the defender is... 
 
@@ -147,17 +161,17 @@ If this save is failed, the defender is...
 - Will die within the hour unless stabilized by another character. 
 - Must roll on the **grevious wound** table corresponding to the ability score that sustained critical damage.
 
-| d6 | Grevious Wound                                                                                                         |
+| d6 | Grevious Wound                                                                                                  |
 |-----|----------------------------------------------------------------------------------------------------------------|
 | 1   | **Gruesome Scars** -1 to reaction rolls.                                                                       |
-| 2   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |                                                      |
+| 2   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |
 | 3   | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                         |
 | 4   | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                                  |
 | 5   | **Dismembered, Arm** Lose an arm.                                         |
 | 6   | **Dismembered, Leg** Lose a leg. Move speed and carrying capacity halved. |
-Table: Grevious Wounds - Fortitude
+Table: Grevious Wounds - Strength Critical Damage
 
-**ABILITY SCORE LOSS** If a character's **FORT** is reduced to 0, they die. If their **REF** is reduced to 0, they are paralyzed. If their **WILL** is reduced to 0, they are comatose or insane.  
+**ABILITY SCORE LOSS** If a character's **STR** is reduced to 0, they die. If their **STR** is reduced to 0, they are paralyzed. If their **WIL** is reduced to 0, they are comatose or insane.  
 
 **HEALING** Rest for a moment to recover all HP. Rest for a week in a safe place to recover ability scores. 
 
@@ -165,7 +179,7 @@ Table: Grevious Wounds - Fortitude
 
 **MORALE** Single foes will flee from combat upon reaching 0 HP unless they make a successful **WILL** save. Groups of enemies and allies will flee upon taking their first casualty or upon taking 50% casualties, unless they make a successful **WILL** save. The group's leader may use their **WILL** save result in place of the group's if desired. 
 
-**FLEEING** Fleeing combat requires a successful **REF** save and a location to run to.
+**FLEEING** Fleeing combat requires a successful **DEX** save and a location to run to.
 
 ## Treasure
 
