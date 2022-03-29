@@ -1,12 +1,12 @@
 ---
-title: ItB v0.01
+title: ItB v0.03
 author: Tyler Farrington
-date: 2022-03-19
+date: 2022-03-29
 menu: yes
 
 ---
 
-# Into the Barrow - A Cairn Hack v0.01
+# Into the Barrow - A Cairn Hack v0.03
 
 *Based on Yochai Gal's [Cairn](https://cairnrpg.com/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*  
 *by Tyler Farrington*  
@@ -16,40 +16,13 @@ menu: yes
 Start with... 
 - 3 hit protection (**HP**).  
 - The following abilities:
-	- Strength	(STR)	11
-	- Dexterity 	(DEX) 	11
-	- Willpower 	(WIL) 	11  
+	- Strength		(**STR**)	11
+	- Dexterity 	(**DEX**) 	11
+	- Willpower 	(**WIL**) 	11  
 - The following gear: 
 	- Two (2) Supply
 	- 3d6x10 coins.  
 - A starting package from below
-
-## Man-at-Arms
-- Poleaxe (d10, bulky)
-- Mail (armor 2)
-- Helm (armor +1, sunder)
-- Messer (d6)
-
-## Knight
-- Arming sword (d8)
-- Mail (armor 2)
-- Shield (armor +1, sunder)
-- Horse (+4 slots, fast)
-
-## Yeoman
-- Longbow (d8, bulky)
-- Tomahawk (d6, thrown)
-- Hunting dog (2 HP, bite d6)
-
-## Friar
-- Morningstar (d6)
-- Shield (armor +1, sunder)
-- Mead
-- Prayer book
-
-## Mage
-- Staff (d8, bulky)
-- Spellbook
 
 # Equipment & Inventory
 
@@ -69,13 +42,13 @@ Common adventuring equipment and resources are abstracted into **Supply**. Each 
 | Simple  | Club        | d6     |                        | 10   |
 | Simple  | Staff       | d8     | bulky                  | 10   |
 | Simple  | Sling       | d4     | missile, tiny          | 10   |
-| Simple  | Hunting bow | d6     | missile                | 20   |
+| Simple  | Hunting bow | d6     | missile, bulky         | 20   |
 | Martial | Sword       | d8     |                        | 20   |
 | Martial | Spear       | d6     | thrown                 | 20   |
 | Martial | Handaxe     | d6     | thrown                 | 20   |
-| Martial | Mace        | d6     | piercing 1             | 20   |
+| Martial | Mace        | d6     | piercing 2             | 20   |
 | Martial | Battleaxe   | d10    | bulky                  | 20   |
-| Martial | Poleaxe     | d8     | bulky, piercing 1      | 20   |
+| Martial | Poleaxe     | d8     | bulky, piercing 2      | 20   |
 | Martial | Pike        | d8     | bulky, reach           | 20   |
 | Martial | Longbow     | d8     | missile, bulky         | 40   |
 | Martial | Crossbow    | d10    | missile, bulky, reload | 40   |
@@ -84,7 +57,7 @@ Table: Weapons
 **THROWN** weapons may be thrown at short range.  
 **BULKY** weapons must be wielded in two hands.  
 **MISSILE** weapons may be loosed in the missile phase of combat, and require ammunition.  
-**PIERCING** weapons ignore the indicated points worth of enemy **armor** (usually 1 point).  
+**PIERCING** weapons ignore the indicated points worth of enemy **Armor** (usually 2 points).  
 **REACH** weapons always attack first in the melee phase of combat.  
 **RELOAD** weapons can only be fired every other round.  
 
@@ -147,7 +120,7 @@ Table: Distance of Encounters
 3. Melee weapons
 4. Magic
 
-**ATTACKS & DAMAGE** The attacker rolls their weapon damage. The defender's Armor is subtracted from the damage result (note that no-one can have more than 3 Armor). The remaining total is subtracted from the defender's HP. 
+**ATTACKS & DAMAGE** The attacker rolls their weapon damage. The defender's **Armor** is subtracted from the damage result (note that no-one can have more than 3 **Armor**). The remaining total is subtracted from the defender's HP. 
 
 **IMPAIRED** attacks deal d4 damage regardless of weapon. **ENHANCED** attacks deal d12 damage regardless of weapon.  
 
