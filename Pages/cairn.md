@@ -1,12 +1,12 @@
 ---
 title: ItB v0.03
 author: Tyler Farrington
-date: 2022-03-29
+date: 2022-03-30
 menu: yes
 
 ---
 
-# Into the Barrow - A Cairn Hack v0.03
+# Into the Barrow - A Cairn Hack v0.04
 
 *Based on Yochai Gal's [Cairn](https://cairnrpg.com/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*  
 *by Tyler Farrington*  
@@ -15,14 +15,14 @@ menu: yes
 
 Start with... 
 - 3 hit protection (**HP**).  
-- The following abilities:
-	- Strength		(**STR**)	11
-	- Dexterity 	(**DEX**) 	11
-	- Willpower 	(**WIL**) 	11  
-- The following gear: 
-	- Two (2) Supply
-	- 3d6x10 coins.  
+- 3d6 Strength	(**STR**)
+- 3d6 Dexterity	(**DEX**)
+- 3d6 Willpower	(**WIL**) 
+- 3d6x10 coins.  
+- Two (2) **supply**
 - A starting package from below
+
+## Fighter Packages
 
 # Equipment & Inventory
 
@@ -36,38 +36,27 @@ Common adventuring equipment and resources are abstracted into **Supply**. Each 
 - Camping equipment suitable for a night in the wilderness.
 - Any other miscellaneous common item that the GM deems appropriate.
 
-| Type    | Weapon      | Damage | Special                | Cost |
-|---------|-------------|--------|------------------------|------|
-| Simple  | Dagger      | d4     | thrown, tiny           | 10   |
-| Simple  | Club        | d6     |                        | 10   |
-| Simple  | Staff       | d8     | bulky                  | 10   |
-| Simple  | Sling       | d4     | missile, tiny          | 10   |
-| Simple  | Hunting bow | d6     | missile, bulky         | 20   |
-| Martial | Sword       | d8     |                        | 20   |
-| Martial | Spear       | d6     | thrown                 | 20   |
-| Martial | Handaxe     | d6     | thrown                 | 20   |
-| Martial | Mace        | d6     | piercing 2             | 20   |
-| Martial | Battleaxe   | d10    | bulky                  | 20   |
-| Martial | Poleaxe     | d8     | bulky, piercing 2      | 20   |
-| Martial | Pike        | d8     | bulky, reach           | 20   |
-| Martial | Longbow     | d8     | missile, bulky         | 40   |
-| Martial | Crossbow    | d10    | missile, bulky, reload | 40   |
+| Weapon          | Damage | Special | Cost | Examples                    |
+|-----------------|--------|---------|------|-----------------------------|
+| Melee, Light    | d4     | tiny    | 5    | Dagger, dart                |
+| Melee, Simple   | d6     |         | 10   | Club, hatchet, cleaver      |
+| Melee, Hand     | d8     |         | 15   | Sword, spear, mace          |
+| Melee, Polearm  | d10    | bulky   | 20   | Poleaxe, halberd, billhook  |
+| Missile, Light  | d6     |         | 15   | Sling, hand crossbow        |
+| Missile, Medium | d8     | bulky   | 25   | Hunting bow, light crossbow |
+| Missile, Heavy  | d10    | bulky   | 35   | Longbow, heavy crossbow     |
 Table: Weapons
 
-**THROWN** weapons may be thrown at short range.  
 **BULKY** weapons must be wielded in two hands.  
 **MISSILE** weapons may be loosed in the missile phase of combat, and require ammunition.  
-**PIERCING** weapons ignore the indicated points worth of enemy **Armor** (usually 2 points).  
-**REACH** weapons always attack first in the melee phase of combat.  
-**RELOAD** weapons can only be fired every other round.  
 
-| Armor                     | Armor Value | Special | Cost |
-|-----------------------------|-------------|---------|------|
-| Shield                      | +1          | sunder  | 10   |
-| Helm                        | +1          | sunder  | 20   |
-| Padded gambeson, mail shirt | 1           |         | 10   |
-| Mail hauberk, brigandine    | 2           |         | 20   |
-| Plate harness               | 3           | bulky   | 40   |
+| Armor        | Armor Value | Special | Cost | Examples                    |
+|--------------|-------------|---------|------|-----------------------------|
+| Shield       | +1          | sunder  | 10   |                             |
+| Helm         | +1          | sunder  | 20   |                             |
+| Light Armor  | 1           |         | 10   | Padded gambeson, mail shirt |
+| Medium Armor | 2           |         | 20   | Mail hauberk, brigandine    |
+| Heavy Armor  | 3           | bulky   | 40   | Plate harness               |
 Table: Armor
 
 **SUNDER** shields and helms may be sundered to negate all damage from an attack.
