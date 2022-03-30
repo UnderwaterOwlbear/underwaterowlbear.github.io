@@ -38,13 +38,12 @@ Common adventuring equipment and resources are abstracted into **Supply**. Each 
 
 | Weapon          | Damage | Special | Cost | Examples                    |
 |-----------------|--------|---------|------|-----------------------------|
-| Melee, Light    | d4     | tiny    | 5    | Dagger, dart                |
-| Melee, Simple   | d6     |         | 10   | Club, hatchet, cleaver      |
-| Melee, Hand     | d8     |         | 15   | Sword, spear, mace          |
-| Melee, Polearm  | d10    | bulky   | 20   | Poleaxe, halberd, billhook  |
-| Missile, Light  | d6     |         | 15   | Sling, hand crossbow        |
-| Missile, Medium | d8     | bulky   | 25   | Hunting bow, light crossbow |
-| Missile, Heavy  | d10    | bulky   | 35   | Longbow, heavy crossbow     |
+| Simple Hand     | d6     |         | 10   | Dagger, lub, hatchet        |
+| Simple Polearm  | d8     | bulky   | 15   | Staff, pitchfork, billhook  |
+| Martial Hand    | d8     |         | 20   | Sword, spear, mace          |
+| Martial Polearm | d10    | bulky   | 25   | Poleaxe, halberd, zweihander|
+| Missile, Light  | d6     | bulky   | 25   | Hunting bow, light crossbow |
+| Missile, Heavy  | d8     | bulky   | 35   | Longbow, heavy crossbow     |
 Table: Weapons
 
 **BULKY** weapons must be wielded in two hands.  
@@ -69,7 +68,9 @@ Table: Armor
 | Wagon   | +8 slots | slow   | 20   |
 Table: Vehicles
 
-# Saves
+# Rules
+
+## Saves
 When doing something risky, a character must roll a d20 *under* the appropriate ability to succeed.
 - **Strength (STR)** for tests of strength or endurance
 - **Dexterity (DEX)** for tests of agility or precision
@@ -77,7 +78,7 @@ When doing something risky, a character must roll a d20 *under* the appropriate 
 
 If they have **advantage** on a save, roll 2d20 and take the better result. If they have **disadvantage**, roll 2d20 and take the worse result.
 
-# Combat
+## Combat
 
 **SURPRISE** To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.  
 
@@ -143,8 +144,18 @@ Table: Grevious Wounds - Strength Critical Damage
 
 **FLEEING** Fleeing combat requires a successful **DEX** save and a location to run to.
 
-## Treasure
+# Magic
 
-## Magic
+**SPELLBOOKS** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+
+**SCROLLS** are similar to **Spellbooks**, however:
+
+- They do not take up an inventory slot.
+- They do not cause **fatigue**.
+- They disappear after one use.
+
+**CAST** a spell by holding a **Spellbook** in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory, occupying one slot. Given time and safety, PCs can enhance a spell’s impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is **deprived** or in danger, the DM may require a PC to make a **WIL** save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added **Fatigue**, the destruction of the **Spellbook**, injury, and even death.
+
+## Spells
 
 ## Monsters
