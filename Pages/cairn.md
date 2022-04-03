@@ -1,7 +1,7 @@
 ---
 title: Cairn++ v0.05
 author: Tyler Farrington
-date: 2022-03-31
+date: 2022-04-03
 menu: yes
 
 ---
@@ -20,9 +20,66 @@ Start with...
 - 3d6 Willpower	(**WIL**) 
 - 3d6x10 coins.  
 - Two (2) **supply**
-- A starting package from below
+- A class from below
 
-## Fighter Packages
+## Classes
+
+Fighter
+- +1 HP
+- Weapons: simple and martial
+- Armor: any
+- Warband: mercenary followers?
+
+Knight
+- Weapons: simple and martial
+- Armor: any
+- Warhorse
+- Liege: lord 
+- Chivalry: code of conduct
+- Manor: tenants and income
+
+Ranger
+- Weapons: simple and martial
+- Armor: light and medium
+- Woodcraft
+- Herbalism
+
+Wizard
+- Spellcasting (grimoire)
+- Weapons: simple
+- Armor: none
+- Grimoire
+- Tower: magical research
+
+Witch
+- Spellcasting (familiar)
+- Weapons: simple
+- Armor: none
+- Herbalism
+- Coven
+
+Thief
+- Weapons: simple and ranged
+- Armor: light
+- Lockpicking, stealth
+- Thieves guild
+
+Assassin
+- Weapons: simple and martial
+- Armor: light
+- Stealth, death blow
+- Assassins' guild
+
+Cleric
+- Weapons: simple
+- Armor: any
+- Spellcasting (prayers)
+- Church
+
+Barbarian
+- Weapons: simple and martial
+- Armor: 
+
 
 # Equipment & Inventory
 
