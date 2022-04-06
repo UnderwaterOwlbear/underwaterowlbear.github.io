@@ -1,12 +1,12 @@
 ---
-title: Cairn++ v0.05
+title: Cairn++ v0.06
 author: Tyler Farrington
-date: 2022-04-03
+date: 2022-04-05
 menu: yes
 
 ---
 
-# Cairn House Rules v0.05
+# Cairn House Rules v0.06
 
 *Based on Yochai Gal's [Cairn](https://cairnrpg.com/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*  
 *by Tyler Farrington*  
@@ -14,79 +14,20 @@ menu: yes
 # Character Creation
 
 Start with... 
-- 4 hit protection (**HP**).  
+- 3 hit protection (**HP**).  
 - 3d6 Strength		(**STR**)
 - 3d6 Dexterity	(**DEX**)
 - 3d6 Willpower	(**WIL**) 
 - 3d6x10 coins.  
 - Two (2) **supply**
-- A class from below
-
-## Classes
-
-Fighter
-- +1 HP
-- Weapons: simple and martial
-- Armor: any
-- Warband: mercenary followers?
-
-Knight
-- Weapons: simple and martial
-- Armor: any
-- Warhorse
-- Liege: lord 
-- Chivalry: code of conduct
-- Manor: tenants and income
-
-Ranger
-- Weapons: simple and martial
-- Armor: light and medium
-- Woodcraft
-- Herbalism
-
-Wizard
-- Spellcasting (grimoire)
-- Weapons: simple
-- Armor: none
-- Grimoire
-- Tower: magical research
-
-Witch
-- Spellcasting (familiar)
-- Weapons: simple
-- Armor: none
-- Herbalism
-- Coven
-
-Thief
-- Weapons: simple and ranged
-- Armor: light
-- Lockpicking, stealth
-- Thieves guild
-
-Assassin
-- Weapons: simple and martial
-- Armor: light
-- Stealth, death blow
-- Assassins' guild
-
-Cleric
-- Weapons: simple
-- Armor: any
-- Spellcasting (prayers)
-- Church
-
-Barbarian
-- Weapons: simple and martial
-- Armor: 
-
+- A **starting package** from below
 
 # Equipment & Inventory
 
 **INVENTORY SLOTS** A character has ten (10) inventory slots. An item usually takes up one slot. **Bulky** items take up two slots and generally take two hands to use. Any number of **tiny** items can fit together into one slot. If all inventory slots are full, the character is reduced to 0 HP.  
 
 **SUPPLY** Common adventuring equipment and resources are abstracted into **Supply**. Each unit of Supply takes up one (1) slot, costs 10 coins, and can be readily converted into...
-- Rations, 3 days
+- Rations, three (3) days
 - Torches, three (3)
 - Ammunition for one (1) missile weapon
 - A common tool, such as a shovel, pickaxe, oar, rope, or the like.
@@ -95,7 +36,7 @@ Barbarian
 
 | Weapon          | Damage | Special | Cost | Examples                    |
 |-----------------|--------|---------|------|-----------------------------|
-| Simple Hand     | d6     |         | 10   | Dagger, lub, hatchet        |
+| Simple Hand     | d6     |         | 10   | Dagger, club, hatchet        |
 | Simple Polearm  | d8     | bulky   | 15   | Staff, pitchfork, billhook  |
 | Martial Hand    | d8     |         | 20   | Sword, spear, mace          |
 | Martial Polearm | d10    | bulky   | 25   | Poleaxe, halberd, zweihander|
