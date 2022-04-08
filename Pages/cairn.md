@@ -29,135 +29,135 @@ Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loadou
 ### Warriors
 
 1. Fighter
-- Glaive (d10, bulky)
-- Falchion (d8)
-- Splintmail (2 Armor)
-- Tobacco Pouch & Pipe
-- Dice Set
+    - Glaive (d10, bulky)
+    - Falchion (d8)
+    - Splintmail (2 Armor)
+    - Tobacco Pouch & Pipe
+    - Dice Set
 
 2. Hunter
-- Longbow (d8, bulky)
-- Hatchet (d6)
-- Padded Leathers (1 Armor)
-- Large Trap
-- Thundering Horn
-- Bloodhound (2 HP, 12 DEX, Bite (d6))
+    - Longbow (d8, bulky)
+    - Hatchet (d6)
+    - Padded Leathers (1 Armor)
+    - Large Trap
+    - Thundering Horn
+    - Bloodhound (2 HP, 12 DEX, Bite (d6))
 
 3. Knight
-- Arming Sword (d8)
-- Ornate Mail (2 Armor, bulky)
-- Kite Shield (1 Armor)
-- Heraldic Cape
-- Letters Patent
-- Riding Horse (+2 Slots, 4 HP, Kick (d6))
+    - Arming Sword (d8)
+    - Ornate Mail (2 Armor, bulky)
+    - Kite Shield (1 Armor)
+    - Heraldic Cape
+    - Letters Patent
+    - Riding Horse (+2 Slots, 4 HP, Kick (d6))
 
 4. Warden
-- Silvered Knife (d6)
-- Long Staff (d8, bulky)
-- Heavy Hooded Cloak (1 Armor)
-- Talisman (*Wizard Mark* when touching your quarry’s prints.)
-- Wolfsbane
-- Thowing Bolas
+    - Silvered Knife (d6)
+    - Long Staff (d8, bulky)
+    - Heavy Hooded Cloak (1 Armor)
+    - Talisman (*Wizard Mark* when touching your quarry’s prints.)
+    - Wolfsbane
+    - Thowing Bolas
 
 ### Mages
 
 1. Dowser
-- Sling (d4)
-- Patchwork Doublet (1 Armor)
-- Dowsing Rod
-- Eyestone (*Sense* if placed in fresh water.)
-- Worn Map
-- Spyglass
+    - Sling (d4)
+    - Patchwork Doublet (1 Armor)
+    - Dowsing Rod
+    - Eyestone (*Sense* if placed in fresh water.)
+    - Worn Map
+    - Spyglass
 
 2. Illusionist
-- Ornate Cane (d6)
-- Impressive Robes (1 Armor)
-- Fire Oil
-- Mirror
-- Spellbook (*Mirrorwalk* or *Objectify*)
-- Spellbook (*Auditory Illusion* or *Visual Illusion*)
+    - Ornate Cane (d6)
+    - Impressive Robes (1 Armor)
+    - Fire Oil
+    - Mirror
+    - Spellbook (*Mirrorwalk* or *Objectify*)
+    - Spellbook (*Auditory Illusion* or *Visual Illusion*)
 
 3. Wizard
-- Dagger (d6)
-- Spellbook (random spell)
-- Spellbook (random spell)
-- Ragged Clothing (hidden pockets)
-- Parchment, Quill & Ink
+    - Dagger (d6)
+    - Spellbook (random spell)
+    - Spellbook (random spell)
+    - Ragged Clothing (hidden pockets)
+    - Parchment, Quill & Ink
 
 4. Witch
-- Dagger (d6)
-- Yew Wand (*Pacify* when smacked on knuckles)
-- Spellbook ()
-- Spellbook ()
-- Black Cat (1 HP, 15 DEX, 13 WIL, Claws (d4))
+    - Dagger (d6)
+    - Yew Wand (*Pacify* when smacked on knuckles)
+    - Spellbook ()
+    - Spellbook ()
+    - Black Cat (1 HP, 15 DEX, 13 WIL, Claws (d4))
 
 ### Priests
 
 1. Cleric
-- Heavy Maul (d10, bulky)
-- Curved Blade (d8)
-- Chainmail (2 Armor, bulky)
-- Gauntlets (1 Armor)
-- Holy Symbol (*Ward* once per day following a devout prayer.)
-- Cloak of the Order
+    - Heavy Maul (d10, bulky)
+    - Curved Blade (d8)
+    - Chainmail (2 Armor, bulky)
+    - Gauntlets (1 Armor)
+    - Holy Symbol (*Ward* once per day following a devout prayer.)
+    - Cloak of the Order
 
 2. Friar
-- Scepter (d6)
-- Deceptive Robes (1 Armor)
-- Censer & Holy Water
-- Jug of Honey Wine
-- Folk Songbook
-- Cart (+4 slots, bulky)
+    - Scepter (d6)
+    - Deceptive Robes (1 Armor)
+    - Censer & Holy Water
+    - Jug of Honey Wine
+    - Folk Songbook
+    - Cart (+4 slots, bulky)
 
 3. Druid
-- Shepherd’s Crook (d8, bulky)
-- Jute Clothing
-- Witchwood Seal (*Beast Form* when in clear view of the sun or moon.)
-- Face Paint
-- Herbal Poultice
-- Owl (1 HP, 16 DEX, Talons (d4))
+    - Shepherd’s Crook (d8, bulky)
+    - Jute Clothing
+    - Witchwood Seal (*Beast Form* when in clear view of the sun or moon.)
+    - Face Paint
+    - Herbal Poultice
+    - Owl (1 HP, 16 DEX, Talons (d4))
 
 4. Paladin
-- Holy Water Sprinkler (d8)
-- Swordbreaker (d6)
-- Chainmail (2 Armor, bulky)
-- Bag of Salt
-- 10’ Chain
-- Perfume
+    - Holy Water Sprinkler (d8)
+    - Swordbreaker (d6)
+    - Chainmail (2 Armor, bulky)
+    - Bag of Salt
+    - 10’ Chain
+    - Perfume
 
 ### Rogues
 
 1. Assassin
-- Blowgun (d6)
-- Garrote
-- Poison Ring
-- Disguise Kit
-- Antitoxin
-- Padded Boots
+    - Blowgun (d6)
+    - Garrote
+    - Poison Ring
+    - Disguise Kit
+    - Antitoxin
+    - Padded Boots
 
 2. Minstrel
-- Sling (d4)
-- Poignard (d6)
-- Hurdy-Gurdy
-- Set of Juggling Balls
-- Colorful Cape
-- Soap
+    - Sling (d4)
+    - Poignard (d6)
+    - Hurdy-Gurdy
+    - Set of Juggling Balls
+    - Colorful Cape
+    - Soap
 
 3. Delver
-- Adze (d6)
-- Lantern-Helmet (1 Armor, acts as lantern)
-- Pulley
-- Grease
-- Magnifying Glass
-- 25’ Hempen Rope
+    - Adze (d6)
+    - Lantern-Helmet (1 Armor, acts as lantern)
+    - Pulley
+    - Grease
+    - Magnifying Glass
+    - 25’ Hempen Rope
 
 4. Thief
-- Two Daggers (d6+d6)
-- Hooded Jerkin (1 Armor)
-- Lockpicks
-- Caltrops
-- Grappling Hook
-- Metal File
+    - Two Daggers (d6+d6)
+    - Hooded Jerkin (1 Armor)
+    - Lockpicks
+    - Caltrops
+    - Grappling Hook
+    - Metal File
 
 # Equipment & Inventory
 
