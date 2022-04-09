@@ -1,12 +1,12 @@
 ---
-title: Cairn++ v0.05
+title: Cairn++ v0.07
 author: Tyler Farrington
-date: 2022-04-03
+date: 2022-04-07
 menu: yes
 
 ---
 
-# Cairn House Rules v0.05
+# Cairn House Rules v0.07
 
 *Based on Yochai Gal's [Cairn](https://cairnrpg.com/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*  
 *by Tyler Farrington*  
@@ -14,79 +14,157 @@ menu: yes
 # Character Creation
 
 Start with... 
-- 4 hit protection (**HP**).  
+- 3 hit protection (**HP**).  
 - 3d6 Strength		(**STR**)
 - 3d6 Dexterity	(**DEX**)
 - 3d6 Willpower	(**WIL**) 
 - 3d6x10 coins.  
 - Two (2) **supply**
-- A class from below
+- A **starting package** from below
 
-## Classes
+## Starting Packages
 
-Fighter
-- +1 HP
-- Weapons: simple and martial
-- Armor: any
-- Warband: mercenary followers?
+Originally by [Jim Parkin](https://classless-kobolds.itch.io/d66-starting-loadouts-for-cairn).
 
-Knight
-- Weapons: simple and martial
-- Armor: any
-- Warhorse
-- Liege: lord 
-- Chivalry: code of conduct
-- Manor: tenants and income
+### Warriors
 
-Ranger
-- Weapons: simple and martial
-- Armor: light and medium
-- Woodcraft
-- Herbalism
+1. Fighter
+    - Glaive (d10, bulky)
+    - Falchion (d8)
+    - Splintmail (2 Armor)
+    - Tobacco Pouch & Pipe
+    - Dice Set
 
-Wizard
-- Spellcasting (grimoire)
-- Weapons: simple
-- Armor: none
-- Grimoire
-- Tower: magical research
+2. Hunter
+    - Longbow (d8, bulky)
+    - Hatchet (d6)
+    - Padded Leathers (1 Armor)
+    - Large Trap
+    - Thundering Horn
+    - Bloodhound (2 HP, 12 DEX, Bite (d6))
 
-Witch
-- Spellcasting (familiar)
-- Weapons: simple
-- Armor: none
-- Herbalism
-- Coven
+3. Knight
+    - Arming Sword (d8)
+    - Ornate Mail (2 Armor, bulky)
+    - Kite Shield (1 Armor)
+    - Heraldic Cape
+    - Letters Patent
+    - Riding Horse (+2 Slots, 4 HP, Kick (d6))
 
-Thief
-- Weapons: simple and ranged
-- Armor: light
-- Lockpicking, stealth
-- Thieves guild
+4. Warden
+    - Silvered Knife (d6)
+    - Long Staff (d8, bulky)
+    - Heavy Hooded Cloak (1 Armor)
+    - Talisman (*Wizard Mark* when touching your quarry’s prints.)
+    - Wolfsbane
+    - Thowing Bolas
 
-Assassin
-- Weapons: simple and martial
-- Armor: light
-- Stealth, death blow
-- Assassins' guild
+### Mages
 
-Cleric
-- Weapons: simple
-- Armor: any
-- Spellcasting (prayers)
-- Church
+1. Dowser
+    - Sling (d4)
+    - Patchwork Doublet (1 Armor)
+    - Dowsing Rod
+    - Eyestone (*Sense* if placed in fresh water.)
+    - Worn Map
+    - Spyglass
 
-Barbarian
-- Weapons: simple and martial
-- Armor: 
+2. Illusionist
+    - Ornate Cane (d6)
+    - Impressive Robes (1 Armor)
+    - Fire Oil
+    - Mirror
+    - Spellbook (*Mirrorwalk* or *Objectify*)
+    - Spellbook (*Auditory Illusion* or *Visual Illusion*)
 
+3. Wizard
+    - Dagger (d6)
+    - Spellbook (random spell)
+    - Spellbook (random spell)
+    - Ragged Clothing (hidden pockets)
+    - Parchment, Quill & Ink
+
+4. Witch
+    - Dagger (d6)
+    - Yew Wand (*Pacify* when smacked on knuckles)
+    - Spellbook ()
+    - Spellbook ()
+    - Black Cat (1 HP, 15 DEX, 13 WIL, Claws (d4))
+
+### Priests
+
+1. Cleric
+    - Heavy Maul (d10, bulky)
+    - Curved Blade (d8)
+    - Chainmail (2 Armor, bulky)
+    - Gauntlets (1 Armor)
+    - Holy Symbol (*Ward* once per day following a devout prayer.)
+    - Cloak of the Order
+
+2. Friar
+    - Scepter (d6)
+    - Deceptive Robes (1 Armor)
+    - Censer & Holy Water
+    - Jug of Honey Wine
+    - Folk Songbook
+    - Cart (+4 slots, bulky)
+
+3. Druid
+    - Shepherd’s Crook (d8, bulky)
+    - Jute Clothing
+    - Witchwood Seal (*Beast Form* when in clear view of the sun or moon.)
+    - Face Paint
+    - Herbal Poultice
+    - Owl (1 HP, 16 DEX, Talons (d4))
+
+4. Paladin
+    - Holy Water Sprinkler (d8)
+    - Swordbreaker (d6)
+    - Chainmail (2 Armor, bulky)
+    - Bag of Salt
+    - 10’ Chain
+    - Perfume
+
+### Rogues
+
+1. Assassin
+    - Blowgun (d6)
+    - Garrote
+    - Poison Ring
+    - Disguise Kit
+    - Antitoxin
+    - Padded Boots
+
+2. Minstrel
+    - Sling (d4)
+    - Poignard (d6)
+    - Hurdy-Gurdy
+    - Set of Juggling Balls
+    - Colorful Cape
+    - Soap
+
+3. Delver
+    - Adze (d6)
+    - Lantern-Helmet (1 Armor, acts as lantern)
+    - Pulley
+    - Grease
+    - Magnifying Glass
+    - 25’ Hempen Rope
+
+4. Thief
+    - Two Daggers (d6+d6)
+    - Hooded Jerkin (1 Armor)
+    - Lockpicks
+    - Caltrops
+    - Grappling Hook
+    - Metal File
 
 # Equipment & Inventory
 
-**INVENTORY SLOTS** A character has ten (10) inventory slots. An item usually takes up one slot. **Bulky** items take up two slots and generally take two hands to use. Any number of **tiny** items can fit together into one slot. If all inventory slots are full, the character is reduced to 0 HP.  
+**INVENTORY SLOTS** A character has ten (10) inventory slots. An item usually takes up one slot. **Bulky** items take up two slots and generally take two hands to use. Any number of **tiny** items can fit together into one slot. If all inventory slots are full, the character is reduced to 0 **HP**.  
 
 **SUPPLY** Common adventuring equipment and resources are abstracted into **Supply**. Each unit of Supply takes up one (1) slot, costs 10 coins, and can be readily converted into...
-- Rations, 3 days
+- Rations, three (3) days
 - Torches, three (3)
 - Ammunition for one (1) missile weapon
 - A common tool, such as a shovel, pickaxe, oar, rope, or the like.
@@ -95,10 +173,11 @@ Barbarian
 
 | Weapon          | Damage | Special | Cost | Examples                    |
 |-----------------|--------|---------|------|-----------------------------|
-| Simple Hand     | d6     |         | 10   | Dagger, lub, hatchet        |
+| Simple Hand     | d6     |         | 10   | Dagger, club, hatchet       |
 | Simple Polearm  | d8     | bulky   | 15   | Staff, pitchfork, billhook  |
 | Martial Hand    | d8     |         | 20   | Sword, spear, mace          |
 | Martial Polearm | d10    | bulky   | 25   | Poleaxe, halberd, zweihander|
+| Missile, Sling  | d4     |         | 10   |                             |
 | Missile, Light  | d6     | bulky   | 25   | Hunting bow, light crossbow |
 | Missile, Heavy  | d8     | bulky   | 35   | Longbow, heavy crossbow     |
 Table: Weapons
@@ -319,7 +398,7 @@ Table: Grevious Wounds - Strength Critical Damage
 | 100  | X-Ray Vision      | You can see through walls, dirt, clothing, etc.                                                                                                         |
 Table: 100 Spells
 
-| d666 | Spell                       | Effect                                                                                                                                                                                  |
+| d216 | Spell                       | Effect                                                                                                                                                                                  |
 |------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Adaptive Skin               | Target can exist comfortably in hot or cold environments.                                                                                                                               |
 | 2    | Addle Brain                 | Target must pass WIL save or drop to 0 WIL for 1 hour.                                                                                                                                  |
@@ -537,6 +616,6 @@ Table: 100 Spells
 | 214  | Wizard’s Haven              | A small, walled-in area cannot be scryed.                                                                                                                                               |
 | 215  | Wizardsniff                 | You can feel any magic within a 60ft radius.                                                                                                                                            |
 | 216  | Word of Pain                | A single phrase from your lips does 1d12 blast damage. Affected targets are also deafened.                                                                                              |
-Table: 666 More Spells
+Table: 216 More Spells
 
 ## Monsters
