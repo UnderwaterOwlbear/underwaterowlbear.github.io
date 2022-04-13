@@ -1,5 +1,5 @@
 ---
-title: Cairn++
+title: Cairn
 author: Tyler Farrington
 date: 2022-04-07
 menu: no

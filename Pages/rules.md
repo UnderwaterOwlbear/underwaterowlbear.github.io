@@ -10,6 +10,6 @@ menu: yes
 
 [Barrows & Basilisks v1.06](/barrows-basilisks)
 
-[My Cairn Hack, Cairn++](/cairn++)
+[My Cairn Hack](/cairn)
 
-[SWAT Micro Skirmish Rules](../Posts/swat-micro-skirmish-wargame)
+[SWAT Micro Skirmish Rules](/swat-micro-skirmish-wargame)
