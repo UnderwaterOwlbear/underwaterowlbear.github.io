@@ -1,8 +1,8 @@
 ---
-title: B&B v1.06
+title: Barrows Basilisks
 author: Tyler Farrington
 date: 2022-03-13
-menu: yes
+menu: no
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Cairn++ v0.07
+title: Cairn++
 author: Tyler Farrington
 date: 2022-04-07
-menu: yes
+menu: no
 
 ---
 
