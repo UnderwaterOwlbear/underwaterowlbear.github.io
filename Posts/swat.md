@@ -1,5 +1,5 @@
 ---
-title: SWAT Micro Skirmish Wargame v0.02
+title: SWAT Micro Skirmish Wargame
 author: Tyler Farrington
 date: 2022-04-09
 
