@@ -1,26 +1,26 @@
 ---
-title: SWAT Micro Skirmish Wargame
+title: SWAT Micro Skirmish Wargame v0.02
 author: Tyler Farrington
 date: 2022-04-09
 
 ---
 
-# SWAT Micro Skirmish Wargame
+# SWAT Micro Skirmish Wargame v0.02
 
-Inspired by [this post](https://as-they-must.blogspot.com/2022/04/the-best-case-scenario-micro-wargame.html) on Numbers Aren't Real.
+Inspired by [this post](https://as-they-must.blogspot.com/2022/04/the-best-case-scenario-micro-wargame.html) on Numbers Aren't Real and all the [Ground Branch](https://store.steampowered.com/app/16900/GROUND_BRANCH/) I've been playing with my brother.
 
 Alternating activations.
 
 Operators have 2 HP, 
 
-Basic mechanic: roll *n*d6, checked highest result.
-- 6 is a hit
+Basic shoot mechanic: roll dice, check result.
+- 6+ is a hit
 - 4 or 5 is pinned
-- 3 or less is no effect
+- 1, 2, or 3 is no effect
 
 Remove number of dice rolled from ammo.  
-If *pinned*, can't move, -1d to your shoot actions.  
-If in *cover*, *hit* results count as *pinned* instead.  
+If **pinned**, can't move.  
+If in **cover**, **hit** results count as **pinned** instead.  
 
 Ranges:
 - Short = 6"
@@ -29,27 +29,38 @@ Ranges:
 
 Each turn, move 6" and take one action:
 - Shoot
-	- Bolt action, pump, etc = 1 die max
-	- Semi-auto = 3 dice max
+	- Bolt action, pump, etc = 1 ammo per shot max
+	- Semi-auto = 3 ammo per shot max
 	- Full-auto = as many as in magazine
-- Sprint 1d6"
-- Reload: restore all ammo dice
-- Aim: +1d to next shoot action
+- Sprint: move 1d6"
+- Reload: restore all ammo
+- Aim: next shoot action uses one die size bigger
 - Overwatch: free shoot action against next enemy in line of sight (can interrupt moves)
 - Switch Weapon: swap between weapons or gear
+- Use Gear: throw grenade, use first aid kit, etc.
 
 Equipment
 - Ballistic plate: +1 HP
 - First aid kit: restore 1 HP
 - Flashbang: short range, targets can't act this round
 - Smoke: short range, line of sight blocked by smoke
-- Frag: short range, 4d attack
+- Frag: short range, d10 attack
 - Ballistic shield: moveable cover in one direction, heavy (1/2 speed)
 
 Weapons:
-- Assault Rifle: ammo 6, full-auto, medium range
-- SMG: ammo 9, full-auto, short range
-- Pistol: ammo 3, semi-auto, short range, quick draw (free action to swap and shoot)
-- Sniper Rifle: ammo 3, bolt action, long range, +2d at long range
-- SAW: ammo 12, full-auto, medium range, heavy (1/2 speed)
-- Shotgun: ammo 3, pump action, short range, +2d at short range
+- Assault Rifle: ammo 6d6, full-auto, medium range
+- SMG: ammo 9d6, full-auto, short range
+- Pistol: ammo 3d6, semi-auto, short range, quick draw (free action to swap and shoot)
+- Sniper Rifle: ammo 3d8, bolt action, long range
+- SAW: ammo 12d6, full-auto, medium range, heavy (1/2 speed)
+- Shotgun: ammo 9d6, pump action, short range, use three ammo per shot, can't **aim**
+
+Classes:
+- Breacher: You carry a **breaching charge**. Use it to make an entryway wherever you want.
+- Medic: First aid kits you carry gain an additional charge.
+- Marksman: You can **aim** twice in a row (next shoot action uses two die sizes bigger).
+- Squad Leader: You can give up your action to allow an ally to act on your turn (even if they've already acted this round).
+- Grenadier: You have an underbarrel grenade launcher on your **assault rifle**. You can fire grenades at **medium range**.
+- Scout: You move 2d6" when sprinting.
+- Drone Operator: You have a **quadcopter drone** with 1 HP and move 12". Spend your action to control it.
+- EOD Tech: You have a **bomb disposal robot** with 3 HP, move 3", and a mounted SMG. Spend your action to control it.
