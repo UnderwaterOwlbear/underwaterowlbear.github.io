@@ -33,17 +33,17 @@ When a character gains a level, roll all of their hit dice (HD). They are d6. If
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
 **Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.    
 
-|Level|XP		|HD	|Save	|To-Hit	|
-|:---:|-------:|:---:|:---:|:------:|
-|1		|0			|1		|14+	|+1		|
-|2		|2,000	|2		|13+	|+2		|
-|3		|4,000	|3		|12+	|+3		|
-|4		|8,000	|4		|11+	|+4		|
-|5		|16,000	|5		|10+	|+5		|
-|6		|32,000	|6		|9+	|+6		|
-|7		|64,000	|7		|8+	|+7		|
-|8		|128,000	|8		|7+	|+8		|
-|9		|256,000	|9		|6+	|+9		|
+| Level | XP      | HD | Save | To-Hit |
+|:-----:|--------:|:--:|:----:|:------:|
+| 1     | 0       | 1  | 14+  | +1     |
+| 2     | 2,000   | 2  | 13+  | +2     |
+| 3     | 4,000   | 3  | 12+  | +3     |
+| 4     | 8,000   | 4  | 11+  | +4     |
+| 5     | 16,000  | 5  | 10+  | +5     |
+| 6     | 32,000  | 6  | 9+   | +6     |
+| 7     | 64,000  | 7  | 8+   | +7     |
+| 8     | 128,000 | 8  | 7+   | +8     |
+| 9     | 256,000 | 9  | 6+   | +9     |
 
 Table: Fighter Levels
 
@@ -53,17 +53,17 @@ Table: Fighter Levels
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
-|Level	|XP		|HD		|Save	|To-Hit	|1st|2nd|3rd|4th|5th|
-|:-----:|------:|:-----:|:---:|:------:|:-:|:-:|:-:|:-:|:-:|
-|1		|0		|1		|15+|+1		| 1 |    |    |    |    |
-|2		|2,500	|1		|14+|+1		| 2 |    |    |    |    |
-|3		|5,000	|2		|13+|+1		| 3 | 1 |    |    |    |
-|4		|10,000	|2		|12+|+1		| 4 | 2 |    |    |    |
-|5		|20,000	|3		|11+|+1		| 4 | 2 | 1 |    |    |
-|6		|40,000	|3		|10+|+1		| 4 | 2 | 2 |    |    |
-|7		|50,000	|4		|9+	|+1		| 4 | 3 | 2 | 1 |    |
-|8		|100,000|4		|8+	|+1		| 4 | 3 | 3 | 2 |    |
-|9		|200,000|5		|7+	|+1		| 4 | 3 | 3 | 2 | 1 |
+| Level | XP      | HD | Save | To-Hit | 1st | 2nd | 3rd | 4th | 5th |
+|:-----:|--------:|:--:|:----:|:------:|:---:|:---:|:---:|:---:|:---:|
+| 1     | 0       | 1  | 15+  | +1     | 1   |     |     |     |     |
+| 2     | 2,500   | 1  | 14+  | +1     | 2   |     |     |     |     |
+| 3     | 5,000   | 2  | 13+  | +1     | 3   | 1   |     |     |     |
+| 4     | 10,000  | 2  | 12+  | +1     | 4   | 2   |     |     |     |
+| 5     | 20,000  | 3  | 11+  | +1     | 4   | 2   | 1   |     |     |
+| 6     | 40,000  | 3  | 10+  | +1     | 4   | 2   | 2   |     |     |
+| 7     | 50,000  | 4  | 9+   | +1     | 4   | 3   | 2   | 1   |     |
+| 8     | 100,000 | 4  | 8+   | +1     | 4   | 3   | 3   | 2   |     |
+| 9     | 200,000 | 5  | 7+   | +1     | 4   | 3   | 3   | 2   | 1   |
 
 Table: Mage Levels
 
@@ -80,17 +80,17 @@ Table: Mage Levels
 
 To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
 
-|Level|XP		|HD	|Save	|To-Hit	|Thievery	|
-|:---:|-------:|:---:|:---:|:------:|:---------:|
-|1		|0			|1		|14+	|+1		|5+			|
-|2		|1,250	|1		|13+	|+1		|4+			|
-|3		|2,500	|2		|12+	|+1		|4+			|
-|4		|5,000	|2		|11+	|+1		|4+			|
-|5		|10,000	|3		|10+	|+1		|3+			|
-|6		|20,000	|3		|9+	|+1		|3+			|
-|7		|40,000	|4		|8+	|+1		|3+			|
-|8		|80,000	|4		|7+	|+1		|2+			|
-|9		|160,000	|5		|6+	|+1		|2+			|
+| Level | XP      | HD | Save | To-Hit | Thievery |
+|:-----:|--------:|:--:|:----:|:------:|:--------:|
+| 1     | 0       | 1  | 14+  | +1     | 5+       |
+| 2     | 1,250   | 1  | 13+  | +1     | 4+       |
+| 3     | 2,500   | 2  | 12+  | +1     | 4+       |
+| 4     | 5,000   | 2  | 11+  | +1     | 4+       |
+| 5     | 10,000  | 3  | 10+  | +1     | 3+       |
+| 6     | 20,000  | 3  | 9+   | +1     | 3+       |
+| 7     | 40,000  | 4  | 8+   | +1     | 3+       |
+| 8     | 80,000  | 4  | 7+   | +1     | 2+       |
+| 9     | 160,000 | 5  | 6+   | +1     | 2+       |
 
 Table: Thief Levels
 
@@ -103,19 +103,19 @@ A man can carry up to an additional ten (10) items (for a total of twenty). When
 
 ## Items
 
-|Armor					|AC	|Cost	|Encumbrance as...|
-|--------------------|:---:|----:|-------------:|
-|Unarmored				|10	|-		|-					|
-|Padded Gambeson		|12	|10sp	|2 items			|
-|Mail Hauberk			|14	|250sp|4 items			|
-|Bronze Breastplate	|16	|3,000sp|6 items		|
+| Armor              | AC | Cost    | Encumbrance as... |
+|:-------------------|:--:|--------:|:------------------|
+| Unarmored          | 10 | -       | -                 |
+| Padded Gambeson    | 12 | 10sp    | 2 items           |
+| Mail Hauberk       | 14 | 250sp   | 4 items           |
+| Bronze Breastplate | 16 | 3,000sp | 6 items           |
 
 Table: Armor and Encumbrance
 
-|Item				|AC	|Cost	|
-|--------------|:---:|----:|
-|Shield			|+1	|10sp	|
-|Helm				|+1	|20sp	|
+| Item   | AC | Cost |
+|:-------|:--:|-----:|
+| Shield | +1 | 10sp |
+| Helm   | +1 | 20sp |
 
 Table: Shields and Helms
 
@@ -126,20 +126,20 @@ Table: Shields and Helms
 - **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 50sp
 - **Mirrored Bronze**: grants advantage to saves vs. gaze attacks, 100sp
 
-|Weapon				|Damage	|Cost	|Notes		|
-|-----------------|:-------|----:|:---------:|
-|Axe, battle		|d6		|10sp	|bulky		|
-|Axe, hand			|d6		|10sp	|thrown		|
-|Bow					|d6		|40sp	|bulky		|
-|Arrows, quiver	|-			|10sp	|				|
-|Club					|d6		|-		|				|
-|Knife				|d3		|4sp	|thrown, tiny|
-|Sling				|d3		|4sp	|tiny			|
-|Staff				|d6		|-		|bulky		|
-|Spear				|d6		|10sp	|thrown, bulky		|
-|Sword				|d6		|40sp	|				|
-|Torch				|d3		|1sp	|				|
-|Unarmed				|1			|-		|				|
+| Weapon         | Damage | Cost | Notes         |
+|:---------------|:------:|-----:|:--------------|
+| Axe, battle    | d6     | 10sp | bulky         |
+| Axe, hand      | d6     | 10sp | thrown        |
+| Bow            | d6     | 40sp | bulky         |
+| Arrows, quiver | -      | 10sp |               |
+| Club           | d6     | -    |               |
+| Knife          | d3     | 4sp  | thrown, tiny  |
+| Sling          | d3     | 4sp  | tiny          |
+| Staff          | d6     | -    | bulky         |
+| Spear          | d6     | 10sp | thrown, bulky |
+| Sword          | d6     | 40sp |               |
+| Torch          | d3     | 1sp  |               |
+| Unarmed        | 1      | -    |               |
 
 Table: Weapons
 
@@ -161,28 +161,28 @@ Table: Weapons
 
 **Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.     
 
-|Item						|Cost			|Notes		|
-|--------------------|----------:|:---------:|
-|Backpack, leather	|4sp			|tiny			|
-|Bedroll					|2sp			|				|
-|Candles, four			|1sp			|				|
-|Crowbar					|3sp			|				|
-|Grimoire				|20sp			|				|
-|Hammer					|3sp			|				|
-|Mirror					|10sp			|tiny			|
-|Pickaxe					|3sp			|				|
-|Pole, 10ft				|1sp			|				|
-|Quicksilver, vial	|10sp			|tiny			|
-|Rations, one day		|1sp			|				|
-|Rope, 100ft			|2sp			|				|
-|Sack, large			|2sp			|tiny			|
-|Sack, small			|1sp			|tiny			|
-|Shovel					|3sp			|				|
-|Spikes, iron, six	|6sp			|				|
-|Tent, three-person	|10sp			|bulky		|
-|Torch					|1sp			|				|
-|Tinderbox				|2sp			|tiny			|
-|Waterskin, one day	|1sp			|				|
+| Item               | Cost | Notes |
+|:-------------------|-----:|:-----:|
+| Backpack, leather  | 4sp  | tiny  |
+| Bedroll            | 2sp  |       |
+| Candles, four      | 1sp  |       |
+| Crowbar            | 3sp  |       |
+| Grimoire           | 20sp |       |
+| Hammer             | 3sp  |       |
+| Mirror             | 10sp | tiny  |
+| Pickaxe            | 3sp  |       |
+| Pole, 10ft         | 1sp  |       |
+| Quicksilver, vial  | 10sp | tiny  |
+| Rations, one day   | 1sp  |       |
+| Rope, 100ft        | 2sp  |       |
+| Sack, large        | 2sp  | tiny  |
+| Sack, small        | 1sp  | tiny  |
+| Shovel             | 3sp  |       |
+| Spikes, iron, six  | 6sp  |       |
+| Tent, three-person | 10sp | bulky |
+| Torch              | 1sp  |       |
+| Tinderbox          | 2sp  | tiny  |
+| Waterskin, one day | 1sp  |       |
 
 Table: Equipment
 
@@ -214,16 +214,16 @@ Table: Equipment
 
 **Waterskins** are normally only needed when traveling in particularly dry areas such as deserts or sand dunes. If fresh water is easily available in the wilderness, it is presumed that travelers are able to drink their fill from springs, streams, lakes, and the like without accounting for water supplies.  
 
-|Transport		|Cost			|
-|--------------|----------:|
-|Cart, hand		|5sp			|
-|Cart, draft	|10sp			|
-|Wagon			|30sp			|
-|Mule				|30sp			|
-|Horse			|50sp			|
-|Warhorse		|100sp		|
-|Canoe			|50sp			|
-|Longship		|10,000sp	|
+| Transport   | Cost     |
+|:------------|---------:|
+| Cart, hand  | 5sp      |
+| Cart, draft | 10sp     |
+| Wagon       | 30sp     |
+| Mule        | 30sp     |
+| Horse       | 50sp     |
+| Warhorse    | 100sp    |
+| Canoe       | 50sp     |
+| Longship    | 10,000sp |
 
 Table: Transportaion
 
@@ -246,18 +246,18 @@ Mounts such as mules and horses can carry up to 40 items when unencumbered, or u
 ## Hirelings
 It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
 
-|Type					|Notes							|Cost per Month		|
-|-----------------|--------------------------|-------------------:|
-|Servant				|HD 1 AC 10 D none M 6		|4s						|
-|Foot, Light		|HD 1 AC 14 D d6 M 7			|20s						|
-|Foot, Armored		|HD 1 AC 16 D d6 M 8			|40s						|
-|Foot, Archer		|HD 1 AC 12 D d6 M 7			|60s						|
-|Horse, Light		|HD 2 AC 14 D d6 M 7			|100s						|
-|Horse, Armored	|HD 2 AC 16 D d6 M 8			|160s						|
-|Horse, Archer		|HD 2 AC 12 D d6 M 8			|160s						|
-|Armorer				|Need 1 per 50 soldiers		|100s						|
-|Blacksmith			|Need 1 per 50 mounts		|20s						|
-|Engineer			|Builds strongholds			|800s						|
+| Type           | Notes                  | Cost per Month |
+|:---------------|:-----------------------|---------------:|
+| Servant        | HD 1 AC 10 D none M 6  | 4sp            |
+| Foot, Light    | HD 1 AC 14 D d6 M 7    | 20sp           |
+| Foot, Armored  | HD 1 AC 16 D d6 M 8    | 40sp           |
+| Foot, Archer   | HD 1 AC 12 D d6 M 7    | 60sp           |
+| Horse, Light   | HD 2 AC 14 D d6 M 7    | 100sp          |
+| Horse, Armored | HD 2 AC 16 D d6 M 8    | 160sp          |
+| Horse, Archer  | HD 2 AC 12 D d6 M 8    | 160sp          |
+| Armorer        | Need 1 per 50 soldiers | 100sp          |
+| Blacksmith     | Need 1 per 50 mounts   | 20sp           |
+| Engineer       | Builds strongholds     | 800sp          |
 
 Table: Hirelings
 
@@ -280,13 +280,13 @@ Common situations where monsters may surprise players:
 ## Reactions
 When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
 
-|2d6			|Reaction		|
-|-----------|--------------|
-|2-			|Hostile			|
-|3-5			|Negative		|
-|6-8			|Uncertain		|
-|9-11			|Positive		|
-|12+			|Enthusiastic	|
+| 2d6  | Reaction     |
+|:----:|:-------------|
+| 2-   | Hostile      |
+| 3-5  | Negative     |
+| 6-8  | Uncertain    |
+| 9-11 | Positive     |
+| 12+  | Enthusiastic |
 
 Table: Reaction Roll Results
 
@@ -304,14 +304,14 @@ If the party surprises a monster, they can evade the monster automatically by re
 
 Each turn of the chase, roll a d6. Consult the table below to determine what happens. Note that closed or locked doors may be in the way of the fleeing party. These must be dealt with as normal -- failure indicates they are stymied by the obstacle long enough for the pursuing monster to catch them.
 
-|d6	|Unencumbered	|Encumbered	|
-|:---:|:------------:|:---------:|
-|1		|C					|C				|
-|2		|M					|C				|
-|3		|M					|M				|
-|4		|E					|M				|
-|5		|E					|E				|
-|6		|E					|E				|
+| d6 | Unencumbered | Encumbered |
+|:--:|:------------:|:----------:|
+| 1  | C            | C          |
+| 2  | M            | C          |
+| 3  | M            | M          |
+| 4  | E            | M          |
+| 5  | E            | E          |
+| 6  | E            | E          |
 
 Table: Chase Results
 
@@ -355,30 +355,30 @@ Resting in camp for a night restores d6 HP, as long as the character has both sh
 
 When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries.
 
-| d10 | Injury                                                                                                                                            |
-|-----|----------------------------------------------------------------------------------------------------------------|
-| 1    | **Gruesome Scars** -1 to reaction rolls.                                                                                              |
-| 2    | **Ear Torn Off** -1 to hear noises.                                                                                                     |
-| 3    | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                          |
-| 4    | **Concussed** Cannot memorize spells. Heals in 1d3 days.                                                                         |
-| 5    | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                                 |
-| 6    | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                                             |
-| 7    | **Gangrene** Die in 1d3 weeks unless treated with *cure disease* or similar.                                              |
-| 8    | **Dismembered, Arm** Die in 1d3+3 turns unless tended to. Lose an arm.                                                      |
-| 9    | **Dismembered, Leg** Die in 1d3+3 turns unless tended to. Lose a leg. Move speed and carrying capacity halved. |
-| 10  | **Disemboweled** Die in 1d3+3 turns unless tended to. Heals in 1d3 months.                                                 |
+| d10 	| Injury                                                                                    						|
+|:-----:|:------------------------------------------------------------------------------------------------------------------|
+| 1		| **Gruesome Scars** -1 to reaction rolls.                                                        				   	|
+| 2    	| **Ear Torn Off** -1 to hear noises.                                                       						|
+| 3    	| **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.            			|
+| 4    	| **Concussed** Cannot memorize spells. Heals in 1d3 days.                                         					|
+| 5    	| **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                  			|
+| 6    	| **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                             		|
+| 7    	| **Gangrene** Die in 1d3 weeks unless treated with *cure disease* or similar.                              		|
+| 8    	| **Dismembered, Arm** Die in 1d3+3 turns unless tended to. Lose an arm.                                        	|
+| 9    	| **Dismembered, Leg** Die in 1d3+3 turns unless tended to. Lose a leg. Move speed and carrying capacity halved.	|
+| 10	| **Disemboweled** Die in 1d3+3 turns unless tended to. Heals in 1d3 months.                                 		|
 
 The grievously wounded require a week's rest in a town or similar safe location to restore all HP. More time may be required to heal their other injuries.
 
 ## Morale
 When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Undead are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception). Morale is usually based on the combatants experience level, per the table below.
 
-|Experience	|Morale Score	|Examples					|
-|:----------|:------------:|-----------------------|
-|Green		|6					|Conscripts, levy			|
-|Trained		|7					|Militia, town guards	|
-|Veteran		|8					|Experienced fighters	|
-|Elite		|9					|Knights, house guards	|
+| Experience | Morale Score | Examples              |
+|:-----------|:------------:|:----------------------|
+| Green      | 6            | Conscripts, levy      |
+| Trained    | 7            | Militia, town guards  |
+| Veteran    | 8            | Experienced fighters  |
+| Elite      | 9            | Knights, house guards |
 
 Table: Morale Scores
 
@@ -409,14 +409,14 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 ## Wandering Monsters
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. Choose the result from the appropriate column depending on whether all, some, or none of the characters in the party have light.
 
-|d6	|Fully Lit	|Partially Lit	|Unlit			|
-|:---:|:---------:|:------------:|:------------:|
-|1		|W				|W					|W					|
-|2		|O				|W					|W					|
-|3		|L				|L					|W					|
-|4		|-				|-					|-					|
-|5		|-				|-					|-					|
-|6		|-				|-					|-					|
+| d6 | Fully Lit | Partially Lit | Unlit |
+|:--:|:---------:|:-------------:|:-----:|
+| 1  | W         | W             | W     |
+| 2  | O         | W             | W     |
+| 3  | L         | L             | W     |
+| 4  | -         | -             | -     |
+| 5  | -         | -             | -     |
+| 6  | -         | -             | -     |
 
 Table: Dungeon Event Rolls
 
@@ -438,23 +438,23 @@ It is suggested to reference one of the following resources for monster lists, t
 
 Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and to-hit bonus should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17). A monster has a to-hit bonus equal to its HD. HD should be converted to d6. Monsters typically deal d6 damage per attack, though particularly dangerous monsters might deal multiple d6 per attack.
 
-|HD	|To-Hit Bonus	|Saving Throw	|XP Awarded	|
-|----:|:------------:|:------------:|----------:|
-|<1	|+0				|19+				|10			|
-|1		|+1				|18+				|15			|
-|2		|+2				|17+				|30			|
-|3		|+3				|16+				|60			|
-|4		|+4				|15+				|120			|
-|5		|+5				|14+				|240			|
-|6		|+6				|13+				|400			|
-|7		|+7				|12+				|600			|
-|8		|+8				|11+				|800			|
-|9		|+9				|10+				|1100			|
-|10	|+10				|9+				|1400			|
-|11	|+11				|8+				|1700			|
-|12	|+12				|7+				|2000			|
-|13	|+13				|6+				|2300			|
-|14	|+14				|5+				|2600			|
-|15	|+15				|4+				|2900			|
+| HD | To-Hit Bonus | Saving Throw | XP Awarded |
+|---:|:------------:|:------------:|-----------:|
+| <1 | +0           | 19+          | 10         |
+| 1  | +1           | 18+          | 15         |
+| 2  | +2           | 17+          | 30         |
+| 3  | +3           | 16+          | 60         |
+| 4  | +4           | 15+          | 120        |
+| 5  | +5           | 14+          | 240        |
+| 6  | +6           | 13+          | 400        |
+| 7  | +7           | 12+          | 600        |
+| 8  | +8           | 11+          | 800        |
+| 9  | +9           | 10+          | 1100       |
+| 10 | +10          | 9+           | 1400       |
+| 11 | +11          | 8+           | 1700       |
+| 12 | +12          | 7+           | 2000       |
+| 13 | +13          | 6+           | 2300       |
+| 14 | +14          | 5+           | 2600       |
+| 15 | +15          | 4+           | 2900       |
 
 Table: Monsters by HD
