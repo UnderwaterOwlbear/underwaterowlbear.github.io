@@ -291,13 +291,66 @@ When encountering a wandering monster or other entity, and their disposition is 
 Table: Reaction Roll Results
 
 ## Distance
-In the dungeon, lines of sight are so short, and lighting so dim, that encounters usually happen at close distances: 
-- If a side is surprised -- in the same room or corridor as the players (meaning, within one move action of each other).  
-- If neither side is surprised -- 1d4 rooms away (noticed by smell or sound if no line of sight)
+Wandering monster encounters take place at the following distance, depending on location and whether any parties are surprised.
 
-In the wilderness, encountered monsters may be noticed at greater distances:  
-- If a side is surprised -- 1d4 moves away
-- If neither side is surprised -- 4d6 moves away
+|               | Indoor         | Outdoor        |
+|---------------|----------------|----------------|
+| Surprised     | 1 move away    | 1d4 moves away |
+| Not Surprised | 1d4 moves away | 4d6 moves away |
+Table: Distance of Encounters
+
+# Combat
+
+## Initiative
+To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
+
+1. **Magic, cast**  
+2. **Move or Missile**
+3. **Melee**
+5. **Magic, effect**
+
+## Attacks \& Damage
+**Basic Attacks** Roll a d20 and add to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
+
+**Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
+
+**Withdraw** When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the combatant only makes a half move.
+
+**Combat Maneuvers** A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack and damage roll as normal. If he hits, his opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
+
+## Saving Throws
+Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to the character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
+
+## Death & Healing
+Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
+
+Resting in camp for a night restores d6 HP, as long as the character has both shelter and food. Each day without food reduces max HP by 1 HP per HD. Resting in a town or similar safe location for a night restores all HP.
+
+When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries.
+
+| d6 | Grevious Wound                                                                                                  |
+|-----|----------------------------------------------------------------------------------------------------------------|
+| 1   | **Gruesome Scars** -1 to reaction rolls.                                                                       |
+| 2   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |
+| 3   | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                         |
+| 4   | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                                  |
+| 5   | **Dismembered, Arm** Lose an arm.                                         |
+| 6   | **Dismembered, Leg** Lose a leg. Move speed and carrying capacity halved. |
+Table: Grevious Wounds
+
+The grievously wounded require a week's rest in a town or similar safe location to restore all HP. More time may be required to heal their other injuries.
+
+## Morale
+When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Undead are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception). Morale is usually based on the combatants experience level, per the table below.
+
+| Experience | Morale Score | Examples              |
+|:-----------|:------------:|:----------------------|
+| Green      | 6            | Conscripts, levy      |
+| Trained    | 7            | Militia, town guards  |
+| Veteran    | 8            | Experienced fighters  |
+| Elite      | 9            | Knights, house guards |
+
+Table: Morale Scores
 
 ## Evasion
 If the party surprises a monster, they can evade the monster automatically by retreating from the dungeon room or taking a circuitous wilderness path. If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it.  
@@ -320,67 +373,6 @@ Table: Chase Results
 **E** = Escape. The party successfully evades the monster.
 
 Food will distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will distract intelligent monsters from the chase, by dropping 100c worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
-
-# Combat
-
-## Initiative
-To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
-1. **Magic, cast**
-	- Spellcasters declare what spell (if any) they will cast that turn, and begin to cast it.  
-2. **Move or Missile**
-	- Combatants move *or* fire a missile.
-	- Some special units such as horse archers may move *and* fire a missile.  
-3. **Melee**
-	- Combatants make attacks in melee  
-5. **Magic, effect**
-	- Spells cast this round take effect.
-	- Spells cast by the side with initiative take effect first.
-
-## Attacks \& Damage
-**Basic Attacks** Roll a d20 and add to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
-
-**Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
-
-**Withdraw** When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the combatant only makes a half move.
-
-**Combat Maneuvers** A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack and damage roll as normal. If he hits, his opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
-
-## Saving Throws
-Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to the character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
-
-## Death \& Healing
-Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
-
-Resting in camp for a night restores d6 HP, as long as the character has both shelter and food. Each day without food reduces max HP by 1 HP per HD. Resting in a town or similar safe location for a night restores all HP.
-
-When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries.
-
-| d10 	| Injury                                                                                    						|
-|:-----:|:------------------------------------------------------------------------------------------------------------------|
-| 1		| **Gruesome Scars** -1 to reaction rolls.                                                        				   	|
-| 2    	| **Ear Torn Off** -1 to hear noises.                                                       						|
-| 3    	| **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.            			|
-| 4    	| **Concussed** Cannot memorize spells. Heals in 1d3 days.                                         					|
-| 5    	| **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                  			|
-| 6    	| **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                             		|
-| 7    	| **Gangrene** Die in 1d3 weeks unless treated with *cure disease* or similar.                              		|
-| 8    	| **Dismembered, Arm** Die in 1d3+3 turns unless tended to. Lose an arm.                                        	|
-| 9    	| **Dismembered, Leg** Die in 1d3+3 turns unless tended to. Lose a leg. Move speed and carrying capacity halved.	|
-| 10	| **Disemboweled** Die in 1d3+3 turns unless tended to. Heals in 1d3 months.                                 		|
-
-The grievously wounded require a week's rest in a town or similar safe location to restore all HP. More time may be required to heal their other injuries.
-
-## Morale
-When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Undead are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception). Morale is usually based on the combatants experience level, per the table below.
-
-| Experience | Morale Score | Examples              |
-|:-----------|:------------:|:----------------------|
-| Green      | 6            | Conscripts, levy      |
-| Trained    | 7            | Militia, town guards  |
-| Veteran    | 8            | Experienced fighters  |
-| Elite      | 9            | Knights, house guards |
-
-Table: Morale Scores
 
 # Dungeon Delving
 
