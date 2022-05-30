@@ -1,12 +1,12 @@
 ---
 title: Barrows Basilisks
 author: Tyler Farrington
-date: 2022-03-13
+date: 2022-05-30
 menu: no
 
 ---
 
-# Barrows & Basilisks v1.06
+# Barrows & Basilisks v1.07
 
 # Character Creation
 
@@ -27,11 +27,11 @@ Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x1
 When a character gains a level, roll all of their hit dice (HD). They are d6. If the sum of dice rolled is greater than their current maximum HP, the sum becomes their new maximum HP. If it is equal to or less than their current HP, gain +1 HP instead. HD for player characters and monsters are always d6.
 
 ## Fighter
-**Weapons** Any   
-**Armor** Any      
+**Weapons** Any    
+**Armor** Any        
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
-**Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.   
+**Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.    
 
 |Level|XP		|HD	|Save	|To-Hit	|
 |:---:|-------:|:---:|:---:|:------:|
@@ -49,21 +49,21 @@ Table: Fighter Levels
 
 ## Mage
 **Weapons** Knives, clubs, and staves  
-**Armor** None    
+**Armor** None     
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
-|Level|XP		|HD	|Save	|To-Hit	|1st|2nd|3rd|4th|5th|
-|:---:|-------:|:---:|:---:|:------:|:-:|:-:|:-:|:-:|:-:|
-|1		|0			|1		|15+	|+1		| 1 |   |   |   |   |
-|2		|2,500	|1		|14+	|+1		| 2 |   |   |   |   |
-|3		|5,000	|2		|13+	|+1		| 3 | 1 |   |   |   |
-|4		|10,000	|2		|12+	|+1		| 4 | 2 |   |   |   |
-|5		|20,000	|3		|11+	|+1		| 4 | 2 | 1 |   |   |
-|6		|40,000	|3		|10+	|+1		| 4 | 2 | 2 |   |   |
-|7		|50,000	|4		|9+	|+1		| 4 | 3 | 2 | 1 |   |
-|8		|100,000	|4		|8+	|+1		| 4 | 3 | 3 | 2 |   |
-|9		|200,000	|5		|7+	|+1		| 4 | 3 | 3 | 2 | 1 |
+|Level	|XP		|HD		|Save	|To-Hit	|1st|2nd|3rd|4th|5th|
+|:-----:|------:|:-----:|:---:|:------:|:-:|:-:|:-:|:-:|:-:|
+|1		|0		|1		|15+|+1		| 1 |    |    |    |    |
+|2		|2,500	|1		|14+|+1		| 2 |    |    |    |    |
+|3		|5,000	|2		|13+|+1		| 3 | 1 |    |    |    |
+|4		|10,000	|2		|12+|+1		| 4 | 2 |    |    |    |
+|5		|20,000	|3		|11+|+1		| 4 | 2 | 1 |    |    |
+|6		|40,000	|3		|10+|+1		| 4 | 2 | 2 |    |    |
+|7		|50,000	|4		|9+	|+1		| 4 | 3 | 2 | 1 |    |
+|8		|100,000|4		|8+	|+1		| 4 | 3 | 3 | 2 |    |
+|9		|200,000|5		|7+	|+1		| 4 | 3 | 3 | 2 | 1 |
 
 Table: Mage Levels
 
@@ -159,7 +159,7 @@ Table: Weapons
 - **Fine Steel**: +2 to hit, 300s
 - **Silvered**: effective against undead and spirits, 600s
 
-**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.    
+**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.     
 
 |Item						|Cost			|Notes		|
 |--------------------|----------:|:---------:|
@@ -355,18 +355,18 @@ Resting in camp for a night restores d6 HP, as long as the character has both sh
 
 When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries.
 
-| d10 | Injury                                                                                                         |
+| d10 | Injury                                                                                                                                            |
 |-----|----------------------------------------------------------------------------------------------------------------|
-| 1   | **Gruesome Scars** -1 to reaction rolls.                                                                       |
-| 2   | **Ear Torn Off** -1 to hear noises.                                                                            |
-| 3   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |
-| 4   | **Concussed** Cannot memorize spells. Heals in 1d3 days.                                                       |
-| 5   | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                         |
-| 6   | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                                  |
-| 7   | **Gangrene** Die in 1d3 weeks unless treated with *cure disease* or similar.                                   |
-| 8   | **Dismembered, Arm** Die in 1d3+3 turns unless tended to. Lose an arm.                                         |
-| 9   | **Dismembered, Leg** Die in 1d3+3 turns unless tended to. Lose a leg. Move speed and carrying capacity halved. |
-| 10  | **Disemboweled** Die in 1d3+3 turns unless tended to. Heals in 1d3 months.                                     |
+| 1    | **Gruesome Scars** -1 to reaction rolls.                                                                                              |
+| 2    | **Ear Torn Off** -1 to hear noises.                                                                                                     |
+| 3    | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                          |
+| 4    | **Concussed** Cannot memorize spells. Heals in 1d3 days.                                                                         |
+| 5    | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d3+3 weeks.                                 |
+| 6    | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d3+3 weeks.                                             |
+| 7    | **Gangrene** Die in 1d3 weeks unless treated with *cure disease* or similar.                                              |
+| 8    | **Dismembered, Arm** Die in 1d3+3 turns unless tended to. Lose an arm.                                                      |
+| 9    | **Dismembered, Leg** Die in 1d3+3 turns unless tended to. Lose a leg. Move speed and carrying capacity halved. |
+| 10  | **Disemboweled** Die in 1d3+3 turns unless tended to. Heals in 1d3 months.                                                 |
 
 The grievously wounded require a week's rest in a town or similar safe location to restore all HP. More time may be required to heal their other injuries.
 
