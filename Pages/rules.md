@@ -1,14 +1,16 @@
 ---
 title: My Rules
 author: Tyler Farrington
-date: 2022-04-13
+date: 2022-05-31
 menu: yes
 
 ---
 
 # My Rules
 
-[Barrows & Basilisks v1.06](/barrows-basilisks)
+[Barrows & Basilisks](/barrows-basilisks)
+
+[Barrows & Basilisks with Variable Damage Dice](/barrows-basilisks-vd)
 
 [My Cairn Hack](/cairn)
 

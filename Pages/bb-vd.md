@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks
 author: Tyler Farrington
-date: 2022-05-30
+date: 2022-05-31
 menu: no
 
 ---
@@ -15,203 +15,185 @@ If coming from other old-school games, these are the assumptions used for a few 
 - No ability scores.
 - HD are d6 for all character classes and all monsters.
 - Fixed 4 HP per HD.
-- To-hit bonus equal to HD for fighters and monsters.
+- To-hit bonus equal to level for fighters, and HD for monsters.
 - Ascending AC with unarmored AC = 10.
-- Roll-over saving throws, single save.
-- Weapon damage is d6 unless otherwise noted.
+- Roll-over saving throws.
 
 When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
-## Experience \& Advancement
-Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
+## Experience & Advancement
+Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
 
 ## Fighter
 **Weapons** Any    
 **Armor** Any        
+**Shields?** Yes
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
-**Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.    
 
-| Level | XP      | HP | Save | To-Hit |
-|:-----:|--------:|:--:|:----:|:------:|
-| 1     | 0       | 4  | 14+  | +1     |
-| 2     | 2,000   | 8  | 13+  | +2     |
-| 3     | 4,000   | 12 | 12+  | +3     |
-| 4     | 8,000   | 16 | 11+  | +4     |
-| 5     | 16,000  | 17 | 10+  | +5     |
-| 6     | 32,000  | 18 | 9+   | +6     |
-| 7     | 64,000  | 19 | 8+   | +7     |
-| 8     | 128,000 | 20 | 7+   | +8     |
-| 9     | 256,000 | 21 | 6+   | +9     |
+| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
+|-------|---------|----|--------|-----------|--------|---------|
+| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
+| 2     | 2,000   | 8  | +2     | 12+       | 14+    | 16+     |
+| 3     | 4,000   | 12 | +3     | 11+       | 13+    | 15+     |
+| 4     | 8,000   | 16 | +4     | 10+       | 12+    | 14+     |
+| 5     | 16,000  | 17 | +5     | 9+        | 11+    | 13+     |
+| 6     | 32,000  | 18 | +6     | 8+        | 10+    | 12+     |
+| 7     | 64,000  | 19 | +7     | 7+        | 9+     | 11+     |
+| 8     | 128,000 | 20 | +8     | 6+        | 8+     | 10+     |
+| 9     | 256,000 | 21 | +9     | 5+        | 7+     | 9+      |
 
 Table: Fighter Levels
 
+## Cleric
+**Weapons** Simple    
+**Armor** Medium  
+**Shields?** Yes
+**Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can found a temple.  
+**Spellcasting** Clerics may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Clerics know a list of spells as determined by their deity.
+- Thunar
+- Frith
+- Ostara
+- Orcus
+- Hircine
+
+| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
+|-------|---------|----|--------|-----------|--------|---------|
+| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
+| 2     | 2,000   | 6  | +1     | 12+       | 14+    | 16+     |
+| 3     | 4,000   | 8  | +1     | 11+       | 13+    | 15+     |
+| 4     | 8,000   | 10 | +1     | 10+       | 12+    | 14+     |
+| 5     | 16,000  | 12 | +1     | 9+        | 11+    | 13+     |
+| 6     | 32,000  | 14 | +1     | 8+        | 10+    | 12+     |
+| 7     | 64,000  | 16 | +1     | 7+        | 9+     | 11+     |
+| 8     | 128,000 | 17 | +1     | 6+        | 8+     | 10+     |
+| 9     | 256,000 | 18 | +1     | 5+        | 7+     | 9+      |
+
+Table: Cleric Levels
+
+| Level | 1st | 2nd | 3rd | 4th |
+|-------|-----|-----|-----|-----|
+| 1     |     |     |     |     |
+| 2     | 1   |     |     |     |
+| 3     | 2   |     |     |     |
+| 4     | 3   | 1   |     |     |
+| 5     | 4   | 2   |     |     |
+| 6     | 4   | 2   | 1   |     |
+| 7     | 4   | 2   | 2   |     |
+| 8     | 4   | 3   | 2   | 1   |
+| 9     | 4   | 3   | 3   | 2   |
+
+Table: Cleric Spells per Day by Level
+
 ## Mage
-**Weapons** Knives, clubs, and staves  
+**Weapons** Simple
 **Armor** None     
+**Shields?** No
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
-| Level | XP      | HD | Save | To-Hit | 1st | 2nd | 3rd | 4th | 5th |
-|:-----:|--------:|:--:|:----:|:------:|:---:|:---:|:---:|:---:|:---:|
-| 1     | 0       | 1  | 15+  | +1     | 1   |     |     |     |     |
-| 2     | 2,500   | 1  | 14+  | +1     | 2   |     |     |     |     |
-| 3     | 5,000   | 2  | 13+  | +1     | 3   | 1   |     |     |     |
-| 4     | 10,000  | 2  | 12+  | +1     | 4   | 2   |     |     |     |
-| 5     | 20,000  | 3  | 11+  | +1     | 4   | 2   | 1   |     |     |
-| 6     | 40,000  | 3  | 10+  | +1     | 4   | 2   | 2   |     |     |
-| 7     | 50,000  | 4  | 9+   | +1     | 4   | 3   | 2   | 1   |     |
-| 8     | 100,000 | 4  | 8+   | +1     | 4   | 3   | 3   | 2   |     |
-| 9     | 200,000 | 5  | 7+   | +1     | 4   | 3   | 3   | 2   | 1   |
+| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
+|-------|---------|----|--------|-----------|--------|---------|
+| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
+| 2     | 2,500   | 5  | +1     | 12+       | 14+    | 16+     |
+| 3     | 5,000   | 6  | +1     | 11+       | 13+    | 15+     |
+| 4     | 10,000  | 7  | +1     | 10+       | 12+    | 14+     |
+| 5     | 20,000  | 8  | +1     | 9+        | 11+    | 13+     |
+| 6     | 40,000  | 9  | +1     | 8+        | 10+    | 12+     |
+| 7     | 80,000  | 10 | +1     | 7+        | 9+     | 11+     |
+| 8     | 160,000 | 11 | +1     | 6+        | 8+     | 10+     |
+| 9     | 320,000 | 12 | +1     | 5+        | 7+     | 9+      |
 
 Table: Mage Levels
 
+| Level | 1st | 2nd | 3rd | 4th | 5th |
+|-------|-----|-----|-----|-----|-----|
+| 1     | 1   |     |     |     |     |
+| 2     | 2   |     |     |     |     |
+| 3     | 3   | 1   |     |     |     |
+| 4     | 4   | 2   |     |     |     |
+| 5     | 4   | 2   | 1   |     |     |
+| 6     | 4   | 2   | 2   |     |     |
+| 7     | 4   | 3   | 2   | 1   |     |
+| 8     | 4   | 3   | 3   | 2   |     |
+| 9     | 4   | 3   | 3   | 2   | 1   |
+
+Table: Mage Spells per Day by Level
+
 ## Thief
-**Weapons** Any except swords  
-**Armor** Padded  
+**Weapons** Simple and missile 
+**Armor** Light armor  
+**Shields?** No
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
 **Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
-- Hear noises through doors or across rooms
-- Pick locks or disable traps
-- Move silently or hide in shadows
-- Pick pockets
+- Hear noises through doors or across rooms (2+)
+- Move silently or hide in shadows (3+)
+- Pick locks or disable traps (4+)
+- Pick pockets (5+)
 
 To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
 
-| Level | XP      | HD | Save | To-Hit | Thievery |
-|:-----:|--------:|:--:|:----:|:------:|:--------:|
-| 1     | 0       | 1  | 14+  | +1     | 5+       |
-| 2     | 1,250   | 1  | 13+  | +1     | 4+       |
-| 3     | 2,500   | 2  | 12+  | +1     | 4+       |
-| 4     | 5,000   | 2  | 11+  | +1     | 4+       |
-| 5     | 10,000  | 3  | 10+  | +1     | 3+       |
-| 6     | 20,000  | 3  | 9+   | +1     | 3+       |
-| 7     | 40,000  | 4  | 8+   | +1     | 3+       |
-| 8     | 80,000  | 4  | 7+   | +1     | 2+       |
-| 9     | 160,000 | 5  | 6+   | +1     | 2+       |
+| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
+|-------|---------|----|--------|-----------|--------|---------|
+| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
+| 2     | 1,250   | 6  | +1     | 12+       | 14+    | 16+     |
+| 3     | 2,500   | 8  | +1     | 11+       | 13+    | 15+     |
+| 4     | 5,000   | 10 | +1     | 10+       | 12+    | 14+     |
+| 5     | 10,000  | 12 | +1     | 9+        | 11+    | 13+     |
+| 6     | 20,000  | 14 | +1     | 8+        | 10+    | 12+     |
+| 7     | 40,000  | 16 | +1     | 7+        | 9+     | 11+     |
+| 8     | 80,000  | 17 | +1     | 6+        | 8+     | 10+     |
+| 9     | 160,000 | 18 | +1     | 5+        | 7+     | 9+      |
 
 Table: Thief Levels
 
 # Equipment
 
 ## Encumbrance and Movement
-A man can carry up to ten (10) items. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
+A man can carry up to ten (10) items. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- any number of the same type of *tiny* items fit into the same slot. A purse of 300 coins counts as one item.
 
 A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ## Items
 
-| Armor              | AC | Cost    | Encumbrance as... |
-|:-------------------|:--:|--------:|:------------------|
-| Unarmored          | 10 | -       | -                 |
-| Padded Gambeson    | 12 | 10sp    | 2 items           |
-| Mail Hauberk       | 14 | 250sp   | 4 items           |
-| Bronze Breastplate | 16 | 3,000sp | 6 items           |
+**Supply** Common adventuring equipment and resources are abstracted into **Supply**. Each unit of Supply takes up one (1) slot, costs 10 coins, and can be readily converted into...
+- Rations, three (3) days
+- Torches, three (3)
+- Ammunition for one (1) missile weapon
+- A common tool, such as a shovel, pickaxe, oar, rope, or the like.
+- Camping equipment suitable for a night in the wilderness.
+- Any other miscellaneous common item that the GM deems appropriate.
 
-Table: Armor and Encumbrance
+| Armor        | AC | Cost    | Encumbrance as... | Examples                                   |
+|--------------|----|---------|-------------------|--------------------------------------------|
+| Unarmored    | 10 | -       | -                 | -                                          |
+| Light Armor  | 12 | 10sp    | 2 items           | Padded armor, quilted gambeson, mail shirt |
+| Medium Armor | 14 | 250sp   | 4 items           | Mail hauberk, splint armor, brigandine     |
+| Heavy Armor  | 16 | 3,000sp | 6 items           | Bronze breastplate, full plate harness     |
+| Shield       | +1 | 10sp    | 1 item            |                                            |
 
-| Item   | AC | Cost |
-|:-------|:--:|-----:|
-| Shield | +1 | 10sp |
-| Helm   | +1 | 20sp |
+Table: Armor and Shields
 
-Table: Shields and Helms
+**Shield, Wooden**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.
+**Shield, Leaden**: Grants advantage to saves vs. magic. Encumbrance as *bulky*, 50sp
+**Shield, Mirrored Bronze**: Grants advantage to saves vs. gaze attacks, 100sp
 
-**Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).  
-
-**Shields** can be made of various materials:  
-- **Wood**: the typical shield, 20sp
-- **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 50sp
-- **Mirrored Bronze**: grants advantage to saves vs. gaze attacks, 100sp
-
-| Weapon         | Damage | Cost | Notes         |
-|:---------------|:------:|-----:|:--------------|
-| Axe, battle    | d6     | 10sp | bulky         |
-| Axe, hand      | d6     | 10sp | thrown        |
-| Bow            | d6     | 40sp | bulky         |
-| Arrows, quiver | -      | 10sp |               |
-| Club           | d6     | -    |               |
-| Knife          | d3     | 4sp  | thrown, tiny  |
-| Sling          | d3     | 4sp  | tiny          |
-| Staff          | d6     | -    | bulky         |
-| Spear          | d6     | 10sp | thrown, bulky |
-| Sword          | d6     | 40sp |               |
-| Torch          | d3     | 1sp  |               |
-| Unarmed        | 1      | -    |               |
+| Weapon          | Damage | Special | Cost | Examples                     |
+|-----------------|--------|---------|------|------------------------------|
+| Simple Hand     | d6     |         | 10   | Dagger, club, hatchet        |
+| Simple Polearm  | d8     | bulky   | 15   | Staff, pitchfork, billhook   |
+| Martial Hand    | d8     |         | 20   | Sword, spear, mace           |
+| Martial Polearm | d10    | bulky   | 25   | Poleaxe, halberd, zweihander |
+| Missile, Sling  | d4     |         | 10   |                              |
+| Missile, Light  | d6     | bulky   | 25   | Hunting bow, light crossbow  |
+| Missile, Heavy  | d8     | bulky   | 35   | Longbow, heavy crossbow      |
+| Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
 
-**Battle Axes** deal triple damage on a critical hit.  
-
-**Bows** require **arrows** -- a quiver of which is depleted after combat on a roll of 6+ on a d6.  
-
-**Slings** can use rocks and pebbles as ammunition.  
-
-**Staves** grant +1 AC when wielded in two hands.  
-
-**Spears** may be wielded normally in one hand, or be wielded in two hands to deal double damage against charging enemies.  
-
-**Swords** are the weapon of the military elite, and can be made of various materials:  
-- **Cold Iron**: +2 to hit vs. fey, 40s
-- **Steel**: +1 to hit, 160s
-- **Fine Steel**: +2 to hit, 300s
-- **Silvered**: effective against undead and spirits, 600s
-
-**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.     
-
-| Item               | Cost | Notes |
-|:-------------------|-----:|:-----:|
-| Backpack, leather  | 4sp  | tiny  |
-| Bedroll            | 2sp  |       |
-| Candles, four      | 1sp  |       |
-| Crowbar            | 3sp  |       |
-| Grimoire           | 20sp |       |
-| Hammer             | 3sp  |       |
-| Mirror             | 10sp | tiny  |
-| Pickaxe            | 3sp  |       |
-| Pole, 10ft         | 1sp  |       |
-| Quicksilver, vial  | 10sp | tiny  |
-| Rations, one day   | 1sp  |       |
-| Rope, 100ft        | 2sp  |       |
-| Sack, large        | 2sp  | tiny  |
-| Sack, small        | 1sp  | tiny  |
-| Shovel             | 3sp  |       |
-| Spikes, iron, six  | 6sp  |       |
-| Tent, three-person | 10sp | bulky |
-| Torch              | 1sp  |       |
-| Tinderbox          | 2sp  | tiny  |
-| Waterskin, one day | 1sp  |       |
-
-Table: Equipment
-
-**Backpacks** can hold 10 items.  
-
-**Bedrolls** provide shelter for a single person.  
-
-**Candles** provide enough light for two (2) people.  
-
-**Crosses** will repel undead when presented, forcing them to make a successful saving throw to attack the bearer.  
-
-**Crowbars** grant a +1 bonus to rolls to open doors.  
-
-**Grimoire** have 100 pages. A scribed spell will take up a number of pages equal to its spell level.  
-
-**Pickaxes** allow the user to move one 5-ft cube of rock every 4 hours.  
-
-**Sacks** hold either 6 items (large sacks) or 3 items (small stacks).  
-
-**Shovels** allow the user to move one 5-ft cube of dirt every 2 hours.  
-
-**Spikes** can be used to wedge doors open or shut. Overcoming a spike requires forcing the door.  
-
-**Tents** can provide shelter to multiple people (usually up to three).  
-
-**Torches** prove enough light for four (4) people.  
-
-**Tinderboxes** are used to light fires. In most situations, this is done easily. However in stressful or threatening situations, lighting a fire requires a roll of 5+ on a d6.  
-
-**Waterskins** are normally only needed when traveling in particularly dry areas such as deserts or sand dunes. If fresh water is easily available in the wilderness, it is presumed that travelers are able to drink their fill from springs, streams, lakes, and the like without accounting for water supplies.  
+**Bulky** weapons must be wielded in two hands, in addition to counting as two items for encumbrance purposes.  
+**Missile** weapons may be loosed in the missile phase of combat, and require ammunition. Roll a d6 after each combat in which a missile weapon was used. On a 1 or 2, you are out of ammo.  
 
 | Transport   | Cost     |
 |:------------|---------:|
