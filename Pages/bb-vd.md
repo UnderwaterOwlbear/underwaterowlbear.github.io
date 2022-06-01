@@ -14,7 +14,7 @@ menu: no
 If coming from other old-school games, these are the assumptions used for a few important rules:
 - No ability scores.
 - HD are d6 for all character classes and all monsters.
-- Fixed 4 HP per HD.
+- Fixed 4 HP per level (for PCs) or per HD (for monsters).
 - To-hit bonus equal to level for fighters, and HD for monsters.
 - Ascending AC with unarmored AC = 10.
 - Roll-over saving throws.
@@ -27,7 +27,7 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 ## Fighter
 **Weapons** Any    
 **Armor** Any        
-**Shields?** Yes
+**Shields?** Yes  
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
 
@@ -48,7 +48,7 @@ Table: Fighter Levels
 ## Cleric
 **Weapons** Simple    
 **Armor** Medium  
-**Shields?** Yes
+**Shields?** Yes  
 **Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can found a temple.  
 **Spellcasting** Clerics may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Clerics know a list of spells as determined by their deity.
 - Thunar
@@ -88,7 +88,7 @@ Table: Cleric Spells per Day by Level
 ## Mage
 **Weapons** Simple
 **Armor** None     
-**Shields?** No
+**Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
@@ -123,7 +123,7 @@ Table: Mage Spells per Day by Level
 ## Thief
 **Weapons** Simple and missile 
 **Armor** Light armor  
-**Shields?** No
+**Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
 **Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
