@@ -49,7 +49,7 @@ Table: Fighter Levels
 **Weapons** Simple    
 **Armor** Medium  
 **Shields?** Yes  
-**Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can found a temple.  
+**Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can build or take over a temple.  
 **Spellcasting** Clerics may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Clerics know a list of spells as determined by their deity.
 - Thunar
 - Frith
@@ -86,7 +86,7 @@ Table: Cleric Levels
 Table: Cleric Spells per Day by Level
 
 ## Mage
-**Weapons** Simple
+**Weapons** Simple  
 **Armor** None     
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
@@ -121,18 +121,16 @@ Table: Mage Levels
 Table: Mage Spells per Day by Level
 
 ## Thief
-**Weapons** Simple and missile 
+**Weapons** Simple, slings, and bows    
 **Armor** Light armor  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
-**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery, by the indicated number or higher with a d6:
 - Hear noises through doors or across rooms (2+)
 - Move silently or hide in shadows (3+)
 - Pick locks or disable traps (4+)
 - Pick pockets (5+)
-
-To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
 
 | Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
 |-------|---------|----|--------|-----------|--------|---------|
@@ -175,19 +173,18 @@ A man can carry up to an additional ten (10) items (for a total of twenty). When
 
 Table: Armor and Shields
 
-**Shield, Wooden**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.
-**Shield, Leaden**: Grants advantage to saves vs. magic. Encumbrance as *bulky*, 50sp
-**Shield, Mirrored Bronze**: Grants advantage to saves vs. gaze attacks, 100sp
+**Shield, Wooden**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.  
+**Shield, Leaden**: Grants advantage to saves vs. magic. Encumbrance as *bulky*, 50sp.  
+**Shield, Mirrored Bronze**: Grants advantage to saves vs. gaze attacks, 100sp.  
 
 | Weapon          | Damage | Special | Cost | Examples                     |
 |-----------------|--------|---------|------|------------------------------|
-| Simple Hand     | d6     |         | 10   | Dagger, club, hatchet        |
-| Simple Polearm  | d8     | bulky   | 15   | Staff, pitchfork, billhook   |
-| Martial Hand    | d8     |         | 20   | Sword, spear, mace           |
-| Martial Polearm | d10    | bulky   | 25   | Poleaxe, halberd, zweihander |
-| Missile, Sling  | d4     |         | 10   |                              |
-| Missile, Light  | d6     | bulky   | 25   | Hunting bow, light crossbow  |
-| Missile, Heavy  | d8     | bulky   | 35   | Longbow, heavy crossbow      |
+| Simple Hand     | d4     |         | 10   | Dagger, club, hatchet        |
+| Simple Polearm  | d6     | bulky   | 15   | Staff, pitchfork, billhook   |
+| Martial Hand    | d6     |         | 20   | Sword, spear, mace           |
+| Martial Polearm | d8    | bulky   | 25   | Poleaxe, halberd, zweihander |
+| Sling 				| d4     | missile | 10   |                              |
+| Bow   				| d6     | bulky, missile   | 25   | Hunting bow, light crossbow  |
 | Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
@@ -290,7 +287,7 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 3. **Melee**
 5. **Magic, effect**
 
-## Attacks \& Damage
+## Attacks & Damage
 **Basic Attacks** Roll a d20 and add to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
 
 **Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
@@ -399,7 +396,7 @@ Table: Dungeon Event Rolls
 
 # Appendix
 
-## Monsters, Treasure, \& Spells
+## Monsters, Treasure, & Spells
 
 It is suggested to reference one of the following resources for monster lists, treasure tables, and spell lists:
 
@@ -411,23 +408,23 @@ It is suggested to reference one of the following resources for monster lists, t
 
 Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and to-hit bonus should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17). A monster has a to-hit bonus equal to its HD. HD should be converted to d6. Monsters typically deal d6 damage per attack, though particularly dangerous monsters might deal multiple d6 per attack.
 
-| HD | To-Hit Bonus | Saving Throw | XP Awarded |
-|---:|:------------:|:------------:|-----------:|
-| <1 | +0           | 19+          | 10         |
-| 1  | +1           | 18+          | 15         |
-| 2  | +2           | 17+          | 30         |
-| 3  | +3           | 16+          | 60         |
-| 4  | +4           | 15+          | 120        |
-| 5  | +5           | 14+          | 240        |
-| 6  | +6           | 13+          | 400        |
-| 7  | +7           | 12+          | 600        |
-| 8  | +8           | 11+          | 800        |
-| 9  | +9           | 10+          | 1100       |
-| 10 | +10          | 9+           | 1400       |
-| 11 | +11          | 8+           | 1700       |
-| 12 | +12          | 7+           | 2000       |
-| 13 | +13          | 6+           | 2300       |
-| 14 | +14          | 5+           | 2600       |
-| 15 | +15          | 4+           | 2900       |
+| HD | HP | To-Hit Bonus | Saving Throw | XP Awarded |
+|----|----|--------------|--------------|------------|
+| <1 | 2  | +0           | 19+          | 10         |
+| 1  | 4  | +1           | 18+          | 15         |
+| 2  | 8  | +2           | 17+          | 30         |
+| 3  | 12 | +3           | 16+          | 60         |
+| 4  | 16 | +4           | 15+          | 120        |
+| 5  | 20 | +5           | 14+          | 240        |
+| 6  | 24 | +6           | 13+          | 400        |
+| 7  | 28 | +7           | 12+          | 600        |
+| 8  | 32 | +8           | 11+          | 800        |
+| 9  | 36 | +9           | 10+          | 1100       |
+| 10 | 40 | +10          | 9+           | 1400       |
+| 11 | 44 | +11          | 8+           | 1700       |
+| 12 | 48 | +12          | 7+           | 2000       |
+| 13 | 52 | +13          | 6+           | 2300       |
+| 14 | 56 | +14          | 5+           | 2600       |
+| 15 | 60 | +15          | 4+           | 2900       |
 
 Table: Monsters by HD
