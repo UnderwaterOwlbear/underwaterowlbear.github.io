@@ -13,7 +13,6 @@ menu: no
 ## Basic Rules
 If coming from other old-school games, these are the assumptions used for a few important rules:
 - No ability scores.
-- HD are d6 for all character classes and all monsters.
 - Fixed 4 HP per level (for PCs) or per HD (for monsters).
 - To-hit bonus equal to level for fighters, and HD for monsters.
 - Ascending AC with unarmored AC = 10.
@@ -31,17 +30,17 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
 
-| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
-|-------|---------|----|--------|-----------|--------|---------|
-| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
-| 2     | 2,000   | 8  | +2     | 12+       | 14+    | 16+     |
-| 3     | 4,000   | 12 | +3     | 11+       | 13+    | 15+     |
-| 4     | 8,000   | 16 | +4     | 10+       | 12+    | 14+     |
-| 5     | 16,000  | 17 | +5     | 9+        | 11+    | 13+     |
-| 6     | 32,000  | 18 | +6     | 8+        | 10+    | 12+     |
-| 7     | 64,000  | 19 | +7     | 7+        | 9+     | 11+     |
-| 8     | 128,000 | 20 | +8     | 6+        | 8+     | 10+     |
-| 9     | 256,000 | 21 | +9     | 5+        | 7+     | 9+      |
+| Level | XP      | HP | To-Hit | Save |
+|-------|---------|----|--------|------|
+| 1     | 0       | 4  | +1     | 13+  |
+| 2     | 2,000   | 8  | +2     | 12+  |
+| 3     | 4,000   | 12 | +3     | 11+  |
+| 4     | 8,000   | 16 | +4     | 10+  |
+| 5     | 16,000  | 17 | +5     | 9+   |
+| 6     | 32,000  | 18 | +6     | 8+   |
+| 7     | 64,000  | 19 | +7     | 7+   |
+| 8     | 128,000 | 20 | +8     | 6+   |
+| 9     | 256,000 | 21 | +9     | 5+   |
 
 Table: Fighter Levels
 
@@ -52,36 +51,45 @@ Table: Fighter Levels
 **Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can build or take over a temple.  
 **Spellcasting** Clerics may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Clerics know a list of spells as determined by their deity.
 - Thunar
+	- 1st
+		- 
 - Frith
+	- 1st
+		- Sleep
 - Ostara
+	- 1st
+		- Light
+		- 
 - Orcus
+	- 4th
+		- Animate Dead
 - Hircine
 
-| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
-|-------|---------|----|--------|-----------|--------|---------|
-| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
-| 2     | 2,000   | 6  | +1     | 12+       | 14+    | 16+     |
-| 3     | 4,000   | 8  | +1     | 11+       | 13+    | 15+     |
-| 4     | 8,000   | 10 | +1     | 10+       | 12+    | 14+     |
-| 5     | 16,000  | 12 | +1     | 9+        | 11+    | 13+     |
-| 6     | 32,000  | 14 | +1     | 8+        | 10+    | 12+     |
-| 7     | 64,000  | 16 | +1     | 7+        | 9+     | 11+     |
-| 8     | 128,000 | 17 | +1     | 6+        | 8+     | 10+     |
-| 9     | 256,000 | 18 | +1     | 5+        | 7+     | 9+      |
+| Level | XP      | HP | To-Hit | Save |
+|-------|---------|----|--------|------|
+| 1     | 0       | 4  | +1     | 13+  |
+| 2     | 2,000   | 6  | +1     | 12+  |
+| 3     | 4,000   | 8  | +2     | 11+  |
+| 4     | 8,000   | 10 | +2     | 10+  |
+| 5     | 16,000  | 12 | +3     | 9+   |
+| 6     | 32,000  | 14 | +3     | 8+   |
+| 7     | 64,000  | 16 | +4     | 7+   |
+| 8     | 128,000 | 17 | +4     | 6+   |
+| 9     | 256,000 | 18 | +5     | 5+   |
 
 Table: Cleric Levels
 
-| Level | 1st | 2nd | 3rd | 4th |
-|-------|-----|-----|-----|-----|
-| 1     |     |     |     |     |
-| 2     | 1   |     |     |     |
-| 3     | 2   |     |     |     |
-| 4     | 3   | 1   |     |     |
-| 5     | 4   | 2   |     |     |
-| 6     | 4   | 2   | 1   |     |
-| 7     | 4   | 2   | 2   |     |
-| 8     | 4   | 3   | 2   | 1   |
-| 9     | 4   | 3   | 3   | 2   |
+| Level | 1st | 2nd | 3rd | 4th | 5th |
+|-------|-----|-----|-----|-----|-----|
+| 1     |     |     |     |     |     |
+| 2     | 1   |     |     |     |     |
+| 3     | 2   |     |     |     |     |
+| 4     | 2   | 1   |     |     |     |
+| 5     | 2   | 2   |     |     |     |
+| 6     | 3   | 2   | 1   |     |     |
+| 7     | 3   | 2   | 2   | 1   |     |
+| 8     | 3   | 3   | 2   | 1   | 1   |
+| 9     | 4   | 3   | 2   | 2   | 1   |
 
 Table: Cleric Spells per Day by Level
 
@@ -92,36 +100,36 @@ Table: Cleric Spells per Day by Level
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
-| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
-|-------|---------|----|--------|-----------|--------|---------|
-| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
-| 2     | 2,500   | 5  | +1     | 12+       | 14+    | 16+     |
-| 3     | 5,000   | 6  | +1     | 11+       | 13+    | 15+     |
-| 4     | 10,000  | 7  | +1     | 10+       | 12+    | 14+     |
-| 5     | 20,000  | 8  | +1     | 9+        | 11+    | 13+     |
-| 6     | 40,000  | 9  | +1     | 8+        | 10+    | 12+     |
-| 7     | 80,000  | 10 | +1     | 7+        | 9+     | 11+     |
-| 8     | 160,000 | 11 | +1     | 6+        | 8+     | 10+     |
-| 9     | 320,000 | 12 | +1     | 5+        | 7+     | 9+      |
+| Level | XP      | HP | To-Hit | Save |
+|-------|---------|----|--------|------|
+| 1     | 0       | 4  | +1     | 15+  |
+| 2     | 2,500   | 5  | +1     | 14+  |
+| 3     | 5,000   | 6  | +1     | 13+  |
+| 4     | 10,000  | 7  | +1     | 12+  |
+| 5     | 20,000  | 8  | +1     | 11+  |
+| 6     | 40,000  | 9  | +1     | 10+  |
+| 7     | 80,000  | 10 | +1     | 9+   |
+| 8     | 160,000 | 11 | +1     | 8+   |
+| 9     | 320,000 | 12 | +1     | 7+   |
 
 Table: Mage Levels
 
-| Level | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-----|-----|-----|-----|-----|
-| 1     | 1   |     |     |     |     |
-| 2     | 2   |     |     |     |     |
-| 3     | 3   | 1   |     |     |     |
-| 4     | 4   | 2   |     |     |     |
-| 5     | 4   | 2   | 1   |     |     |
-| 6     | 4   | 2   | 2   |     |     |
-| 7     | 4   | 3   | 2   | 1   |     |
-| 8     | 4   | 3   | 3   | 2   |     |
-| 9     | 4   | 3   | 3   | 2   | 1   |
+| Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|-------|-----|-----|-----|-----|-----|-----|
+| 1     | 1   |     |     |     |     |     |
+| 2     | 2   |     |     |     |     |     |
+| 3     | 3   | 1   |     |     |     |     |
+| 4     | 4   | 2   |     |     |     |     |
+| 5     | 4   | 2   | 1   |     |     |     |
+| 6     | 4   | 3   | 2   |     |     |     |
+| 7     | 4   | 3   | 2   | 1   |     |     |
+| 8     | 4   | 4   | 3   | 2   | 1   |     |
+| 9     | 4   | 4   | 3   | 2   | 2   | 1   |
 
 Table: Mage Spells per Day by Level
 
 ## Thief
-**Weapons** Simple, slings, and bows    
+**Weapons** Simple and missile    
 **Armor** Light armor  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
@@ -132,17 +140,17 @@ Table: Mage Spells per Day by Level
 - Pick locks or disable traps (4+)
 - Pick pockets (5+)
 
-| Level | XP      | HP | To-Hit | Fortitude | Reflex | Warding |
-|-------|---------|----|--------|-----------|--------|---------|
-| 1     | 0       | 4  | +1     | 13+       | 15+    | 17+     |
-| 2     | 1,250   | 6  | +1     | 12+       | 14+    | 16+     |
-| 3     | 2,500   | 8  | +1     | 11+       | 13+    | 15+     |
-| 4     | 5,000   | 10 | +1     | 10+       | 12+    | 14+     |
-| 5     | 10,000  | 12 | +1     | 9+        | 11+    | 13+     |
-| 6     | 20,000  | 14 | +1     | 8+        | 10+    | 12+     |
-| 7     | 40,000  | 16 | +1     | 7+        | 9+     | 11+     |
-| 8     | 80,000  | 17 | +1     | 6+        | 8+     | 10+     |
-| 9     | 160,000 | 18 | +1     | 5+        | 7+     | 9+      |
+| Level | XP      | HP | To-Hit | Save |
+|-------|---------|----|--------|------|
+| 1     | 0       | 4  | +1     | 14+  |
+| 2     | 1,250   | 6  | +1     | 13+  |
+| 3     | 2,500   | 8  | +2     | 12+  |
+| 4     | 5,000   | 10 | +2     | 11+  |
+| 5     | 10,000  | 12 | +3     | 10+  |
+| 6     | 20,000  | 14 | +3     | 9+   |
+| 7     | 40,000  | 16 | +4     | 8+   |
+| 8     | 80,000  | 17 | +4     | 7+   |
+| 9     | 160,000 | 18 | +5     | 6+   |
 
 Table: Thief Levels
 
@@ -155,8 +163,9 @@ A man can carry up to an additional ten (10) items (for a total of twenty). When
 
 ## Items
 
-**Supply** Common adventuring equipment and resources are abstracted into **Supply**. Each unit of Supply takes up one (1) slot, costs 10 coins, and can be readily converted into...
-- Rations, three (3) days
+**Supply** Common adventuring equipment and resources are abstracted into *supply*. Each unit of *supply* takes up one (1) slot, costs 10 coins, and can be readily converted into...
+- Rations, one (1) day
+- Water, one (1) day
 - Torches, three (3)
 - Ammunition for one (1) missile weapon
 - A common tool, such as a shovel, pickaxe, oar, rope, or the like.
@@ -182,9 +191,9 @@ Table: Armor and Shields
 | Simple Hand     | d4     |         | 10   | Dagger, club, hatchet        |
 | Simple Polearm  | d6     | bulky   | 15   | Staff, pitchfork, billhook   |
 | Martial Hand    | d6     |         | 20   | Sword, spear, mace           |
-| Martial Polearm | d8    | bulky   | 25   | Poleaxe, halberd, zweihander |
-| Sling 				| d4     | missile | 10   |                              |
-| Bow   				| d6     | bulky, missile   | 25   | Hunting bow, light crossbow  |
+| Martial Polearm | d8    	| bulky   | 25   | Poleaxe, halberd, lance 		|
+| Missile, Sling 	| d4     | 			 | 10   | Sling                       	|
+| Missile, Bow   	| d6     | bulky   | 25   | Hunting bow, light crossbow  |
 | Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
@@ -215,7 +224,7 @@ Table: Transportaion
 
 **Warhorses** have a morale score of 9.  
 
-**Canoe** -- Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
+**Canoe** Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
 
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
@@ -224,18 +233,18 @@ Mounts such as mules and horses can carry up to 40 items when unencumbered, or u
 ## Hirelings
 It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
 
-| Type           | Notes                  | Cost per Month |
-|:---------------|:-----------------------|---------------:|
-| Servant        | HD 1 AC 10 D none M 6  | 4sp            |
-| Foot, Light    | HD 1 AC 14 D d6 M 7    | 20sp           |
-| Foot, Armored  | HD 1 AC 16 D d6 M 8    | 40sp           |
-| Foot, Archer   | HD 1 AC 12 D d6 M 7    | 60sp           |
-| Horse, Light   | HD 2 AC 14 D d6 M 7    | 100sp          |
-| Horse, Armored | HD 2 AC 16 D d6 M 8    | 160sp          |
-| Horse, Archer  | HD 2 AC 12 D d6 M 8    | 160sp          |
-| Armorer        | Need 1 per 50 soldiers | 100sp          |
-| Blacksmith     | Need 1 per 50 mounts   | 20sp           |
-| Engineer       | Builds strongholds     | 800sp          |
+| Type           | Notes                  	| Cost per Month |
+|:---------------|:--------------------------|---------------:|
+| Servant        | HD1/2 HP2 AC10 Atk+0 d4 M6| 4sp            |
+| Foot, Light    | HD1 HP4 AC14 Atk+1 d6 M7	| 20sp           |
+| Foot, Armored  | HD1 HP4 AC16 Atk+1 d6 M8  | 40sp           |
+| Foot, Archer   | HD1 HP4 AC12 Atk+1 d6 M7  | 60sp           |
+| Horse, Light   | HD2 HP8 AC14 Atk+2 d6 M7  | 100sp          |
+| Horse, Armored | HD2 HP8 AC16 Atk+2 d8 M8  | 160sp          |
+| Horse, Archer  | HD2 HP8 AC12 Atk+2 d6 M8  | 160sp          |
+| Armorer        | Need 1 per 50 soldiers 	| 100sp          |
+| Blacksmith     | Need 1 per 50 mounts   	| 20sp           |
+| Engineer       | Builds strongholds     	| 800sp          |
 
 Table: Hirelings
 
@@ -244,7 +253,7 @@ Table: Hirelings
 # Encounters
 
 ## Surprise
-To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.
+To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 1 or 2, they are surprised. If a side is surprised, they are unable to act in the first round of combat.
 
 Common situations where players may surprise monsters:  
 - Bursting through a door on the first try.
@@ -275,6 +284,7 @@ Wandering monster encounters take place at the following distance, depending on 
 |---------------|----------------|----------------|
 | Surprised     | 1 move away    | 1d4 moves away |
 | Not Surprised | 1d4 moves away | 4d6 moves away |
+
 Table: Distance of Encounters
 
 # Combat
@@ -288,7 +298,7 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 5. **Magic, effect**
 
 ## Attacks & Damage
-**Basic Attacks** Roll a d20 and add to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
+**Basic Attacks** Roll a d20 and add to-hit bonus. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
 
 **Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
 
@@ -300,9 +310,7 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to the character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
 
 ## Death & Healing
-Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
-
-Resting in camp for a night restores d6 HP, as long as the character has both shelter and food. Each day without food reduces max HP by 1 HP per HD. Resting in a town or similar safe location for a night restores all HP.
+Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight. Resting in camp for a night restores d6 HP. Resting in a town or similar safe location for a night restores all HP. If a character is lacking food, water, or shelter, they are *deprived* and cannot recover HP.
 
 When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries.
 
@@ -319,7 +327,9 @@ Table: Grevious Wounds
 The grievously wounded require a week's rest in a town or similar safe location to restore all HP. More time may be required to heal their other injuries.
 
 ## Morale
-When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Undead are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception). Morale is usually based on the combatants experience level, per the table below.
+When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Morale is usually based on the combatants experience level, per the table below.  
+
+Undead are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
 
 | Experience | Morale Score | Examples              |
 |:-----------|:------------:|:----------------------|
@@ -331,7 +341,9 @@ When a side takes 50% casualties, make a morale check to see if they break. Roll
 Table: Morale Scores
 
 ## Evasion
-If the party surprises a monster, they can evade the monster automatically by retreating from the dungeon room or taking a circuitous wilderness path. If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it.  
+If the party surprises a monster, they can evade the monster automatically by retreating from the dungeon room or taking a circuitous wilderness path. 
+
+If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it.  
 
 Each turn of the chase, roll a d6. Consult the table below to determine what happens. Note that closed or locked doors may be in the way of the fleeing party. These must be dealt with as normal -- failure indicates they are stymied by the obstacle long enough for the pursuing monster to catch them.
 
@@ -371,10 +383,12 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 **Spiking Doors** Doors will open freely for monsters unless wedged shut with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
 
-**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, each side trying to force the door rolls a d6. Player characters gain +1 for each character holding the door. Note that a maximum of three (3) human-sized beings may attempt to hold a door at one time. Monsters gain +1 per HD, max +7. The higher roll wins, with the side holding the door winning ties.
+**Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. The side trying to force a held door must try to burst it open as normal (5+ on a d6).
 
 ## Traps
-**Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
+**Room Traps** are activated on a roll of 1 or 2 on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
+
+**Treasure Traps** such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap.
 
 ## Wandering Monsters
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. Choose the result from the appropriate column depending on whether all, some, or none of the characters in the party have light.
