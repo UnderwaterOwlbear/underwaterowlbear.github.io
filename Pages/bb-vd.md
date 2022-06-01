@@ -1,5 +1,5 @@
 ---
-title: Barrows Basilisks
+title: Barrows Basilisks VD
 author: Tyler Farrington
 date: 2022-05-31
 menu: no

@@ -6,7 +6,7 @@ menu: no
 
 ---
 
-# Barrows & Basilisks v1.08
+# Barrows & Basilisks v1.07
 
 # Character Creation
 
@@ -32,17 +32,17 @@ Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x1
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
 **Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.    
 
-| Level | XP      | HP | Save | To-Hit |
+| Level | XP      | HD | Save | To-Hit |
 |:-----:|--------:|:--:|:----:|:------:|
-| 1     | 0       | 4  | 14+  | +1     |
-| 2     | 2,000   | 8  | 13+  | +2     |
-| 3     | 4,000   | 12 | 12+  | +3     |
-| 4     | 8,000   | 16 | 11+  | +4     |
-| 5     | 16,000  | 17 | 10+  | +5     |
-| 6     | 32,000  | 18 | 9+   | +6     |
-| 7     | 64,000  | 19 | 8+   | +7     |
-| 8     | 128,000 | 20 | 7+   | +8     |
-| 9     | 256,000 | 21 | 6+   | +9     |
+| 1     | 0       | 1  | 14+  | +1     |
+| 2     | 2,000   | 2  | 13+  | +2     |
+| 3     | 4,000   | 3  | 12+  | +3     |
+| 4     | 8,000   | 4  | 11+  | +4     |
+| 5     | 16,000  | 5  | 10+  | +5     |
+| 6     | 32,000  | 6  | 9+   | +6     |
+| 7     | 64,000  | 7  | 8+   | +7     |
+| 8     | 128,000 | 8  | 7+   | +8     |
+| 9     | 256,000 | 9  | 6+   | +9     |
 
 Table: Fighter Levels
 
