@@ -35,13 +35,13 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 |-------|---------|----|--------|------|
 | 1     | 0       | 1  | +1     | 14+  |
 | 2     | 2,000   | 2  | +2     | 13+  |
-| 3     | 4,000   | 3 | +3     | 12+  |
+| 3     | 4,000   | 3  | +3     | 12+  |
 | 4     | 8,000   | 4  | +4     | 11+  |
-| 5     | 16,000  | 5 | +5     | 10+  |
-| 6     | 32,000  | 6 | +6     | 9+   |
-| 7     | 64,000  | 7 | +7     | 8+   |
-| 8     | 128,000 | 8 | +8     | 7+   |
-| 9     | 256,000 | 9 | +9     | 6+   |
+| 5     | 16,000  | 5  | +5     | 10+  |
+| 6     | 32,000  | 6  | +6     | 9+   |
+| 7     | 64,000  | 7  | +7     | 8+   |
+| 8     | 128,000 | 8  | +8     | 7+   |
+| 9     | 256,000 | 9  | +9     | 6+   |
 
 Table: Fighter Levels
 
@@ -50,12 +50,27 @@ Table: Fighter Levels
 **Armor** Medium  
 **Shields?** Yes  
 **Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can build or take over a temple.  
-**Prayers** Clerics create miraculous effects by praying to their deity.
-- Thunar
-- Frith
-- Ostara
-- Orcus
-- Hircine
+**Prayers** Clerics create miraculous effects by praying to their deity. When praying, roll 2d6. Consult the table below to determine your deity's reaction to you. You may gain a bonus to the roll by making a *sacrifice*. Suitable sacrifices may include:
+- Blood (+1 for each 1d6 damage you deal to yourself or a victim)
+- Treasure (+1 for each 500sp you offer)
+- Altar (+1 for each 10 minutes of prayer at an altar consecreated to your deity)
+
+| 2d6  | Result       |
+|:----:|:-------------|
+| 2-   | Scorned      |
+| 3-5  | Unhappy      |
+| 6-8  | Neutral      |
+| 9-11 | Helpful      |
+| 12+  | Favored      |
+
+Table: Prayer Results
+
+Choose your deity from the following:
+- Thunar (thunder, the sky, rain, oak groves, war, craftsmen)
+- Frith (harvest, the earth, fertility, the hearth)
+- Ostara (dawn, fire, light, the sun, freedom)
+- Orcus (the underworld, death, the ocean, greed, justice)
+- Hircine (the wild, beasts, lust, wine, travel)
 
 | Level | XP      | HD | To-Hit | Save |
 |-------|---------|----|--------|------|
@@ -86,9 +101,9 @@ Table: Cleric Levels
 | 4     | 10,000  | 2  | +2     | 13+  |
 | 5     | 20,000  | 2  | +2     | 12+  |
 | 6     | 40,000  | 2  | +2     | 11+  |
-| 7     | 80,000  | 3 | +3     | 10+  |
-| 8     | 160,000 | 3 | +3     | 9+   |
-| 9     | 320,000 | 3 | +3     | 8+   |
+| 7     | 80,000  | 3  | +3     | 10+  |
+| 8     | 160,000 | 3  | +3     | 9+   |
+| 9     | 320,000 | 3  | +3     | 8+   |
 
 Table: Mage Levels
 
@@ -143,9 +158,9 @@ Table: Armor and Shields
 | Simple Hand     | d4     |         | 10   | Dagger, club, hatchet        |
 | Simple Polearm  | d6     | bulky   | 15   | Staff, pitchfork, billhook   |
 | Martial Hand    | d6     |         | 20   | Sword, spear, mace           |
-| Martial Polearm | d8    	| bulky   | 25   | Poleaxe, halberd, lance 		|
-| Missile, Sling 	| d4     | 			 | 10   | Sling                       	|
-| Missile, Bow   	| d6     | bulky   | 25   | Hunting bow, light crossbow  |
+| Martial Polearm | d8     | bulky   | 25   | Poleaxe, halberd, lance 	   |
+| Missile, Sling  | d4     |         | 10   | Sling                        |
+| Missile, Bow	  | d6     | bulky   | 25   | Hunting bow, light crossbow  |
 | Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
@@ -180,14 +195,14 @@ Mounts such as mules and horses can carry up to 40 items when unencumbered, or u
 It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
 
 | Type           | Notes                  	| Cost per Month |
-|:---------------|:--------------------------|---------------:|
-| Servant        | HD1/2 AC10 DMGd4 M6| 4sp            |
-| Foot, Light    | HD1 AC14 DMGd6 M7	| 20sp           |
-| Foot, Armored  | HD1 AC16 DMGd6 M8  | 40sp           |
-| Foot, Archer   | HD1 AC12 DMGd6 M7  | 60sp           |
-| Horse, Light   | HD2 AC14 DMGd6 M7  | 100sp          |
-| Horse, Armored | HD2 AC16  DMGd8 M8  | 160sp          |
-| Horse, Archer  | HD2 AC12 DMGd6 M8  | 160sp          |
+|:---------------|:-----------------------------|---------------:|
+| Servant        | HD1/2 AC10 DMGd4 M6		| 4sp            |
+| Foot, Light    | HD1 AC14 DMGd6 M7		| 20sp           |
+| Foot, Armored  | HD1 AC16 DMGd6 M8  		| 40sp           |
+| Foot, Archer   | HD1 AC12 DMGd6 M7  		| 60sp           |
+| Horse, Light   | HD2 AC14 DMGd6 M7  		| 100sp          |
+| Horse, Armored | HD2 AC16  DMGd8 M8  		| 160sp          |
+| Horse, Archer  | HD2 AC12 DMGd6 M8  		| 160sp          |
 | Armorer        | Need 1 per 50 soldiers 	| 100sp          |
 | Blacksmith     | Need 1 per 50 mounts   	| 20sp           |
 | Engineer       | Builds strongholds     	| 800sp          |
@@ -239,8 +254,9 @@ Table: Distance of Encounters
 To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
 
 1. **Magic, cast**  
-2. **Move or Missile**
-3. **Melee**
+2. **Missile**
+3. **Move**
+4. **Melee**
 5. **Magic, effect**
 
 ## Attacks & Damage
@@ -262,7 +278,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
 
-| d6 | Grevious Wound                                                                                                  |
+| d6  | Grevious Wound                                                                                                  |
 |-----|----------------------------------------------------------------------------------------------------------------|
 | 1   | **Gruesome Scars** -1 to reaction rolls.                                                                       |
 | 2   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |
