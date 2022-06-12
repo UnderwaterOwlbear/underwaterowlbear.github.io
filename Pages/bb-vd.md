@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-06-05
+date: 2022-06-12
 menu: no
 
 ---
@@ -71,6 +71,20 @@ Table: Fighter Levels
 | 9     | 256,000 | 5  | +5     | 6+   |
 
 Table: Cleric Levels
+
+| Level | 1st | 2nd | 3rd | 4th | 5th |
+|-------|-----|-----|-----|-----|-----|
+| 1     |     |     |     |     |     |
+| 2     | 1   |     |     |     |     |
+| 3     | 2   |     |     |     |     |
+| 4     | 3   | 1   |     |     |     |
+| 5     | 4   | 2   |     |     |     |
+| 6     | 4   | 2   | 1   |     |     |
+| 7     | 4   | 3   | 2   |     |     |
+| 8     | 4   | 3   | 2   | 1   |     |
+| 9     | 4   | 4   | 3   | 2   | 1   |
+
+Table: Cleric Spells per Day by Level
 
 #### Mage
 
@@ -271,7 +285,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 ### Death & Healing
 
-**Bind Wounds** Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.
+**Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
 **Reroll HP** Resting in camp or town for a night allows characters to reroll all of their HD. If the total of the results is greater than their current HP, the total becomes their new HP. If a character is lacking food, water, or shelter, they are *deprived* and cannot reroll HP.
 
