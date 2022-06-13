@@ -6,7 +6,7 @@ menu: no
 
 ---
 
-[comment]: # (Remember to use "pandoc --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -o -s" to generate pdf)
+[comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
 # Barrows & Basilisks v1.09
 
@@ -53,7 +53,7 @@ Table: Fighter Levels
 
 #### Cleric
 
-**Weapons** Simple
+**Weapons** Simple  
 **Armor** Medium  
 **Shields?** Yes  
 **Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can build or take over a temple.  
@@ -89,7 +89,7 @@ Table: Cleric Spells per Day by Level
 #### Mage
 
 **Weapons** Simple  
-**Armor** None
+**Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must have their grimoire (a *bulky* item) to memorize any spells.
