@@ -8,10 +8,12 @@ menu: no
 
 # Barrows & Basilisks v1.07
 
-# Character Creation
+## Character Creation
 
-## Basic Rules
+### Basic Rules
+
 If coming from other old-school games, these are the assumptions used for a few important rules:
+
 - No ability scores.
 - HD are d6 for all character classes and all monsters.
 - Fixed 4 HP per HD.
@@ -22,15 +24,17 @@ If coming from other old-school games, these are the assumptions used for a few 
 
 When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
-## Experience \& Advancement
-Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure. 
+### Experience \& Advancement
 
-## Fighter
-**Weapons** Any    
-**Armor** Any        
+Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+
+### Fighter
+
+**Weapons** Any
+**Armor** Any
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
-**Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.    
+**Shields Shall be Splintered** A fighter may allow his shield to be cast aside to negate all damage from an attack.
 
 | Level | XP      | HD | Save | To-Hit |
 |:-----:|--------:|:--:|:----:|:------:|
@@ -46,9 +50,10 @@ Pick a class. Start at 1st level with 0 experience points (XP), d6 HP, and 3d6x1
 
 Table: Fighter Levels
 
-## Mage
+### Mage
+
 **Weapons** Knives, clubs, and staves  
-**Armor** None     
+**Armor** None
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
 **Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls.  
 
@@ -66,18 +71,20 @@ Table: Fighter Levels
 
 Table: Mage Levels
 
-## Thief
+### Thief
+
 **Weapons** Any except swords  
 **Armor** Padded  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
 **Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+
 - Hear noises through doors or across rooms
 - Pick locks or disable traps
 - Move silently or hide in shadows
 - Pick pockets
 
-To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor. 
+To succeed, they must roll the indicated number or higher with a d6. However, thieves take a -1 penalty to these attempts when wearing mail armor.
 
 | Level | XP      | HD | Save | To-Hit | Thievery |
 |:-----:|--------:|:--:|:----:|:------:|:--------:|
@@ -93,14 +100,15 @@ To succeed, they must roll the indicated number or higher with a d6. However, th
 
 Table: Thief Levels
 
-# Equipment
+## Equipment
 
-## Encumbrance and Movement
+### Encumbrance and Movement
+
 A man can carry up to ten (10) items. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- these do not count as an item for encumbrance purposes. A purse of 300 coins counts as one item.
 
 A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
-## Items
+### Items
 
 | Armor              | AC | Cost    | Encumbrance as... |
 |:-------------------|:--:|--------:|:------------------|
@@ -121,6 +129,7 @@ Table: Shields and Helms
 **Helms** can be sundered to turn a critical hit into a regular hit (dealing normal damage rather than critical hit damage).  
 
 **Shields** can be made of various materials:  
+
 - **Wood**: the typical shield, 20sp
 - **Leaden**: grants advantage to saves vs. magic, encumbrance as *bulky*, 50sp
 - **Mirrored Bronze**: grants advantage to saves vs. gaze attacks, 100sp
@@ -153,12 +162,13 @@ Table: Weapons
 **Spears** may be wielded normally in one hand, or be wielded in two hands to deal double damage against charging enemies.  
 
 **Swords** are the weapon of the military elite, and can be made of various materials:  
+
 - **Cold Iron**: +2 to hit vs. fey, 40s
 - **Steel**: +1 to hit, 160s
 - **Fine Steel**: +2 to hit, 300s
 - **Silvered**: effective against undead and spirits, 600s
 
-**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.     
+**Torches** can set flammable targets alight, or deal d6 damage against enemies vulnerable to fire.
 
 | Item               | Cost | Notes |
 |:-------------------|-----:|:-----:|
@@ -242,7 +252,8 @@ Table: Transportaion
 
 Mounts such as mules and horses can carry up to 40 items when unencumbered, or up to 80 items when encumbered. Each rider counts as 20 items for the purposes of carrying capacity.  
 
-## Hirelings
+### Hirelings
+
 It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
 
 | Type           | Notes                  | Cost per Month |
@@ -262,21 +273,25 @@ Table: Hirelings
 
 **Horse archers** may act in both the move phase and the missile phase of combat.
 
-# Encounters
+## Encounters
 
-## Surprise
+### Surprise
+
 To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.
 
 Common situations where players may surprise monsters:  
+
 - Bursting through a door on the first try.
 - Entering a room by picking the a locked door.
 - A thief successfully hides in shadows or moves silently (only the thief has a chance to surprise).
 
 Common situations where monsters may surprise players:  
+
 - The party has no light sources.
 - The party enters a room after an unsuccessful attempt to force the door, if the party did not hear any noises before entering.
 
-## Reactions
+### Reactions
+
 When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
 
 | 2d6  | Reaction     |
@@ -289,7 +304,8 @@ When encountering a wandering monster or other entity, and their disposition is 
 
 Table: Reaction Roll Results
 
-## Distance
+### Distance
+
 Wandering monster encounters take place at the following distance, depending on location and whether any parties are surprised.
 
 |               | Indoor         | Outdoor        |
@@ -298,17 +314,19 @@ Wandering monster encounters take place at the following distance, depending on 
 | Not Surprised | 1d4 moves away | 4d6 moves away |
 Table: Distance of Encounters
 
-# Combat
+## Combat
 
-## Initiative
+### Initiative
+
 To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
 
 1. **Magic, cast**  
 2. **Move or Missile**
 3. **Melee**
-5. **Magic, effect**
+4. **Magic, effect**
 
-## Attacks \& Damage
+### Attacks \& Damage
+
 **Basic Attacks** Roll a d20 and add to-hit bonus. A character or monster's to-hit bonus is equal to their HD. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
 
 **Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
@@ -317,10 +335,12 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 
 **Combat Maneuvers** A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack and damage roll as normal. If he hits, his opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
 
-## Saving Throws
+### Saving Throws
+
 Some effects require characters to make saving throws. To do so, roll a d20 and compare the result to the character’s saving throw score on their character sheet. A result equal to or greater than the saving throw score is a success.
 
-## Death & Healing
+### Death & Healing
+
 Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  
 
 Resting in camp for a night restores d6 HP, as long as the character has both shelter and food. Each day without food reduces max HP by 1 HP per HD. Resting in a town or similar safe location for a night restores all HP.
@@ -339,7 +359,8 @@ Table: Grevious Wounds
 
 The grievously wounded require a week's rest in a town or similar safe location to restore all HP. More time may be required to heal their other injuries.
 
-## Morale
+### Morale
+
 When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Undead are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception). Morale is usually based on the combatants experience level, per the table below.
 
 | Experience | Morale Score | Examples              |
@@ -351,7 +372,8 @@ When a side takes 50% casualties, make a morale check to see if they break. Roll
 
 Table: Morale Scores
 
-## Evasion
+### Evasion
+
 If the party surprises a monster, they can evade the monster automatically by retreating from the dungeon room or taking a circuitous wilderness path. If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it.  
 
 Each turn of the chase, roll a d6. Consult the table below to determine what happens. Note that closed or locked doors may be in the way of the fleeing party. These must be dealt with as normal -- failure indicates they are stymied by the obstacle long enough for the pursuing monster to catch them.
@@ -373,18 +395,21 @@ Table: Chase Results
 
 Food will distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will distract intelligent monsters from the chase, by dropping 100c worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
 
-# Dungeon Delving
+## Dungeon Delving
 
-## Turns
+### Turns
+
 One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
+
 - Move to the next room
 - Open a stuck or locked door
 - Search the current room
 - Rest and bind wounds
 - Interact with a feature of the room, such as a trap
 
-## Doors
-**Forcing Doors** All doors are stuck and must be burst open by force with a 5+ on a d6. A failed attempt makes surprising whatever is behind the door impossible. 
+### Doors
+
+**Forcing Doors** All doors are stuck and must be burst open by force with a 5+ on a d6. A failed attempt makes surprising whatever is behind the door impossible.
 
 **Hear Noises** Characters can listen at doors and attempt to hear if the room is occupied on a roll of 5+ on a d6. Note that the undead make no sound.
 
@@ -394,10 +419,12 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 **Holding Doors** Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. When doing so, each side trying to force the door rolls a d6. Player characters gain +1 for each character holding the door. Note that a maximum of three (3) human-sized beings may attempt to hold a door at one time. Monsters gain +1 per HD, max +7. The higher roll wins, with the side holding the door winning ties.
 
-## Traps
+### Traps
+
 **Room Traps** are activated on a roll of 5+ on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
 
-## Wandering Monsters
+### Wandering Monsters
+
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. Choose the result from the appropriate column depending on whether all, some, or none of the characters in the party have light.
 
 | d6 | Fully Lit | Partially Lit | Unlit |
@@ -415,17 +442,17 @@ Table: Dungeon Event Rolls
 **O** = Omen. Signs of a wandering monster are encountered.  
 **L** = Light sources depleted. All currently lit light sources are depleted. New light sources are automatically lit as a free action (unless in combat, see **tinderbox** rules).
 
-# Appendix
+## Appendix
 
-## Monsters, Treasure, \& Spells
+### Monsters, Treasure, \& Spells
 
 It is suggested to reference one of the following resources for monster lists, treasure tables, and spell lists:
 
 - *[White Box: Fantastic Medieval Adventure Game](https://www.drivethrurpg.com/product/190631/White-Box--Fantastic-Medieval-Adventure-Game)* by Charles Mason
 - *[Delving Deeper Reference Rules Hypertext](https://ddo.immersiveink.com)* by Simon J. Bull
-	+ [Monsters](https://ddo.immersiveink.com/#monsters_2)
-	+ [Treasure](https://ddo.immersiveink.com/#treasures)
-	+ [Spells](https://ddo.immersiveink.com/#explanation-of-spells)
+  - [Monsters](https://ddo.immersiveink.com/#monsters_2)
+  - [Treasure](https://ddo.immersiveink.com/#treasures)
+  - [Spells](https://ddo.immersiveink.com/#explanation-of-spells)
 
 Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and to-hit bonus should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17). A monster has a to-hit bonus equal to its HD. HD should be converted to d6. Monsters typically deal d6 damage per attack, though particularly dangerous monsters might deal multiple d6 per attack.
 
