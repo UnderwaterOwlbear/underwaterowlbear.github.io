@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-06-12
+date: 2022-06-18
 menu: no
 
 ---
@@ -57,6 +57,7 @@ Table: Fighter Levels
 **Armor** Medium  
 **Shields?** Yes  
 **Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can build or take over a temple.  
+**Spellcasting** Clerics may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Clerics know all spells on their spell list, as determined by their deity. Clerics must pray for at least one (1) hour to memorize their spells for that day.
 
 | Level | XP      | HD | To-Hit | Save |
 |-------|---------|----|--------|------|
