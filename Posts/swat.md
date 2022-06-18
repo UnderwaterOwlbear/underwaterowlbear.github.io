@@ -11,9 +11,10 @@ Inspired by [this post](https://as-they-must.blogspot.com/2022/04/the-best-case-
 
 Alternating activations.
 
-Operators have 2 HP, 
+Operators have 2 HP,
 
 Basic shoot mechanic: roll dice, check result.
+
 - 6+ is a hit
 - 4 or 5 is pinned
 - 1, 2, or 3 is no effect
@@ -23,15 +24,17 @@ If **pinned**, can't move.
 If in **cover**, **hit** results count as **pinned** instead.  
 
 Ranges:
+
 - Short = 6"
 - Medium = 12"
 - Long > 12"
 
 Each turn, move 6" and take one action:
+
 - Shoot
-	- Bolt action, pump, etc = 1 ammo per shot max
-	- Semi-auto = 3 ammo per shot max
-	- Full-auto = as many as in magazine
+  - Bolt action, pump, etc = 1 ammo per shot max
+  - Semi-auto = 3 ammo per shot max
+  - Full-auto = as many as in magazine
 - Sprint: move 1d6"
 - Reload: restore all ammo
 - Aim: next shoot action uses one die size bigger
@@ -40,6 +43,7 @@ Each turn, move 6" and take one action:
 - Use Gear: throw grenade, use first aid kit, etc.
 
 Equipment
+
 - Ballistic plate: +1 HP
 - First aid kit: restore 1 HP
 - Flashbang: short range, targets can't act this round
@@ -48,6 +52,7 @@ Equipment
 - Ballistic shield: moveable cover in one direction, heavy (1/2 speed)
 
 Weapons:
+
 - Assault Rifle: ammo 6d6, full-auto, medium range
 - SMG: ammo 9d6, full-auto, short range
 - Pistol: ammo 3d6, semi-auto, short range, quick draw (free action to swap and shoot)
@@ -56,6 +61,7 @@ Weapons:
 - Shotgun: ammo 9d6, pump action, short range, use three ammo per shot, can't **aim**
 
 Classes:
+
 - Breacher: You carry a **breaching charge**. Use it to make an entryway wherever you want.
 - Medic: First aid kits you carry gain an additional charge.
 - Marksman: You can **aim** twice in a row (next shoot action uses two die sizes bigger).
