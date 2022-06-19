@@ -3,6 +3,11 @@ title: Barrows Basilisks VD
 author: Tyler Farrington
 date: 2022-06-18
 menu: no
+papersize: letter
+documentclass: extbook
+fontsize: 14pt
+header-includes: |
+    \usepackage[margin=0.5in]{geometry}
 
 ---
 
@@ -29,6 +34,8 @@ If coming from other old-school games, these are the assumptions used for a few 
 
 Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
+\newpage
+
 #### Fighter
 
 **Weapons** Any  
@@ -50,6 +57,8 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 | 9     | 256,000 | 9  | +9     | 6+   |
 
 Table: Fighter Levels
+
+\newpage
 
 #### Cleric
 
@@ -86,6 +95,8 @@ Table: Cleric Levels
 | 9     | 4   | 4   | 3   | 2   | 1   |
 
 Table: Cleric Spells per Day by Level
+
+\newpage
 
 #### Mage
 
@@ -146,9 +157,9 @@ Table: Mage Spells per Day by Level
 | Armor        | AC | Cost    | Encumbrance as... | Examples                                   |
 |--------------|----|---------|-------------------|--------------------------------------------|
 | Unarmored    | 10 | -       | -                 | -                                          |
-| Light Armor  | 12 | 10sp    | 2 items           | Padded armor, quilted gambeson, mail shirt |
-| Medium Armor | 14 | 250sp   | 4 items           | Mail hauberk, splint armor, brigandine     |
-| Heavy Armor  | 16 | 3,000sp | 6 items           | Bronze breastplate, full plate harness     |
+| Light Armor  | 12 | 10sp    | 2 items           | Qilted gambeson, mail shirt |
+| Medium Armor | 14 | 250sp   | 4 items           | Mail hauberk, brigandine     |
+| Heavy Armor  | 16 | 3,000sp | 6 items           | Bronze breastplate, full plate     |
 | Shield       | +1 | 10sp    | 1 item            |                                            |
 
 Table: Armor and Shields
@@ -201,13 +212,13 @@ It costs 100c to place an advertisement in a settlement for hirelings. The adver
 
 | Type           | Notes                   | Cost per Month |
 |:---------------|:-----------------------------|---------------:|
-| Servant        | HD1/2 AC10 DMGd4 M6  | 4sp            |
-| Foot, Light    | HD1 AC14 DMGd6 M7  | 20sp           |
-| Foot, Armored  | HD1 AC16 DMGd6 M8    | 40sp           |
-| Foot, Archer   | HD1 AC12 DMGd6 M7    | 60sp           |
-| Horse, Light   | HD2 AC14 DMGd6 M7    | 100sp          |
-| Horse, Armored | HD2 AC16  DMGd8 M8    | 160sp          |
-| Horse, Archer  | HD2 AC12 DMGd6 M8    | 160sp          |
+| Servant        | HD½ AC10 d4 M6  | 4sp            |
+| Foot, Light    | HD1 AC14 d6 M7  | 20sp           |
+| Foot, Armored  | HD1 AC16 d6 M8    | 40sp           |
+| Foot, Archer   | HD1 AC12 d6 M7    | 60sp           |
+| Horse, Light   | HD2 AC14 d6 M7    | 100sp          |
+| Horse, Armored | HD2 AC16  d8 M8    | 160sp          |
+| Horse, Archer  | HD2 AC12 d6 M8    | 160sp          |
 | Armorer        | Need 1 per 50 soldiers  | 100sp          |
 | Blacksmith     | Need 1 per 50 mounts    | 20sp           |
 | Engineer       | Builds strongholds      | 800sp          |
@@ -216,7 +227,7 @@ Table: Hirelings
 
 **Horse archers** may act in both the move phase and the missile phase of combat.
 
-## Encounters
+## Encounters & Combat
 
 ### Surprise
 
@@ -258,13 +269,11 @@ Wandering monster encounters take place at the following distance, depending on 
 
 Table: Distance of Encounters
 
-## Combat
-
 ### Initiative
 
 To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
 
-1. **Magic, cast**  
+1. **Magic, cast**
 2. **Missile**
 3. **Move**
 4. **Melee**
@@ -309,12 +318,12 @@ When a side takes 50% casualties, make a morale check to see if they break. Roll
 
 **Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
 
-| Experience | Morale Score | Examples              |
+| Experience | Morale Roll to Rout | Examples              |
 |:-----------|:------------:|:----------------------|
-| Green      | 6            | Conscripts, levy      |
-| Trained    | 7            | Militia, town guards  |
-| Veteran    | 8            | Experienced fighters  |
-| Elite      | 9            | Knights, house guards |
+| Green      | 6+            | Conscripts, levy      |
+| Trained    | 7+            | Militia, town guards  |
+| Veteran    | 8+            | Experienced fighters  |
+| Elite      | 9+            | Knights, house guards |
 
 Table: Morale Scores
 
@@ -376,16 +385,6 @@ Table: Dungeon Event Rolls
 **L** = Light sources depleted. All currently lit light sources are depleted. New light sources are automatically lit as a free action (unless in combat, see **tinderbox** rules).
 
 ## Appendix
-
-### Monsters, Treasure, & Spells
-
-It is suggested to reference one of the following resources for monster lists, treasure tables, and spell lists:
-
-- *[White Box: Fantastic Medieval Adventure Game](https://www.drivethrurpg.com/product/190631/White-Box--Fantastic-Medieval-Adventure-Game)* by Charles Mason
-- *[Delving Deeper Reference Rules Hypertext](https://ddo.immersiveink.com)* by Simon J. Bull
-  - [Monsters](https://ddo.immersiveink.com/#monsters_2)
-  - [Treasure](https://ddo.immersiveink.com/#treasures)
-  - [Spells](https://ddo.immersiveink.com/#explanation-of-spells)
 
 ### Monsters by HD
 
