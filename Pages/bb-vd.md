@@ -157,7 +157,7 @@ Table: Mage Spells per Day by Level
 | Armor        | AC | Cost    | Encumbrance as... | Examples                                   |
 |--------------|----|---------|-------------------|--------------------------------------------|
 | Unarmored    | 10 | -       | -                 | -                                          |
-| Light Armor  | 12 | 10sp    | 2 items           | Qilted gambeson, mail shirt |
+| Light Armor  | 12 | 10sp    | 2 items           | Quilted gambeson, mail shirt |
 | Medium Armor | 14 | 250sp   | 4 items           | Mail hauberk, brigandine     |
 | Heavy Armor  | 16 | 3,000sp | 6 items           | Bronze breastplate, full plate     |
 | Shield       | +1 | 10sp    | 1 item            |                                            |
@@ -173,9 +173,9 @@ Table: Armor and Shields
 | Simple Hand     | d4     |         | 10   | Dagger, club, hatchet        |
 | Simple Polearm  | d6     | bulky   | 15   | Staff, pitchfork, billhook   |
 | Martial Hand    | d6     |         | 20   | Sword, spear, mace           |
-| Martial Polearm | d8     | bulky   | 25   | Poleaxe, halberd, lance     |
+| Martial Polearm | d8     | bulky   | 25   | Poleaxe, halberd, lance      |
 | Missile, Sling  | d4     |         | 10   | Sling                        |
-| Missile, Bow   | d6     | bulky   | 25   | Hunting bow, light crossbow  |
+| Missile, Bow    | d6     | bulky   | 25   | Hunting bow, light crossbow  |
 | Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
@@ -199,8 +199,8 @@ Table: Transportaion
 **Carts** double (2x) the carrying capacity of the user.  
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 **Mules** have a morale score of 7, and are only as fast as a walking person.  
-**Horses** have a morale score of 6.  
-**Warhorses** have a morale score of 9.  
+**Horses** have a morale score of 6, and double movement speed.  
+**Warhorses** have a morale score of 9, and double movement speed.  
 **Canoe** Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
