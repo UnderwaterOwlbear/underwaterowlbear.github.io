@@ -17,14 +17,40 @@ header-includes: |
 
 ## Cleric Spell List
 
+### Archetypal Spells
+
+- Detect Evil / Magic
+
+- Circle of Protection from...
+  - Evil / Undead / Fey
+
+- Dispel Magic / Remove Curse
+
+- Augury / Divination / Commune
+
+- Bless / Prayer / Chant
+
+- Tongues / Comprehend Languages
+
+- Control Weather / Call Lightning / Control Winds
+
+- Turn Evil / Undead / Fey
+
+- Wild Shape
+
+- Heal
+  - Remove Disease
+  - Neutralize Poison
+  - Cure Blindness
+
 | d6 | 1st Level Spell       |
 |----|-----------------------|
-| 1  | Bless / Bane          |
-| 2  | Detect Evil / Good    |
+| 1  | Bless                 |
+| 2  | Detect Evil           |
 | 3  | Detect Magic          |
-| 4  | Light  / Darkness     |
+| 4  | Light                 |
 | 5  | Protection from...    |
-| 6  | Purify / Putrefy Food and Drink |
+| 6  | Purify Food and Drink |
 
 | d6 | 2nd Level Spell |
 |----|-----------------|
@@ -33,16 +59,16 @@ header-includes: |
 | 3  | Command         |
 | 4  | Find Traps      |
 | 5  | Hold Person     |
-| 6  | Remove / Inflict Disease  |
+| 6  | Remove Disease  |
 
 | d6 | 3rd Level Spell      |
 |----|----------------------|
-| 1  | Circle of Protection from... |
+| 1  | Circle of Protection |
 | 2  | Dispel Magic         |
 | 3  | Locate Object        |
 | 4  | Prayer               |
-| 5  | Remove / Bestow Curse         |
-| 6  | Slow / Speed Poison          |
+| 5  | Remove Curse         |
+| 6  | Slow Poison          |
 
 | d6 | 4th Level Spell   |
 |----|-------------------|
@@ -50,25 +76,27 @@ header-includes: |
 | 2  | Divination        |
 | 3  | Exorcise          |
 | 4  | Hold Monster      |
-| 5  | Neutralize / Inflict Poison |
+| 5  | Neutralize Poison |
 | 6  | Tongues           |
 
 | d6 | 5th Level Spell |
 |----|-----------------|
 | 1  | Commune         |
-| 2  | Dispel Evil / Good     |
+| 2  | Dispel Evil     |
 | 3  | Find the Path   |
-| 4  | Heal / Harm            |
+| 4  | Heal            |
 | 5  | Quest           |
 | 6  | True Seeing     |
 
-| Level | Thunar           | Hircine             | Orcus           |
-|-------|------------------|---------------------|-----------------|
-| 1st   | Predict Weather  | Speak with Animals  | Speak with Dead |
-| 2nd   | Spiritual Hammer |                     |                 |
-| 3rd   | Call Lightning   | Wild Shape          | Animate Dead    |
-| 4th   | Control Winds    | Summon Animals      |                 |
-| 5th   | Control Weather  | Commune with Nature |                 |
+## Cleric Bonus Spells by Deity
+
+| Level | Thunar           | Hircine             |
+|-------|------------------|---------------------|
+| 1st   | Predict Weather  | Speak With Animals  |
+| 2nd   | Spiritual Hammer | Pass Without Trace  |
+| 3rd   | Call Lightning   | Wild Shape          |
+| 4th   | Control Winds    | Summon Animals      |
+| 5th   | Control Weather  | Commune With Nature |
 
 ## Magic-User Spell List
 
