@@ -17,7 +17,59 @@ header-includes: |
 
 ## Cleric Spell List
 
-### Archetypal Spells
+| d8 | Spell                |
+|----|----------------------|
+| 1  | Augury               |
+| 2  | Bless                |
+| 3  | Circle of Protection |
+| 4  | Detect Heresy        |
+| 5  | Dispel Magic         |
+| 6  | Heal Sickness        |
+| 7  | Tongues              |
+| 8  | Turn Foe             |
+
+### Augury
+
+### Bless
+
+Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This effect lasts 10 minutes per cleric level, and can effect 1 target per level.
+
+### Circle of Protection
+
+Pick a creature type and draw a circle on the ground with chalk, salt, or blood. That creature type cannot cross the boundary. Takes 1 hour per 10' of radius to create the circle.
+
+- Undead
+- Fey
+- Demons
+
+### Detect Heresy
+
+You can detect the presence and approximate direction towards magic, undead, fey, demons, or other unnatural creatures within 10' per cleric level.
+
+### Heal Sickness
+
+Heal all injuries, diseases, poisons, and curses currently affecting a creature. This spell can always cure any mundane injury or ailment (such as wounds sustained in battle, or poison from nonmagical creatures), but can only cure those magical effects that were inflicted by...
+
+1. A spell with level equal to or less than ½ the caster's cleric class level, or...
+2. A creature with HD equal to or less than the caster's cleric class level
+
+### Tongues
+
+### Turn Foe
+
+Presenting a cross, you drive back undead, fey, demons, or other unnatural creatures within sight of you. These creatures must make a saving throw to be able to attack you or those within arm's length of you. Creatures have advantage or disadvantage on this saving throw depending on their HD and the cleric's level:
+
+| Monster HD is...            | Save Modifier |
+|-----------------------------|---------------|
+| 4 less than cleric level    | Disadvantage  |
+| Within +/-4 of cleric level | None          |
+| 4 greater than cleric level | Advantage     |
+
+
+
+
+
+
 
 - Detect Evil / Magic
 
@@ -32,16 +84,15 @@ header-includes: |
 
 - Tongues / Comprehend Languages
 
-- Control Weather / Call Lightning / Control Winds
-
 - Turn Evil / Undead / Fey
-
-- Wild Shape
 
 - Heal
   - Remove Disease
   - Neutralize Poison
   - Cure Blindness
+  - Heal Wounds
+
+  
 
 | d6 | 1st Level Spell       |
 |----|-----------------------|

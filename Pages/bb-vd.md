@@ -65,36 +65,22 @@ Table: Fighter Levels
 **Weapons** Simple  
 **Armor** Medium  
 **Shields?** Yes  
-**Name Level** When they reach 9th level, they become a High Priest (or Priestess) and can build or take over a temple.  
-**Spellcasting** Clerics may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Clerics know all spells on their spell list, as determined by their deity. Clerics must pray for at least one (1) hour to memorize their spells for that day.
+**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or take over an abbey.  
+**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down, see table below). Clerics must pray for at least one (1) hour to be able to cast spells that day.
 
-| Level | XP      | HD | To-Hit | Save |
-|-------|---------|----|--------|------|
-| 1     | 0       | 1  | +1     | 14+  |
-| 2     | 2,000   | 1  | +1     | 13+  |
-| 3     | 4,000   | 2  | +2     | 12+  |
-| 4     | 8,000   | 2  | +2     | 11+  |
-| 5     | 16,000  | 3  | +3     | 10+  |
-| 6     | 32,000  | 3  | +3     | 9+   |
-| 7     | 64,000  | 4  | +4     | 8+   |
-| 8     | 128,000 | 4  | +4     | 7+   |
-| 9     | 256,000 | 5  | +5     | 6+   |
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 14+  |                |
+| 2     | 2,000   | 1  | +1     | 13+  | 1              |
+| 3     | 4,000   | 2  | +2     | 12+  | 2              |
+| 4     | 8,000   | 2  | +2     | 11+  | 3              |
+| 5     | 16,000  | 3  | +3     | 10+  | 4              |
+| 6     | 32,000  | 3  | +3     | 9+   | 5              |
+| 7     | 64,000  | 4  | +4     | 8+   | 6              |
+| 8     | 128,000 | 4  | +4     | 7+   | 7              |
+| 9     | 256,000 | 5  | +5     | 6+   | 8              |
 
 Table: Cleric Levels
-
-| Level | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-----|-----|-----|-----|-----|
-| 1     |     |     |     |     |     |
-| 2     | 1   |     |     |     |     |
-| 3     | 2   |     |     |     |     |
-| 4     | 3   | 1   |     |     |     |
-| 5     | 4   | 2   |     |     |     |
-| 6     | 4   | 2   | 1   |     |     |
-| 7     | 4   | 3   | 2   |     |     |
-| 8     | 4   | 3   | 2   | 1   |     |
-| 9     | 4   | 4   | 3   | 2   | 1   |
-
-Table: Cleric Spells per Day by Level
 
 \newpage
 
