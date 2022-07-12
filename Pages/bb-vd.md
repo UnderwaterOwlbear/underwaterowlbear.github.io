@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-06-18
+date: 2022-07-12
 menu: no
 papersize: letter
 documentclass: extbook
@@ -13,7 +13,7 @@ header-includes: |
 
 [comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
-# Barrows & Basilisks v1.09
+# Barrows & Basilisks v1.10
 
 ## Character Creation
 
@@ -27,12 +27,37 @@ If coming from other old-school games, these are the assumptions used for a few 
 - To-hit bonus equal to HD.
 - Ascending AC with unarmored AC = 10.
 - Single saving throw (roll-over).
+- Spell
 
 **Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
 ### Experience & Advancement
 
 Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+
+\newpage
+
+#### Cleric
+
+**Weapons** Simple  
+**Armor** Medium  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
+**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down, see table below). Clerics must pray for at least one (1) hour to be able to cast spells that day.
+
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 14+  |                |
+| 2     | 2,000   | 1  | +1     | 13+  | 1              |
+| 3     | 4,000   | 2  | +2     | 12+  | 1              |
+| 4     | 8,000   | 2  | +2     | 11+  | 2              |
+| 5     | 16,000  | 3  | +3     | 10+  | 2              |
+| 6     | 32,000  | 3  | +3     | 9+   | 3              |
+| 7     | 64,000  | 4  | +4     | 8+   | 3              |
+| 8     | 128,000 | 4  | +4     | 7+   | 4              |
+| 9     | 256,000 | 5  | +5     | 6+   | 4              |
+
+Table: Cleric Levels
 
 \newpage
 
@@ -60,65 +85,60 @@ Table: Fighter Levels
 
 \newpage
 
-#### Cleric
-
-**Weapons** Simple  
-**Armor** Medium  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or take over an abbey.  
-**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down, see table below). Clerics must pray for at least one (1) hour to be able to cast spells that day.
-
-| Level | XP      | HD | To-Hit | Save | Spells per Day |
-|-------|---------|----|--------|------|----------------|
-| 1     | 0       | 1  | +1     | 14+  |                |
-| 2     | 2,000   | 1  | +1     | 13+  | 1              |
-| 3     | 4,000   | 2  | +2     | 12+  | 2              |
-| 4     | 8,000   | 2  | +2     | 11+  | 3              |
-| 5     | 16,000  | 3  | +3     | 10+  | 4              |
-| 6     | 32,000  | 3  | +3     | 9+   | 5              |
-| 7     | 64,000  | 4  | +4     | 8+   | 6              |
-| 8     | 128,000 | 4  | +4     | 7+   | 7              |
-| 9     | 256,000 | 5  | +5     | 6+   | 8              |
-
-Table: Cleric Levels
-
-\newpage
-
 #### Mage
 
 **Weapons** Simple  
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must have their grimoire (a *bulky* item) to memorize any spells.
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.
 
-| Level | XP      | HD | To-Hit | Save |
-|-------|---------|----|--------|------|
-| 1     | 0       | 1  | +1     | 16+  |
-| 2     | 2,500   | 1  | +1     | 15+  |
-| 3     | 5,000   | 1  | +1     | 14+  |
-| 4     | 10,000  | 2  | +2     | 13+  |
-| 5     | 20,000  | 2  | +2     | 12+  |
-| 6     | 40,000  | 2  | +2     | 11+  |
-| 7     | 80,000  | 3  | +3     | 10+  |
-| 8     | 160,000 | 3  | +3     | 9+   |
-| 9     | 320,000 | 3  | +3     | 8+   |
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 16+  | 1              |
+| 2     | 2,500   | 1  | +1     | 15+  | 2              |
+| 3     | 5,000   | 1  | +1     | 14+  | 3              |
+| 4     | 10,000  | 2  | +2     | 13+  | 4              |
+| 5     | 20,000  | 2  | +2     | 12+  | 5              |
+| 6     | 40,000  | 2  | +2     | 11+  | 6              |
+| 7     | 80,000  | 3  | +3     | 10+  | 7              |
+| 8     | 160,000 | 3  | +3     | 9+   | 8              |
+| 9     | 320,000 | 3  | +3     | 8+   | 9              |
 
 Table: Mage Levels
 
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
-|-------|-----|-----|-----|-----|-----|-----|
-| 1     | 1   |     |     |     |     |     |
-| 2     | 2   |     |     |     |     |     |
-| 3     | 3   | 1   |     |     |     |     |
-| 4     | 4   | 2   |     |     |     |     |
-| 5     | 4   | 2   | 1   |     |     |     |
-| 6     | 4   | 3   | 2   |     |     |     |
-| 7     | 4   | 3   | 2   | 1   |     |     |
-| 8     | 4   | 4   | 3   | 2   | 1   |     |
-| 9     | 4   | 4   | 3   | 2   | 2   | 1   |
+\newpage
 
-Table: Mage Spells per Day by Level
+#### Thief
+
+**Weapons** Simple and Missile  
+**Armor** Light  
+**Shields?** No  
+**Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
+**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+
+- Hear noises through doors or across rooms
+- Pick locks or disable traps
+- Move silently (enemies get no chance to hear noises)
+- Hide in shadows (success results in surprising enemies)
+- Pick pockets (as an action in combat)
+
+To succeed, they must roll the indicated number or higher with a d6.
+
+| Level | XP      | HD | Save | To-Hit | Thievery |
+|:-----:|--------:|:--:|:----:|:------:|:--------:|
+| 1     | 0       | 1  | 14+  | +1     | 5+       |
+| 2     | 1,250   | 1  | 13+  | +1     | 4+       |
+| 3     | 2,500   | 2  | 12+  | +2     | 4+       |
+| 4     | 5,000   | 2  | 11+  | +2     | 4+       |
+| 5     | 10,000  | 3  | 10+  | +3     | 3+       |
+| 6     | 20,000  | 3  | 9+   | +3     | 3+       |
+| 7     | 40,000  | 4  | 8+   | +4     | 3+       |
+| 8     | 80,000  | 4  | 7+   | +4     | 2+       |
+| 9     | 160,000 | 5  | 6+   | +5     | 2+       |
+
+Table: Thief Levels
 
 ## Equipment
 
@@ -150,9 +170,7 @@ Table: Mage Spells per Day by Level
 
 Table: Armor and Shields
 
-**Shield, Wooden**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.  
-**Shield, Leaden**: Grants advantage to saves vs. magic. Encumbrance as *bulky*, 50sp.  
-**Shield, Mirrored Bronze**: Grants advantage to saves vs. gaze attacks, 100sp.  
+**Shield**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.  
 
 | Weapon          | Damage | Special | Cost | Examples                     |
 |-----------------|--------|---------|------|------------------------------|
