@@ -1,7 +1,7 @@
 ---
 title: My Rules
 author: Tyler Farrington
-date: 2022-06-03
+date: 2022-07-15
 menu: yes
 
 ---
@@ -9,8 +9,6 @@ menu: yes
 # My Rules
 
 [Barrows & Basilisks](/barrows-basilisks-vd)
-
-[Barrows & Basilisks -- Spells & Magic](/barrows-basilisks-magic)
 
 [My Cairn Hack](/cairn)
 
