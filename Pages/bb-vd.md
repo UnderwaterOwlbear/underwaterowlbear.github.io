@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-07-12
+date: 2022-07-14
 menu: no
 papersize: letter
 documentclass: extbook
@@ -70,6 +70,7 @@ Table: Cleric Levels
 **Shields?** Yes  
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
+**Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.
 
 | Level | XP      | HD | To-Hit | Save |
 |-------|---------|----|--------|------|
@@ -93,7 +94,7 @@ Table: Fighter Levels
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mage spells are considered to be of a level equal to the casting mage's level. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
 
 | Level | XP      | HD | To-Hit | Save | Spells per Day |
 |-------|---------|----|--------|------|----------------|
@@ -117,16 +118,15 @@ Table: Mage Levels
 **Armor** Light  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
-**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
-**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents. In addition, thieves surprise enemies on a roll of 3+ (instead of on a 5+).  
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skullduggery. To succeed, they must roll 3+ with a d6.
 
-- Hear noises through doors or across rooms (3+)
-- Pick locks or disable traps (5+)
-- Move silently (5+, enemies get no chance to hear noises)
-- Hide in shadows (5+, success results in surprising enemies)
-- Pick pockets (3+, as an action in combat)
-
-To succeed, they must roll the indicated number or higher with a d6.  
+- Hear noises through doors or across rooms
+- Pick locks or disable traps
+- Climb sheer surfaces
+- Move silently
+- Hide in shadows
+- Pick pockets
 
 | Level | XP      | HD | Save | To-Hit |
 |-------|---------|----|------|--------|
@@ -150,12 +150,12 @@ Table: Thief Levels
 
 **Requirements**  
 **Weapons** Any  
-**Armor** Any  
+**Armor** Light and Medium  
 **Shields?** Yes  
 **Name Level** When they reach 9th level, the ranger becomes a Marcher Lord (or Lady) and rules over a border march.  
 **Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
 **Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
-**Ambush** A ranger surprises enemies on a roll of 1, 2, or 3 when in the wilderness (instead of on a 1 or 2).  
+**Ambush** A ranger surprises enemies on a roll of 3+ when in the wilderness (instead of on a 5+).  
 **Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down). Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
 
 | Level | XP      | HD | To-Hit | Save | Spells per Day |
@@ -184,8 +184,8 @@ Table: Ranger Levels
 
 **Supply** Common adventuring equipment and resources are abstracted into *supply*. Each unit of *supply* takes up one (1) slot, costs 10 coins, and can be readily converted into...
 
-- Rations, one (1) day
-- Water, one (1) day
+- Food, one (1) day for man or beast
+- Water, one (1) day (generally not required unless traveling through a desert)
 - Torches, three (3)
 - Ammunition for one (1) missile weapon
 - A common tool, such as a shovel, pickaxe, oar, rope, or the like.
@@ -201,8 +201,6 @@ Table: Ranger Levels
 | Shield       | +1 | 10sp    | 1 item            |                                            |
 
 Table: Armor and Shields
-
-**Shield**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.  
 
 | Weapon          | Damage | Special | Cost | Examples                     |
 |-----------------|--------|---------|------|------------------------------|
@@ -234,13 +232,11 @@ Table: Transportaion
 
 **Carts** double (2x) the carrying capacity of the user.  
 **Wagons** quadruple (4x) the carrying capacity of the user.  
-**Mules** have a morale score of 7, and are only as fast as a walking person.  
-**Horses** have a morale score of 6, and double movement speed.  
-**Warhorses** have a morale score of 9, and double movement speed.  
+**Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require 1 unit of supply per day.  
+**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.   
+**Warhorses** as horses, but have a morale score of 9.  
 **Canoe** Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
-
-Mounts such as mules and horses can carry up to 40 items when unencumbered, or up to 80 items when encumbered. Each rider counts as 20 items for the purposes of carrying capacity.  
 
 ### Hirelings
 
@@ -267,7 +263,7 @@ Table: Hirelings
 
 ### Surprise
 
-To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 1 or 2, they are surprised. If a side is surprised, they are unable to act in the first round of combat.
+To determine surprise, roll a d6 for each side that is unaware of their enemies. On a 5+, they are surprised. If a side is surprised, they are unable to act in the first round of combat.
 
 **Common situations where players may surprise monsters:**.
 
@@ -275,7 +271,7 @@ To determine surprise, roll a d6 for each side that is unaware of their enemies.
 - Entering a room by picking the a locked door.
 - A thief successfully hides in shadows or moves silently (only the thief has a chance to surprise).
 
-**Common situations where monsters may surprise players:**  
+**Common situations where monsters may surprise players:**
 
 - The party has no light sources.
 - The party enters a room after an unsuccessful attempt to force the door, if the party did not hear any noises before entering.
@@ -305,15 +301,19 @@ Wandering monster encounters take place at the following distance, depending on 
 
 Table: Distance of Encounters
 
-### Initiative
+### Initiative & Phases
 
-To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase:  
+**Initiative** To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
 
-1. **Magic, cast**
-2. **Missile**
-3. **Move**
-4. **Melee**
-5. **Magic, effect**
+**Phases**
+
+1. Magic, cast
+2. Missile
+3. Move
+4. Melee
+5. Magic, effect
+
+**Casting Interruptions** A spellcaster who is hit by an attack while casting a spell must make a saving throw. If he fails, the spell is lost (as if it were cast) and no effect takes place.
 
 ### Attacks & Damage
 
@@ -422,21 +422,25 @@ Table: Dungeon Event Rolls
 
 ## Magic
 
+### Spellcasting
+
+**Counterspells**
+
 ### Cleric Spells
 
 #### Banish
 
-Presenting a cross, you drive back undead, fey, demons, or other unnatural creatures within sight of you. These creatures must make a saving throw or be forced to flee. Creatures have advantage or disadvantage on this saving throw depending on their HD and the cleric's level:
+Presenting a cross, you drive back undead, fey, demons, or other unnatural creatures within sight of you. These creatures must make a saving throw or be forced to flee. Creatures have advantage or disadvantage on this saving throw depending on their HD and the spell level:
 
 | Monster HD is...            | Save Modifier |
 |-----------------------------|---------------|
-| 3 less than cleric level    | Disadvantage  |
-| Within +/-3 of cleric level | None          |
-| 3 greater than cleric level | Advantage     |
+| 3 less than spell level    | Disadvantage  |
+| Within +/-3 of spell level | None          |
+| 3 greater than spell level | Advantage     |
 
 #### Bless
 
-Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This effect lasts 10 minutes per cleric level, and can affect 1 target per level.
+Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This effect lasts 10 minutes per spell level, and can affect 1 target per level.
 
 #### Circle of Protection
 
@@ -448,14 +452,14 @@ Pick a creature type and draw a circle on the ground with chalk, salt, or blood.
 
 #### Detect Magic
 
-You can detect the presence and approximate direction towards magic, undead, fey, demons, or other unnatural creatures within 10' per cleric level.
+You can detect the presence and approximate direction towards magic, undead, fey, demons, or other unnatural creatures within 10' per spell level.
 
 #### Heal Sickness
 
 Heal all injuries, diseases, poisons, and curses currently affecting a creature. This spell can always cure any mundane injury or ailment (such as wounds sustained in battle, or poison from nonmagical creatures), but can only cure those magical effects that were inflicted by...
 
-1. A spell with level equal to or less than ½ the caster's cleric class level, or...
-2. A creature with HD equal to or less than the caster's cleric class level
+1. A spell with level equal to or less than the spell  level, or...
+2. A creature with HD equal to or less than the spell level
 
 #### Tongues
 
