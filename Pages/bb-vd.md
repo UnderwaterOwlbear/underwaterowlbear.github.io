@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-06-18
+date: 2022-07-12
 menu: no
 papersize: letter
 documentclass: extbook
@@ -13,11 +13,11 @@ header-includes: |
 
 [comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
-# Barrows & Basilisks v1.09
+# Barrows & Basilisks v1.10
 
 ## Character Creation
 
-### Basic Rules
+### Rules Summary
 
 If coming from other old-school games, these are the assumptions used for a few important rules:
 
@@ -27,12 +27,39 @@ If coming from other old-school games, these are the assumptions used for a few 
 - To-hit bonus equal to HD.
 - Ascending AC with unarmored AC = 10.
 - Single saving throw (roll-over).
+- Spellcasting as in _Wonder & Wickedness_
 
 **Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
 ### Experience & Advancement
 
 Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+
+\newpage
+
+### Basic Classes
+
+#### Cleric
+
+**Weapons** Simple  
+**Armor** Medium  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
+**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down). Clerics must pray for at least one (1) hour to be able to cast spells that day.  
+
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 14+  |                |
+| 2     | 2,000   | 1  | +1     | 13+  | 1              |
+| 3     | 4,000   | 2  | +2     | 12+  | 1              |
+| 4     | 8,000   | 2  | +2     | 11+  | 2              |
+| 5     | 16,000  | 3  | +3     | 10+  | 2              |
+| 6     | 32,000  | 3  | +3     | 9+   | 3              |
+| 7     | 64,000  | 4  | +4     | 8+   | 3              |
+| 8     | 128,000 | 4  | +4     | 7+   | 4              |
+| 9     | 256,000 | 5  | +5     | 6+   | 4              |
+
+Table: Cleric Levels
 
 \newpage
 
@@ -60,65 +87,90 @@ Table: Fighter Levels
 
 \newpage
 
-#### Cleric
-
-**Weapons** Simple  
-**Armor** Medium  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or take over an abbey.  
-**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down, see table below). Clerics must pray for at least one (1) hour to be able to cast spells that day.
-
-| Level | XP      | HD | To-Hit | Save | Spells per Day |
-|-------|---------|----|--------|------|----------------|
-| 1     | 0       | 1  | +1     | 14+  |                |
-| 2     | 2,000   | 1  | +1     | 13+  | 1              |
-| 3     | 4,000   | 2  | +2     | 12+  | 2              |
-| 4     | 8,000   | 2  | +2     | 11+  | 3              |
-| 5     | 16,000  | 3  | +3     | 10+  | 4              |
-| 6     | 32,000  | 3  | +3     | 9+   | 5              |
-| 7     | 64,000  | 4  | +4     | 8+   | 6              |
-| 8     | 128,000 | 4  | +4     | 7+   | 7              |
-| 9     | 256,000 | 5  | +5     | 6+   | 8              |
-
-Table: Cleric Levels
-
-\newpage
-
 #### Mage
 
 **Weapons** Simple  
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day of a maximum spell level as indicated by the table below. Mages start with three 1st level spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must have their grimoire (a *bulky* item) to memorize any spells.
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
 
-| Level | XP      | HD | To-Hit | Save |
-|-------|---------|----|--------|------|
-| 1     | 0       | 1  | +1     | 16+  |
-| 2     | 2,500   | 1  | +1     | 15+  |
-| 3     | 5,000   | 1  | +1     | 14+  |
-| 4     | 10,000  | 2  | +2     | 13+  |
-| 5     | 20,000  | 2  | +2     | 12+  |
-| 6     | 40,000  | 2  | +2     | 11+  |
-| 7     | 80,000  | 3  | +3     | 10+  |
-| 8     | 160,000 | 3  | +3     | 9+   |
-| 9     | 320,000 | 3  | +3     | 8+   |
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 16+  | 1              |
+| 2     | 2,500   | 1  | +1     | 15+  | 2              |
+| 3     | 5,000   | 1  | +1     | 14+  | 3              |
+| 4     | 10,000  | 2  | +2     | 13+  | 4              |
+| 5     | 20,000  | 2  | +2     | 12+  | 5              |
+| 6     | 40,000  | 2  | +2     | 11+  | 6              |
+| 7     | 80,000  | 3  | +3     | 10+  | 7              |
+| 8     | 160,000 | 3  | +3     | 9+   | 8              |
+| 9     | 320,000 | 3  | +3     | 8+   | 9              |
 
 Table: Mage Levels
 
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
-|-------|-----|-----|-----|-----|-----|-----|
-| 1     | 1   |     |     |     |     |     |
-| 2     | 2   |     |     |     |     |     |
-| 3     | 3   | 1   |     |     |     |     |
-| 4     | 4   | 2   |     |     |     |     |
-| 5     | 4   | 2   | 1   |     |     |     |
-| 6     | 4   | 3   | 2   |     |     |     |
-| 7     | 4   | 3   | 2   | 1   |     |     |
-| 8     | 4   | 4   | 3   | 2   | 1   |     |
-| 9     | 4   | 4   | 3   | 2   | 2   | 1   |
+\newpage
 
-Table: Mage Spells per Day by Level
+#### Thief
+
+**Weapons** Simple and Missile  
+**Armor** Light  
+**Shields?** No  
+**Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
+**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skulduggery:
+
+- Hear noises through doors or across rooms (3+)
+- Pick locks or disable traps (5+)
+- Move silently (5+, enemies get no chance to hear noises)
+- Hide in shadows (5+, success results in surprising enemies)
+- Pick pockets (3+, as an action in combat)
+
+To succeed, they must roll the indicated number or higher with a d6.  
+
+| Level | XP      | HD | Save | To-Hit |
+|-------|---------|----|------|--------|
+| 1     | 0       | 1  | 14+  | +1     |
+| 2     | 1,250   | 1  | 13+  | +1     |
+| 3     | 2,500   | 2  | 12+  | +2     |
+| 4     | 5,000   | 2  | 11+  | +2     |
+| 5     | 10,000  | 3  | 10+  | +3     |
+| 6     | 20,000  | 3  | 9+   | +3     |
+| 7     | 40,000  | 4  | 8+   | +4     |
+| 8     | 80,000  | 4  | 7+   | +4     |
+| 9     | 160,000 | 5  | 6+   | +5     |
+
+Table: Thief Levels
+
+\newpage
+
+### Advanced Classes
+
+#### Ranger
+
+**Requirements**  
+**Weapons** Any  
+**Armor** Any  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, the ranger becomes a Marcher Lord (or Lady) and rules over a border march.  
+**Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
+**Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
+**Ambush** A ranger surprises enemies on a roll of 1, 2, or 3 when in the wilderness (instead of on a 1 or 2).  
+**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down). Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
+
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 14+  |                |
+| 2     | 2,500   | 2  | +2     | 13+  |                |
+| 3     | 5,000   | 3  | +3     | 12+  | 1              |
+| 4     | 10,000  | 4  | +4     | 11+  | 1              |
+| 5     | 20,000  | 5  | +5     | 10+  | 1              |
+| 6     | 40,000  | 6  | +6     | 9+   | 2              |
+| 7     | 80,000  | 7  | +7     | 8+   | 2              |
+| 8     | 160,000 | 8  | +8     | 7+   | 2              |
+| 9     | 320,000 | 9  | +9     | 6+   | 3              |
+
+Table: Ranger Levels
 
 ## Equipment
 
@@ -150,9 +202,7 @@ Table: Mage Spells per Day by Level
 
 Table: Armor and Shields
 
-**Shield, Wooden**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.  
-**Shield, Leaden**: Grants advantage to saves vs. magic. Encumbrance as *bulky*, 50sp.  
-**Shield, Mirrored Bronze**: Grants advantage to saves vs. gaze attacks, 100sp.  
+**Shield**: The typical shield, 10sp. Can be splintered to negate damage from a single melee or missile attack.  
 
 | Weapon          | Damage | Special | Cost | Examples                     |
 |-----------------|--------|---------|------|------------------------------|
@@ -283,7 +333,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Reroll HP** Resting in camp or town for a night allows characters to reroll all of their HD. If the total of the results is greater than their current HP, the total becomes their new HP. If a character is lacking food, water, or shelter, they are *deprived* and cannot reroll HP.
+**Rest & Healing** Resting in camp or town for a night allows characters to reroll all of their HD. If the total of the results is greater than their current HP, the total becomes their new HP. If a character is lacking food, water, or shelter, they are *deprived* and cannot reroll HP.
 
 **Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
 
@@ -300,7 +350,7 @@ Table: Grevious Wounds
 
 ### Morale
 
-When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result greater than the morale score means that the side routs and flees the field. Morale is usually based on the combatants experience level, per the table below.  
+When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result equal to or greater than the morale score means that the side routs and flees the field. Morale is usually based on the combatants experience level, per the table below.  
 
 **Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
 
@@ -317,7 +367,7 @@ Table: Morale Scores
 
 **Evasion and Surprise** If the party surprises a monster, they can evade the monster automatically by retreating from the dungeon room or taking a circuitous wilderness path.
 
-**Fleeing** If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it. To successfully flee from a pursuer, the fleeing characters must each make a saving throw. Encumbered characters have disadvantage on this saving throw. Unarmored characters have advantage on this saving throw. Failure means the monster catches up, and resumes its attack.
+**Fleeing** If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it. To successfully flee from a pursuer, the fleeing characters must each make a roll of 5+ on a d6. Encumbered characters have -1 on this roll. Unarmored characters have +1 on this roll. Failure means the monster catches up, and resumes its attack.
 
 **Distractions** Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will always distract intelligent monsters from the chase, by dropping 100c worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
 
@@ -335,7 +385,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 ### Doors
 
-**Forcing Doors** All doors are stuck and must be burst open by force with a 5+ on a d6. A failed attempt makes surprising whatever is behind the door impossible.
+**Forcing Doors** All doors are stuck and must be burst open by force with a roll of 5+ on a d6. A failed attempt makes surprising whatever is behind the door impossible.
 
 **Hear Noises** Characters can listen at doors and attempt to hear if the room is occupied on a roll of 5+ on a d6. Note that the undead make no sound.
 
@@ -369,6 +419,47 @@ Table: Dungeon Event Rolls
 **W** = Wandering monster encounter. Roll for an encounter on the appropriate encounter table.  
 **O** = Omen. Signs of a wandering monster are encountered.  
 **L** = Light sources depleted. All currently lit light sources are depleted. New light sources are automatically lit as a free action (unless in combat, see **tinderbox** rules).
+
+## Magic
+
+### Cleric Spells
+
+#### Banish
+
+Presenting a cross, you drive back undead, fey, demons, or other unnatural creatures within sight of you. These creatures must make a saving throw or be forced to flee. Creatures have advantage or disadvantage on this saving throw depending on their HD and the cleric's level:
+
+| Monster HD is...            | Save Modifier |
+|-----------------------------|---------------|
+| 3 less than cleric level    | Disadvantage  |
+| Within +/-3 of cleric level | None          |
+| 3 greater than cleric level | Advantage     |
+
+#### Bless
+
+Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This effect lasts 10 minutes per cleric level, and can affect 1 target per level.
+
+#### Circle of Protection
+
+Pick a creature type and draw a circle on the ground with chalk, salt, or blood. That creature type cannot cross the boundary. Takes 1 hour per 10' of radius to create the circle.
+
+- Undead
+- Fey
+- Demons
+
+#### Detect Magic
+
+You can detect the presence and approximate direction towards magic, undead, fey, demons, or other unnatural creatures within 10' per cleric level.
+
+#### Heal Sickness
+
+Heal all injuries, diseases, poisons, and curses currently affecting a creature. This spell can always cure any mundane injury or ailment (such as wounds sustained in battle, or poison from nonmagical creatures), but can only cure those magical effects that were inflicted by...
+
+1. A spell with level equal to or less than ½ the caster's cleric class level, or...
+2. A creature with HD equal to or less than the caster's cleric class level
+
+#### Tongues
+
+You can comprehend all written and spoken languages for 10 minutes per level.
 
 ## Appendix
 
