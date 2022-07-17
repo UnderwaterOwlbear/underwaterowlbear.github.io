@@ -240,7 +240,7 @@ Table: Transportaion
 
 ### Hirelings
 
-It costs 100c to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6+1 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
+It costs 25sp to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6-2 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
 
 | Type           | Notes                   | Cost per Month |
 |:---------------|:-----------------------------|---------------:|
