@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-07-14
+date: 2022-07-7
 menu: no
 papersize: letter
 documentclass: extbook
@@ -41,12 +41,6 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 
 #### Cleric
 
-**Weapons** Simple  
-**Armor** Medium  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
-**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down). Clerics must pray for at least one (1) hour to be able to cast spells that day.  
-
 | Level | XP      | HD | To-Hit | Save | Spells per Day |
 |-------|---------|----|--------|------|----------------|
 | 1     | 0       | 1  | +1     | 14+  |                |
@@ -61,16 +55,15 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 
 Table: Cleric Levels
 
+**Weapons** Simple  
+**Armor** Medium  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
+**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down). Clerics must pray for at least one (1) hour to be able to cast spells that day.  
+
 \newpage
 
 #### Fighter
-
-**Weapons** Any  
-**Armor** Any  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
-**Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
-**Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.
 
 | Level | XP      | HD | To-Hit | Save |
 |-------|---------|----|--------|------|
@@ -86,15 +79,16 @@ Table: Cleric Levels
 
 Table: Fighter Levels
 
+**Weapons** Any  
+**Armor** Any  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
+**Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
+**Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.
+
 \newpage
 
 #### Mage
-
-**Weapons** Simple  
-**Armor** None  
-**Shields?** No  
-**Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mage spells are considered to be of a level equal to the casting mage's level. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
 
 | Level | XP      | HD | To-Hit | Save | Spells per Day |
 |-------|---------|----|--------|------|----------------|
@@ -110,23 +104,15 @@ Table: Fighter Levels
 
 Table: Mage Levels
 
+**Weapons** Simple  
+**Armor** None  
+**Shields?** No  
+**Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mage spells are considered to be of a level equal to the casting mage's level. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
+
 \newpage
 
 #### Thief
-
-**Weapons** Simple and Missile  
-**Armor** Light  
-**Shields?** No  
-**Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
-**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents. In addition, thieves surprise enemies on a roll of 3+ (instead of on a 5+).  
-**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skullduggery. To succeed, they must roll 3+ with a d6.
-
-- Hear noises through doors or across rooms
-- Pick locks or disable traps
-- Climb sheer surfaces
-- Move silently
-- Hide in shadows
-- Pick pockets
 
 | Level | XP      | HD | Save | To-Hit |
 |-------|---------|----|------|--------|
@@ -142,21 +128,25 @@ Table: Mage Levels
 
 Table: Thief Levels
 
+**Weapons** Simple and Missile  
+**Armor** Light  
+**Shields?** No  
+**Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
+**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents. In addition, thieves surprise enemies on a roll of 3+ (instead of on a 5+).  
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skullduggery. To succeed, they must roll 3+ with a d6.
+
+- Hear noises through doors or across rooms
+- Pick locks or disable traps
+- Climb sheer surfaces
+- Move silently
+- Hide in shadows
+- Pick pockets
+
 \newpage
 
 ### Advanced Classes
 
 #### Ranger
-
-**Requirements**  
-**Weapons** Any  
-**Armor** Light and Medium  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, the ranger becomes a Marcher Lord (or Lady) and rules over a border march.  
-**Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
-**Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
-**Ambush** A ranger surprises enemies on a roll of 3+ when in the wilderness (instead of on a 5+).  
-**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down). Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
 
 | Level | XP      | HD | To-Hit | Save | Spells per Day |
 |-------|---------|----|--------|------|----------------|
@@ -171,6 +161,16 @@ Table: Thief Levels
 | 9     | 320,000 | 9  | +9     | 6+   | 3              |
 
 Table: Ranger Levels
+
+**Requirements**  
+**Weapons** Any  
+**Armor** Light and Medium  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, the ranger becomes a Marcher Lord (or Lady) and rules over a border march.  
+**Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
+**Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
+**Ambush** A ranger surprises enemies on a roll of 3+ when in the wilderness (instead of on a 5+).  
+**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down). Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
 
 ## Equipment
 
