@@ -59,7 +59,8 @@ Table: Cleric Levels
 **Armor** Medium  
 **Shields?** Yes  
 **Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
-**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down). Clerics must pray for at least one (1) hour to be able to cast spells that day.  
+**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Clerics must pray for at least one (1) hour to be able to cast spells that day.  
+**Spell Level** Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down).  
 
 \newpage
 
@@ -108,7 +109,8 @@ Table: Mage Levels
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mage spells are considered to be of a level equal to the casting mage's level. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
+**Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
 
 \newpage
 
@@ -170,7 +172,8 @@ Table: Ranger Levels
 **Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
 **Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
 **Ambush** A ranger surprises enemies on a roll of 3+ when in the wilderness (instead of on a 5+).  
-**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down). Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
+**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
+**Spell Level** Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down).  
 
 ## Equipment
 
@@ -424,46 +427,140 @@ Table: Dungeon Event Rolls
 
 ### Spellcasting
 
-**Counterspells**
+**Casting** Unless otherwise specified, spells take 1 action to cast.  
+**Duration** Unless otherwise specified, spell effects last for 10 minutes per spell level.  
+**Counterspells** A prepared spell may be expended to protect one (1) person per spell level from the effects of one (1) spell.  
 
 ### Cleric Spells
 
-#### Banish
+- [Augury](#augury)
+- [Bless](#bless)
+- [Circle of Protection](#circle-of-protection)
+- [Heal Sickness](#heal-sickness)
+- [Third Eye](#third-eye)
+- [Tongues](#tongues)
 
-Presenting a cross, you drive back undead, fey, demons, or other unnatural creatures within sight of you. These creatures must make a saving throw or be forced to flee. Creatures have advantage or disadvantage on this saving throw depending on their HD and the spell level:
+### Mage Spells
 
-| Monster HD is...            | Save Modifier |
-|-----------------------------|---------------|
-| 3 less than spell level    | Disadvantage  |
-| Within +/-3 of spell level | None          |
-| 3 greater than spell level | Advantage     |
+Mages can learn and cast any spell.
+
+### Ranger Spells
+
+
+
+### Spell Descriptions
+
+#### Animate Dead
+
+Animate a number of HD worth of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
+
+#### Augury
+
+Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 HP in blood to guarantee a truthful answer.
 
 #### Bless
 
-Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This effect lasts 10 minutes per spell level, and can affect 1 target per level.
+Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This can affect 1 target per spell level.
+
+#### Charm
+
+Hostile creatures become neutral, neutral become friendly, and friendly creatures become infatuated. Affects a number of HD worth of creatures equal to spell level.
 
 #### Circle of Protection
 
-Pick a creature type and draw a circle on the ground with chalk, salt, or blood. That creature type cannot cross the boundary. Takes 1 hour per 10' of radius to create the circle.
+Draw a circle on the ground with chalk, salt, or blood. Undead, fey, demons, or other unnatural creatures cannot cross the boundary. Protects one (1) creature per spell level.
 
-- Undead
-- Fey
-- Demons
+#### Control Weather
 
-#### Detect Magic
+Control the weather, causing clear skies, storms, winds, etc as desired. Effects last for 1 day per spell level.
 
-You can detect the presence and approximate direction towards magic, undead, fey, demons, or other unnatural creatures within 10' per spell level.
+#### Dominate
+
+Release control of your own body and domineer that of a nearby creature. Subject saves to prevent.
+
+#### Fireball
+
+Deals 1d6 fire damage per spell level to all targets in a small area (such as a melee or a room). Targets save for half damage.
+
+#### Fly
+
+Fly at walking speed. Affects one (1) creature per level. Spell is reliable for 10 minutes per spell level, then has a chance to end on each subsequent turn on a roll of 5+ on a d6.
+
+#### Haste
+
+Targets automatically gain initiative for the duration of the next combat. Affects one (1) creature per spell level.
 
 #### Heal Sickness
 
-Heal all injuries, diseases, poisons, and curses currently affecting a creature. This spell can always cure any mundane injury or ailment (such as wounds sustained in battle, or poison from nonmagical creatures), but can only cure those magical effects that were inflicted by...
+Heal all injuries, diseases, poisons, and curses currently affecting a creature. This spell automatically cures any mundane injury or ailment (such as wounds sustained in battle, or poison from nonmagical creatures), but merely grants an additional saving throw to those afflicted by magical ailments.
 
-1. A spell with level equal to or less than the spell  level, or...
-2. A creature with HD equal to or less than the spell level
+#### Hold Person
+
+Paralyzes a number of HD worth of creatures equal to spell level. Subjects save to avoid.
+
+#### Invisibility
+
+Turn a number of creatures equal to your level invisible.
+
+#### Knock
+
+Open one stuck or locked door within arm's reach.
+
+#### Lightning Bolt
+
+Deals 1d6 lightning damage per spell level to all targets in a line. Targets save for half damage.
+
+#### Scry
+
+Requires a mirror, crystal ball, still water, or similarly reflective surface. Remotely see and hear events that are up to 10 miles away per spell level.
+
+#### Sleep
+
+Puts all within a small area (such as a melee, or a room) into a deep slumber. Subjects save to avoid.
+
+#### Slow
+
+Targets automatically lose initiative for the duration of the next combat. Affects one (1) creature per spell level.
+
+#### Speak with Animals
+
+Speak with animals for 10 minutes per spell level. Reaction rolls apply.
+
+#### Speak with Dead
+
+Ask 1d6 questions of the corpse of a deceased intelligent creature. Reaction rolls apply and negotiation may be required. Corpse may be dead for a period of time based on spell level...
+
+| Spell Level | Deceased for... |
+|-------------|-----------------|
+| 1st         | 10 minutes      |
+| 2nd         | 1 day           |
+| 3rd         | 1 week          |
+| 4th         | 1 month         |
+| 5th         | 1 year          |
+| 6th         | 10 years        |
+| 7th         | 100 years       |
+| 8th         | 1000 years      |
+| 9th         | No limit        |
+
+#### Third Eye
+
+You can see all invisible, ethereal, and shapechanged creatures in their true form. You also see the auras of spells (both cast and prepared) and enchanted objects.
 
 #### Tongues
 
-You can comprehend all written and spoken languages for 10 minutes per level.
+You can comprehend all written and spoken languages.
+
+#### Water Breathing
+
+Can breathe under water for 10 minutes per spell level. Affects one (1) creature per spell level.
+
+#### Wind Barrier
+
+Buffeting winds prevent missile attacks from harming those within. Protects one (1) creature per spell level.
+
+#### Wizard Lock
+
+Locks one door, chest, window, or similar portal. Requires a _knock_ spell or similar magic to open.
 
 ## Appendix
 
