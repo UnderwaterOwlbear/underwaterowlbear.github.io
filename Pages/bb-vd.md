@@ -109,7 +109,7 @@ Table: Mage Levels
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a *bulky* item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.  
 **Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
 
 \newpage
@@ -179,13 +179,13 @@ Table: Ranger Levels
 
 ### Encumbrance and Movement
 
-**Unencumbered Load** A man can carry up to ten (10) items. Some items are *bulky* -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are *tiny* -- any number of the same type of *tiny* items fit into the same slot. A purse of 300 coins counts as one item.
+**Unencumbered Load** A man can carry up to ten (10) items. Some items are _bulky_ -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are _tiny_ -- any number of the same type of _tiny_ items fit into the same slot. A purse of 300 coins counts as one item.
 
-**Encumbered Load** A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are *encumbered*, and movement speed is halved. When mounted, movement speed in combat is doubled.
+**Encumbered Load** A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are _encumbered_, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ### Items
 
-**Supply** Common adventuring equipment and resources are abstracted into *supply*. Each unit of *supply* takes up one (1) slot, costs 10 coins, and can be readily converted into...
+**Supply** Common adventuring equipment and resources are abstracted into _supply_. Each unit of _supply_ takes up one (1) slot, costs 10 coins, and can be readily converted into...
 
 - Food, one (1) day for man or beast
 - Water, one (1) day (generally not required unless traveling through a desert)
@@ -236,9 +236,9 @@ Table: Transportaion
 **Carts** double (2x) the carrying capacity of the user.  
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 **Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require 1 unit of supply per day.  
-**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.   
+**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.
 **Warhorses** as horses, but have a morale score of 9.  
-**Canoe** Carries 2 men and 300 items of cargo, counts as a *bulky* item when portaging.  
+**Canoe** Carries 2 men and 300 items of cargo, counts as a _bulky_ item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
 ### Hirelings
@@ -308,7 +308,7 @@ Table: Distance of Encounters
 
 **Initiative** To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
 
-**Phases**
+#### Phases
 
 1. Magic, cast
 2. Missile
@@ -336,7 +336,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Rest & Healing** Resting in camp or town for a night allows characters to reroll all of their HD. If the total of the results is greater than their current HP, the total becomes their new HP. If a character is lacking food, water, or shelter, they are *deprived* and cannot reroll HP.
+**Rest & Healing** Resting in camp or town for a night allows characters to reroll all of their HD. If the total of the results is greater than their current HP, the total becomes their new HP. If a character is lacking food, water, or shelter, they are _deprived_ and cannot reroll HP.
 
 **Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
 
@@ -445,8 +445,6 @@ Table: Dungeon Event Rolls
 Mages can learn and cast any spell.
 
 ### Ranger Spells
-
-
 
 ### Spell Descriptions
 
