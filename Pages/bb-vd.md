@@ -21,7 +21,6 @@ header-includes: |
 
 If coming from other old-school games, these are the assumptions used for a few important rules:
 
-- No ability scores.
 - HD are d6.
 - Reroll all HD each session or each long rest.
 - To-hit bonus equal to HD.
@@ -30,6 +29,21 @@ If coming from other old-school games, these are the assumptions used for a few 
 - Spellcasting as in _Wonder & Wickedness_
 
 **Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
+
+### Ability Scores
+
+Roll 3d6 for each ability score. Scores of 15+ grant the bonus indicated on the table below.
+
+| Ability       | Bonus for High (15+) score                   |
+|---------------|----------------------------------------------|
+| Strength      | +1 damage in melee, +1 to open doors         |
+| Dexterity     | +1 damage with missiles, +1 initiative       |
+| Constitution  | +3 HP                                        |
+| Intelligence  |                                              |
+| Wisdom        |                                              |
+| Charisma      | +1 to reaction rolls, +1 to retainer morale  |
+
+Table: Ability Scores 
 
 ### Experience & Advancement
 
@@ -121,7 +135,7 @@ Table: Thief Levels
 
 ## Equipment
 
-### Encumbrance and Movement
+### Encumbrance & Movement
 
 **Unencumbered Load** A man can carry up to ten (10) items. Some items are _bulky_ -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are _tiny_ -- any number of the same type of _tiny_ items fit into the same slot. A purse of 300 coins counts as one item.
 
@@ -299,8 +313,6 @@ Table: Grevious Wounds
 
 When a side takes 50% casualties, make a morale check to see if they break. Roll 2d6; a result equal to or greater than the morale score means that the side routs and flees the field. Morale is usually based on the combatants experience level, per the table below.  
 
-**Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
-
 | Experience | Morale Roll to Rout | Examples              |
 |:-----------|:------------:|:----------------------|
 | Green      | 6+            | Conscripts, levy      |
@@ -309,6 +321,8 @@ When a side takes 50% casualties, make a morale check to see if they break. Roll
 | Elite      | 9+            | Knights, house guards |
 
 Table: Morale Scores
+
+**Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
 
 ### Evasion
 
@@ -330,6 +344,21 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 - Rest and bind wounds
 - Interact with a feature of the room, such as a trap
 
+### Events & Encounters
+
+Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. 
+
+| d6 | Event |
+|:--:|:---------:|
+| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table. Then roll for surprise, reaction, and distance as described in the Combat section.  |
+| 2  |  **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
+| 3  | **Light** A torch burns out. Replenish it from your supplies or be eaten by a grue.      |
+| 4  | **Free**, no effect      |
+| 5  |  **Free**, no effect      |
+| 6  |    **Free**, no effect   |
+
+Table: Dungeon Event Rolls
+
 ### Doors
 
 **Forcing Doors** All doors are stuck and must be burst open by force with a roll of 5+ on a d6. A failed attempt makes surprising whatever is behind the door impossible.
@@ -348,31 +377,14 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 **Treasure Traps** such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap.
 
-### Wandering Monsters
-
-Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. Choose the result from the appropriate column depending on whether all, some, or none of the characters in the party have light.
-
-| d6 | Fully Lit | Partially Lit | Unlit |
-|:--:|:---------:|:-------------:|:-----:|
-| 1  | W         | W             | W     |
-| 2  | O         | W             | W     |
-| 3  | L         | L             | W     |
-| 4  | -         | -             | -     |
-| 5  | -         | -             | -     |
-| 6  | -         | -             | -     |
-
-Table: Dungeon Event Rolls
-
-**W** = Wandering monster encounter. Roll for an encounter on the appropriate encounter table.  
-**O** = Omen. Signs of a wandering monster are encountered.  
-**L** = Light sources depleted. All currently lit light sources are depleted. New light sources are automatically lit as a free action (unless in combat, see **tinderbox** rules).
-
 ## Magic
 
 ### Spellcasting
 
 **Casting** Unless otherwise specified, spells take 1 action to cast.  
+
 **Duration** Unless otherwise specified, spell effects last for 10 minutes per spell level.  
+
 **Counterspells** A prepared spell may be expended to protect one (1) person per spell level from the effects of one (1) spell.  
 
 ### Spell Descriptions
@@ -493,7 +505,7 @@ Locks one door, chest, window, or similar portal. Requires a _knock_ spell or si
 
 ### Monsters by HD
 
-Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and to-hit bonus should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17). A monster has a to-hit bonus equal to its HD. HD should be converted to d6. Monsters typically deal d6 damage per attack, though particularly dangerous monsters might deal multiple d6 per attack.
+Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and to-hit bonus should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17). A monster has a to-hit bonus equal to its HD. HD should be converted to d6. Monsters typically deal d6 damage per attack, though particularly dangerous monsters might deal more.
 
 | HD | HP | To-Hit Bonus | Saving Throw | XP Awarded |
 |----|----|--------------|--------------|------------|
