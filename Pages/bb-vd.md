@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-07-7
+date: 2022-07-21
 menu: no
 papersize: letter
 documentclass: extbook
@@ -13,7 +13,7 @@ header-includes: |
 
 [comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
-# Barrows & Basilisks v1.10
+# Barrows & Basilisks v1.11
 
 ## Character Creation
 
@@ -37,32 +37,7 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver
 
 \newpage
 
-### Basic Classes
-
-#### Cleric
-
-| Level | XP      | HD | To-Hit | Save | Spells per Day |
-|-------|---------|----|--------|------|----------------|
-| 1     | 0       | 1  | +1     | 14+  |                |
-| 2     | 2,000   | 1  | +1     | 13+  | 1              |
-| 3     | 4,000   | 2  | +2     | 12+  | 1              |
-| 4     | 8,000   | 2  | +2     | 11+  | 2              |
-| 5     | 16,000  | 3  | +3     | 10+  | 2              |
-| 6     | 32,000  | 3  | +3     | 9+   | 3              |
-| 7     | 64,000  | 4  | +4     | 8+   | 3              |
-| 8     | 128,000 | 4  | +4     | 7+   | 4              |
-| 9     | 256,000 | 5  | +5     | 6+   | 4              |
-
-Table: Cleric Levels
-
-**Weapons** Simple  
-**Armor** Medium  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
-**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Clerics must pray for at least one (1) hour to be able to cast spells that day.  
-**Spell Level** Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down).  
-
-\newpage
+### Classes
 
 #### Fighter
 
@@ -143,37 +118,6 @@ Table: Thief Levels
 - Move silently
 - Hide in shadows
 - Pick pockets
-
-\newpage
-
-### Advanced Classes
-
-#### Ranger
-
-| Level | XP      | HD | To-Hit | Save | Spells per Day |
-|-------|---------|----|--------|------|----------------|
-| 1     | 0       | 1  | +1     | 14+  |                |
-| 2     | 2,500   | 2  | +2     | 13+  |                |
-| 3     | 5,000   | 3  | +3     | 12+  | 1              |
-| 4     | 10,000  | 4  | +4     | 11+  | 1              |
-| 5     | 20,000  | 5  | +5     | 10+  | 1              |
-| 6     | 40,000  | 6  | +6     | 9+   | 2              |
-| 7     | 80,000  | 7  | +7     | 8+   | 2              |
-| 8     | 160,000 | 8  | +8     | 7+   | 2              |
-| 9     | 320,000 | 9  | +9     | 6+   | 3              |
-
-Table: Ranger Levels
-
-**Requirements**  
-**Weapons** Any  
-**Armor** Light and Medium  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, the ranger becomes a Marcher Lord (or Lady) and rules over a border march.  
-**Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
-**Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
-**Ambush** A ranger surprises enemies on a roll of 3+ when in the wilderness (instead of on a 5+).  
-**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
-**Spell Level** Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down).  
 
 ## Equipment
 
@@ -430,21 +374,6 @@ Table: Dungeon Event Rolls
 **Casting** Unless otherwise specified, spells take 1 action to cast.  
 **Duration** Unless otherwise specified, spell effects last for 10 minutes per spell level.  
 **Counterspells** A prepared spell may be expended to protect one (1) person per spell level from the effects of one (1) spell.  
-
-### Cleric Spells
-
-- [Augury](#augury)
-- [Bless](#bless)
-- [Circle of Protection](#circle-of-protection)
-- [Heal Sickness](#heal-sickness)
-- [Third Eye](#third-eye)
-- [Tongues](#tongues)
-
-### Mage Spells
-
-Mages can learn and cast any spell.
-
-### Ranger Spells
 
 ### Spell Descriptions
 
