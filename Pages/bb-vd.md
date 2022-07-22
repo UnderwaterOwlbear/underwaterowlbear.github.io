@@ -32,9 +32,9 @@ If coming from other old-school games, these are the assumptions used for a few 
 
 ### Ability Scores
 
-Roll 3d6 for each ability score. Scores of 15+ grant the bonus indicated on the table below.
+Roll 3d6 for each ability score. Scores of 13 or higher grant the bonus indicated on the table below.
 
-| Ability       | Bonus for High (15+) score                   |
+| Ability       | Bonus for High (13+) score                   |
 |---------------|----------------------------------------------|
 | Strength      | +1 damage in melee, +1 to open doors         |
 | Dexterity     | +1 damage with missiles, +1 initiative       |
