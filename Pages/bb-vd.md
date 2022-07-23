@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks VD
 author: Tyler Farrington
-date: 2022-07-21
+date: 2022-07-23
 menu: no
 papersize: letter
 documentclass: extbook
@@ -13,7 +13,7 @@ header-includes: |
 
 [comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
-# Barrows & Basilisks v1.11
+# Barrows & Basilisks v1.12
 
 ## Character Creation
 
@@ -32,9 +32,9 @@ If coming from other old-school games, these are the assumptions used for a few 
 
 ### Ability Scores
 
-Roll 3d6 for each ability score. Scores of 13 or higher grant the bonus indicated on the table below.
+Roll 3d6 for each ability score. Scores of 14 or higher grant the bonus indicated on the table below.
 
-| Ability       | Bonus for High (13+) score                   |
+| Ability       | Bonus for High (14+) score                   |
 |---------------|----------------------------------------------|
 | Strength      | +1 damage in melee, +1 to open doors         |
 | Dexterity     | +1 damage with missiles, +1 initiative       |
@@ -74,7 +74,7 @@ Table: Fighter Levels
 **Shields?** Yes  
 **Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
 **Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
-**Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.
+**Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.  
 
 \newpage
 
@@ -98,7 +98,7 @@ Table: Mage Levels
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table below. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.  
 **Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
 
 \newpage
@@ -132,6 +132,56 @@ Table: Thief Levels
 - Move silently
 - Hide in shadows
 - Pick pockets
+
+\newpage
+
+#### Elf
+
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 16+  |                |
+| 2     | 2,500   | 1  | +1     | 15+  | 1              |
+| 3     | 5,000   | 2  | +2     | 14+  | 1              |
+| 4     | 10,000  | 2  | +2     | 13+  | 2              |
+| 5     | 20,000  | 3  | +3     | 12+  | 2              |
+| 6     | 40,000  | 3  | +3     | 11+  | 3              |
+| 7     | 80,000  | 4  | +4     | 10+  | 3              |
+| 8     | 160,000 | 4  | +4     | 9+   | 4              |
+| 9     | 320,000 | 5  | +5     | 8+   | 4              |
+
+Table: Elf Levels
+
+**Weapons** Simple and Missile  
+**Armor** Medium  
+**Shields?** No  
+**Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and can found or assume leadership of a secluded grove or valley settlement of elves.  
+**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.
+**Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
+**Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).  
+
+#### Dwarf
+
+| Level | XP      | HD | To-Hit | Save |
+|-------|---------|----|--------|------|
+| 1     | 0       | 1  | +1     | 14+  |
+| 2     | 2,500   | 2  | +2     | 13+  |
+| 3     | 5,000   | 3  | +3     | 12+  |
+| 4     | 10,000  | 4  | +4     | 11+  |
+| 5     | 20,000  | 5  | +5     | 10+  |
+| 6     | 40,000  | 6  | +6     | 9+   |
+| 7     | 80,000  | 7  | +7     | 8+   |
+| 8     | 160,000 | 8  | +8     | 7+   |
+| 9     | 320,000 | 9  | +9     | 6+   |
+
+Table: Fighter Levels
+
+**Weapons** Any  
+**Armor** Any  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, they become a Dwarf Lord (or Dwarf Lady) and can build or take leadership of a mine and its dwarf workers.  
+**Shields Shall Be Splintered** A dwarf may sunder his shield to negate all damage from a single melee or missile attack.  
+**Greedy** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
+**Grudge** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
 
 ## Equipment
 
@@ -205,13 +255,13 @@ It costs 25sp to place an advertisement in a settlement for hirelings. The adver
 
 | Type           | Notes                   | Cost per Month |
 |:---------------|:-----------------------------|---------------:|
-| Servant        | HD½ AC10 d4 M6  | 4sp            |
-| Foot, Light    | HD1 AC14 d6 M7  | 20sp           |
-| Foot, Armored  | HD1 AC16 d6 M8    | 40sp           |
-| Foot, Archer   | HD1 AC12 d6 M7    | 60sp           |
-| Horse, Light   | HD2 AC14 d6 M7    | 100sp          |
-| Horse, Armored | HD2 AC16  d8 M8    | 160sp          |
-| Horse, Archer  | HD2 AC12 d6 M8    | 160sp          |
+| Servant        | HD½ AC10 M6  | 4sp            |
+| Foot, Light    | HD1 AC14 M7  | 20sp           |
+| Foot, Armored  | HD1 AC16 M8    | 40sp           |
+| Foot, Missile  | HD1 AC12 M7    | 60sp           |
+| Horse, Light   | HD2 AC14 M7    | 100sp          |
+| Horse, Armored | HD2 AC16 M8    | 160sp          |
+| Horse, Missile | HD2 AC12 M8    | 160sp          |
 | Armorer        | Need 1 per 50 soldiers  | 100sp          |
 | Blacksmith     | Need 1 per 50 mounts    | 20sp           |
 | Engineer       | Builds strongholds      | 800sp          |
@@ -298,8 +348,8 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
 
-| d6  | Grevious Wound                                                                                                  |
-|-----|----------------------------------------------------------------------------------------------------------------|
+| d6  | Grevious Wound                                                                                                 |
+|:---:|:---------------------------------------------------------------------------------------------------------------|
 | 1   | **Gruesome Scars** -1 to reaction rolls.                                                                       |
 | 2   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |
 | 3   | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d4 weeks.                         |
@@ -330,7 +380,7 @@ Table: Morale Scores
 
 **Fleeing** If the monster is not surprised, and the party tries to flee, the monsters may give chase if the reaction roll indicates it. To successfully flee from a pursuer, the fleeing characters must each make a roll of 5+ on a d6. Encumbered characters have -1 on this roll. Unarmored characters have +1 on this roll. Failure means the monster catches up, and resumes its attack.
 
-**Distractions** Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will always distract intelligent monsters from the chase, by dropping 100c worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
+**Distractions** Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will always distract intelligent monsters from the chase, by dropping 100sp worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
 
 ## Dungeon Delving
 
@@ -349,13 +399,13 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. 
 
 | d6 | Event |
-|:--:|:---------:|
-| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table. Then roll for surprise, reaction, and distance as described in the Combat section.  |
-| 2  |  **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Light** A torch burns out. Replenish it from your supplies or be eaten by a grue.      |
-| 4  | **Free**, no effect      |
-| 5  |  **Free**, no effect      |
-| 6  |    **Free**, no effect   |
+|:--:|:---------|
+| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
+| 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
+| 3  | **Light** A torch burns out.      |
+| 4  | **Exhaustion** _encumbered_ characters must spend a turn resting, without moving.   |
+| 5  | **Free**, no effect   |
+| 6  | **Free**, no effect   |
 
 Table: Dungeon Event Rolls
 
@@ -381,7 +431,7 @@ Table: Dungeon Event Rolls
 
 ### Spellcasting
 
-**Casting** Unless otherwise specified, spells take 1 action to cast.  
+**Casting** Unless otherwise specified, spells take 1 action to cast. Spells can only be cast in armor if the character is proficient in its use.  
 
 **Duration** Unless otherwise specified, spell effects last for 10 minutes per spell level.  
 
