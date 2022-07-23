@@ -34,16 +34,16 @@ If coming from other old-school games, these are the assumptions used for a few 
 
 Roll 3d6 for each ability score. Scores of 14 or higher grant the bonus indicated on the table below.
 
-| Ability       | Bonus for High (14+) score                   |
+| Ability       | Bonus for High (14+) Score                   |
 |---------------|----------------------------------------------|
 | Strength      | +1 damage in melee, +1 to open doors         |
-| Dexterity     | +1 damage with missiles, +1 initiative       |
+| Dexterity     | +1 damage with missiles, +1 to flee          |
 | Constitution  | +3 HP                                        |
-| Intelligence  |                                              |
-| Wisdom        |                                              |
-| Charisma      | +1 to reaction rolls, +1 to retainer morale  |
+| Intelligence  | +1 spell known at 1st level                  |
+| Wisdom        | Start with 500 XP (instead of 0 XP)          |
+| Charisma      | +1 to reaction rolls and retainer morale     |
 
-Table: Ability Scores 
+Table: Ability Scores
 
 ### Experience & Advancement
 
@@ -108,14 +108,14 @@ Table: Mage Levels
 | Level | XP      | HD | Save | To-Hit |
 |-------|---------|----|------|--------|
 | 1     | 0       | 1  | 14+  | +1     |
-| 2     | 1,250   | 1  | 13+  | +1     |
-| 3     | 2,500   | 2  | 12+  | +2     |
-| 4     | 5,000   | 2  | 11+  | +2     |
-| 5     | 10,000  | 3  | 10+  | +3     |
-| 6     | 20,000  | 3  | 9+   | +3     |
-| 7     | 40,000  | 4  | 8+   | +4     |
-| 8     | 80,000  | 4  | 7+   | +4     |
-| 9     | 160,000 | 5  | 6+   | +5     |
+| 2     | 1,500   | 1  | 13+  | +1     |
+| 3     | 3,000   | 2  | 12+  | +2     |
+| 4     | 6,000   | 2  | 11+  | +2     |
+| 5     | 12,000  | 3  | 10+  | +3     |
+| 6     | 24,000  | 3  | 9+   | +3     |
+| 7     | 48,000  | 4  | 8+   | +4     |
+| 8     | 96,000  | 4  | 7+   | +4     |
+| 9     | 192,000 | 5  | 6+   | +5     |
 
 Table: Thief Levels
 
@@ -396,7 +396,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 ### Events & Encounters
 
-Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below. 
+Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below.
 
 | d6 | Event |
 |:--:|:---------|
