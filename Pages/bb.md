@@ -402,8 +402,8 @@ Every turn of exploration, or every time the party rests or makes excessive nois
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Light** A torch burns out.      |
-| 4  | **Exhaustion** _encumbered_ characters must spend a turn resting, without moving.   |
+| 3  | **Exhaustion** _encumbered_ characters must spend a turn resting, without moving.   |
+| 4  | **Light** A torch burns out.      |
 | 5  | **Free**, no effect   |
 | 6  | **Free**, no effect   |
 
@@ -426,6 +426,39 @@ Table: Dungeon Event Rolls
 **Room Traps** are activated on a roll of 1 or 2 on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
 
 **Treasure Traps** such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap.
+
+## Wilderness Travel
+
+### Timekeeping
+
+**Watches** are a period of 8 hours. There are three (3) watches in a day. In summer, two (2) of these watches are daylight, and one (1) is nighttime. This is reversed in the winter months.  
+
+During daylight watches, travelers can take one of the following actions:
+
+- Move 2d6 miles
+- Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
+- Explore the current area to reveal landmarks and secrets
+- Rest
+
+During nighttime watches, travelers _must_ consume 1 day's worth of rations (1 unit of _supply_), and in addition may take one of the following actions:
+
+- Move d3 miles
+- Rest
+
+### Events & Encounters
+
+Every watch of travel, roll a d6 on the event table below.
+
+| d6 | Event |
+|:--:|:---------|
+| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
+| 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
+| 3  | **Exhaustion** _encumbered_ characters must spend a watch resting.   |
+| 4  | **Lost** You are lost. Find a landmark to resume travel.     |
+| 5  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
+| 6  | **Free**, no effect   |
+
+Table: Wilderness Event Rolls
 
 ## Magic
 
