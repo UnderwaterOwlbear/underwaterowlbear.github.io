@@ -47,7 +47,9 @@ Table: Ability Scores
 
 ### Experience & Advancement
 
-Pick a class. Start at 1st level with 0 experience points (XP) and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+
+When a character gains a level, reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
 \newpage
 
@@ -344,7 +346,9 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Rest & Healing** Resting in camp or town for a night allows characters to reroll all of their HD. If the total of the results is greater than their current HP, the total becomes their new HP. If a character is lacking food, water, or shelter, they are _deprived_ and cannot reroll HP.
+**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value). If a character is lacking food, water, or shelter, they are _deprived_ and cannot regain HP.
+
+**Rerolling HD** Resting in town for a week allows characters to reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
 **Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
 
