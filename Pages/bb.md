@@ -47,7 +47,7 @@ Table: Ability Scores
 
 ### Experience & Advancement
 
-Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6 silver pieces (sp). Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
 When a character gains a level, reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
@@ -126,9 +126,9 @@ Table: Thief Levels
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents. In addition, thieves surprise enemies on a roll of 3+ (instead of on a 5+).  
-**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skullduggery. To succeed, they must roll 3+ with a d6.
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skill. To succeed, they must roll 3+ with a d6.
 
-- Hear noises through doors or across rooms
+- Hear noises
 - Pick locks or disable traps
 - Climb sheer surfaces
 - Move silently
@@ -156,7 +156,7 @@ Table: Elf Levels
 **Weapons** Simple and Missile  
 **Armor** Medium  
 **Shields?** No  
-**Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and can found or assume leadership of a secluded grove or valley settlement of elves.  
+**Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
 **Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.
 **Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
 **Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).  
@@ -180,22 +180,22 @@ Table: Fighter Levels
 **Weapons** Any  
 **Armor** Any  
 **Shields?** Yes  
-**Name Level** When they reach 9th level, they become a Dwarf Lord (or Dwarf Lady) and can build or take leadership of a mine and its dwarf workers.  
+**Name Level** When they reach 9th level, they become a Dwarf Lord (or Dwarf Lady) and can build or take over a mine and its dwarven workers.  
 **Shields Shall Be Splintered** A dwarf may sunder his shield to negate all damage from a single melee or missile attack.  
-**Greedy** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
+**Greed** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
 **Grudge** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
 
 ## Equipment
 
 ### Encumbrance & Movement
 
-**Unencumbered Load** A man can carry up to ten (10) items. Some items are _bulky_ -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are _tiny_ -- any number of the same type of _tiny_ items fit into the same slot. A purse of 300 coins counts as one item.
+**Unencumbered Load** A person can carry up to ten (10) items. Some items are _bulky_ -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are _tiny_ -- any number of the same type of _tiny_ items fit into the same slot. A purse of 300 coins counts as one item.
 
-**Encumbered Load** A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are _encumbered_, and movement speed is halved. When mounted, movement speed in combat is doubled.
+**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are _encumbered_, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ### Items
 
-**Supply** Common adventuring equipment and resources are abstracted into _supply_. Each unit of _supply_ takes up one (1) slot, costs 10 coins, and can be readily converted into...
+**Supply** Common adventuring equipment and resources are abstracted into _supply_. Each unit of _supply_ takes up one (1) slot, costs 1sp, and can be readily converted into...
 
 - Food, one (1) day for man or beast
 - Water, one (1) day (generally not required unless traveling through a desert)
@@ -217,12 +217,12 @@ Table: Armor and Shields
 
 | Weapon          | Damage | Special | Cost | Examples                     |
 |-----------------|--------|---------|------|------------------------------|
-| Simple Hand     | d4     |         | 10   | Dagger, club, hatchet        |
-| Simple Polearm  | d6     | bulky   | 15   | Staff, pitchfork, billhook   |
-| Martial Hand    | d6     |         | 20   | Sword, spear, mace           |
-| Martial Polearm | d8     | bulky   | 25   | Poleaxe, halberd, lance      |
-| Missile, Sling  | d4     |         | 10   | Sling                        |
-| Missile, Bow    | d6     | bulky   | 25   | Hunting bow, light crossbow  |
+| Simple Hand     | d4     |         | 10sp   | Dagger, club, hatchet        |
+| Simple Polearm  | d6     | bulky   | 15sp   | Staff, pitchfork, billhook   |
+| Martial Hand    | d6     |         | 20sp   | Sword, spear, mace           |
+| Martial Polearm | d8     | bulky   | 25sp   | Poleaxe, halberd, lance      |
+| Missile, Sling  | d4     |         | 10sp   | Sling                        |
+| Missile, Bow    | d6     | bulky   | 25sp   | Hunting bow, light crossbow  |
 | Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
@@ -246,8 +246,8 @@ Table: Transportaion
 **Carts** double (2x) the carrying capacity of the user.  
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 **Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require 1 unit of supply per day.  
-**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.
-**Warhorses** as horses, but have a morale score of 9.  
+**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.  
+**Warhorses** are as horses, but have a morale score of 9.  
 **Canoe** Carries 2 men and 300 items of cargo, counts as a _bulky_ item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
