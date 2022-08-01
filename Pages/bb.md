@@ -5,7 +5,7 @@ date: 2022-08-01
 menu: no
 papersize: letter
 documentclass: extbook
-fontsize: 12pt
+fontsize: 14pt
 header-includes: |
     \usepackage[margin=0.5in]{geometry}
 
@@ -185,6 +185,8 @@ Table: Dwarf Levels
 **Greed** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
 **Grudge** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
 
+\newpage
+
 ## Equipment
 
 ### Encumbrance & Movement
@@ -271,6 +273,8 @@ It costs 25sp to place an advertisement in a settlement for hirelings. The adver
 Table: Hirelings
 
 **Horse archers** may act in both the move phase and the missile phase of combat.
+
+\newpage
 
 ## Encounters & Combat
 
@@ -388,6 +392,8 @@ Table: Morale Scores
 
 **Distractions** Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will always distract intelligent monsters from the chase, by dropping 100sp worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
 
+\newpage
+
 ## Dungeon Delving
 
 ### Turns
@@ -433,6 +439,8 @@ Table: Dungeon Event Rolls
 
 **Treasure Traps** such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap.
 
+\newpage
+
 ## Wilderness Travel
 
 ### Timekeeping
@@ -465,6 +473,8 @@ Every watch of travel, roll a d6 on the event table below.
 | 6  | **Free**, no effect   |
 
 Table: Wilderness Event Rolls
+
+\newpage
 
 ## Magic
 
@@ -590,6 +600,8 @@ Buffeting winds prevent missile attacks from harming those within. Protects one 
 
 Locks one door, chest, window, or similar portal. Requires a _knock_ spell or similar magic to open.
 
+\newpage
+
 ## Domains
 
 At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a hideout or tavern for a thief.
@@ -618,6 +630,8 @@ Table: Peasant Uprisings
 
 Peasants can provide one (1) levy (as light foot, 1HD, morale 6+) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a morale roll each week to see if they return to their farms regardless.
 
+\newpage
+
 ## Mass Combat
 
 Each turn of mass combat, roll one (1) d6 per HD of creatures in the units in combat. A unit deals a hit on a result based on the armor of its enemy:
@@ -634,6 +648,8 @@ Table: Mass Combat Hits
 Shields are not counted in determination of armor in mass combat.
 
 Each hit removes one enemy HD from combat as a casualty. Check morale as normal. Casualties check for survival with a result of 3+ on a d6 after combat. If they survive, they are **greviously wounded**.
+
+\newpage
 
 ## Appendix
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.19)  1 AUG 2022 06:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.19)  1 AUG 2022 07:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -269,22 +269,22 @@ File: bb.pdf Graphic file (type pdf)
 <use bb.pdf>
 Package pdftex.def Info: bb.pdf  used on input line 4.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<bb.pdf, id=4, page=32, 614.295pt x 794.97pt>
+<bb.pdf, id=4, page=28, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 32>
-Package pdftex.def Info: bb.pdf , page32 used on input line 4.
+<use bb.pdf, page 28>
+Package pdftex.def Info: bb.pdf , page28 used on input line 4.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 32>
-Package pdftex.def Info: bb.pdf , page32 used on input line 4.
+<use bb.pdf, page 28>
+Package pdftex.def Info: bb.pdf , page28 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 32>
-Package pdftex.def Info: bb.pdf , page32 used on input line 4.
+<use bb.pdf, page 28>
+Package pdftex.def Info: bb.pdf , page28 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 32>
-Package pdftex.def Info: bb.pdf , page32 used on input line 4.
+<use bb.pdf, page 28>
+Package pdftex.def Info: bb.pdf , page28 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=5, page=1, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -296,8 +296,8 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 32>
-Package pdftex.def Info: bb.pdf , page32 used on input line 4.
+<use bb.pdf, page 28>
+Package pdftex.def Info: bb.pdf , page28 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 1>
@@ -307,14 +307,14 @@ Package pdftex.def Info: bb.pdf , page1 used on input line 4.
 
  <./bb.pdf{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}> <./bb
 .pdf>]
-<bb.pdf, id=30, page=31, 614.295pt x 794.97pt>
+<bb.pdf, id=30, page=27, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 31>
-Package pdftex.def Info: bb.pdf , page31 used on input line 4.
+<use bb.pdf, page 27>
+Package pdftex.def Info: bb.pdf , page27 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 31>
-Package pdftex.def Info: bb.pdf , page31 used on input line 4.
+<use bb.pdf, page 27>
+Package pdftex.def Info: bb.pdf , page27 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=31, page=2, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -326,22 +326,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page2 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 31>
-Package pdftex.def Info: bb.pdf , page31 used on input line 4.
+<use bb.pdf, page 27>
+Package pdftex.def Info: bb.pdf , page27 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 2>
 Package pdftex.def Info: bb.pdf , page2 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [2 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=41, page=30, 614.295pt x 794.97pt>
+<bb.pdf, id=41, page=26, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 30>
-Package pdftex.def Info: bb.pdf , page30 used on input line 4.
+<use bb.pdf, page 26>
+Package pdftex.def Info: bb.pdf , page26 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 30>
-Package pdftex.def Info: bb.pdf , page30 used on input line 4.
+<use bb.pdf, page 26>
+Package pdftex.def Info: bb.pdf , page26 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=42, page=3, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -353,22 +353,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page3 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 30>
-Package pdftex.def Info: bb.pdf , page30 used on input line 4.
+<use bb.pdf, page 26>
+Package pdftex.def Info: bb.pdf , page26 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 3>
 Package pdftex.def Info: bb.pdf , page3 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [3 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=46, page=29, 614.295pt x 794.97pt>
+<bb.pdf, id=46, page=25, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 29>
-Package pdftex.def Info: bb.pdf , page29 used on input line 4.
+<use bb.pdf, page 25>
+Package pdftex.def Info: bb.pdf , page25 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 29>
-Package pdftex.def Info: bb.pdf , page29 used on input line 4.
+<use bb.pdf, page 25>
+Package pdftex.def Info: bb.pdf , page25 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=47, page=4, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -380,24 +380,24 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page4 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 29>
-Package pdftex.def Info: bb.pdf , page29 used on input line 4.
+<use bb.pdf, page 25>
+Package pdftex.def Info: bb.pdf , page25 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 4>
 Package pdftex.def Info: bb.pdf , page4 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [4 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=51, page=28, 614.295pt x 794.97pt>
+<bb.pdf, id=55, page=24, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 28>
-Package pdftex.def Info: bb.pdf , page28 used on input line 4.
+<use bb.pdf, page 24>
+Package pdftex.def Info: bb.pdf , page24 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 28>
-Package pdftex.def Info: bb.pdf , page28 used on input line 4.
+<use bb.pdf, page 24>
+Package pdftex.def Info: bb.pdf , page24 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<bb.pdf, id=52, page=5, 614.295pt x 794.97pt>
+<bb.pdf, id=56, page=5, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 5>
 Package pdftex.def Info: bb.pdf , page5 used on input line 4.
@@ -407,22 +407,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page5 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 28>
-Package pdftex.def Info: bb.pdf , page28 used on input line 4.
+<use bb.pdf, page 24>
+Package pdftex.def Info: bb.pdf , page24 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 5>
 Package pdftex.def Info: bb.pdf , page5 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [5 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=66, page=27, 614.295pt x 794.97pt>
+<bb.pdf, id=66, page=23, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 27>
-Package pdftex.def Info: bb.pdf , page27 used on input line 4.
+<use bb.pdf, page 23>
+Package pdftex.def Info: bb.pdf , page23 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 27>
-Package pdftex.def Info: bb.pdf , page27 used on input line 4.
+<use bb.pdf, page 23>
+Package pdftex.def Info: bb.pdf , page23 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=67, page=6, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -434,22 +434,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page6 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 27>
-Package pdftex.def Info: bb.pdf , page27 used on input line 4.
+<use bb.pdf, page 23>
+Package pdftex.def Info: bb.pdf , page23 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 6>
 Package pdftex.def Info: bb.pdf , page6 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [6 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=71, page=26, 614.295pt x 794.97pt>
+<bb.pdf, id=71, page=22, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 26>
-Package pdftex.def Info: bb.pdf , page26 used on input line 4.
+<use bb.pdf, page 22>
+Package pdftex.def Info: bb.pdf , page22 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 26>
-Package pdftex.def Info: bb.pdf , page26 used on input line 4.
+<use bb.pdf, page 22>
+Package pdftex.def Info: bb.pdf , page22 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=72, page=7, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -461,22 +461,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page7 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 26>
-Package pdftex.def Info: bb.pdf , page26 used on input line 4.
+<use bb.pdf, page 22>
+Package pdftex.def Info: bb.pdf , page22 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 7>
 Package pdftex.def Info: bb.pdf , page7 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [7 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=77, page=25, 614.295pt x 794.97pt>
+<bb.pdf, id=77, page=21, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 25>
-Package pdftex.def Info: bb.pdf , page25 used on input line 4.
+<use bb.pdf, page 21>
+Package pdftex.def Info: bb.pdf , page21 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 25>
-Package pdftex.def Info: bb.pdf , page25 used on input line 4.
+<use bb.pdf, page 21>
+Package pdftex.def Info: bb.pdf , page21 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=78, page=8, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -488,22 +488,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page8 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 25>
-Package pdftex.def Info: bb.pdf , page25 used on input line 4.
+<use bb.pdf, page 21>
+Package pdftex.def Info: bb.pdf , page21 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 8>
 Package pdftex.def Info: bb.pdf , page8 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [8 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=82, page=24, 614.295pt x 794.97pt>
+<bb.pdf, id=82, page=20, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 24>
-Package pdftex.def Info: bb.pdf , page24 used on input line 4.
+<use bb.pdf, page 20>
+Package pdftex.def Info: bb.pdf , page20 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 24>
-Package pdftex.def Info: bb.pdf , page24 used on input line 4.
+<use bb.pdf, page 20>
+Package pdftex.def Info: bb.pdf , page20 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=83, page=9, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -515,22 +515,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page9 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 24>
-Package pdftex.def Info: bb.pdf , page24 used on input line 4.
+<use bb.pdf, page 20>
+Package pdftex.def Info: bb.pdf , page20 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 9>
 Package pdftex.def Info: bb.pdf , page9 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [9 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=87, page=23, 614.295pt x 794.97pt>
+<bb.pdf, id=87, page=19, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 23>
-Package pdftex.def Info: bb.pdf , page23 used on input line 4.
+<use bb.pdf, page 19>
+Package pdftex.def Info: bb.pdf , page19 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 23>
-Package pdftex.def Info: bb.pdf , page23 used on input line 4.
+<use bb.pdf, page 19>
+Package pdftex.def Info: bb.pdf , page19 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=88, page=10, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -542,22 +542,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page10 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 23>
-Package pdftex.def Info: bb.pdf , page23 used on input line 4.
+<use bb.pdf, page 19>
+Package pdftex.def Info: bb.pdf , page19 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 10>
 Package pdftex.def Info: bb.pdf , page10 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [10 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=92, page=22, 614.295pt x 794.97pt>
+<bb.pdf, id=92, page=18, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 22>
-Package pdftex.def Info: bb.pdf , page22 used on input line 4.
+<use bb.pdf, page 18>
+Package pdftex.def Info: bb.pdf , page18 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 22>
-Package pdftex.def Info: bb.pdf , page22 used on input line 4.
+<use bb.pdf, page 18>
+Package pdftex.def Info: bb.pdf , page18 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=93, page=11, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -569,22 +569,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page11 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 22>
-Package pdftex.def Info: bb.pdf , page22 used on input line 4.
+<use bb.pdf, page 18>
+Package pdftex.def Info: bb.pdf , page18 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 11>
 Package pdftex.def Info: bb.pdf , page11 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [11 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=97, page=21, 614.295pt x 794.97pt>
+<bb.pdf, id=97, page=17, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 21>
-Package pdftex.def Info: bb.pdf , page21 used on input line 4.
+<use bb.pdf, page 17>
+Package pdftex.def Info: bb.pdf , page17 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 21>
-Package pdftex.def Info: bb.pdf , page21 used on input line 4.
+<use bb.pdf, page 17>
+Package pdftex.def Info: bb.pdf , page17 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=98, page=12, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -596,22 +596,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page12 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 21>
-Package pdftex.def Info: bb.pdf , page21 used on input line 4.
+<use bb.pdf, page 17>
+Package pdftex.def Info: bb.pdf , page17 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 12>
 Package pdftex.def Info: bb.pdf , page12 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [12 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=102, page=20, 614.295pt x 794.97pt>
+<bb.pdf, id=102, page=16, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 20>
-Package pdftex.def Info: bb.pdf , page20 used on input line 4.
+<use bb.pdf, page 16>
+Package pdftex.def Info: bb.pdf , page16 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 20>
-Package pdftex.def Info: bb.pdf , page20 used on input line 4.
+<use bb.pdf, page 16>
+Package pdftex.def Info: bb.pdf , page16 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=103, page=13, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -623,22 +623,22 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page13 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 20>
-Package pdftex.def Info: bb.pdf , page20 used on input line 4.
+<use bb.pdf, page 16>
+Package pdftex.def Info: bb.pdf , page16 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 13>
 Package pdftex.def Info: bb.pdf , page13 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [13 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=108, page=19, 614.295pt x 794.97pt>
+<bb.pdf, id=108, page=15, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 19>
-Package pdftex.def Info: bb.pdf , page19 used on input line 4.
+<use bb.pdf, page 15>
+Package pdftex.def Info: bb.pdf , page15 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 19>
-Package pdftex.def Info: bb.pdf , page19 used on input line 4.
+<use bb.pdf, page 15>
+Package pdftex.def Info: bb.pdf , page15 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 <bb.pdf, id=109, page=14, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
@@ -650,86 +650,31 @@ File: bb.pdf Graphic file (type pdf)
 Package pdftex.def Info: bb.pdf , page14 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 19>
-Package pdftex.def Info: bb.pdf , page19 used on input line 4.
+<use bb.pdf, page 15>
+Package pdftex.def Info: bb.pdf , page15 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 14>
 Package pdftex.def Info: bb.pdf , page14 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
- [14 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=113, page=18, 614.295pt x 794.97pt>
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 18>
-Package pdftex.def Info: bb.pdf , page18 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 18>
-Package pdftex.def Info: bb.pdf , page18 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<bb.pdf, id=114, page=15, 614.295pt x 794.97pt>
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 15>
-Package pdftex.def Info: bb.pdf , page15 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 15>
-Package pdftex.def Info: bb.pdf , page15 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 18>
-Package pdftex.def Info: bb.pdf , page18 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 15>
-Package pdftex.def Info: bb.pdf , page15 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
- [15 <./bb.pdf> <./bb.pdf>]
-<bb.pdf, id=118, page=17, 614.295pt x 794.97pt>
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 17>
-Package pdftex.def Info: bb.pdf , page17 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 17>
-Package pdftex.def Info: bb.pdf , page17 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<bb.pdf, id=119, page=16, 614.295pt x 794.97pt>
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 16>
-Package pdftex.def Info: bb.pdf , page16 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 16>
-Package pdftex.def Info: bb.pdf , page16 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 17>
-Package pdftex.def Info: bb.pdf , page17 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: bb.pdf Graphic file (type pdf)
-<use bb.pdf, page 16>
-Package pdftex.def Info: bb.pdf , page16 used on input line 4.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
- [16 <./bb.pdf> <./bb.pdf>]
-(./booklet.aux) ) 
+ [14 <./bb.pdf> <./bb.pdf>] (./booklet.aux) ) 
 Here is how much of TeX's memory you used:
- 5610 strings out of 478276
- 113971 string characters out of 5850483
+ 5598 strings out of 478276
+ 113679 string characters out of 5850483
  525825 words of memory out of 5000000
- 23805 multiletter control sequences out of 15000+600000
+ 23793 multiletter control sequences out of 15000+600000
  469559 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,19n,106p,10623b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><
-c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2021/tex
-mf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2021/texmf-dist/fonts/type1
-/public/lm/lmri12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmro12.
-pfb>
-Output written on booklet.pdf (16 pages, 178616 bytes).
+<c:/texlive/2021/texmf-dist/fonts/
+type1/public/lm/lmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lm
+r12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive
+/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2021/texmf-dist/f
+onts/type1/public/lm/lmro12.pfb>
+Output written on booklet.pdf (14 pages, 179764 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 121 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
