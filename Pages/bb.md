@@ -5,7 +5,7 @@ date: 2022-08-01
 menu: no
 papersize: letter
 documentclass: extbook
-fontsize: 14pt
+fontsize: 12pt
 header-includes: |
     \usepackage[margin=0.5in]{geometry}
 
@@ -157,7 +157,9 @@ Table: Elf Levels
 **Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
 **Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.
 **Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
-**Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).  
+**Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
+
+\newpage
 
 #### Dwarf
 
@@ -173,7 +175,7 @@ Table: Elf Levels
 | 8     | 160,000 | 8  | +8     | 7+   |
 | 9     | 320,000 | 9  | +9     | 6+   |
 
-Table: Fighter Levels
+Table: Dwarf Levels
 
 **Weapons** Any  
 **Armor** Any  
