@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks
 author: Tyler Farrington
-date: 2022-07-23
+date: 2022-07-31
 menu: no
 papersize: letter
 documentclass: extbook
@@ -13,7 +13,7 @@ header-includes: |
 
 [comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
-# Barrows & Basilisks v1.12
+# Barrows & Basilisks v1.13
 
 ## Character Creation
 
@@ -316,9 +316,9 @@ Table: Distance of Encounters
 
 ### Initiative & Phases
 
-**Initiative** To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
+To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
 
-#### Phases
+**Phases:**
 
 1. Magic, cast
 2. Missile
@@ -588,6 +588,51 @@ Buffeting winds prevent missile attacks from harming those within. Protects one 
 
 Locks one door, chest, window, or similar portal. Requires a _knock_ spell or similar magic to open.
 
+## Domains
+
+At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a hideout or tavern for a thief. 
+
+### Manor
+
+Manors consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located: 
+
+- Wilderness: d6-3 households per square mile
+- Borderlands: d6 households per square mile
+- Heartland: d6+3 households per square mile
+
+The typical manor for a 9th level fighter is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain approximately 10 households.
+
+Each household generates 1 sp in productive capacity every month. This consists mainly of food, cloth, and labor, rather than pure cash. The peasantry are typically taxed at 10%; higher taxation rates are possible but require a 2d6 roll to avoid an uprising. This is modifed by the lord's **Charisma** bonus.
+
+| Tax Rate | Uprising on... |
+|---|---|
+| 10% | happy, no uprising |
+| 15% | 10+ |
+| 20% | 9+ |
+| 25% | 8+ |
+| 30% | 7+ |
+
+Table: Peasant Uprisings
+
+Peasants can provide one (1) levy (as light foot, 1HD, morale 6+) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through _forage_); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a morale roll each week to see if they return to their farms regardless.
+
+## Mass Combat
+
+Each turn of mass combat, roll one (1) d6 per HD of creatures in the units in combat. A unit deals a hit on a result based on the armor of its enemy:
+
+| Armor | Hit on... |
+|---|---|
+| Unarmored | 3+ |
+| Light Armor | 4+ |
+| Medium Armor | 5+ |
+| Heavy Armor | 6+ |
+
+Table: Mass Combat Hits
+
+Shields are not counted in determination of armor in mass combat.
+
+Each hit removes one enemy HD from combat as a casualty. Check morale as normal. Casualties check for survival with a result of 3+ on a d6 after combat. If they survive, they are **greviously wounded**. 
+
 ## Appendix
 
 ### Monsters by HD
@@ -614,3 +659,4 @@ Monsters are able to see in complete darkness. When converting monsters from oth
 | 15 | 60 | +15          | 4+           | 2900       |
 
 Table: Monsters by HD
+- 
