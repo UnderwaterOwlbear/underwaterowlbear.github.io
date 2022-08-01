@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.19)  1 AUG 2022 07:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.19)  1 AUG 2022 07:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,7 +307,7 @@ Package pdftex.def Info: bb.pdf , page1 used on input line 4.
 
  <./bb.pdf{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}> <./bb
 .pdf>]
-<bb.pdf, id=30, page=27, 614.295pt x 794.97pt>
+<bb.pdf, id=24, page=27, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 27>
 Package pdftex.def Info: bb.pdf , page27 used on input line 4.
@@ -316,7 +316,7 @@ File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 27>
 Package pdftex.def Info: bb.pdf , page27 used on input line 4.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<bb.pdf, id=31, page=2, 614.295pt x 794.97pt>
+<bb.pdf, id=25, page=2, 614.295pt x 794.97pt>
 File: bb.pdf Graphic file (type pdf)
 <use bb.pdf, page 2>
 Package pdftex.def Info: bb.pdf , page2 used on input line 4.
@@ -671,7 +671,7 @@ type1/public/lm/lmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lm
 r12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive
 /2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2021/texmf-dist/f
 onts/type1/public/lm/lmro12.pfb>
-Output written on booklet.pdf (14 pages, 179764 bytes).
+Output written on booklet.pdf (14 pages, 179264 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream

@@ -1,5 +1,5 @@
 ---
-title: Barrows Basilisks
+title: Barrows & Basilisks v1.14
 author: Tyler Farrington
 date: 2022-08-01
 menu: no
@@ -11,7 +11,9 @@ header-includes: |
 
 ---
 
-# Barrows & Basilisks v1.14
+\clearpage
+
+\markboth{}{}
 
 ## Character Creation
 
