@@ -3,6 +3,7 @@ title: Barrows & Basilisks v1.14
 author: Tyler Farrington
 date: 2022-08-01
 menu: no
+link: bb
 papersize: letter
 documentclass: extbook
 fontsize: 14pt
