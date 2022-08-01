@@ -8,7 +8,7 @@ menu: yes
 
 # My Rules
 
-[[bb.md]]
+[Barrows & Basilisks](/bb.md)
 
 [My Cairn Hack](/cairn)
 
