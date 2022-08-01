@@ -1,7 +1,7 @@
 ---
 title: Barrows Basilisks
 author: Tyler Farrington
-date: 2022-07-31
+date: 2022-08-01
 menu: no
 papersize: letter
 documentclass: extbook
@@ -13,7 +13,7 @@ header-includes: |
 
 [comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
 
-# Barrows & Basilisks v1.13
+# Barrows & Basilisks v1.14
 
 ## Character Creation
 
@@ -22,7 +22,7 @@ header-includes: |
 If coming from other old-school games, these are the assumptions used for a few important rules:
 
 - HD are d6.
-- Reroll all HD each session or each long rest.
+- Reroll all HD each long rest.
 - To-hit bonus equal to HD.
 - Ascending AC with unarmored AC = 10.
 - Single saving throw (roll-over).
@@ -100,7 +100,7 @@ Table: Mage Levels
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
 **Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
 
 \newpage
@@ -157,7 +157,7 @@ Table: Elf Levels
 **Armor** Medium  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
-**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.
+**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.
 **Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
 **Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).  
 
@@ -189,13 +189,13 @@ Table: Fighter Levels
 
 ### Encumbrance & Movement
 
-**Unencumbered Load** A person can carry up to ten (10) items. Some items are _bulky_ -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are _tiny_ -- any number of the same type of _tiny_ items fit into the same slot. A purse of 300 coins counts as one item.
+**Unencumbered Load** A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
 
-**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are _encumbered_, and movement speed is halved. When mounted, movement speed in combat is doubled.
+**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ### Items
 
-**Supply** Common adventuring equipment and resources are abstracted into _supply_. Each unit of _supply_ takes up one (1) slot, costs 1sp, and can be readily converted into...
+**Supply** Common adventuring equipment and resources are abstracted into **supply**. Each unit of **supply** takes up one (1) slot, costs 1sp, and can be readily converted into...
 
 - Food, one (1) day for man or beast
 - Water, one (1) day (generally not required unless traveling through a desert)
@@ -248,7 +248,7 @@ Table: Transportaion
 **Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require 1 unit of supply per day.  
 **Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.  
 **Warhorses** are as horses, but have a morale score of 9.  
-**Canoe** Carries 2 men and 300 items of cargo, counts as a _bulky_ item when portaging.  
+**Canoe** Carries 2 men and 300 items of cargo, counts as a **bulky** item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
 ### Hirelings
@@ -328,6 +328,8 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 
 **Casting Interruptions** A spellcaster who is hit by an attack while casting a spell must make a saving throw. If he fails, the spell is lost (as if it were cast) and no effect takes place.
 
+**Moving and Missiles** A combatant who looses a missile in the missile phase cannot move during the move phase.
+
 ### Attacks & Damage
 
 **Basic Attacks** Roll a d20 and add to-hit bonus. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
@@ -346,7 +348,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value). If a character is lacking food, water, or shelter, they are _deprived_ and cannot regain HP.
+**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value). If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HP.
 
 **Rerolling HD** Resting in town for a week allows characters to reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
@@ -398,7 +400,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 - Rest and bind wounds
 - Interact with a feature of the room, such as a trap
 
-### Events & Encounters
+### Dungeon Events
 
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below.
 
@@ -406,7 +408,7 @@ Every turn of exploration, or every time the party rests or makes excessive nois
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** _encumbered_ characters must spend a turn resting, without moving.   |
+| 3  | **Exhaustion** **encumbered** characters must spend a turn resting, without moving.   |
 | 4  | **Light** A torch burns out.      |
 | 5  | **Free**, no effect   |
 | 6  | **Free**, no effect   |
@@ -444,12 +446,12 @@ During daylight watches, travelers can take one of the following actions:
 - Explore the current area to reveal landmarks and secrets
 - Rest
 
-During nighttime watches, travelers _must_ consume 1 day's worth of rations (1 unit of _supply_), and in addition may take one of the following actions:
+During nighttime watches, travelers must consume 1 day's worth of rations (1 unit of **supply**), and in addition may take one of the following actions:
 
 - Move d3 miles
 - Rest
 
-### Events & Encounters
+### Wilderness Events
 
 Every watch of travel, roll a d6 on the event table below.
 
@@ -457,7 +459,7 @@ Every watch of travel, roll a d6 on the event table below.
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** _encumbered_ characters must spend a watch resting.   |
+| 3  | **Exhaustion** **encumbered** characters must spend a watch resting.   |
 | 4  | **Lost** You are lost. Find a landmark to resume travel.     |
 | 5  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
 | 6  | **Free**, no effect   |
@@ -590,11 +592,11 @@ Locks one door, chest, window, or similar portal. Requires a _knock_ spell or si
 
 ## Domains
 
-At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a hideout or tavern for a thief. 
+At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a hideout or tavern for a thief.
 
 ### Manor
 
-Manors consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located: 
+Manors consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
 - Wilderness: d6-3 households per square mile
 - Borderlands: d6 households per square mile
@@ -614,7 +616,7 @@ Each household generates 1 sp in productive capacity every month. This consists 
 
 Table: Peasant Uprisings
 
-Peasants can provide one (1) levy (as light foot, 1HD, morale 6+) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through _forage_); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a morale roll each week to see if they return to their farms regardless.
+Peasants can provide one (1) levy (as light foot, 1HD, morale 6+) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a morale roll each week to see if they return to their farms regardless.
 
 ## Mass Combat
 
@@ -631,7 +633,7 @@ Table: Mass Combat Hits
 
 Shields are not counted in determination of armor in mass combat.
 
-Each hit removes one enemy HD from combat as a casualty. Check morale as normal. Casualties check for survival with a result of 3+ on a d6 after combat. If they survive, they are **greviously wounded**. 
+Each hit removes one enemy HD from combat as a casualty. Check morale as normal. Casualties check for survival with a result of 3+ on a d6 after combat. If they survive, they are **greviously wounded**.
 
 ## Appendix
 
@@ -659,4 +661,3 @@ Monsters are able to see in complete darkness. When converting monsters from oth
 | 15 | 60 | +15          | 4+           | 2900       |
 
 Table: Monsters by HD
-- 
