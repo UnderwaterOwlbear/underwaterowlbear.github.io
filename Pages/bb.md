@@ -11,8 +11,6 @@ header-includes: |
 
 ---
 
-[comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
-
 # Barrows & Basilisks v1.14
 
 ## Character Creation
