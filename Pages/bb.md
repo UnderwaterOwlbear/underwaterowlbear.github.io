@@ -158,7 +158,7 @@ Table: Elf Levels
 **Armor** Medium  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
-**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.
+**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
 **Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
 **Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
 
@@ -264,10 +264,12 @@ It costs 25sp to place an advertisement in a settlement for hirelings. The adver
 |:---------------|:-----------------------------|---------------:|
 | Servant        | HD½ AC10 M6  | 4sp            |
 | Foot, Light    | HD1 AC14 M7  | 20sp           |
-| Foot, Armored  | HD1 AC16 M8    | 40sp           |
+| Foot, Medium | HD1 AC 15 M7 | 30sp |
+| Foot, Heavy  | HD1 AC16 M8    | 40sp           |
 | Foot, Missile  | HD1 AC12 M7    | 60sp           |
 | Horse, Light   | HD2 AC14 M7    | 100sp          |
-| Horse, Armored | HD2 AC16 M8    | 160sp          |
+| Horse, Medium | HD2 AC15 M7 | 130sp |
+| Horse, Heavy | HD2 AC16 M8    | 160sp          |
 | Horse, Missile | HD2 AC12 M8    | 160sp          |
 | Armorer        | Need 1 per 50 soldiers  | 100sp          |
 | Blacksmith     | Need 1 per 50 mounts    | 20sp           |
@@ -417,7 +419,7 @@ Every turn of exploration, or every time the party rests or makes excessive nois
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** **encumbered** characters must spend a turn resting, without moving.   |
+| 3  | **Exhaustion** encumbered characters must spend a turn resting, without moving.   |
 | 4  | **Light** A torch burns out.      |
 | 5  | **Free**, no effect   |
 | 6  | **Free**, no effect   |
@@ -452,15 +454,12 @@ Table: Dungeon Event Rolls
 
 During daylight watches, travelers can take one of the following actions:
 
-- Move 2d6 miles
+- Move 2d6 miles towards another area
 - Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
-- Explore the current area to reveal landmarks and secrets
-- Rest
+- Explore the current area to reveal landmarks
+- Travel within the current area to a discovered landmark
 
-During nighttime watches, travelers must consume 1 day's worth of rations (1 unit of **supply**), and in addition may take one of the following actions:
-
-- Move d3 miles
-- Rest
+Travelers must consume 1 unit of **supply** per person each day, or they become **deprived** and cannot regain HP. Travelers usually rest in camp overnight, but can conduct a forced march if needed (move 1d6 miles during a nighttime watch, and take 1d6 damage).
 
 ### Wilderness Events
 
@@ -470,7 +469,7 @@ Every watch of travel, roll a d6 on the event table below.
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** **encumbered** characters must spend a watch resting.   |
+| 3  | **Exhaustion** encumbered characters must spend an entire day (3 watches) resting.   |
 | 4  | **Lost** You are lost. Find a landmark to resume travel.     |
 | 5  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
 | 6  | **Free**, no effect   |
