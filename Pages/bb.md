@@ -1,8 +1,9 @@
 ---
-title: Barrows Basilisks
+title: Barrows & Basilisks v1.14
 author: Tyler Farrington
-date: 2022-07-23
+date: 2022-08-01
 menu: no
+link: bb
 papersize: letter
 documentclass: extbook
 fontsize: 14pt
@@ -11,9 +12,9 @@ header-includes: |
 
 ---
 
-[comment]: # (Remember to use "pandoc bb-vd.md --top-level-division=chapter --toc --toc-depth=2 --shift-heading-level-by=-1 -s -o bb-vd.pdf" to generate pdf)
+\clearpage
 
-# Barrows & Basilisks v1.12
+\markboth{}{}
 
 ## Character Creation
 
@@ -22,7 +23,7 @@ header-includes: |
 If coming from other old-school games, these are the assumptions used for a few important rules:
 
 - HD are d6.
-- Reroll all HD each session or each long rest.
+- Reroll all HD each long rest.
 - To-hit bonus equal to HD.
 - Ascending AC with unarmored AC = 10.
 - Single saving throw (roll-over).
@@ -47,7 +48,7 @@ Table: Ability Scores
 
 ### Experience & Advancement
 
-Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6x10 silver pieces (sp). Gain 1 XP for every coin spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6 silver pieces (sp). Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
 When a character gains a level, reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
@@ -100,7 +101,7 @@ Table: Mage Levels
 **Armor** None  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
 **Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
 
 \newpage
@@ -126,9 +127,9 @@ Table: Thief Levels
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
 **Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents. In addition, thieves surprise enemies on a roll of 3+ (instead of on a 5+).  
-**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skullduggery. To succeed, they must roll 3+ with a d6.
+**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skill. To succeed, they must roll 3+ with a d6.
 
-- Hear noises through doors or across rooms
+- Hear noises
 - Pick locks or disable traps
 - Climb sheer surfaces
 - Move silently
@@ -156,10 +157,12 @@ Table: Elf Levels
 **Weapons** Simple and Missile  
 **Armor** Medium  
 **Shields?** No  
-**Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and can found or assume leadership of a secluded grove or valley settlement of elves.  
-**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a _bulky_ item) for 1 hour to memorize that day's spells.
+**Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
+**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
 **Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
-**Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).  
+**Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
+
+\newpage
 
 #### Dwarf
 
@@ -175,27 +178,29 @@ Table: Elf Levels
 | 8     | 160,000 | 8  | +8     | 7+   |
 | 9     | 320,000 | 9  | +9     | 6+   |
 
-Table: Fighter Levels
+Table: Dwarf Levels
 
 **Weapons** Any  
 **Armor** Any  
 **Shields?** Yes  
-**Name Level** When they reach 9th level, they become a Dwarf Lord (or Dwarf Lady) and can build or take leadership of a mine and its dwarf workers.  
+**Name Level** When they reach 9th level, they become a Dwarf Lord (or Dwarf Lady) and can build or take over a mine and its dwarven workers.  
 **Shields Shall Be Splintered** A dwarf may sunder his shield to negate all damage from a single melee or missile attack.  
-**Greedy** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
+**Greed** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
 **Grudge** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
+
+\newpage
 
 ## Equipment
 
 ### Encumbrance & Movement
 
-**Unencumbered Load** A man can carry up to ten (10) items. Some items are _bulky_ -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are _tiny_ -- any number of the same type of _tiny_ items fit into the same slot. A purse of 300 coins counts as one item.
+**Unencumbered Load** A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
 
-**Encumbered Load** A man can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are _encumbered_, and movement speed is halved. When mounted, movement speed in combat is doubled.
+**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ### Items
 
-**Supply** Common adventuring equipment and resources are abstracted into _supply_. Each unit of _supply_ takes up one (1) slot, costs 10 coins, and can be readily converted into...
+**Supply** Common adventuring equipment and resources are abstracted into **supply**. Each unit of **supply** takes up one (1) slot, costs 1sp, and can be readily converted into...
 
 - Food, one (1) day for man or beast
 - Water, one (1) day (generally not required unless traveling through a desert)
@@ -217,12 +222,12 @@ Table: Armor and Shields
 
 | Weapon          | Damage | Special | Cost | Examples                     |
 |-----------------|--------|---------|------|------------------------------|
-| Simple Hand     | d4     |         | 10   | Dagger, club, hatchet        |
-| Simple Polearm  | d6     | bulky   | 15   | Staff, pitchfork, billhook   |
-| Martial Hand    | d6     |         | 20   | Sword, spear, mace           |
-| Martial Polearm | d8     | bulky   | 25   | Poleaxe, halberd, lance      |
-| Missile, Sling  | d4     |         | 10   | Sling                        |
-| Missile, Bow    | d6     | bulky   | 25   | Hunting bow, light crossbow  |
+| Simple Hand     | d4     |         | 10sp   | Dagger, club, hatchet        |
+| Simple Polearm  | d6     | bulky   | 15sp   | Staff, pitchfork, billhook   |
+| Martial Hand    | d6     |         | 20sp   | Sword, spear, mace           |
+| Martial Polearm | d8     | bulky   | 25sp   | Poleaxe, halberd, lance      |
+| Missile, Sling  | d4     |         | 10sp   | Sling                        |
+| Missile, Bow    | d6     | bulky   | 25sp   | Hunting bow, light crossbow  |
 | Unarmed         | 1      |         | -    |                              |
 
 Table: Weapons
@@ -246,9 +251,9 @@ Table: Transportaion
 **Carts** double (2x) the carrying capacity of the user.  
 **Wagons** quadruple (4x) the carrying capacity of the user.  
 **Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require 1 unit of supply per day.  
-**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.
-**Warhorses** as horses, but have a morale score of 9.  
-**Canoe** Carries 2 men and 300 items of cargo, counts as a _bulky_ item when portaging.  
+**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.  
+**Warhorses** are as horses, but have a morale score of 9.  
+**Canoe** Carries 2 men and 300 items of cargo, counts as a **bulky** item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
 ### Hirelings
@@ -259,10 +264,12 @@ It costs 25sp to place an advertisement in a settlement for hirelings. The adver
 |:---------------|:-----------------------------|---------------:|
 | Servant        | HD½ AC10 M6  | 4sp            |
 | Foot, Light    | HD1 AC14 M7  | 20sp           |
-| Foot, Armored  | HD1 AC16 M8    | 40sp           |
+| Foot, Medium | HD1 AC 15 M7 | 30sp |
+| Foot, Heavy  | HD1 AC16 M8    | 40sp           |
 | Foot, Missile  | HD1 AC12 M7    | 60sp           |
 | Horse, Light   | HD2 AC14 M7    | 100sp          |
-| Horse, Armored | HD2 AC16 M8    | 160sp          |
+| Horse, Medium | HD2 AC15 M7 | 130sp |
+| Horse, Heavy | HD2 AC16 M8    | 160sp          |
 | Horse, Missile | HD2 AC12 M8    | 160sp          |
 | Armorer        | Need 1 per 50 soldiers  | 100sp          |
 | Blacksmith     | Need 1 per 50 mounts    | 20sp           |
@@ -271,6 +278,8 @@ It costs 25sp to place an advertisement in a settlement for hirelings. The adver
 Table: Hirelings
 
 **Horse archers** may act in both the move phase and the missile phase of combat.
+
+\newpage
 
 ## Encounters & Combat
 
@@ -316,9 +325,9 @@ Table: Distance of Encounters
 
 ### Initiative & Phases
 
-**Initiative** To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
+To determine initiative within the combat round, each side rolls a d6 at the start of combat. The side with the highest result has the initiative. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
 
-#### Phases
+**Phases:**
 
 1. Magic, cast
 2. Missile
@@ -327,6 +336,8 @@ Table: Distance of Encounters
 5. Magic, effect
 
 **Casting Interruptions** A spellcaster who is hit by an attack while casting a spell must make a saving throw. If he fails, the spell is lost (as if it were cast) and no effect takes place.
+
+**Moving and Missiles** A combatant who looses a missile in the missile phase cannot move during the move phase.
 
 ### Attacks & Damage
 
@@ -346,7 +357,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value). If a character is lacking food, water, or shelter, they are _deprived_ and cannot regain HP.
+**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value). If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HP.
 
 **Rerolling HD** Resting in town for a week allows characters to reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
@@ -386,6 +397,8 @@ Table: Morale Scores
 
 **Distractions** Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster HD. Treasure will always distract intelligent monsters from the chase, by dropping 100sp worth of treasure or coins per monster HD. Passing through a secret door will always evade a pursuer.
 
+\newpage
+
 ## Dungeon Delving
 
 ### Turns
@@ -398,7 +411,7 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 - Rest and bind wounds
 - Interact with a feature of the room, such as a trap
 
-### Events & Encounters
+### Dungeon Events
 
 Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below.
 
@@ -406,7 +419,7 @@ Every turn of exploration, or every time the party rests or makes excessive nois
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** _encumbered_ characters must spend a turn resting, without moving.   |
+| 3  | **Exhaustion** encumbered characters must spend a turn resting, without moving.   |
 | 4  | **Light** A torch burns out.      |
 | 5  | **Free**, no effect   |
 | 6  | **Free**, no effect   |
@@ -431,6 +444,8 @@ Table: Dungeon Event Rolls
 
 **Treasure Traps** such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap.
 
+\newpage
+
 ## Wilderness Travel
 
 ### Timekeeping
@@ -439,17 +454,14 @@ Table: Dungeon Event Rolls
 
 During daylight watches, travelers can take one of the following actions:
 
-- Move 2d6 miles
+- Move 2d6 miles towards another area
 - Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
-- Explore the current area to reveal landmarks and secrets
-- Rest
+- Explore the current area to reveal landmarks
+- Travel within the current area to a discovered landmark
 
-During nighttime watches, travelers _must_ consume 1 day's worth of rations (1 unit of _supply_), and in addition may take one of the following actions:
+Travelers must consume 1 unit of **supply** per person each day, or they become **deprived** and cannot regain HP. Travelers usually rest in camp overnight, but can conduct a forced march if needed (move 1d6 miles during a nighttime watch, and take 1d6 damage).
 
-- Move d3 miles
-- Rest
-
-### Events & Encounters
+### Wilderness Events
 
 Every watch of travel, roll a d6 on the event table below.
 
@@ -457,12 +469,14 @@ Every watch of travel, roll a d6 on the event table below.
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** _encumbered_ characters must spend a watch resting.   |
+| 3  | **Exhaustion** encumbered characters must spend an entire day (3 watches) resting.   |
 | 4  | **Lost** You are lost. Find a landmark to resume travel.     |
 | 5  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
 | 6  | **Free**, no effect   |
 
 Table: Wilderness Event Rolls
+
+\newpage
 
 ## Magic
 
@@ -587,6 +601,57 @@ Buffeting winds prevent missile attacks from harming those within. Protects one 
 #### Wizard Lock
 
 Locks one door, chest, window, or similar portal. Requires a _knock_ spell or similar magic to open.
+
+\newpage
+
+## Domains
+
+At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a hideout or tavern for a thief.
+
+### Manor
+
+Manors consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
+
+- Wilderness: d6-3 households per square mile
+- Borderlands: d6 households per square mile
+- Heartland: d6+3 households per square mile
+
+The typical manor for a 9th level fighter is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain approximately 10 households.
+
+Each household generates 1 sp in productive capacity every month. This consists mainly of food, cloth, and labor, rather than pure cash. The peasantry are typically taxed at 10%; higher taxation rates are possible but require a 2d6 roll to avoid an uprising. This is modifed by the lord's **Charisma** bonus.
+
+| Tax Rate | Uprising on... |
+|---|---|
+| 10% | happy, no uprising |
+| 15% | 10+ |
+| 20% | 9+ |
+| 25% | 8+ |
+| 30% | 7+ |
+
+Table: Peasant Uprisings
+
+Peasants can provide one (1) levy (as light foot, 1HD, morale 6+) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a morale roll each week to see if they return to their farms regardless.
+
+\newpage
+
+## Mass Combat
+
+Each turn of mass combat, roll one (1) d6 per HD of creatures in the units in combat. A unit deals a hit on a result based on the armor of its enemy:
+
+| Armor | Hit on... |
+|---|---|
+| Unarmored | 3+ |
+| Light Armor | 4+ |
+| Medium Armor | 5+ |
+| Heavy Armor | 6+ |
+
+Table: Mass Combat Hits
+
+Shields are not counted in determination of armor in mass combat.
+
+Each hit removes one enemy HD from combat as a casualty. Check morale as normal. Casualties check for survival with a result of 3+ on a d6 after combat. If they survive, they are **greviously wounded**.
+
+\newpage
 
 ## Appendix
 
