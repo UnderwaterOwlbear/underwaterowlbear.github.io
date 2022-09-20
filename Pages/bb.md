@@ -1,7 +1,7 @@
 ---
-title: Barrows & Basilisks v1.14
+title: Barrows & Basilisks v1.15
 author: Tyler Farrington
-date: 2022-08-01
+date: 2022-09-19
 menu: no
 link: bb
 papersize: letter
@@ -357,7 +357,9 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value). If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HP.
+**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value).
+
+**Deprivation** If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HP.
 
 **Rerolling HD** Resting in town for a week allows characters to reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
 
@@ -419,7 +421,7 @@ Every turn of exploration, or every time the party rests or makes excessive nois
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** encumbered characters must spend a turn resting, without moving.   |
+| 3  | **Exhaustion** Encumbered characters must spend a turn resting, without moving.   |
 | 4  | **Light** A torch burns out.      |
 | 5  | **Free**, no effect   |
 | 6  | **Free**, no effect   |
@@ -452,14 +454,14 @@ Table: Dungeon Event Rolls
 
 **Watches** are a period of 8 hours. There are three (3) watches in a day. In summer, two (2) of these watches are daylight, and one (1) is nighttime. This is reversed in the winter months.  
 
-During daylight watches, travelers can take one of the following actions:
+During daylight watches, travelers can take one of the following actions as a group:
 
 - Move 2d6 miles towards another area
 - Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
 - Explore the current area to reveal landmarks
 - Travel within the current area to a discovered landmark
 
-Travelers must consume 1 unit of **supply** per person each day, or they become **deprived** and cannot regain HP. Travelers usually rest in camp overnight, but can conduct a forced march if needed (move 1d6 miles during a nighttime watch, and take 1d6 damage).
+Travelers must consume 1 unit of **supply** per person each day, or they become **deprived** and cannot regain HP. Travelers usually rest in camp overnight, but can conduct a forced march if needed (move 1d6 miles during a nighttime watch, and become **deprived**).
 
 ### Wilderness Events
 
@@ -469,7 +471,7 @@ Every watch of travel, roll a d6 on the event table below.
 |:--:|:---------|
 | 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
 | 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** encumbered characters must spend an entire day (3 watches) resting.   |
+| 3  | **Exhaustion** Encumbered characters must spend an entire day (3 watches) resting.   |
 | 4  | **Lost** You are lost. Find a landmark to resume travel.     |
 | 5  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
 | 6  | **Free**, no effect   |
