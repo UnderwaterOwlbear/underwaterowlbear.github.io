@@ -5,8 +5,6 @@ date: 2023-01-23
 
 ---
 
-# My Rulesets
-
 [Barrows & Basilisks](./pages/bb)
 
 [Cairn House Rules](./pages/cairn-houserules)

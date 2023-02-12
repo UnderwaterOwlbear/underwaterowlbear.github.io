@@ -6,8 +6,6 @@ date: 2022-01-30
 
 ---
 
-# Dying Earth Spells
-
 Taken from [John's](https://www.blogger.com/profile/07090296806321882601) comment on [Necropraxis](https://www.necropraxis.com/2012/08/21/dying-earth-spells-for-dd/). Direct Dropbox link to original [here](https://www.dropbox.com/s/ksixtum08fzcp6k/Dying-Earth-Spells-for-D-D.pdf).
 
 ## Spell List  
