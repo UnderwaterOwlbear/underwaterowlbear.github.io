@@ -3,7 +3,7 @@ author:
   name: Tyler Farrington
   email: underwaterowlbear@gmail.com
   
-description: This is my description
+description: This is my description. Testing SSH commit / push.
 
 remote_theme: jekyll/minima
 
