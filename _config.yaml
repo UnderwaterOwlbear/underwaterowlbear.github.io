@@ -5,11 +5,13 @@ author:
   
 description: This is my description
 
-theme: minima
+remote_theme: jekyll/minima
+  skin: dark
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
