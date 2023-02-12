@@ -1,5 +1,3 @@
-----
-title: This is my Title
-----
+# Index
 
 Underwater Owlbear Games - My old-school RPG blog
