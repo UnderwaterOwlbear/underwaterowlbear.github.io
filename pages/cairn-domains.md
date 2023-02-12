@@ -2,7 +2,7 @@
 title: Cairn Domains
 author: Tyler Farrington
 date: 2023-01-23
-
+exclude: true
 ---
 
 ## Domains
