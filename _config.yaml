@@ -11,7 +11,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-  - jekyll-toc
 
 # Theme-specific settings
 
@@ -50,14 +49,3 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
-
-toc:
-  min_level: 2
-  max_level: 3
-  ordered_list: true
-  no_toc_section_class: no_toc_section
-  list_id: toc
-  list_class: section-nav
-  sublist_class: ''
-  item_class: toc-entry
-  item_prefix: toc-

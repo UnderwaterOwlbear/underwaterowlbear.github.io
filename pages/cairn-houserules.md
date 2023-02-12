@@ -2,7 +2,6 @@
 title: Cairn House Rules v0.20
 author: Tyler Farrington
 date: 2023-02-05
-toc: true
 exclude: true
 ---
 
