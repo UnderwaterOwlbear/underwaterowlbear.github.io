@@ -8,13 +8,7 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% if page.toc %}
-      {% assign my_min = page.toc_min | default: site.toc_min | default: 2 %}
-      {% assign my_max = page.toc_max | default: site.toc_max | default: 3 %}
-
-      {% include toc.html html=content sanitize=true h_min=my_min h_max=my_max %}  
-    {% endif %}
-
+    {% include toc.html html=content sanitize=true h_min=2 h_max=3 %}  
     {{ content }}
   </div>
 
