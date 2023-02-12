@@ -3,9 +3,10 @@ title: Cairn House Rules v0.20
 author: Tyler Farrington
 date: 2023-02-05
 exclude: true
-toc: true
 ---
 
+* TOC
+{:toc}
 
 ## Character Creation
 
