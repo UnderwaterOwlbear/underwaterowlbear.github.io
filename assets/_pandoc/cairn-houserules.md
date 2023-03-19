@@ -4,10 +4,7 @@ author: Tyler Farrington
 date: 2023-02-05
 menu: no
 papersize: letter
-documentclass: extbook
-fontsize: 14pt
-header-includes: |
-    \usepackage[margin=0.5in]{geometry}
+documentclass: article
 toc: true
 toc-title: "Table of Contents"
 
