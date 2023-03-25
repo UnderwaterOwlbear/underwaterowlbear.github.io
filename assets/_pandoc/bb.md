@@ -5,65 +5,37 @@ date: 2022-09-19
 exclude: true
 ---
 
+\clearpage
+
+\markboth{}{}
+
 ## Character Creation
-
-### Rules Summary
-
-If coming from other old-school games, these are the assumptions used for a few important rules:
-
-- HD are d6.
-- Reroll all HD each long rest.
-- To-hit bonus equal to HD.
-- Ascending AC with unarmored AC = 10.
-- Single saving throw (roll-over).
-- Spellcasting as in _Wonder & Wickedness_
-
-**Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
-
-### Ability Scores
-
-Roll 3d6 for each ability score. Scores of 14 or higher grant the bonus indicated on the table below.
-
-| Ability       | Bonus for High (14+) Score                   |
-|---------------|----------------------------------------------|
-| Strength      | +1 damage in melee, +1 to open doors         |
-| Dexterity     | +1 damage with missiles, +1 to flee          |
-| Constitution  | +3 HP                                        |
-| Intelligence  | +1 spell known at 1st level                  |
-| Wisdom        | Start with 500 XP (instead of 0 XP)          |
-| Charisma      | +1 to reaction rolls and retainer morale     |
-
-Table: Ability Scores
 
 ### Experience & Advancement
 
 Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6 silver pieces (sp). Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
-When a character gains a level, reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
-
 ### Classes
 
 #### Fighter
 
-| Level | XP      | HD | To-Hit | Save |
-|-------|---------|----|--------|------|
-| 1     | 0       | 1  | +1     | 14+  |
-| 2     | 2,000   | 2  | +2     | 13+  |
-| 3     | 4,000   | 3  | +3     | 12+  |
-| 4     | 8,000   | 4  | +4     | 11+  |
-| 5     | 16,000  | 5  | +5     | 10+  |
-| 6     | 32,000  | 6  | +6     | 9+   |
-| 7     | 64,000  | 7  | +7     | 8+   |
-| 8     | 128,000 | 8  | +8     | 7+   |
-| 9     | 256,000 | 9  | +9     | 6+   |
+| Level | XP      | HD | Save |
+|-------|---------|----|------|
+| 1     | 0       | 1  | 14+  |
+| 2     | 2,000   | 2  | 13+  |
+| 3     | 4,000   | 3  | 12+  |
+| 4     | 8,000   | 4  | 11+  |
+| 5     | 16,000  | 5  | 10+  |
+| 6     | 32,000  | 6  | 9+   |
+| 7     | 64,000  | 7  | 8+   |
+| 8     | 128,000 | 8  | 7+   |
+| 9     | 256,000 | 9  | 6+   |
 
 Table: Fighter Levels
 
 **Weapons** Any  
 **Armor** Any  
 **Shields?** Yes  
-**Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
-**Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
 **Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.  
 
 #### Mage

@@ -5,9 +5,8 @@ date: 2023-03-25
 exclude: true
 ---
 
-\clearpage
-
-\markboth{}{}
+* TOC
+{:toc}
 
 ## Character Creation
 
