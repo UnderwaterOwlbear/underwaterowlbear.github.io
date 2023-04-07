@@ -1,7 +1,7 @@
 ---
-title: Hauberk v1.00
+title: Hauberk v1.01
 author: Tyler Farrington
-date: 2023-03-25
+date: 2023-04-07
 exclude: true
 ---
 
@@ -21,15 +21,15 @@ Pick a class. Start at 1st level with 0 experience points (XP) and 3d6 silver pi
 
 | Level | XP      | HD | Save |
 |-------|---------|----|------|
-| 1     | 0       | 1  | 14+  |
-| 2     | 2,000   | 2  | 13+  |
-| 3     | 4,000   | 3  | 12+  |
-| 4     | 8,000   | 4  | 11+  |
-| 5     | 16,000  | 5  | 10+  |
-| 6     | 32,000  | 6  | 9+   |
-| 7     | 64,000  | 7  | 8+   |
-| 8     | 128,000 | 8  | 7+   |
-| 9     | 256,000 | 9  | 6+   |
+| 1     | 0       | 1  | 15+  |
+| 2     | 2,000   | 2  | 14+  |
+| 3     | 4,000   | 3  | 13+  |
+| 4     | 8,000   | 4  | 12+  |
+| 5     | 16,000  | 5  | 11+  |
+| 6     | 32,000  | 6  | 10+  |
+| 7     | 64,000  | 7  | 9+   |
+| 8     | 128,000 | 8  | 8+   |
+| 9     | 256,000 | 9  | 7+   |
 
 Table: Fighter Levels
 
@@ -56,11 +56,34 @@ Table: Fighter Levels
 
 Table: Mage Levels
 
-**Weapons** Simple  
+**Weapons** Hand  
 **Armor** None  
 **Shields?** No  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
+**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire for 1 hour to memorize that day's spells.  
 **Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
+
+\newpage
+
+#### Thief
+
+| Level | XP      | HD | Save | Luck |
+|-------|---------|----|------|------|
+| 1     | 0       | 1  | 14+  | 1    |
+| 2     | 2,000   | 1  | 13+  | 2    |
+| 3     | 4,000   | 2  | 12+  | 3    |
+| 4     | 8,000   | 2  | 11+  | 4    |
+| 5     | 16,000  | 3  | 10+  | 5    |
+| 6     | 32,000  | 3  | 9+   | 6    |
+| 7     | 64,000  | 4  | 8+   | 7    |
+| 8     | 128,000 | 4  | 7+   | 8    |
+| 9     | 256,000 | 5  | 6+   | 9    |
+
+Table: Thief Levels
+
+**Weapons** Hand and missile  
+**Armor** Light  
+**Shields?** No  
+**Lucky** A thief can spend luck points to add to or subtract from the result of a die roll that affects them (such as an attack against them, or when the thief attempts to listen at a door). Luck points are replenished with a night's rest.
 
 ## Equipment
 
@@ -70,8 +93,8 @@ Table: Mage Levels
 |--------------|-----------|---------|-----------------------------------|
 | Unarmored    | 3+        | -       | -                                 |
 | Light Armor  | 4+        | 10sp    | Quilted gambeson, mail shirt      |
-| Medium Armor | 5+        | 250sp   | Mail hauberk, brigandine          |
-| Heavy Armor  | 6+        | 3,000sp | Bronze breastplate, full plate    |
+| Medium Armor | 5+        | 250sp   | Mail hauberk, breastplate         |
+| Heavy Armor  | 6+        | 3,000sp | Full plate                        |
 | Shield       | *         | 10sp    | *Improves TBH by one step, max 6+ |
 
 Table: Armor and Shields
@@ -86,6 +109,10 @@ Table: Armor and Shields
 
 Table: Weapons
 
+**Polearms** strike first in melee combat (see *Initiative & Phases* below) and deal double damage against charging opponents.  
+**Short ranged** missile weapons can attack enemies in the same zone who are not within melee range (those on the other side of a dungeon room, for example).  
+**Long ranged** missile weapons can attack enemies in the same zone or in adjacent zones (a clear line of sight is still required).
+
 | Transport   | Cost     |
 |:------------|---------:|
 | Cart, hand  | 5sp      |
@@ -99,9 +126,9 @@ Table: Weapons
 Table: Transportaion
 
 **Hand Carts** give the user +3 slots and require both hands to move.  
-**Draft Carts** give +12 slots and require one (1) draft animal. Can only be used on flat ground.
-**Wagons** give +36 slots and require two (2) draft animals. Can only be used on flat ground.
-**Mules** have a morale score of 7, and are only as fast as a walking person. Has 12 inventory slots. They require food and water as one (1) person.   
+**Draft Carts** give +12 slots and require one (1) draft animal. Can only be used on flat ground.  
+**Wagons** give +36 slots and require two (2) draft animals. Can only be used on flat ground.  
+**Mules** have a morale score of 7, and are only as fast as a walking person. Has 12 inventory slots. They require food and water as one (1) person.  
 **Horses** have a morale score of 6, and double movement speed. Has 12 inventory slots. A rider counts as 6 slots (max 2 riders). They require food and water as four (4) people.  
 **Warhorses** are as horses, but have a morale score of 9.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
@@ -196,7 +223,7 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 
 **Withdraw** When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the combatant only makes a half move.
 
-**Combat Maneuvers** A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack roll as normal. If he hits, his opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
+**Combat Maneuvers** A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack as normal. His opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
 
 ### Saving Throws
 
@@ -206,9 +233,7 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Rest & Healing** Resting in camp for a night restores all HD.
 
-**Deprivation** If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HP.
-
-**Rerolling HD** Resting in town for a week allows characters to reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
+**Deprivation** If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HD.
 
 **Grievous Wounds** When a player character has all of their HD depleted, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. In all cases, once greviously wounded, the player requires a week's rest in town to restore all HD.  
 
@@ -329,7 +354,7 @@ During daylight watches, travelers can take one of the following actions as a gr
 - Explore the current area to reveal landmarks
 - Visit a discovered landmark within the current area
 
-Travelers must consume enough food and water each day, or they become **deprived** and cannot regain HP.
+Travelers must consume enough food and water each day, or they become **deprived** and cannot regain HD.
 
 ### Forced March
 
@@ -506,7 +531,7 @@ Peasants can provide one (1) levy (as light foot, 1HD, morale 6+) per household 
 
 ### Monsters by HD
 
-Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and XP award should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17). 
+Monsters are able to see in complete darkness. When converting monsters from other publications, their saving throw and XP award should be based on the number of HD. A monster’s saving throw is found by subtracting it’s HD from 19 (for example, a 2 HD monster has a saving throw of 17).
 
 | HD | Saving Throw | XP Awarded |
 |----|--------------|------------|
