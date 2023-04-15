@@ -326,14 +326,11 @@ Travelers have three (3) inventory slots (beasts of burden have more). This is i
 
 A travelers's overland speed is determined by how many of their inventory slots are filled. See table below. A party moves at the speed of their slowest member (make sure to evenly allocate baggage).
 
-| Traveler      | Slots filled | Overland speed |
-|---------------|--------------|----------------|
-| Person        | ≤ 1 of 3     | 3d6 mi/watch   |
-|               | ≤ 2 of 3     | 2d6 mi/watch   |
-|               | 3 of 3       | 1d6 mi/watch   |
-| Mule or Horse | ≤ 4 of 12    | 3d6 mi/watch   |
-|               | ≤ 8 of 12    | 2d6 mi/watch   |
-|               | 12 of 12     | 1d6 mi/watch   |
+| Slots filled | Overland speed |
+|--------------|----------------|
+| less than 2/3| 3d6 mi/watch   |
+| 2/3 or more  | 2d6 mi/watch   |
+| all          | 1d6 mi/watch   |
 
 Table: Overland Speed
 
