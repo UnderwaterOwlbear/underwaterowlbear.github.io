@@ -1,7 +1,7 @@
 ---
-title: Barrows & Basilisks v1.15
+title: Barrows & Basilisks v1.16
 author: Tyler Farrington
-date: 2022-09-19
+date: 2023-04-16
 exclude: true
 ---
 
@@ -91,17 +91,17 @@ Table: Mage Levels
 
 #### Thief
 
-| Level | XP      | HD | Save | To-Hit |
-|-------|---------|----|------|--------|
-| 1     | 0       | 1  | 14+  | +1     |
-| 2     | 1,500   | 1  | 13+  | +1     |
-| 3     | 3,000   | 2  | 12+  | +2     |
-| 4     | 6,000   | 2  | 11+  | +2     |
-| 5     | 12,000  | 3  | 10+  | +3     |
-| 6     | 24,000  | 3  | 9+   | +3     |
-| 7     | 48,000  | 4  | 8+   | +4     |
-| 8     | 96,000  | 4  | 7+   | +4     |
-| 9     | 192,000 | 5  | 6+   | +5     |
+| Level | XP      | HD | Save | To-Hit | Hear Noise | Surprise | Thievery |
+|-------|---------|----|------|--------|------------|----------|----------|
+| 1     | 0       | 1  | 14+  | +1     | 5+         | 5+       | 6+       |
+| 2     | 1,500   | 1  | 13+  | +1     | 5+         | 5+       | 6+       |
+| 3     | 3,000   | 2  | 12+  | +2     | 4+         | 4+       | 5+       |
+| 4     | 6,000   | 2  | 11+  | +2     | 4+         | 4+       | 5+       |
+| 5     | 12,000  | 3  | 10+  | +3     | 3+         | 3+       | 4+       |
+| 6     | 24,000  | 3  | 9+   | +3     | 3+         | 3+       | 4+       |
+| 7     | 48,000  | 4  | 8+   | +4     | 2+         | 2+       | 3+       |
+| 8     | 96,000  | 4  | 7+   | +4     | 2+         | 2+       | 3+       |
+| 9     | 192,000 | 5  | 6+   | +5     | 2+         | 2+       | 2+       |
 
 Table: Thief Levels
 
@@ -109,14 +109,14 @@ Table: Thief Levels
 **Armor** Light  
 **Shields?** No  
 **Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
-**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents. In addition, thieves surprise enemies on a roll of 3+ (instead of on a 5+).  
-**Thievery** Thieves may use their thievery skill to perform the following feats of stealth and skill. To succeed, they must roll 3+ with a d6.
+**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
+**Hear Noise** is the result on a d6 with which a thief can hear noises when listening at doors.  
+**Surprise** is the result on a d6 with which the thief (independent of the party) can surprise enemies.  
+**Thievery** is the result on a d6 which which the thief can perform acts of larceny, such as:
 
-- Hear noises
-- Pick locks or disable traps
 - Climb sheer surfaces
-- Move silently
-- Hide in shadows
+- Open locks
+- Find & disable traps
 - Pick pockets
 
 #### Elf
@@ -141,7 +141,7 @@ Table: Elf Levels
 **Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
 **Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
 **Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
-**Keen Senses** Elves get +1 to rolls to hear noises, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
+**Keen Senses** Elves hear noises on a roll of 4+, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
 
 #### Dwarf
 
@@ -197,15 +197,15 @@ Table: Dwarf Levels
 
 Table: Armor and Shields
 
-| Weapon          | Damage | Special | Cost | Examples                     |
-|-----------------|--------|---------|------|------------------------------|
-| Simple Hand     | d4     |         | 10sp   | Dagger, club, hatchet        |
-| Simple Polearm  | d6     | bulky   | 15sp   | Staff, pitchfork, billhook   |
-| Martial Hand    | d6     |         | 20sp   | Sword, spear, mace           |
-| Martial Polearm | d8     | bulky   | 25sp   | Poleaxe, halberd, lance      |
-| Missile, Sling  | d4     |         | 10sp   | Sling                        |
-| Missile, Bow    | d6     | bulky   | 25sp   | Hunting bow, light crossbow  |
-| Unarmed         | 1      |         | -    |                              |
+| Weapon           | Damage | Special | Cost | Examples                    |
+|------------------|--------|---------|------|-----------------------------|
+| Hand, Simple     | d4     |         | 10sp | Dagger, club, hatchet       |
+| Hand, Martial    | d6     |         | 20sp | Sword, spear, mace          |
+| Polearm, Simple  | d6     | bulky   | 15sp | Staff, pitchfork, billhook  |
+| Polearm, Martial | d8     | bulky   | 25sp | Poleaxe, halberd, lance     |
+| Missile, Sling   | d4     |         | 10sp | Sling                       |
+| Missile, Bow     | d6     | bulky   | 25sp | Hunting bow, light crossbow |
+| Unarmed          | 1      |         | -    |                             |
 
 Table: Weapons
 
@@ -227,8 +227,8 @@ Table: Transportaion
 
 **Carts** double (2x) the carrying capacity of the user.  
 **Wagons** quadruple (4x) the carrying capacity of the user.  
-**Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require 1 unit of supply per day.  
-**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require 4 units of supply per day.  
+**Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require food and water as one (1) person.  
+**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require food and water as four (4) people.  
 **Warhorses** are as horses, but have a morale score of 9.  
 **Canoe** Carries 2 men and 300 items of cargo, counts as a **bulky** item when portaging.  
 **Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
@@ -237,20 +237,22 @@ Table: Transportaion
 
 It costs 25sp to place an advertisement in a settlement for hirelings. The advertisement lasts for 1 week and provides d6-2 prospects for hiring. Hirelings are not brave or foolhardy enough to enter dungeons, but can be used for logistical support to and from dungeons and for guarding camp.
 
-| Type           | Notes                   | Cost per Month |
-|:---------------|:-----------------------------|---------------:|
-| Servant        | HD½ AC10 M6  | 4sp            |
-| Foot, Light    | HD1 AC14 M7  | 20sp           |
-| Foot, Medium | HD1 AC 15 M7 | 30sp |
-| Foot, Heavy  | HD1 AC16 M8    | 40sp           |
-| Foot, Missile  | HD1 AC12 M7    | 60sp           |
-| Horse, Light   | HD2 AC14 M7    | 100sp          |
-| Horse, Medium | HD2 AC15 M7 | 130sp |
-| Horse, Heavy | HD2 AC16 M8    | 160sp          |
-| Horse, Missile | HD2 AC12 M8    | 160sp          |
-| Armorer        | Need 1 per 50 soldiers  | 100sp          |
-| Blacksmith     | Need 1 per 50 mounts    | 20sp           |
-| Engineer       | Builds strongholds      | 800sp          |
+| Type           | Notes                  | Cost per Month |
+|----------------|------------------------|----------------|
+| Servant        | HD ½ AC 10 M 6         | 4sp            |
+| Foot, Light    | HD 1 AC 14 M 7         | 20sp           |
+| Foot, Medium   | HD 1 AC 15 M 7         | 30sp           |
+| Foot, Heavy    | HD 1 AC 16 M 8         | 40sp           |
+| Foot, Missile  | HD 1 AC 12 M 7         | 60sp           |
+| Horse, Light   | HD 2 AC 14 M 7         | 100sp          |
+| Horse, Medium  | HD 2 AC 15 M 7         | 130sp          |
+| Horse, Heavy   | HD 2 AC 16 M 8         | 160sp          |
+| Horse, Missile | HD 2 AC 12 M 8         | 160sp          |
+| Armorer        | Need 1 per 50 soldiers | 100sp          |
+| Blacksmith     | Need 1 per 50 mounts   | 20sp           |
+| Engineer       | Builds strongholds     | 800sp          |
+| Sailor         | HD 1 AC 10 M 7         | 10sp           |
+| Captain        | Captains a vessel      | 200sp          |
 
 Table: Hirelings
 
@@ -266,7 +268,6 @@ To determine surprise, roll a d6 for each side that is unaware of their enemies.
 
 - Bursting through a door on the first try.
 - Entering a room by picking the a locked door.
-- A thief successfully hides in shadows or moves silently (only the thief has a chance to surprise).
 
 **Common situations where monsters may surprise players:**
 
@@ -318,7 +319,7 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 
 **Basic Attacks** Roll a d20 and add to-hit bonus. Results that are equal to or greater than the target's armor class (AC) deal the weapon's damage to the target. The target reduces their HP by that much. Attack rolls of 20 are critical hits -- roll twice as many damage dice.
 
-**Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks deal double damage.
+**Charge** In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant gains advantage on their next attack against the charged enemy, and successful attacks roll twice as many damage dice.
 
 **Withdraw** When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the combatant only makes a half move.
 
@@ -340,14 +341,19 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
 
-| d6  | Grevious Wound                                                                                                 |
-|:---:|:---------------------------------------------------------------------------------------------------------------|
-| 1   | **Gruesome Scars** -1 to reaction rolls.                                                                       |
-| 2   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.                    |
-| 3   | **Broken Arm** Disadvantage to all actions with that arm / hand. Heals in 1d4 weeks.                         |
-| 4   | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d4 weeks.                                  |
-| 5   | **Dismembered, Arm** Lose an arm.                                         |
-| 6   | **Dismembered, Leg** Lose a leg. Move speed and carrying capacity halved. |
+| 2d6 | Grevious Wound                                                                                         |
+|-----|--------------------------------------------------------------------------------------------------------|
+| 2   | **Beheaded** Die instantly.                                                                            |
+| 3   | **Dismembered Arm** Lose an arm.                                                                       |
+| 4   | **Broken Arm** Disadvantage / halved effect with all actions with that arm / hand. Heals in 1d4 weeks. |
+| 5   | **Eye Gouged Out** Disadvantage on ranged attacks. If this happens twice, they are blinded.            |
+| 6   | **Scarred** -1 to reaction rolls.                                                                      |
+| 7   | **Infection** Maximum HP reduced to 1d6. Heals in 1d4 weeks.                                           |
+| 8   | **Concussion** Cannot cast spells, always surprised. Heals in 1 week.                                  |
+| 9   | **Exsanguinated** Bleeding out. Die in 1d4 rounds unless you recieve aid.                              |
+| 10  | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d4 weeks.                            |
+| 11  | **Dismembered Leg** Lose a leg. Move speed and carrying capacity halved.                               |
+| 12  | **Disemboweled** Die in 1d4 rounds.                                                                    |
 
 Table: Grevious Wounds
 
@@ -364,7 +370,7 @@ When a side takes 50% casualties, make a morale check to see if they break. Roll
 
 Table: Morale Scores
 
-**Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
+**Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches or vampires are an exception).  
 
 ### Evasion
 
