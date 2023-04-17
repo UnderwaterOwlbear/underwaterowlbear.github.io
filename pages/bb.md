@@ -175,6 +175,8 @@ Table: Dwarf Levels
 
 **Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
+### Gear
+
 | Armor        | AC | Cost    | Encumbrance as... | Examples                                   |
 |--------------|----|---------|-------------------|--------------------------------------------|
 | Unarmored    | 10 | -       | -                 | -                                          |
