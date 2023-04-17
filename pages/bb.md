@@ -175,18 +175,6 @@ Table: Dwarf Levels
 
 **Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
-### Items
-
-**Supply** Common adventuring equipment and resources are abstracted into **supply**. Each unit of **supply** takes up one (1) slot, costs 1sp, and can be readily converted into...
-
-- Food, one (1) day for man or beast
-- Water, one (1) day (generally not required unless traveling through a desert)
-- Torches, three (3)
-- Ammunition for one (1) missile weapon
-- A common tool, such as a shovel, pickaxe, oar, rope, or the like.
-- Camping equipment suitable for a night in the wilderness.
-- Any other miscellaneous common item that the GM deems appropriate.
-
 | Armor        | AC | Cost    | Encumbrance as... | Examples                                   |
 |--------------|----|---------|-------------------|--------------------------------------------|
 | Unarmored    | 10 | -       | -                 | -                                          |
@@ -211,6 +199,30 @@ Table: Weapons
 
 **Bulky** weapons must be wielded in two hands, in addition to counting as two items for encumbrance purposes.  
 **Missile** weapons may be loosed in the missile phase of combat, and require ammunition. Roll a d6 after each combat in which a missile weapon was used. On a 1 or 2, you are out of ammo.  
+
+| Item               | Cost | Slots | Notes                                 |
+|--------------------|------|-------|---------------------------------------|
+| Backpack, leather  | 4c   | -     | Holds 10 slots                        |
+| Sack, large        | 2c   | -     | Holds 8 slots                         |
+| Sack, small        | 1c   | -     | Holds 3 slots                         |
+| Bedroll            | 2c   | 2     | Heal d3 HP per night                  |
+| Tent, one-person   | 5c   | 4     | Heal d6 HP per night                  |
+| Tent, three-person | 10sp | 8     | Heal d6 HP per night                  |
+| Candles, four      | 1c   | 1     | Enough light for 2 people             |
+| Torch              | 1c   | 1     | Enough light for 4 people             |
+| Tinderbox          | 2c   | -     | Light fire with 5+ on d6              |
+| Rations, one day   | 1c   | 1     |                                       |
+| Waterskin, one day | 1c   | 2     |                                       |
+| Cross              | 25c  | 1     | Undead must save to attack bearer     |
+| Grimoire           | 30c  | 1     | 100 pages, 1 page per spell level     |
+| Hammer             | 2c   | 1     |                                       |
+| Pickaxe            | 5c   | 1     | Move a 5ft cube of rock every 4 hours |
+| Pole, 10ft         | 1c   | 1     |                                       |
+| Rope, 100ft        | 2c   | 1     |                                       |
+| Shovel             | 3c   | 1     | Move a 5ft cube of dirt every 2 hours |
+| Spikes, iron, six  | 1c   | 1     | Wedge doors open or shut              |
+
+Table: Adventuring Gear
 
 | Transport   | Cost     |
 |:------------|---------:|
