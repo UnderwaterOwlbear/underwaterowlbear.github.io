@@ -406,20 +406,13 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 - Rest and bind wounds
 - Interact with a feature of the room, such as a trap
 
-### Dungeon Events
+### The Clock
 
-Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below.
+When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll a d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
-| d6 | Event |
-|:--:|:---------|
-| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
-| 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** Encumbered characters must spend a turn resting, without moving.   |
-| 4  | **Light** A torch burns out.      |
-| 5  | **Free**, no effect   |
-| 6  | **Free**, no effect   |
+### Treasure Depletion
 
-Table: Dungeon Event Rolls
+When the party leaves a dungeon, 20% of the remaining treasure is lost or moved to a lower level of the dungeon.
 
 ### Doors
 
