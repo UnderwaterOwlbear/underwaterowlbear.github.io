@@ -26,50 +26,22 @@ When doing something risky, a character must make a save by rolling a d20 under 
 - **Dexterity (DEX)** for tests of agility or precision
 - **Willpower (WIL)** for tests of concentration, battles of will, or interactions with magic
 
-If they have **advantage** on a save, roll 2d20 and take the better result. If they have **disadvantage**, roll 2d20 and take the worse result.
+**Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
-### Inventory & Carrying Capacity
+### Encumbrance & Movement
 
-#### Unencumbered
+**Unencumbered Load** A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
 
-When **unencumbered**, a character can carry his normal fighting gear and personal effects (~40 lbs), but nothing else.
-
-#### Encumbered
-
-When **encumbered**, a character can carry his normal fighting gear and personal effects (~40 lbs), and an additional load of up to four (4) **supplies** or **treasures** (~40 lbs).  
-
-In addition, when **encumbered**:
-
-- Movement speed is halved
-- **HP** become 0
-
-#### Fatigue
-
-Some conditions add a unit of **fatigue** to a character's inventory. This counts against the number of **supplies** and **treasure** they can carry. Fatigue is removed with a **short** or **long rest**.
-
-#### Supplies
-
-One (1) unit of supplies can be...
-
-- 1 week worth of food (7 person-days)
-- 1 day worth of food & water
-- 1 delve worth of supplies (torches, spikes, caltrops, etc)
-
-#### Treasure
-
-One (1) unit of treasure can be...
-
-- 1 treasure such as a statue, chest, or relic
-- 1000 coins
+**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
 
 ## Equipment
 
-| Armor        | DR | Cost    | Examples / Notes                  |
-|--------------|----|---------|-----------------------------------|
-| Unarmored    | 0  | -       |                                   |
-| Shield       | +1 | 10sp    |                                   |
-| Light Armor  | 1  | 100sp   | Quilted gambeson, mail shirt      |
-| Heavy Armor  | 2  | 1,000sp | Bronze breastplate, full plate    |
+| Armor       | DR | Encumbrance | Cost    | Examples / Notes               |
+|-------------|----|-------------|---------|--------------------------------|
+| Unarmored   | 0  | -           | -       |                                |
+| Shield      | +1 | 1           | 10sp    |                                |
+| Light Armor | 1  | 2           | 100sp   | Quilted gambeson, mail shirt   |
+| Heavy Armor | 2  | 5           | 1,000sp | Bronze breastplate, full plate |
 
 Table: Armor and Shields
 
@@ -77,10 +49,9 @@ Table: Armor and Shields
 
 | Weapon  | Damage | Special          | Cost | Examples                    |
 |---------|--------|------------------|------|-----------------------------|
-| Unarmed | d4      |                  | -    |                             |
+| Unarmed | d4     |                  | -    |                             |
 | Hand    | d6     |                  | 15sp | Sword, spear, mace          |
 | Polearm | d8     | bulky            | 15sp | Poleaxe, halberd, lance     |
-| Sling   | d4     | missile          | 10sp | Sling                       |
 | Bow     | d6     | missile, bulky   | 25sp | Hunting bow, light crossbow |
 
 Table: Weapons
@@ -89,22 +60,40 @@ Table: Weapons
 **Bulky** weapons must be wielded in two hands.  
 **Missile** weapons may be loosed in the missile phase of combat, and require ammunition. Roll a d6 after each combat in which a missile weapon was used. On a 1 or 2, you are out of ammo.  
 
-| Transport   | Cost     |
-|:------------|---------:|
-| Cart, hand  | 5sp      |
-| Cart, draft | 10sp     |
-| Wagon       | 30sp     |
-| Mule        | 30sp     |
-| Horse       | 50sp     |
-| Warhorse    | 100sp    |
+| Item               | Cost | Slots | Notes                                 |
+|--------------------|------|-------|---------------------------------------|
+| Backpack, leather  | 4c   | -     | Holds 10 slots                        |
+| Sack, large        | 2c   | -     | Holds 8 slots                         |
+| Sack, small        | 1c   | -     | Holds 3 slots                         |
+| Bedroll            | 2c   | 2     | Heal d3 HP per night                  |
+| Tent, one-person   | 5c   | 4     | Heal d6 HP per night                  |
+| Tent, three-person | 10sp | 8     | Heal d6 HP per night                  |
+| Candles, four      | 1c   | 1     | Enough light for 2 people             |
+| Torch              | 1c   | 1     | Enough light for 4 people             |
+| Tinderbox          | 2c   | -     | Light fire with 5+ on d6              |
+| Rations, one day   | 1c   | 1     |                                       |
+| Waterskin, one day | 1c   | 2     |                                       |
+| Cross              | 25c  | 1     | Undead must save to attack bearer     |
+| Grimoire           | 30c  | 1     | 100 pages, 1 page per spell level     |
+| Hammer             | 2c   | 1     |                                       |
+| Pickaxe            | 5c   | 1     | Move a 5ft cube of rock every 4 hours |
+| Pole, 10ft         | 1c   | 1     |                                       |
+| Rope, 100ft        | 2c   | 1     |                                       |
+| Shovel             | 3c   | 1     | Move a 5ft cube of dirt every 2 hours |
+| Spikes, iron, six  | 1c   | 1     | Wedge doors open or shut              |
 
-Table: Transportaion
+Table: Adventuring Gear
 
-**Carts** double (2x) the carrying capacity of the user.  
-**Wagons** quadruple (4x) the carrying capacity of the user.  
-**Mules** require 1 unit of supply per day. **WIL** 10  
-**Horses** require 4 units of supply per day. **WIL** 8  
-**Warhorses** require 4 units of supply per day. **WIL** 12
+| Transport   | Cost  | Notes                                      |
+|-------------|-------|--------------------------------------------|
+| Cart, hand  | 5sp   | 2x carrying capacity                       |
+| Cart, draft | 10sp  | 2x carrying capacity                       |
+| Wagon       | 30sp  | 4x carrying capacity                       |
+| Mule        | 30sp  | eats 1 unit of supply per day. **WIL** 10  |
+| Horse       | 50sp  | eats 4 units of supply per day. **WIL** 8  |
+| Warhorse    | 100sp | eats 4 units of supply per day. **WIL** 12 |
+
+Table: Transportation
 
 ### Hirelings
 
@@ -229,7 +218,7 @@ If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, t
 
 ### Spellbooks
 
-Spellbooks contain a single spell. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds one (1) **fatigu**. Given time and safety, PCs can enhance a spell without any additional cost. If they are in danger, a **WIL** save may be required to avoid terrible consequences.
+Spellbooks contain a single spell. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds one (1) **fatigue**. Given time and safety, PCs can enhance a spell without any additional cost. If they are in danger, a **WIL** save may be required to avoid terrible consequences.
 
 **Scrolls** are similar to Spellbooks, however:
 
@@ -375,20 +364,13 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
   - Take a **short rest**
   - Interact with a feature of the room, such as a **trap**
 
-### Dungeon Events
+### The Clock
 
-Every turn of exploration, or every time the party rests or makes excessive noise, roll a d6 on the event table below.
+When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll a d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
-| d6 | Event |
-|:--:|:---------|
-| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
-| 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** Encumbered characters must spend a turn resting, without moving.   |
-| 4  | **Locality** The local state in the dungeon changes.   |
-| 6  | **Free**, no effect   |
-| 6  | **Free**, no effect   |
+### Treasure Depletion
 
-Table: Dungeon Event Rolls
+When the party leaves a dungeon, 20% of the remaining treasure is lost or moved to a lower level of the dungeon.
 
 ### Doors
 
