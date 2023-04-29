@@ -28,31 +28,36 @@ When doing something risky, a character must make a save by rolling a d20 under 
 
 **Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
 
-### Encumbrance & Movement
+### Encumbrance
 
-**Unencumbered Load** A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
+A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
 
-**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
+**Fatigue** Some effects will give a character a point of fatigue. When this happens, the fatigue takes up an inventory slot just like any other item. Fatigue can be removed with a long rest.
+
+When a character's item slots are completely filled, the following happens:
+
+- HP becomes 0
+- Disadvantage on all saves
 
 ## Equipment
 
 | Armor       | DR | Encumbrance | Cost    | Examples / Notes               |
 |-------------|----|-------------|---------|--------------------------------|
-| Unarmored   | 0  | -           | -       |                                |
-| Shield      | +1 | 1           | 10sp    |                                |
-| Light Armor | 1  | 2           | 100sp   | Quilted gambeson, mail shirt   |
-| Heavy Armor | 2  | 5           | 1,000sp | Bronze breastplate, full plate |
+| Unarmored   | 0  |             | -       |                                |
+| Shield      | +1 |             | 10sp    |                                |
+| Light Armor | 1  |             | 100sp   | Quilted gambeson, mail shirt   |
+| Heavy Armor | 2  | bulky       | 1,000sp | Bronze breastplate, full plate |
 
 Table: Armor and Shields
 
-**Note:** DR from armor and shields cannot exceed 3.
+**Note:** DR from armor and shields cannot exceed 2.
 
 | Weapon  | Damage | Special          | Cost | Examples                    |
 |---------|--------|------------------|------|-----------------------------|
 | Unarmed | d4     |                  | -    |                             |
 | Hand    | d6     |                  | 15sp | Sword, spear, mace          |
 | Polearm | d8     | bulky            | 15sp | Poleaxe, halberd, lance     |
-| Bow     | d6     | missile, bulky   | 25sp | Hunting bow, light crossbow |
+| Bow     | d8     | missile, bulky   | 25sp | Hunting bow, light crossbow |
 
 Table: Weapons
 
@@ -60,27 +65,26 @@ Table: Weapons
 **Bulky** weapons must be wielded in two hands.  
 **Missile** weapons may be loosed in the missile phase of combat, and require ammunition. Roll a d6 after each combat in which a missile weapon was used. On a 1 or 2, you are out of ammo.  
 
-| Item               | Cost | Slots | Notes                                 |
-|--------------------|------|-------|---------------------------------------|
-| Backpack, leather  | 4c   | -     | Holds 10 slots                        |
-| Sack, large        | 2c   | -     | Holds 8 slots                         |
-| Sack, small        | 1c   | -     | Holds 3 slots                         |
-| Bedroll            | 2c   | 2     | Heal d3 HP per night                  |
-| Tent, one-person   | 5c   | 4     | Heal d6 HP per night                  |
-| Tent, three-person | 10sp | 8     | Heal d6 HP per night                  |
-| Candles, four      | 1c   | 1     | Enough light for 2 people             |
-| Torch              | 1c   | 1     | Enough light for 4 people             |
-| Tinderbox          | 2c   | -     | Light fire with 5+ on d6              |
-| Rations, one day   | 1c   | 1     |                                       |
-| Waterskin, one day | 1c   | 2     |                                       |
-| Cross              | 25c  | 1     | Undead must save to attack bearer     |
-| Grimoire           | 30c  | 1     | 100 pages, 1 page per spell level     |
-| Hammer             | 2c   | 1     |                                       |
-| Pickaxe            | 5c   | 1     | Move a 5ft cube of rock every 4 hours |
-| Pole, 10ft         | 1c   | 1     |                                       |
-| Rope, 100ft        | 2c   | 1     |                                       |
-| Shovel             | 3c   | 1     | Move a 5ft cube of dirt every 2 hours |
-| Spikes, iron, six  | 1c   | 1     | Wedge doors open or shut              |
+| Item               | Cost | Notes                                           |
+|--------------------|------|-------------------------------------------------|
+| Backpack, leather  | 4sp  | Holds 10 slots                                  |
+| Sack, large        | 2sp  | Holds 8 slots                                   |
+| Sack, small        | 1sp  | Holds 3 slots                                   |
+| Bedroll            | 2sp  | Heal d4 ability score points per night          |
+| Tent, one-person   | 10sp | Heal d6 ability score points per night, *bulky* |
+| Candles, four      | 1sp  | Enough light for 2 people                       |
+| Torch              | 1sp  | Enough light for 4 people                       |
+| Tinderbox          | 2sp  | Light fire with 5+ on d6                        |
+| Rations, one day   | 1sp  |                                                 |
+| Waterskin, one day | 1sp  |                                                 |
+| Cross              | 25sp | Undead must save to attack bearer               |
+| Grimoire           | 30sp | 100 pages, 1 page per spell level               |
+| Hammer             | 2sp  |                                                 |
+| Pickaxe            | 5sp  | Move a 5ft cube of rock every 4 hours           |
+| Pole, 10ft         | 1sp  |                                                 |
+| Rope, 100ft        | 2sp  |                                                 |
+| Shovel             | 3sp  | Move a 5ft cube of dirt every 2 hours           |
+| Spikes, iron, six  | 1sp  | Wedge doors open or shut                        |
 
 Table: Adventuring Gear
 
@@ -89,15 +93,15 @@ Table: Adventuring Gear
 | Cart, hand  | 5sp   | 2x carrying capacity                       |
 | Cart, draft | 10sp  | 2x carrying capacity                       |
 | Wagon       | 30sp  | 4x carrying capacity                       |
-| Mule        | 30sp  | eats 1 unit of supply per day. **WIL** 10  |
-| Horse       | 50sp  | eats 4 units of supply per day. **WIL** 8  |
-| Warhorse    | 100sp | eats 4 units of supply per day. **WIL** 12 |
+| Mule        | 30sp  | Eats 1 unit of supply per day. **WIL** 10  |
+| Horse       | 50sp  | Eats 4 units of supply per day. **WIL** 8  |
+| Warhorse    | 100sp | Eats 4 units of supply per day. **WIL** 12 |
 
 Table: Transportation
 
 ### Hirelings
 
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 **HP** and a hand weapon (d6). Hirelings cost 10 coins per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 2d6 for each ability score, then give them 1d6 **HP** and a hand weapon (d6). Hirelings cost 10sp per day, or a share of whatever treasure the party obtains.
 
 ## Combat
 
@@ -129,7 +133,7 @@ Characters must make a successul **DEX** save to gain the initiative and act bef
 
 #### Casting Interruptions
 
-A spellcaster who is hit by an attack while casting a spell must make a saving throw. If he fails, the spell is lost (as if it were cast) and no effect takes place.
+A spellcaster who is hit by an attack while casting a spell must make a **WIL** saving throw. If he fails, no effect takes place.
 
 #### Moving and Missiles
 
@@ -143,9 +147,11 @@ Roll your weapon's damage die, and subtract any DR that your target possesses. Y
 
 #### Critical Damage
 
-Damage that reduces a target’s **HP** below zero decreases a target’s **STR** by the amount remaining. They must then make a **STR** save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target’s **HP** below zero decreases a target’s **STR** by the amount remaining. They must then make a **STR** save to avoid **critical damage**.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+
+Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 #### Enhanced & Impaired Attacks
 
@@ -157,7 +163,7 @@ In the first round of combat, a combatant may charge an enemy by moving from out
 
 #### Blast
 
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. If unsure how many targets can be affected, roll the related damage die for a result.
 
 #### Combat Maneuvers
 
@@ -173,7 +179,7 @@ When a combatant within melee range of an enemy moves out of melee range, the en
 
 Enemies must pass a **WIL** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **WIL** in place of their own. Lone foes must save when they're reduced to 0 **HP**. Morale does not affect PCs.
 
-**Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches are an exception).  
+**Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches or vampires are an exception).  
 
 #### Fleeing
 
@@ -193,14 +199,20 @@ Passing through a secret door will always evade a pursuer.
 
 When a combatant is brought to exactly 0 **HP**, they are grievously wounded -- roll on the table below to determine their injuries. These wounds are permanent barring magical healing.
 
-| d6  | Grevious Wound                                                                                                 |
-|:---:|:---------------------------------------------------------------------------------------------------------------|
-| 1   | **Gruesome Scars**: -1 to reaction rolls.                                                                       |
-| 2   | **Eye Gouged Out**: Ranged attacks are **impaired**. If this happens twice, they are blinded.                    |
-| 3   | **Broken Arm**: Disadvantage to all actions with that arm / hand.            |
-| 4   | **Broken Leg**: Move speed and carrying capacity halved.                 |
-| 5   | **Dismembered, Arm**: Lose an arm.                                         |
-| 6   | **Dismembered, Leg**: Lose a leg. Move speed and carrying capacity halved. |
+
+| 2d6 | Grevious Wound                                                                                         |
+|-----|--------------------------------------------------------------------------------------------------------|
+| 2   | **Beheaded** Die instantly.                                                                            |
+| 3   | **Dismembered Arm** Lose an arm.                                                                       |
+| 4   | **Broken Arm** Melee attacks are **impaired**. Heals in 1d4 weeks. |
+| 5   | **Eye Gouged Out** Ranged attacks are **impaired**. If this happens twice, they are blinded.            |
+| 6   | **Scarred** -1 to reaction rolls.                                                                      |
+| 7   | **Infection** HP reduced to 0. Heals in 1d4 weeks.                                           |
+| 8   | **Concussion** Disadvantage on **WIL** and **DEX** saves. Heals in 1 week.                                  |
+| 9   | **Exsanguinated** Bleeding out. Die in 1d4 rounds unless you recieve aid.                              |
+| 10  | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d4 weeks.                            |
+| 11  | **Dismembered Leg** Lose a leg. Move speed and carrying capacity halved.                               |
+| 12  | **Disemboweled** Die in 1d4 rounds.                                                                    |
 
 Table: Grevious Wounds
 
@@ -210,9 +222,9 @@ If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, t
 
 ### Rest & Healing
 
-- **Short rest**: takes a few minutes in a safe, well-lit area, heal all **HP**.
-- **Long rest**: takes a night in camp, heal all **HP**, remove all **fatigue**, and heal d6 of one **ability score**.
-- **Full rest**: takes a week in town, heal all **HP**, remove all **fatigue**, and heal all **ability scores**.
+- **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all **HP**.
+- **Long rest**: Takes a night in camp and a **ration**. Heal all **HP**, remove all **fatigue**, and heal d6 of one **ability score**.
+- **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP**, remove all **fatigue**, and heal all **ability scores**.
 
 ## Magic
 
@@ -416,10 +428,10 @@ Treasure traps such as locks with poison needles, or a weighted plate underneath
 
 During a watch, travelers can take one of the following actions as a group:
 
-- **Travel** 2d6 miles towards another area (halve if **encumbered**)
+- **Travel** 2d6 miles towards another area
 - **Explore** the current area to reveal landmarks
 - **Forced March**: move 1d6 miles during a nighttime watch, and add one **fatigue**
-- **Make Camp**: each traveler who consumes a day's rations takes a **long rest** - each who does not can't regain **HP** by any means until they are able to take a long rest.
+- **Make Camp**: each traveler who consumes a day's rations takes a **long rest**
 
 ### Wilderness Events
 
