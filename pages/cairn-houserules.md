@@ -12,19 +12,19 @@ exclude: true
 
 Start with...
 
-- d6 hit protection (**HP**)
-- 3d6 Strength  (**STR**)
-- 3d6 Dexterity (**DEX**)
-- 3d6 Willpower (**WIL**)
-- 3d6x10 coins
+* d6 hit protection (**HP**)
+* 3d6 Strength  (**STR**)
+* 3d6 Dexterity (**DEX**)
+* 3d6 Willpower (**WIL**)
+* 3d6x10 coins
 
 ### Saves  
 
 When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
 
-- **Strength (STR)** for tests of strength or endurance
-- **Dexterity (DEX)** for tests of agility or precision
-- **Willpower (WIL)** for tests of concentration, battles of will, or interactions with magic
+* **Strength (STR)** for tests of strength or endurance
+* **Dexterity (DEX)** for tests of agility or precision
+* **Willpower (WIL)** for tests of concentration, battles of will, or interactions with magic
 
 ### Encumbrance
 
@@ -194,7 +194,6 @@ Passing through a secret door will always evade a pursuer.
 
 When a combatant is brought to exactly 0 **HP**, they are grievously wounded -- roll on the table below to determine their injuries. These wounds are permanent barring magical healing.
 
-
 | 2d6 | Grevious Wound                                                                                         |
 |-----|--------------------------------------------------------------------------------------------------------|
 | 2   | **Beheaded** Die instantly.                                                                            |
@@ -217,9 +216,9 @@ If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, t
 
 ### Rest & Healing
 
-- **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all **HP**.
-- **Long rest**: Takes a night in camp and a **ration**. Heal all **HP**, remove all **fatigue**, and heal d6 of one **ability score**.
-- **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP**, remove all **fatigue**, and heal all **ability scores**.
+* **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all **HP**.
+* **Long rest**: Takes a night in camp and a **ration**. Heal all **HP**, remove all **fatigue**, and heal d6 of one **ability score**.
+* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP**, remove all **fatigue**, and heal all **ability scores**.
 
 ## Magic
 
@@ -229,8 +228,8 @@ Spellbooks contain a single spell. Anyone can cast a spell by holding a Spellboo
 
 **Scrolls** are similar to Spellbooks, however:
 
-- They do not cause **fatigue**.
-- They disappear after one use.
+* They do not cause **fatigue**.
+* They disappear after one use.
 
 ### Casting
 
@@ -356,7 +355,7 @@ Buffeting winds prevent missile attacks from harming those within. Protects one 
 
 #### Wizard Lock
 
-Locks one door, chest, window, or similar portal. Requires a _knock_ spell or similar magic to open.
+Locks one door, chest, window, or similar portal. Requires a *knock* spell or similar magic to open.
 
 ## Dungeon Delving
 
@@ -364,12 +363,12 @@ Locks one door, chest, window, or similar portal. Requires a _knock_ spell or si
 
 One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
 
-- Move to the next room
-- Do something in the current room, such as:
-  - Open a stuck or locked **door**
-  - Search the current room thoroughly, revealing **traps** and **secret doors**
-  - Take a **short rest**
-  - Interact with a feature of the room, such as a **trap**
+* Move to the next room
+* Do something in the current room, such as:
+  * Open a stuck or locked **door**
+  * Search the current room thoroughly, revealing **traps** and **secret doors**
+  * Take a **short rest**
+  * Interact with a feature of the room, such as a **trap**
 
 ### The Clock
 
@@ -423,10 +422,10 @@ Treasure traps such as locks with poison needles, or a weighted plate underneath
 
 During a watch, travelers can take one of the following actions as a group:
 
-- **Travel** 2d6 miles towards another area
-- **Explore** the current area to reveal landmarks
-- **Forced March**: move 1d6 miles during a nighttime watch, and add one **fatigue**
-- **Make Camp**: each traveler who consumes a day's rations takes a **long rest**
+* **Travel** 2d6 miles towards another area
+* **Explore** the current area to reveal landmarks
+* **Forced March**: move 1d6 miles during a nighttime watch, and add one **fatigue**
+* **Make Camp**: each traveler who consumes a day's rations takes a **long rest**
 
 ### Wilderness Events
 
