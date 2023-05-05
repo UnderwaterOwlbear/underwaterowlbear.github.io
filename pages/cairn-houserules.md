@@ -26,18 +26,13 @@ When doing something risky, a character must make a save by rolling a d20 under 
 - **Dexterity (DEX)** for tests of agility or precision
 - **Willpower (WIL)** for tests of concentration, battles of will, or interactions with magic
 
-**Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
-
 ### Encumbrance
 
 A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
 
 **Fatigue** Some effects will give a character a point of fatigue. When this happens, the fatigue takes up an inventory slot just like any other item. Fatigue can be removed with a long rest.
 
-When a character's item slots are completely filled, the following happens:
-
-- HP becomes 0
-- Disadvantage on all saves
+When a character's item slots are completely filled, their HP becomes 0.
 
 ## Equipment
 
@@ -208,7 +203,7 @@ When a combatant is brought to exactly 0 **HP**, they are grievously wounded -- 
 | 5   | **Eye Gouged Out** Ranged attacks are **impaired**. If this happens twice, they are blinded.            |
 | 6   | **Scarred** -1 to reaction rolls.                                                                      |
 | 7   | **Infection** HP reduced to 0. Heals in 1d4 weeks.                                           |
-| 8   | **Concussion** Disadvantage on **WIL** and **DEX** saves. Heals in 1 week.                                  |
+| 8   | **Concussion** Require a **WILL** save to successfully cast spells. Heals in 1 week.                                  |
 | 9   | **Exsanguinated** Bleeding out. Die in 1d4 rounds unless you recieve aid.                              |
 | 10  | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d4 weeks.                            |
 | 11  | **Dismembered Leg** Lose a leg. Move speed and carrying capacity halved.                               |
