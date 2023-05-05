@@ -41,16 +41,16 @@ When a character's item slots are completely filled, the following happens:
 
 ## Equipment
 
-| Armor       | DR | Encumbrance | Cost    | Examples / Notes               |
-|-------------|----|-------------|---------|--------------------------------|
-| Unarmored   | 0  |             | -       |                                |
-| Shield      | +1 |             | 10sp    |                                |
-| Light Armor | 1  |             | 100sp   | Quilted gambeson, mail shirt   |
-| Heavy Armor | 2  | bulky       | 1,000sp | Bronze breastplate, full plate |
+| Armor       | Armor | Encumbrance | Cost    | Examples / Notes               |
+|-------------|-------|-------------|---------|--------------------------------|
+| Unarmored   |   0   |             | -       |                                |
+| Shield      |  +1   |             | 10sp    |                                |
+| Light Armor |   1   |             | 100sp   | Quilted gambeson, mail shirt   |
+| Heavy Armor |   2   | bulky       | 1,000sp | Bronze breastplate, full plate |
 
 Table: Armor and Shields
 
-**Note:** DR from armor and shields cannot exceed 2.
+**Note:** Armor from armor and shields cannot exceed 2.
 
 | Weapon  | Damage | Special          | Cost | Examples                    |
 |---------|--------|------------------|------|-----------------------------|
@@ -143,7 +143,7 @@ A combatant who looses a missile in the missile phase cannot move during the mov
 
 #### Basic Attacks
 
-Roll your weapon's damage die, and subtract any DR that your target possesses. You deal that much damage to your target's **HP**.
+Roll your weapon's damage die, and subtract any Armor that your target possesses. You deal that much damage to your target's **HP**.
 
 #### Critical Damage
 
