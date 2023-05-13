@@ -114,25 +114,13 @@ When encountering a wandering monster or other entity, and their disposition is 
 
 Table: Reaction Roll Results
 
-### Initiative & Phases
+### Initiative & Actions
 
-Characters must make a successul **DEX** save to gain the initiative and act before their enemies. Combatants take their actions in the following phases, with the side having the initiative acting first in each phase.
+Characters must make a successul **DEX** save to gain the initiative and act before their enemies. On each of their turns, a character may move a short distance and take one other action, such as:
 
-#### Phases
-
-1. Magic, cast
-2. Missile
-3. Move
-4. Melee
-5. Magic, effect
-
-#### Casting Interruptions
-
-A spellcaster who is hit by an attack while casting a spell must make a **WIL** saving throw. If he fails, no effect takes place.
-
-#### Moving and Missiles
-
-A combatant who looses a missile in the missile phase cannot move during the move phase.
+* Move further
+* Attack
+* Interact with an object
 
 ### Attacks & Damage
 
@@ -242,6 +230,10 @@ Unless otherwise specified, spell effects last for 10 minutes per spell level.
 #### Counterspells
 
 A prepared spell may be expended to protect one (1) person per spell level from the effects of one (1) spell.  
+
+#### Casting Interruptions
+
+A spellcaster who is in melee range of an enemy while casting a spell must make a **WIL** saving throw. If he fails, no effect takes place.
 
 ### Spell Descriptions
 
