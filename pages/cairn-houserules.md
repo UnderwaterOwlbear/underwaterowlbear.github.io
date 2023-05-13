@@ -366,9 +366,13 @@ One turn of dungeon exploration takes about ten (10) minutes, and generally allo
 
 When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll a d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
-### Treasure Depletion
+### Fleeing the Dungeon
 
-When the party leaves a dungeon, 20% of the remaining treasure is lost or moved to a lower level of the dungeon.
+When the party flees a dungeon in disarray (as opposed to an orderly withdrawal), each character must make a save against each of their abilities:
+
+* **STR** save: if failed, roll on the **Grievous Wounds** table
+* **DEX** save: if failed, lose 1d6 items at random
+* **WIL** save: if failed, permanently lose 1d4 **WIL**
 
 ### Doors
 
