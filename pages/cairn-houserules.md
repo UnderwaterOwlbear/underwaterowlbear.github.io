@@ -1,7 +1,7 @@
 ---
-title: Cairn House Rules v0.22
+title: Cairn House Rules v0.23
 author: Tyler Farrington
-date: 2023-05-13
+date: 2023-05-14
 exclude: true
 ---
 
@@ -26,71 +26,66 @@ When doing something risky, a character must make a save by rolling a d20 under 
 * **Dexterity (DEX)** for tests of agility or precision
 * **Willpower (WIL)** for tests of concentration, battles of will, or interactions with magic
 
-### Encumbrance
-
-A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
-
-**Fatigue** Some effects will give a character a point of fatigue. When this happens, the fatigue takes up an inventory slot just like any other item. Fatigue can be removed with a long rest.
-
-When a character's item slots are completely filled, their HP becomes 0.
-
 ## Equipment
 
-| Armor       | Armor | Encumbrance | Cost    | Examples / Notes               |
-|-------------|-------|-------------|---------|--------------------------------|
-| Unarmored   |   0   |             | -       |                                |
-| Shield      |  +1   |             | 10sp    |                                |
-| Light Armor |   1   |             | 100sp   | Quilted gambeson, mail shirt   |
-| Heavy Armor |   2   | bulky       | 1,000sp | Bronze breastplate, full plate |
+### Encumbrance
+
+A human can carry up to 80 lb. 
+
+### Gear
+
+| Type      | Armor | Cost (sp) | Weight (lb) |
+|-----------|-------|-----------|-------------|
+| Unarmored | 0     | -         |             |
+| Shield    | +1    | 15        | 15          |
+| Padded    | 1     | 10        | 5           |
+| Chainmail | 2     | 100       | 20          |
+| Plate     | 3     | 1000      | 40          |
 
 Table: Armor and Shields
 
-**Note:** Armor from armor and shields cannot exceed 2.
+**Note:** Armor from armor and shields cannot exceed 3.
 
-| Weapon  | Damage | Special          | Cost | Examples                    |
-|---------|--------|------------------|------|-----------------------------|
-| Unarmed | d4     |                  | -    |                             |
-| Hand    | d6     |                  | 15sp | Sword, spear, mace          |
-| Polearm | d8     | bulky            | 15sp | Poleaxe, halberd, lance     |
-| Bow     | d8     | missile, bulky   | 25sp | Hunting bow, light crossbow |
+| Weapon   | Damage | Cost (sp) | Weight (lb) | Notes                                      |
+|----------|--------|-----------|-------------|--------------------------------------------|
+| Unarmed  | 1      | -         | -           |                                            |
+| Dagger   | d4     | 10        | 1           | May be thrown                              |
+| Axe      | d6     | 20        | 2           | May be thrown                              |
+| Spear    | d6     | 20        | 2           | May be thrown                              |
+| Mace     | d6     | 20        | 5           | Ignore 1 point of Armor                    |
+| Sword    | d6     | 100       | 2           | **Enhanced** damage vs unarmored opponents |
+| Poleaxe  | d8     | 50        | 5           |                                            |
+| Bow      | d6     | 25        | 5           | **DEX** save after combat or out of arrows |
+| Crossbow | d8     | 50        | 5           | **DEX** save after combat or out of arrows |
 
 Table: Weapons
 
-**Hand** weapons are wielded in one hand, and may be thrown.  
-**Bulky** weapons must be wielded in two hands.  
-**Missile** weapons may be loosed in the missile phase of combat, and require ammunition. Roll a d6 after each combat in which a missile weapon was used. On a 1 or 2, you are out of ammo.  
-
-| Item               | Cost | Notes                                           |
-|--------------------|------|-------------------------------------------------|
-| Backpack, leather  | 4sp  | Holds 10 slots                                  |
-| Sack, large        | 2sp  | Holds 8 slots                                   |
-| Sack, small        | 1sp  | Holds 3 slots                                   |
-| Bedroll            | 2sp  | Heal d4 ability score points per night          |
-| Tent, one-person   | 10sp | Heal d6 ability score points per night, *bulky* |
-| Candles, four      | 1sp  | Enough light for 2 people                       |
-| Torch              | 1sp  | Enough light for 4 people                       |
-| Tinderbox          | 2sp  | Light fire with 5+ on d6                        |
-| Rations, one day   | 1sp  |                                                 |
-| Waterskin, one day | 1sp  |                                                 |
-| Oats, one day      | ½ sp | For horses
-| Cross              | 25sp | Undead must save to attack bearer               |
-| Hammer             | 2sp  |                                                 |
-| Pickaxe            | 5sp  | Move a 5ft cube of rock every 4 hours           |
-| Pole, 10ft         | 1sp  |                                                 |
-| Rope, 100ft        | 2sp  |                                                 |
-| Shovel             | 3sp  | Move a 5ft cube of dirt every 2 hours           |
-| Spikes, iron, six  | 1sp  | Wedge doors open or shut                        |
+| Item               | Cost (sp) | Weight (lb) | Notes                                 |
+|--------------------|-----------|-------------|---------------------------------------|
+| Arrows, 20         | 10        | 5           |                                       |
+| Candles, 8         | 8         | 1           | Lasts 1 hour per candle               |
+| Torch              | 1         | 1           | Lasts 1 hours per torch               |
+| Tinderbox          | 6         | -           | Light fire with 5+ on d6              |
+| Rations, one day   | 1         | 2           |                                       |
+| Waterskin, one day | 1         | 8           |                                       |
+| Oats, 1 lb         | 1         | 1           | For horses                            |
+| Cross              | 25        | 1           | Undead must save to attack bearer     |
+| Hammer             | 6         | 3           |                                       |
+| Pickaxe            | 6         | 3           | Move a 5ft cube of rock every 4 hours |
+| Rope, hemp, 50ft   | 10        | 10          | Can lift 500 lb without breaking      |
+| Shovel             | 3         | 3           | Move a 5ft cube of dirt every 2 hours |
+| Spikes, iron, six  | 1         | 5           | Wedge doors open or shut              |
 
 Table: Adventuring Gear
 
 | Transport   | Cost  | Notes                                      |
 |-------------|-------|--------------------------------------------|
-| Cart, hand  | 5sp   | 2x carrying capacity                       |
-| Cart, draft | 10sp  | 2x carrying capacity                       |
-| Wagon       | 30sp  | 4x carrying capacity                       |
-| Mule        | 30sp  | Eats 1 ration per day. **WIL** 10  |
-| Horse       | 50sp  | Eats 4 units of supply per day. **WIL** 8  |
-| Warhorse    | 100sp | Eats 4 units of supply per day. **WIL** 12 |
+| Cart, hand  | 5sp   | 2.5x carrying capacity                     |
+| Cart, draft | 10sp  | 2.5x carrying capacity                     |
+| Wagon       | 30sp  | 5x carrying capacity                       |
+| Mule        | 30sp  | **WIL** 10                                 |
+| Horse       | 50sp  | **WIL** 8                                  |
+| Warhorse    | 100sp | **WIL** 12                                 |
 
 Table: Transportation
 
@@ -166,7 +161,7 @@ Enemies must pass a **WIL** save to avoid fleeing when they take their first cas
 
 #### Fleeing
 
-Running away from a dire situation always requires a successful **DEX** save, as well as a safe destination to run to.
+Running away from a dire situation always requires a successful **DEX** save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing.
 
 #### Distractions
 
@@ -178,26 +173,6 @@ Passing through a secret door will always evade a pursuer.
 
 ## Death & Healing
 
-### Grievous Wounds
-
-When a combatant is brought to exactly 0 **HP**, they are grievously wounded -- roll on the table below to determine their injuries. These wounds are permanent barring magical healing.
-
-| 2d6 | Grevious Wound                                                                                         |
-|-----|--------------------------------------------------------------------------------------------------------|
-| 2   | **Beheaded** Die instantly.                                                                            |
-| 3   | **Dismembered Arm** Lose an arm.                                                                       |
-| 4   | **Broken Arm** Melee attacks are **impaired**. Heals in 1d4 weeks. |
-| 5   | **Eye Gouged Out** Ranged attacks are **impaired**. If this happens twice, they are blinded.            |
-| 6   | **Scarred** -1 to reaction rolls.                                                                      |
-| 7   | **Infection** HP reduced to 0. Heals in 1d4 weeks.                                           |
-| 8   | **Concussion** Require a **WILL** save to successfully cast spells. Heals in 1 week.                                  |
-| 9   | **Exsanguinated** Bleeding out. Die in 1d4 rounds unless you recieve aid.                              |
-| 10  | **Broken Leg** Move speed and carrying capacity halved. Heals in 1d4 weeks.                            |
-| 11  | **Dismembered Leg** Lose a leg. Move speed and carrying capacity halved.                               |
-| 12  | **Disemboweled** Die in 1d4 rounds.                                                                    |
-
-Table: Grevious Wounds
-
 ### Ability Score Loss
 
 If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, they are paralyzed. If their **WIL** is reduced to 0, they are delirious.
@@ -205,8 +180,8 @@ If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, t
 ### Rest & Healing
 
 * **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all **HP**.
-* **Long rest**: Takes a night in camp and a **ration**. Heal all **HP**, remove all **fatigue**, and heal d6 of one **ability score**.
-* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP**, remove all **fatigue**, and heal all **ability scores**.
+* **Long rest**: Takes a night in camp and a **ration**. Heal all **HP** and heal d6 of one **ability score**.
+* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP** and all **ability scores**.
 
 ## Dungeon Delving
 
@@ -227,11 +202,7 @@ When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG
 
 ### Fleeing the Dungeon
 
-When the party flees a dungeon in disarray (as opposed to an orderly withdrawal), each character must make a save against each of their abilities:
-
-* **STR** save: if failed, roll on the **Grievous Wounds** table
-* **DEX** save: if failed, lose 1d6 items at random
-* **WIL** save: if failed, permanently lose 1d4 **WIL**
+When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they permanently lose 1d4 **WIL**.
 
 ### Doors
 
@@ -271,28 +242,17 @@ Treasure traps such as locks with poison needles, or a weighted plate underneath
 
 ## Wilderness Travel
 
-### Timekeeping
 
-**Watches** are a period of 8 hours. There are three (3) watches in a day. In spring and summer, two (2) of these watches are daylight, and one (1) is nighttime. This is reversed in fall and winter.  
+| Beast of Burden | Weight (lb) | Carry (lb) | Pull, Cart (lb) | Pull, Wagon (lb) | Feed / day, w/ forage (lb) | Feed / day, no forage (lb) | Speed when burdened (mi/day) |
+|-----------------|-------------|------------|-----------------|------------------|----------------------------|----------------------------|------------------------------|
+| Man             | 160         | 80         | 200             | 400              | 2                          | 10                         | 15                           |
+| Pony            | 700         | 140        | 350             | 700              | 7                          | 15                         | 30                           |
+| Mule            | 700         | 200        | 500             | 1000             | 2                          | 15                         | 15                           |
+| Horse, Riding   | 1000        | 200        | 500             | 1000             | 10                         | 20                         | 30                           |
+| Horse, War      | 1500        | 300        | 750             | 1500             | 15                         | 30                         | 30                           |
+| Horse, Draft    | 2000        | 400        | 1000            | 2000             | 20                         | 40                         | 30                           |
+| Ox              | 2000        | 400        | 1000            | 2000             | 7                          | 40                         | 15                           |
 
-During a watch, travelers can take one of the following actions as a group:
+Table: Carrying Capacity & Speed
 
-* **Travel** 2d6 miles towards another area
-* **Explore** the current area to reveal landmarks
-* **Forced March**: move 1d6 miles during a nighttime watch, and add one **fatigue**
-* **Make Camp**: each traveler who consumes a day's rations takes a **long rest**
-
-### Wilderness Events
-
-Every watch of travel, roll a d6 on the event table below.
-
-| d6 | Event |
-|:--:|:---------|
-| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
-| 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** Encumbered characters must spend a watch resting, without moving.   |
-| 4  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
-| 5  | **Free**, no effect   |
-| 6  | **Free**, no effect   |
-
-Table: Wilderness Event Rolls
+Note: "forage" here is defined as readily available water sources and grass or other greenery.
