@@ -208,7 +208,7 @@ When the party flees back to camp in disarray (as opposed to an orderly withdraw
 
 #### Hear Noises
 
-Characters can listen at doors and attempt to hear if the room is occupied wth a successful **WIL** save. Note that the undead make no sound.
+Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
 #### Forcing Doors
 
@@ -241,7 +241,6 @@ Room traps are activated on a failed **DEX** save. They can be detected by spend
 Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an **ability score** on a failed save.
 
 ## Wilderness Travel
-
 
 | Beast of Burden | Weight (lb) | Carry (lb) | Pull, Cart (lb) | Pull, Wagon (lb) | Feed / day, w/ forage (lb) | Feed / day, no forage (lb) | Speed when burdened (mi/day) |
 |-----------------|-------------|------------|-----------------|------------------|----------------------------|----------------------------|------------------------------|
