@@ -28,7 +28,7 @@ Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or othe
 
 When a character gains a level, do the following:
 
-1. Roll a d20 for each ability score. If it is greater than or equal to the ability score, increase that score by 1.
+1. Roll 3d6 for each ability score. If it is greater than or equal to the ability score, increase that score by 1.
 2. Increase HP by +1
 
 | Level | XP      |
@@ -136,11 +136,12 @@ Table: Reaction Roll Results
 **Enhanced & Impaired**: If your attack is **enhanced**, increase the die size by one step. If it is **impaired**, decrease the die size by one step.
 
 **Charge**: In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant deals **enhanced** damage on their next attack against the charged enemy.
+
 **Blast**: Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. If unsure how many targets can be affected, roll the related damage die for a result.
 
-**Maneuvers**: A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack as normal. His opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
+**Stunts**: A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack as normal. His opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
 
-**Withdraw**: When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the combatant only makes a half move.
+**Withdraw**: When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the withdrawing combatant succeeds on a **DEX** save.
 
 ## Morale & Fleeing
 
@@ -172,15 +173,18 @@ Ability scores and **HP** are restored by resting:
 
 ---
 
-**The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll a d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
+**The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll 1d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
 **Turns**: One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
 
 * Move to the next room
 * Do something in the current room, such as:
   * Open a stuck or locked **door**
-  * Search the current room thoroughly, revealing **traps** and **secret doors**      * Take a **short rest**
+  * Search the current room thoroughly, revealing **traps** and **secret doors**
+  * Take a **short rest**
   * Interact with a feature of the room, such as a **trap**
+
+**Darkness**: When the party does not have a light source, they move at half speed (meaning 2d6 is rolled against the dungeon clock each turn instead of 1d6), and are unable to find traps or secret doors regardless of time spent searching.
 
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
 
@@ -190,13 +194,13 @@ Ability scores and **HP** are restored by resting:
 
 **Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
-**Forcing Doors**: All doors are stuck and must be burst open by force with a successful **STR** save. A failed attempt makes surprising whatever is behind the door impossible.
+**Forcing Doors**: All doors are stuck and must be burst open by force with a successful **STR** save. A failed attempt means you still burst open the door, but it makes surprising whatever is behind the door impossible.
 
-**Locked Doors**: Some doors are locked, and require a key or a successful **DEX** save to pick the lock to open.
+**Locked Doors**: Some doors are locked, and require a key or a successful **DEX** save to pick the lock to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again.
 
-**Secret Doors**: Secret doors require the room they are in to be searched completely (takes one turn, sometimes more for larger rooms).
+**Secret Doors**: Secret doors can be discovered by searching the room.
 
-**Spiking Doors**: Doors will open freely for monsters unless wedged shut with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
+**Spiking Doors**: Doors will open freely for monsters and swing shut of their own accord, unless wedged with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
 
 **Holding Doors**: Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. The side trying to force a held door must try to burst it open as normal.
 
