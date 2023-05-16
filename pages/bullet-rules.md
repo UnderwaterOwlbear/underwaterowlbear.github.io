@@ -53,13 +53,12 @@ Table: XP & Levels
 |-----------|-------|-----------|-------------|
 | Unarmored | 0     | -         |             |
 | Shield    | +1    | 15        | 15          |
-| Padded    | 1     | 10        | 5           |
-| Chainmail | 2     | 100       | 20          |
-| Plate     | 3     | 1000      | 40          |
+| Chainmail | 1     | 100       | 20          |
+| Plate     | 2     | 1000      | 40          |
 
 Table: Armor and Shields
 
-**Note:** Armor from armor and shields cannot exceed 3.
+**Note:** Armor from armor and shields cannot exceed 2.
 
 | Weapon   | Damage | Cost (sp) | Weight (lb) | Notes                                      |
 |----------|--------|-----------|-------------|--------------------------------------------|
@@ -93,14 +92,16 @@ Table: Weapons
 
 Table: Adventuring Gear
 
-| Transport   | Cost  | Notes                                      |
-|-------------|-------|--------------------------------------------|
-| Cart, hand  | 5sp   | 2.5x carrying capacity                     |
-| Cart, draft | 10sp  | 2.5x carrying capacity                     |
-| Wagon       | 30sp  | 5x carrying capacity                       |
-| Mule        | 30sp  | **WIL** 10                                 |
-| Horse       | 50sp  | **WIL** 8                                  |
-| Warhorse    | 100sp | **WIL** 12                                 |
+| Transport     | Cost (sp) | Notes                  |
+|---------------|-----------|------------------------|
+| Cart, hand    | 5         | 2.5x carrying capacity |
+| Cart, draft   | 10        | 2.5x carrying capacity |
+| Wagon         | 30        | 5x carrying capacity   |
+| Mule          | 30        | **WIL** 10             |
+| Horse, Riding | 50        | **WIL** 8              |
+| Horse, War    | 150       | **WIL** 12             |
+| Horse, Draft  | 100       | **WIL** 10             |
+| Ox            | 100       | **WIL** 6              |
 
 Table: Transportation
 
@@ -177,12 +178,12 @@ Ability scores and **HP** are restored by resting:
 
 **Turns**: One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
 
+* Open a stuck or locked **door**
+* Search the room thoroughly, revealing **traps** and **secret doors**
+* Take a **short rest**
+* Interact with a feature of the room, such as a **trap**
 * Move to the next room
-* Do something in the current room, such as:
-  * Open a stuck or locked **door**
-  * Search the current room thoroughly, revealing **traps** and **secret doors**
-  * Take a **short rest**
-  * Interact with a feature of the room, such as a **trap**
+
 
 **Darkness**: When the party does not have a light source, they move at half speed (meaning 2d6 is rolled against the dungeon clock each turn instead of 1d6), and are unable to find traps or secret doors regardless of time spent searching.
 
@@ -223,6 +224,8 @@ Ability scores and **HP** are restored by resting:
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
+**Logistics**: Supplies and baggage trains are particularly important to consider. The table below describes various means of land transportation and their relative carrying capacities.
+
 | Beast of Burden | Weight (lb) | Carry (lb) | Pull, Cart (lb) | Pull, Wagon (lb) | Feed / day, w/ forage (lb) | Feed / day, no forage (lb) |
 |-----------------|-------------|------------|-----------------|------------------|----------------------------|----------------------------|
 | Man             | 160         | 80         | 200             | 400              | 2                          | 10                         |
@@ -236,3 +239,25 @@ Ability scores and **HP** are restored by resting:
 Table: Carrying Capacity & Food Requirements
 
 **Note**: "forage" here is defined as readily available water sources and grass.
+
+## Monster Conversion
+
+---
+
+**HP**: HP = HD +3  
+**STR**, **DEX**, **WIL**: Default to 10 each. Increment of +/-4 if particularly strong, brave, agile, etc.  
+**Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
+**Armor**: Lightly armored or natually armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
+**Morale**: *B/X*-style morale scores can be converted to **WIL** per the following table:
+
+| B/X Morale | WIL |
+|------------|-----|
+| 4 or less  | 4   |
+| 5          | 6   |
+| 6          | 9   |
+| 7          | 13  |
+| 8          | 15  |
+| 9          | 17  |
+| 10 or more | 18  |
+
+Table: Morale-to-WIL Conversion
