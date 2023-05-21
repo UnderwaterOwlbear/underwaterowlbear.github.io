@@ -187,10 +187,11 @@ Ability scores and **HP** are restored by resting:
 * Interact with a feature of the room, such as a **trap**
 * Move to the next room
 
-
 **Darkness**: When the party does not have a light source, they move at half speed (meaning 2d6 is rolled against the dungeon clock each turn instead of 1d6), and are unable to find traps or secret doors regardless of time spent searching.
 
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
+
+**Weight of Treasure**: Coins weigh 1 pound per 250 coins. Large individual treasure items (statues, treasure chests, carvings, etc) may weigh more.
 
 ## Doors
 
@@ -227,25 +228,26 @@ Ability scores and **HP** are restored by resting:
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
-**Logistics**: Supplies and baggage trains are particularly important to consider. The table below describes various means of land transportation and their relative carrying capacities.
+**Logistics, Simplified**: As a rule of thumb, *one mule for every four men allows for 20 days of travel* (10 days out, 10 days back). With the weight freed up by consuming food on the outward trip freeing up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required. Note that food requirements assume readily available water sources and grass. See the appendix for situations such as deserts where water and additional hay must be carried.
 
-| Beast of Burden | Weight (lb) | Carry (lb) | Pull, Cart (lb) | Pull, Wagon (lb) | Feed / day, w/ forage (lb) | Feed / day, no forage (lb) |
-|-----------------|-------------|------------|-----------------|------------------|----------------------------|----------------------------|
-| Man             | 160         | 80         | 200             | 400              | 2                          | 10                         |
-| Pony            | 700         | 140        | 350             | 700              | 7                          | 15                         |
-| Mule            | 700         | 200        | 500             | 1000             | 2                          | 15                         |
-| Horse, Riding   | 1000        | 200        | 500             | 1000             | 10                         | 20                         |
-| Horse, War      | 1500        | 300        | 750             | 1500             | 15                         | 30                         |
-| Horse, Draft    | 2000        | 400        | 1000            | 2000             | 20                         | 40                         |
-| Ox              | 2000        | 400        | 1000            | 2000             | 7                          | 40                         |
+**Carts & Wagons**: Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
+
+| Beast of Burden | Carry (lb) | Food per day (lb) |
+|-----------------|------------|-------------------|
+| Man             | 80         | 2                 |
+| Mule            | 200        | 2                 |
+| Horse, Riding   | 200        | 10                |
+| Horse, War      | 300        | 15                |
+| Horse, Draft    | 400        | 20                |
+| Ox              | 400        | 7                 |
 
 Table: Carrying Capacity & Food Requirements
 
-**Note**: "forage" here is defined as readily available water sources and grass.
-
-## Monster Conversion
+## Appendix
 
 ---
+
+### Monster Conversion
 
 **HP** = HD +3  
 **STR**, **DEX**, and **WIL** default to 10 each. Increment of +/-4 if particularly strong, brave, agile, etc.  
@@ -267,3 +269,14 @@ Table: Carrying Capacity & Food Requirements
 | 12         | 20        |
 
 Table: Morale-to-WIL Conversion
+
+### Detailed Beast of Burden Table
+
+| Beast of Burden | Weight (lb) | Carry (lb) | Pull, Cart (lb) | Pull, Wagon (lb) | Food per day (lb) | Food & Water per day, no forage (lb) |
+|-----------------|-------------|------------|-----------------|------------------|-------------------|---------------------------|
+| Man             | 160         | 80         | 200             | 400              | 2                 | 10                        |
+| Mule            | 700         | 200        | 500             | 1000             | 2                 | 55                        |
+| Horse, Riding   | 1000        | 200        | 500             | 1000             | 10                | 100                       |
+| Horse, War      | 1500        | 300        | 750             | 1500             | 15                | 110                       |
+| Horse, Draft    | 2000        | 400        | 1000            | 2000             | 20                | 120                       |
+| Ox              | 2000        | 400        | 1000            | 2000             | 7                 | 200                       |
