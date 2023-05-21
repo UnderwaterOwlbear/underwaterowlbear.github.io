@@ -249,14 +249,17 @@ Table: Carrying Capacity & Food Requirements
 **Armor**: Lightly armored or natually armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
 **Morale**: *B/X*-style morale scores can be converted to **WIL** per the following table:
 
-| B/X Morale | WIL |
-|------------|-----|
-| 4 or less  | 4   |
-| 5          | 6   |
-| 6          | 9   |
-| 7          | 13  |
-| 8          | 15  |
-| 9          | 17  |
-| 10 or more | 18  |
+| B/X Morale | WIL score |
+|------------|-----------|
+| 2          | 1         |
+| 3          | 2         |
+| 4          | 3         |
+| 6          | 7         |
+| 7          | 9         |
+| 8          | 13        |
+| 9          | 15        |
+| 10         | 18        |
+| 11         | 19        |
+| 12         | 20        |
 
 Table: Morale-to-WIL Conversion
