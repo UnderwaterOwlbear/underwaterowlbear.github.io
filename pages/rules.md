@@ -104,7 +104,7 @@ Table: Adventuring Gear
 
 Table: Transportation
 
-## Combat
+## Basic Combat
 
 ---
 
@@ -132,6 +132,10 @@ Table: Reaction Roll Results
 
 * Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 * Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+
+## Advanced Combat
+
+---
 
 **Enhanced & Impaired**: If your attack is **enhanced**, increase the die size by one step. If it is **impaired**, decrease the die size by one step.
 
@@ -243,8 +247,8 @@ Table: Carrying Capacity & Food Requirements
 
 ---
 
-**HP**: HP = HD +3  
-**STR**, **DEX**, **WIL**: Default to 10 each. Increment of +/-4 if particularly strong, brave, agile, etc.  
+**HP** = HD +3  
+**STR**, **DEX**, and **WIL** default to 10 each. Increment of +/-4 if particularly strong, brave, agile, etc.  
 **Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
 **Armor**: Lightly armored or natually armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
 **Morale**: *B/X*-style morale scores can be converted to **WIL** per the following table:
