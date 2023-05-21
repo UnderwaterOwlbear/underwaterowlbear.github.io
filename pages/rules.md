@@ -1,7 +1,7 @@
 ---
-title: Bullet Point Rules
+title: House Rules
 author: Tyler Farrington
-date: 2023-05-14
+date: 2023-05-20
 exclude: false
 ---
 
