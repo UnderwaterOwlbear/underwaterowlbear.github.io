@@ -60,35 +60,34 @@ Table: Armor and Shields
 
 **Note:** Armor from armor and shields cannot exceed 2.
 
-| Weapon   | Damage | Cost (sp) | Weight (lb) | Notes                                      |
-|----------|--------|-----------|-------------|--------------------------------------------|
-| Unarmed  | 1      | -         | -           |                                            |
-| Dagger   | d4     | 10        | 1           | May be thrown                              |
-| Axe      | d6     | 20        | 2           | May be thrown                              |
-| Spear    | d6     | 20        | 2           | May be thrown                              |
-| Mace     | d6     | 20        | 5           | Ignore 1 point of Armor                    |
-| Sword    | d6     | 100       | 2           | **Enhanced** damage vs unarmored opponents |
-| Poleaxe  | d8     | 50        | 5           |                                            |
-| Bow      | d6     | 25        | 5           | **DEX** save after combat or out of arrows |
-| Crossbow | d8     | 50        | 5           | **DEX** save after combat or out of arrows |
+| Weapon   | Damage | Cost (sp) | Weight (lb) |
+|----------|--------|-----------|-------------|
+| Unarmed  | 1      | -         | -           |
+| Dagger   | d4     | 10        | 1           |
+| Axe      | d6     | 20        | 2           |
+| Spear    | d6     | 20        | 2           |
+| Sword    | d6     | 100       | 2           |
+| Poleaxe  | d8     | 50        | 5           |
+| Bow      | d6     | 25        | 5           |
+| Crossbow | d8     | 50        | 5           |
 
 Table: Weapons
 
-| Item               | Cost (sp) | Weight (lb) | Notes                                 |
-|--------------------|-----------|-------------|---------------------------------------|
-| Arrows, 20         | 10        | 5           |                                       |
-| Candles, 8         | 8         | 1           | Lasts 1 hour per candle               |
-| Torch              | 1         | 1           | Lasts 1 hours per torch               |
-| Tinderbox          | 6         | -           | Light fire with 5+ on d6              |
-| Rations, one day   | 1         | 2           |                                       |
-| Waterskin, one day | 1         | 8           |                                       |
-| Oats, 1 lb         | 1         | 1           | For horses                            |
-| Cross              | 25        | 1           | Undead must save to attack bearer     |
-| Hammer             | 6         | 3           |                                       |
-| Pickaxe            | 6         | 3           | Move a 5ft cube of rock every 4 hours |
-| Rope, hemp, 50ft   | 10        | 10          | Can lift 500 lb without breaking      |
-| Shovel             | 3         | 3           | Move a 5ft cube of dirt every 2 hours |
-| Spikes, iron, six  | 1         | 5           | Wedge doors open or shut              |
+| Item               | Cost (sp) | Weight (lb) | Notes                                                          |
+|--------------------|-----------|-------------|----------------------------------------------------------------|
+| Arrows, 20         | 10        | 5           | **DEX** save after combat or out of arrows                     |
+| Candles, 8         | 8         | 1           | Lasts 1 hour per candle                                        |
+| Torch              | 1         | 1           | Lasts 1 hours per torch                                        |
+| Tinderbox          | 6         | -           | Light fire with 5+ on d6                                       |
+| Rations, one day   | 1         | 2           |                                                                |
+| Waterskin, one day | 1         | 8           |                                                                |
+| Oats, 1 lb         | 1         | 1           | For horses                                                     |
+| Cross              | 25        | 1           | Undead must make **morale** checks when presented in one hand  |
+| Hammer             | 6         | 3           |                                                                |
+| Pickaxe            | 6         | 3           | Move a 5ft cube of rock every 4 hours                          |
+| Rope, hemp, 50ft   | 10        | 10          | Can lift 500 lb without breaking                               |
+| Shovel             | 3         | 3           | Move a 5ft cube of dirt every 2 hours                          |
+| Spikes, iron, six  | 1         | 5           | Wedge doors open or shut                                       |
 
 Table: Adventuring Gear
 
