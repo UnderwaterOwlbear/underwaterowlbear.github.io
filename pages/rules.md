@@ -250,7 +250,7 @@ Table: Carrying Capacity & Food Requirements
 ### Monster Conversion
 
 **HP** = HD +3  
-**STR**, **DEX**, and **WIL** default to 10 each. Increment of +/-4 if particularly strong, brave, agile, etc.  
+**STR**, **DEX**, and **WIL** default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
 **Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
 **Armor**: Lightly armored or natually armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
 **Morale**: *B/X*-style morale scores can be converted to **WIL** per the following table:
