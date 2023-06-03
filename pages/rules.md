@@ -262,13 +262,13 @@ Table: Carrying Capacity & Food Requirements
 
 ### Spell Descriptions
 
-**Animate Dead**: Animate a number of HD worth of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
+**Animate Dead**: Animate a number of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
 
 **Augury**: Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 HP in blood to guarantee a truthful answer.
 
 **Bless**: Affected creatures gain +1 to attack rolls, saving throws, and morale checks. This can affect 1 target per spell level.
 
-**Charm**: Hostile creatures become neutral, neutral become friendly, and friendly creatures become infatuated. Affects a number of HD worth of creatures equal to spell level.
+**Charm**: Hostile creatures become neutral, neutral become friendly, and friendly creatures become infatuated. Affects a number of creatures equal to spell level.
 
 **Circle of Protection**: Draw a circle on the ground with chalk, salt, or blood. Undead, fey, demons, or other unnatural creatures cannot cross the boundary. Protects one (1) creature per spell level.
 
@@ -284,7 +284,7 @@ Table: Carrying Capacity & Food Requirements
 
 **Heal Sickness**: Heal all injuries, diseases, poisons, and curses currently affecting a creature. This spell automatically cures any mundane injury or ailment (such as wounds sustained in battle, or poison from nonmagical creatures), but merely grants an additional saving throw to those afflicted by magical ailments.
 
-**Hold Person**: Paralyzes a number of HD worth of creatures equal to spell level. Subjects save to avoid.
+**Hold Person**: Paralyzes a number of creatures equal to spell level. Subjects save to avoid.
 
 **Invisibility**: Turn a number of creatures equal to your level invisible.
 
@@ -304,12 +304,12 @@ Table: Carrying Capacity & Food Requirements
 
 | Spell Level | Deceased for... |
 |-------------|-----------------|
-| 1st         | 10 minutes      |
-| 2nd         | 1 day           |
-| 3rd         | 1 week          |
-| 4th         | 1 month         |
-| 5th         | 1 year          |
-| 6th         | 10 years        |
+| 1st         | 1 week          |
+| 2nd         | 1 month         |
+| 3rd         | 1 year          |
+| 4th         | 10 years        |
+| 5th         | 100 years       |
+| 6th         | 1000 years      |
 
 **Third Eye**: You can see all invisible, ethereal, and shapechanged creatures in their true form. You also see the auras of spells (both cast and prepared) and enchanted objects.
 
@@ -327,7 +327,7 @@ Table: Carrying Capacity & Food Requirements
 
 ### Monster Conversion
 
-**HP** = HD +3  
+**HP** = HD + 3 (default to d6 if unsure)  
 **STR**, **DEX**, and **WIL** default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
 **Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
 **Armor**: Lightly armored or natually armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
