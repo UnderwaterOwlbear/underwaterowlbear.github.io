@@ -227,7 +227,13 @@ Ability scores and **HP** are restored by resting:
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
-**Logistics, Simplified**: As a rule of thumb, *one mule for every four men allows for 20 days of travel* (10 days out, 10 days back). With the weight freed up by consuming food on the outward trip freeing up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required. Note that food requirements assume readily available water sources and grass. See the appendix for situations such as deserts where water and additional hay must be carried.
+**Logistics**:
+
+If more detailed accounting of logistics and supply trains is not desired, use this rule of thumb:
+
+> One mule for every four men, fully laden with food, allows for 20 days of travel.
+
+Consuming food on the outward trip frees up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required. Note that food requirements assume readily available water sources and grass. See the appendix for situations such as deserts where water and additional hay must be carried.
 
 **Carts & Wagons**: Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
 
