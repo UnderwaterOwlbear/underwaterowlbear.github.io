@@ -8,9 +8,9 @@ exclude: false
 * TOC
 {:toc}
 
-## Character Creation
-
 ---
+
+## Character Creation
 
 1. Start with 3d6 **STR**, 3d6 **DEX**, 3d6 **WIL**, and 1d6 **HP**
 2. When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
@@ -19,9 +19,9 @@ exclude: false
     * **WIL** for tests of concentration, battles of will, or interactions with magic.
 3. Choose a starting package from the list below.
 
-## Experience & Advancement
-
 ---
+
+## Experience & Advancement
 
 Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
@@ -44,9 +44,9 @@ When a character gains a level, do the following:
 
 Table: XP & Levels
 
-## Equipment & Encumbrance
-
 ---
+
+## Equipment & Encumbrance
 
 Weight of weapons, tools, and other items are not tracked. Only how much armor the character is wearing, and how much food or treasure they are carrying.
 
@@ -107,9 +107,11 @@ Table: Adventuring Gear
 
 Table: Transportation
 
-## Basic Combat
-
 ---
+
+## Combat
+
+### Basic Combat
 
 **Reaction Rolls**: When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
 
@@ -136,9 +138,9 @@ Table: Reaction Roll Results
 * Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 * Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
-## Advanced Combat
-
 ---
+
+### Advanced Combat
 
 **Enhanced & Impaired**: If your attack is **enhanced**, increase the die size by one step. If it is **impaired**, decrease the die size by one step.
 
@@ -150,9 +152,9 @@ Table: Reaction Roll Results
 
 **Withdraw**: When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the withdrawing combatant succeeds on a **DEX** save.
 
-## Morale & Fleeing
-
 ---
+
+### Morale & Fleeing
 
 **Morale**: Enemies must pass a **WIL** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **WIL** in place of their own. Lone foes must save when they're reduced to 0 **HP**. Morale does not affect PCs.
 
@@ -164,9 +166,9 @@ Table: Reaction Roll Results
 
 **Secret Passages**: Passing through a secret door will always evade a pursuer.
 
-## Death & Healing
-
 ---
+
+### Death & Healing
 
 If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, they are paralyzed. If their **WIL** is reduced to 0, they are delirious.
 
@@ -176,9 +178,9 @@ Ability scores and **HP** are restored by resting:
 * **Long rest**: Takes a night in camp and a **ration**. Heal all **HP** and heal d6 of one **ability score**.
 * **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP** and all **ability scores**.
 
-## Dungeon Delving
-
 ---
+
+## Dungeon Delving
 
 **The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll 1d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
@@ -194,9 +196,9 @@ Ability scores and **HP** are restored by resting:
 
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
 
-## Doors
-
 ---
+
+### Doors
 
 **Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
@@ -210,17 +212,17 @@ Ability scores and **HP** are restored by resting:
 
 **Holding Doors**: Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. The side trying to force a held door must try to burst it open as normal.
 
-## Traps
-
 ---
+
+### Traps
 
 **Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an **ability score** on a failed save.
 
 **Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an **ability score** on a failed save.
 
-## Wilderness Travel
-
 ---
+
+## Wilderness Travel
 
 **Timekeeping**: Wilderness travel turns take place over turns of one day in length. Each day, travelers may take one of the following actions:
 
@@ -228,6 +230,8 @@ Ability scores and **HP** are restored by resting:
 * Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
+
+---
 
 ### Logistics
 
@@ -252,9 +256,9 @@ Table: Carrying Capacity & Food Requirements
 
 Note that food requirements assume readily available water sources and grass. See the [Detailed Beast of Burden Table](#detailed-beast-of-burden-table) for situations such as deserts where water and additional hay must be carried.
 
-## Magic
-
 ---
+
+## Magic
 
 **Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage.
 
@@ -263,6 +267,8 @@ Note that food requirements assume readily available water sources and grass. Se
 **Duration**: Unless otherwise specified, spell effects last for 10 minutes per spell level.  
 
 **Counterspells**: A prepared spell may be expended to protect one (1) person per spell level from the effects of one (1) spell.  
+
+---
 
 ### Spell Descriptions
 
@@ -325,9 +331,9 @@ Note that food requirements assume readily available water sources and grass. Se
 
 **Wizard Lock**: Locks one door, chest, window, or similar portal. Requires a *knock* spell or similar magic to open.
 
-## Appendix
-
 ---
+
+## Appendix
 
 ### Monster Conversion
 
@@ -351,6 +357,8 @@ Note that food requirements assume readily available water sources and grass. Se
 | 12         | 20        |
 
 Table: Morale-to-WIL Conversion
+
+---
 
 ### Detailed Beast of Burden Table
 
