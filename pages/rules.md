@@ -52,7 +52,7 @@ Table: XP & Levels
 | Type      | Armor | Cost (sp) | Weight (lb) |
 |-----------|-------|-----------|-------------|
 | Unarmored | 0     | -         |             |
-| Shield    | +1    | 15        | 15          |
+| Shield    | +1    | 10        | 10          |
 | Chainmail | 1     | 100       | 20          |
 | Plate     | 2     | 1000      | 40          |
 
