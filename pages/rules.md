@@ -1,7 +1,7 @@
 ---
 title: House Rules
 author: Tyler Farrington
-date: 2023-05-20
+date: 2023-06-03
 exclude: false
 ---
 
@@ -28,7 +28,7 @@ Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or othe
 
 When a character gains a level, do the following:
 
-1. Roll 3d6 for each ability score. If it is greater than or equal to the ability score, increase that score by 1.
+1. Roll 1d20 for each ability score. If it is greater than or equal to the ability score, increase that score by 1.
 2. Increase HP by +1
 
 | Level | XP      |
