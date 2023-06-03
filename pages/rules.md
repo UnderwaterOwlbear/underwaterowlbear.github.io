@@ -10,6 +10,15 @@ exclude: false
 
 ---
 
+## Acknowledgements
+
+* [*Cairn*](https://cairnrpg.com/) by Yochai Gal for most of the rules
+* [*Necropraxis*](https://www.necropraxis.com/) by Brendan S., for many odds and ends.
+* [*Traverse Fantasy*](https://traversefantasy.blogspot.com/) by Marcia B., for her in-depth mathematical investigations of *OD&D*
+* [*Dreaming Dragonslayer*](https://dreamingdragonslayer.wordpress.com/2023/05/13/into-the-odd-fleeing-the-dungeon/) for consequences from fleeing the dungeon.
+* [*Goblin Punch*](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html) by Arnold K, for THE UNDERCLOCK.
+* [*Odd Skull*](https://oddskullblog.wordpress.com/2021/11/15/combat-maneuvers-the-easy-way/) for combat manuevers
+
 ## Character Creation
 
 1. Start with 3d6 **STR**, 3d6 **DEX**, 3d6 **WIL**, and 1d6 **HP**
