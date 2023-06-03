@@ -233,7 +233,7 @@ If more detailed accounting of logistics and supply trains is not desired, use t
 
 > One mule for every four men, fully laden with food, allows for 20 days of travel.
 
-Consuming food on the outward trip frees up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required. 
+Consuming food on the outward trip frees up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required.
 
 | Beast of Burden | Carry (lb) | Food per day (lb) |
 |-----------------|------------|-------------------|
