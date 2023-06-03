@@ -17,8 +17,7 @@ exclude: false
     * **STR** for tests of strength or endurance.
     * **DEX** for tests of agility or precision.
     * **WIL** for tests of concentration, battles of will, or interactions with magic.
-3. You can carry up to 80 lb of equipment and treasure.
-4. Choose a starting package from the list below.
+3. Choose a starting package from the list below.
 
 ## Experience & Advancement
 
@@ -49,44 +48,44 @@ Table: XP & Levels
 
 ---
 
-| Type      | Armor | Cost (sp) | Weight (lb) |
-|-----------|-------|-----------|-------------|
-| Unarmored | 0     | -         |             |
-| Shield    | +1    | 10        | 10          |
-| Chainmail | 1     | 100       | 20          |
-| Plate     | 2     | 1000      | 40          |
+| Type      | Armor | Cost (sp) |
+|-----------|-------|-----------|
+| Unarmored | 0     | -         |
+| Shield    | +1    | 10        |
+| Chainmail | 1     | 100       |
+| Plate     | 2     | 1000      |
 
 Table: Armor and Shields
 
 **Note:** Armor from armor and shields cannot exceed 2.
 
-| Weapon   | Damage | Cost (sp) | Weight (lb) |
-|----------|--------|-----------|-------------|
-| Unarmed  | 1      | -         | -           |
-| Dagger   | d4     | 10        | 1           |
-| Axe      | d6     | 20        | 2           |
-| Spear    | d6     | 20        | 2           |
-| Sword    | d6     | 100       | 2           |
-| Poleaxe  | d8     | 50        | 5           |
-| Bow      | d6     | 25        | 5           |
-| Crossbow | d8     | 50        | 5           |
+| Weapon   | Damage | Cost (sp) |
+|----------|--------|-----------|
+| Unarmed  | 1      | -         |
+| Dagger   | d4     | 10        |
+| Axe      | d6     | 20        |
+| Spear    | d6     | 20        |
+| Sword    | d6     | 100       |
+| Poleaxe  | d8     | 50        |
+| Bow      | d6     | 25        |
+| Crossbow | d8     | 50        |
 
 Table: Weapons
 
-| Item               | Cost (sp) | Weight (lb) | Notes                                                          |
-|--------------------|-----------|-------------|----------------------------------------------------------------|
-| Arrows, 20         | 10        | 5           | **DEX** save after combat or out of arrows                     |
-| Candles, 8         | 8         | 1           | Lasts 1 hour per candle                                        |
-| Torch              | 1         | 1           | Lasts 1 hours per torch                                        |
-| Tinderbox          | 6         | -           | Light fire with 5+ on d6                                       |
-| Rations, one day   | 1         | 2           |                                                                |
-| Waterskin, one day | 1         | 8           |                                                                |
-| Oats, 1 lb         | 1         | 1           | For horses                                                     |
-| Hammer             | 6         | 3           |                                                                |
-| Pickaxe            | 6         | 3           | Move a 5ft cube of rock every 4 hours                          |
-| Rope, hemp, 50ft   | 10        | 10          | Can lift 500 lb without breaking                               |
-| Shovel             | 3         | 3           | Move a 5ft cube of dirt every 2 hours                          |
-| Spikes, iron, six  | 1         | 5           | Wedge doors open or shut                                       |
+| Item               | Cost (sp) | Notes                                      |
+|--------------------|-----------|--------------------------------------------|
+| Arrows, 20         | 10        | **DEX** save after combat or out of arrows |
+| Candles, 8         | 8         | Lasts 1 hour per candle                    |
+| Torch              | 1         | Lasts 1 hours per torch                    |
+| Tinderbox          | 6         | Light fire with 5+ on d6                   |
+| Rations, one day   | 1         |                                            |
+| Waterskin, one day | 1         |                                            |
+| Oats, 1 lb         | 1         | For horses                                 |
+| Hammer             | 6         |                                            |
+| Pickaxe            | 6         | Move a 5ft cube of rock every 4 hours      |
+| Rope, hemp, 50ft   | 10        | Can lift 500 lb without breaking           |
+| Shovel             | 3         | Move a 5ft cube of dirt every 2 hours      |
+| Spikes, iron, six  | 1         | Wedge doors open or shut                   |
 
 Table: Adventuring Gear
 
@@ -102,6 +101,23 @@ Table: Adventuring Gear
 | Ox            | 100       | **WIL** 6              |
 
 Table: Transportation
+
+## Encumbrance
+
+---
+
+Weight of weapons, tools, and other items are not tracked. Only how much armor the character is wearing, and how much food or treasure they are carrying.
+
+* Food: a man consumes 2 lb of food per day
+* Treasure: there are 75 coins / lb
+
+| Armor       | Carry Cap. (lb) | Food (days) | Coins |
+|-------------|-----------------|-------------|-------|
+| Unarmored   | 80              | 40          | 6,000 |
+| Light armor | 40              | 20          | 3,000 |
+| Heavy armor | 20              | 10          | 1,500 |
+
+Table: Simplified Encumbrance
 
 ## Basic Combat
 
@@ -190,8 +206,6 @@ Ability scores and **HP** are restored by resting:
 
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
 
-**Weight of Treasure**: Coins weigh 1 pound per 250 coins. Large individual treasure items (statues, treasure chests, carvings, etc) may weigh more.
-
 ## Doors
 
 ---
@@ -227,15 +241,13 @@ Ability scores and **HP** are restored by resting:
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
-**Logistics**:
+### Logistics
 
 If more detailed accounting of logistics and supply trains is not desired, use this rule of thumb:
 
 > One mule for every four men, fully laden with food, allows for 20 days of travel.
 
-Consuming food on the outward trip frees up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required. Note that food requirements assume readily available water sources and grass. See the appendix for situations such as deserts where water and additional hay must be carried.
-
-**Carts & Wagons**: Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
+Consuming food on the outward trip frees up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required. 
 
 | Beast of Burden | Carry (lb) | Food per day (lb) |
 |-----------------|------------|-------------------|
@@ -247,6 +259,10 @@ Consuming food on the outward trip frees up 100 lbs that can be filled with trea
 | Ox              | 400        | 7                 |
 
 Table: Carrying Capacity & Food Requirements
+
+**Carts & Wagons**: Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
+
+Note that food requirements assume readily available water sources and grass. See the [Detailed Beast of Burden Table](#detailed-beast-of-burden-table) for situations such as deserts where water and additional hay must be carried.
 
 ## Magic
 
