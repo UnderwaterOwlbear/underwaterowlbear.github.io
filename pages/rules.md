@@ -44,18 +44,23 @@ When a character gains a level, do the following:
 
 Table: XP & Levels
 
-## Equipment
+## Equipment & Encumbrance
 
 ---
 
-| Type      | Armor | Cost (sp) |
-|-----------|-------|-----------|
-| Unarmored | 0     | -         |
-| Shield    | +1    | 10        |
-| Chainmail | 1     | 100       |
-| Plate     | 2     | 1000      |
+Weight of weapons, tools, and other items are not tracked. Only how much armor the character is wearing, and how much food or treasure they are carrying.
 
-Table: Armor and Shields
+* Food: a man consumes 2 lb of food per day
+* Treasure: there are 75 coins / lb
+
+| Type      | Armor | Cost (sp) | Carry Cap. (lb) | Food (days) | Coins |
+|-----------|-------|-----------|-----------------|-------------|-------|
+| Unarmored | 0     | -         | 80              | 40          | 6,000 |
+| Shield    | +1    | 10        | 80              | 40          | 6,000 |
+| Chainmail | 1     | 100       | 40              | 20          | 3,000 |
+| Plate     | 2     | 1000      | 20              | 10          | 1,500 |
+
+Table: Armor & Encumbrance
 
 **Note:** Armor from armor and shields cannot exceed 2.
 
@@ -101,23 +106,6 @@ Table: Adventuring Gear
 | Ox            | 100       | **WIL** 6              |
 
 Table: Transportation
-
-## Encumbrance
-
----
-
-Weight of weapons, tools, and other items are not tracked. Only how much armor the character is wearing, and how much food or treasure they are carrying.
-
-* Food: a man consumes 2 lb of food per day
-* Treasure: there are 75 coins / lb
-
-| Armor       | Carry Cap. (lb) | Food (days) | Coins |
-|-------------|-----------------|-------------|-------|
-| Unarmored   | 80              | 40          | 6,000 |
-| Light armor | 40              | 20          | 3,000 |
-| Heavy armor | 20              | 10          | 1,500 |
-
-Table: Simplified Encumbrance
 
 ## Basic Combat
 
@@ -251,7 +239,7 @@ Consuming food on the outward trip frees up 100 lbs that can be filled with trea
 
 | Beast of Burden | Carry (lb) | Food per day (lb) |
 |-----------------|------------|-------------------|
-| Man             | 80         | 2                 |
+| Man, unarmored  | 80         | 2                 |
 | Mule            | 200        | 2                 |
 | Horse, Riding   | 200        | 10                |
 | Horse, War      | 300        | 15                |
