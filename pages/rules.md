@@ -82,7 +82,6 @@ Table: Weapons
 | Rations, one day   | 1         | 2           |                                                                |
 | Waterskin, one day | 1         | 8           |                                                                |
 | Oats, 1 lb         | 1         | 1           | For horses                                                     |
-| Cross              | 25        | 1           | Undead must make **morale** checks when presented in one hand  |
 | Hammer             | 6         | 3           |                                                                |
 | Pickaxe            | 6         | 3           | Move a 5ft cube of rock every 4 hours                          |
 | Rope, hemp, 50ft   | 10        | 10          | Can lift 500 lb without breaking                               |
