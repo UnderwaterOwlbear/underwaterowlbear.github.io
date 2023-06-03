@@ -109,9 +109,7 @@ Table: Transportation
 
 ---
 
-## Combat
-
-### Basic Combat
+## Basic Combat
 
 **Reaction Rolls**: When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
 
@@ -140,7 +138,7 @@ Table: Reaction Roll Results
 
 ---
 
-### Advanced Combat
+## Advanced Combat
 
 **Enhanced & Impaired**: If your attack is **enhanced**, increase the die size by one step. If it is **impaired**, decrease the die size by one step.
 
@@ -154,7 +152,7 @@ Table: Reaction Roll Results
 
 ---
 
-### Morale & Fleeing
+## Morale & Fleeing
 
 **Morale**: Enemies must pass a **WIL** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **WIL** in place of their own. Lone foes must save when they're reduced to 0 **HP**. Morale does not affect PCs.
 
@@ -168,7 +166,7 @@ Table: Reaction Roll Results
 
 ---
 
-### Death & Healing
+## Death & Healing
 
 If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, they are paralyzed. If their **WIL** is reduced to 0, they are delirious.
 
@@ -192,13 +190,13 @@ Ability scores and **HP** are restored by resting:
 * Interact with a feature of the room, such as a **trap**
 * Move to the next room
 
-**Darkness**: When the party does not have a light source, they move at half speed (meaning 2d6 is rolled against the dungeon clock each turn instead of 1d6), and are unable to find traps or secret doors regardless of time spent searching.
+**Darkness**: When the party does not have a light source, 2d6 is rolled against the dungeon clock each turn instead of 1d6, and they are unable to find traps or secret doors regardless of time spent searching.
 
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
 
 ---
 
-### Doors
+## Doors
 
 **Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
@@ -214,7 +212,7 @@ Ability scores and **HP** are restored by resting:
 
 ---
 
-### Traps
+## Traps
 
 **Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an **ability score** on a failed save.
 
@@ -224,16 +222,12 @@ Ability scores and **HP** are restored by resting:
 
 ## Wilderness Travel
 
-**Timekeeping**: Wilderness travel turns take place over turns of one day in length. Each day, travelers may take one of the following actions:
+Wilderness travel turns take place over turns of one day in length. Each day, travelers may take one of the following actions:
 
 * Move 2d6+8 miles towards another area
 * Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
-
----
-
-### Logistics
 
 If more detailed accounting of logistics and supply trains is not desired, use this rule of thumb:
 
@@ -252,13 +246,13 @@ Consuming food on the outward trip frees up 100 lbs that can be filled with trea
 
 Table: Carrying Capacity & Food Requirements
 
-**Carts & Wagons**: Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
+Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
 
 Note that food requirements assume readily available water sources and grass. See the [Detailed Beast of Burden Table](#detailed-beast-of-burden-table) for situations such as deserts where water and additional hay must be carried.
 
 ---
 
-## Magic
+## Spellcasting
 
 **Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage.
 
@@ -270,7 +264,7 @@ Note that food requirements assume readily available water sources and grass. Se
 
 ---
 
-### Spell Descriptions
+## Spell Descriptions
 
 **Animate Dead**: Animate a number of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
 
@@ -357,8 +351,6 @@ Note that food requirements assume readily available water sources and grass. Se
 | 12         | 20        |
 
 Table: Morale-to-WIL Conversion
-
----
 
 ### Detailed Beast of Burden Table
 
