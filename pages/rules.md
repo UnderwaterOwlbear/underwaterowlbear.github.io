@@ -95,8 +95,8 @@ Table: Weapons
 | Candles, 8         | 8         | Lasts 1 hour per candle                    |
 | Torch              | 1         | Lasts 1 hours per torch                    |
 | Tinderbox          | 6         | Light fire with 5+ on d6                   |
-| Rations, one day   | 1         |                                            |
-| Waterskin, one day | 1         |                                            |
+| Rations, one day   | 1         | Weighs 2 lbs                               |
+| Waterskin, one day | 1         | Weighs 8 lbs                               |
 | Oats, 1 lb         | 1         | For horses                                 |
 | Hammer             | 6         |                                            |
 | Pickaxe            | 6         | Move a 5ft cube of rock every 4 hours      |
