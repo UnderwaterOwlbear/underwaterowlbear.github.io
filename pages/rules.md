@@ -1,7 +1,7 @@
 ---
 title: House Rules
 author: Tyler Farrington
-date: 2023-06-03
+date: 2023-06-04
 exclude: false
 ---
 
@@ -21,12 +21,50 @@ exclude: false
 
 ## Character Creation
 
-1. Start with 3d6 **STR**, 3d6 **DEX**, 3d6 **WIL**, and 1d6 **HP**
+1. Start with...
+    * 3d6 **STR**
+    * 3d6 **DEX**
+    * 3d6 **WIL**
+    * 1d6 **HP**
+    * 3d6 coins
 2. When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
     * **STR** for tests of strength or endurance.
     * **DEX** for tests of agility or precision.
     * **WIL** for tests of concentration, battles of will, or interactions with magic.
 3. Choose a starting package from the list below.
+
+### Fighter
+
+* Gambeson (1 Armor)
+* Poleaxe (d10, two handed)
+* Hammer
+* Spikes, six
+* Shovel
+
+### Priest
+
+* Mace (d6, ignore 1 Armor)
+* Shield (+1 Armor)
+* Cross (force undead to make morale save when presented in one hand)
+
+### Hunter
+
+* Longbow (d6)
+* Quiver of arrows
+* Knife (d4)
+* Tinderbox
+
+### Thief
+
+* Dagger (d4)
+* Rope, 50ft
+* Lockpicks
+* Candles, eight
+
+### Mage
+
+* Staff (d6, +1 Armor when used in two hands)
+* Spellbook with three random spells (roll d20 to determine)
 
 ---
 
@@ -66,12 +104,13 @@ Weight of weapons, tools, and other items are not tracked. Only how much armor t
 |-----------|-------|-----------|-----------------|-------------|-------|
 | Unarmored | 0     | -         | 80              | 40          | 6,000 |
 | Shield    | +1    | 10        | 80              | 40          | 6,000 |
-| Chainmail | 1     | 100       | 40              | 20          | 3,000 |
-| Plate     | 2     | 1000      | 20              | 10          | 1,500 |
+| Padded    | 1     | 30        | 60              | 30          | 4,500 |
+| Chainmail | 2     | 100       | 40              | 20          | 3,000 |
+| Plate     | 3     | 1000      | 20              | 10          | 1,500 |
 
 Table: Armor & Encumbrance
 
-**Note:** Armor from armor and shields cannot exceed 2.
+**Note:** Armor from armor and shields cannot exceed 3.
 
 | Weapon   | Damage | Cost (sp) | Notes                            |
 |----------|--------|-----------|----------------------------------|
@@ -91,14 +130,14 @@ Table: Weapons
 
 | Item               | Cost (sp) | Notes                                      |
 |--------------------|-----------|--------------------------------------------|
-| Arrows, 20         | 10        | **DEX** save after combat or out of arrows |
+| Arrows, quiver     | 10        | **DEX** save after combat or out of arrows |
 | Candles, 8         | 8         | Lasts 1 hour per candle                    |
 | Torch              | 1         | Lasts 1 hours per torch                    |
 | Tinderbox          | 6         | Light fire with 5+ on d6                   |
 | Rations, one day   | 1         | Weighs 2 lbs                               |
 | Waterskin, one day | 1         | Weighs 8 lbs                               |
 | Oats, 1 lb         | 1         | For horses                                 |
-| Hammer             | 6         |                                            |
+| Hammer             | 6         | For setting spikes                         |
 | Pickaxe            | 6         | Move a 5ft cube of rock every 4 hours      |
 | Rope, hemp, 50ft   | 10        | Can lift 500 lb without breaking           |
 | Shovel             | 3         | Move a 5ft cube of dirt every 2 hours      |
@@ -226,9 +265,9 @@ Ability scores and **HP** are restored by resting:
 
 ## Traps
 
-**Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an **ability score** on a failed save.
+**Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an **ability score** on a failed save.
 
-**Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by a thief spending a turn searching the treasure. Thieves can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an **ability score** on a failed save.
+**Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an **ability score** on a failed save.
 
 ---
 
