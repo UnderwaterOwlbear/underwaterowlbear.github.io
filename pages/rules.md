@@ -73,18 +73,19 @@ Table: Armor & Encumbrance
 
 **Note:** Armor from armor and shields cannot exceed 2.
 
-| Weapon   | Damage | Cost (sp) | Notes                    |
-|----------|--------|-----------|--------------------------|
-| Unarmed  | 1      | -         |                          |
-| Dagger   | d4     | 10        | Concealable              |
-| Axe      | d6     | 20        | Can be thrown.           |
-| Spear    | d6     | 20        | Can be thrown.           |
-| Mace     | d6     | 20        | Ignore 1 point of armor. |
-| Sword    | d8     | 100       |                          |
-| Polearm  | d10    | 50        | Requires two hands.      |
-| Sling    | d4     | 10        | Can launch stones.       |
-| Bow      | d6     | 25        | Requires two hands.      |
-| Crossbow | d10    | 50        | Fire every other round.  |
+| Weapon   | Damage | Cost (sp) | Notes                            |
+|----------|--------|-----------|----------------------------------|
+| Unarmed  | 1      | -         |                                  |
+| Dagger   | d4     | 10        | Concealable                      |
+| Staff    | d6     | 10        | +1 armor when used in two hands. |
+| Axe      | d6     | 20        | Can be thrown.                   |
+| Spear    | d6     | 20        | Can be thrown.                   |
+| Mace     | d6     | 20        | Ignore 1 point of armor.         |
+| Sword    | d8     | 100       |                                  |
+| Polearm  | d10    | 50        | Requires two hands.              |
+| Sling    | d4     | 10        | Can launch stones.               |
+| Bow      | d6     | 25        | Requires two hands.              |
+| Crossbow | d10    | 50        | Fire every other round.          |
 
 Table: Weapons
 
@@ -267,7 +268,7 @@ Note that food requirements assume readily available water sources and grass. Se
 
 **Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage.
 
-**Casting**: Unless otherwise specified, spells take 1 action to cast. Spells can only be cast in armor if the character is proficient in its use.  
+**Casting**: Unless otherwise specified, spells take 1 action to cast and require a free hand. 
 
 **Duration**: Unless otherwise specified, spell effects last for 10 minutes per spell level.  
 
