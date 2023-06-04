@@ -73,16 +73,18 @@ Table: Armor & Encumbrance
 
 **Note:** Armor from armor and shields cannot exceed 2.
 
-| Weapon   | Damage | Cost (sp) |
-|----------|--------|-----------|
-| Unarmed  | 1      | -         |
-| Dagger   | d4     | 10        |
-| Axe      | d6     | 20        |
-| Spear    | d6     | 20        |
-| Sword    | d6     | 100       |
-| Poleaxe  | d8     | 50        |
-| Bow      | d6     | 25        |
-| Crossbow | d8     | 50        |
+| Weapon   | Damage | Cost (sp) | Notes                    |
+|----------|--------|-----------|--------------------------|
+| Unarmed  | 1      | -         |                          |
+| Dagger   | d4     | 10        | Concealable              |
+| Axe      | d6     | 20        | Can be thrown.           |
+| Spear    | d6     | 20        | Can be thrown.           |
+| Mace     | d6     | 20        | Ignore 1 point of armor. |
+| Sword    | d8     | 100       |                          |
+| Polearm  | d10    | 50        | Requires two hands.      |
+| Sling    | d4     | 10        | Can launch stones.       |
+| Bow      | d6     | 25        | Requires two hands.      |
+| Crossbow | d10    | 50        | Fire every other round.  |
 
 Table: Weapons
 
