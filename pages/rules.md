@@ -1,7 +1,7 @@
 ---
 title: House Rules
 author: Tyler Farrington
-date: 2023-06-04
+date: 2023-06-07
 exclude: false
 ---
 
@@ -36,7 +36,7 @@ exclude: false
 ### Fighter
 
 * Gambeson (1 Armor)
-* Poleaxe (d10, two handed)
+* Poleaxe (d10, bulky)
 * Hammer
 * Spikes, six
 * Shovel
@@ -49,7 +49,7 @@ exclude: false
 
 ### Hunter
 
-* Longbow (d6)
+* Longbow (d6, bulky)
 * Quiver of arrows
 * Knife (d4)
 * Tinderbox
@@ -58,13 +58,13 @@ exclude: false
 
 * Dagger (d4)
 * Rope, 50ft
-* Lockpicks
+* Lockpicks (*tiny*)
 * Candles, eight
 
 ### Mage
 
 * Staff (d6, +1 Armor when used in two hands)
-* Spellbook with three random spells (roll d20 to determine)
+* Spellbooks, three (roll d20 to determine their contents)
 
 ---
 
@@ -95,18 +95,27 @@ Table: XP & Levels
 
 ## Equipment & Encumbrance
 
-Weight of weapons, tools, and other items are not tracked. Only how much armor the character is wearing, and how much food or treasure they are carrying.
+Exact weights of items are not tracked. Instead, a character has ten (10) inventory slots. Items take up slots based on the following table:
 
-* Food: a man consumes 2 lb of food per day
-* Treasure: there are 75 coins / lb
+| Item             | Slots                                                      |
+|------------------|------------------------------------------------------------|
+| Significant item | 1                                                          |
+| Bulky item       | 2                                                          |
+| Tiny item        | Any number of tiny items of the same type may share 1 slot |
+| Armor            | 1 per point of Armor                                       |
+| Food             | 3 days per slot                                            |
+| Water            | 1 day per slot                                             |
+| Coins            | 500 coins per slot                                         |
 
-| Type      | Armor | Cost (sp) | Carry Cap. (lb) | Food (days) | Coins |
-|-----------|-------|-----------|-----------------|-------------|-------|
-| Unarmored | 0     | -         | 80              | 40          | 6,000 |
-| Shield    | +1    | 10        | 80              | 40          | 6,000 |
-| Padded    | 1     | 30        | 60              | 30          | 4,500 |
-| Chainmail | 2     | 100       | 40              | 20          | 3,000 |
-| Plate     | 3     | 1000      | 20              | 10          | 1,500 |
+Table: Item Slots
+
+| Type      | Armor | Slots | Cost (sp) |
+|-----------|-------|-------|-----------|
+| Unarmored | 0     | -     | -         |
+| Shield    | +1    | 1     | 10        |
+| Padded    | 1     | 1     | 30        |
+| Chainmail | 2     | 2     | 100       |
+| Plate     | 3     | 3     | 1000      |
 
 Table: Armor & Encumbrance
 
@@ -121,27 +130,28 @@ Table: Armor & Encumbrance
 | Spear    | d6     | 20        | Can be thrown.                   |
 | Mace     | d6     | 20        | Ignore 1 point of armor.         |
 | Sword    | d8     | 100       |                                  |
-| Polearm  | d10    | 50        | Requires two hands.              |
+| Polearm  | d10    | 50        | *bulky*                          |
 | Sling    | d4     | 10        | Can launch stones.               |
-| Bow      | d6     | 25        | Requires two hands.              |
-| Crossbow | d10    | 50        | Fire every other round.          |
+| Bow      | d6     | 25        | *bulky*                          |
+| Crossbow | d10    | 50        | Fire every other round, *bulky*  |
 
 Table: Weapons
 
-| Item               | Cost (sp) | Notes                                      |
-|--------------------|-----------|--------------------------------------------|
-| Arrows, quiver     | 10        | **DEX** save after combat or out of arrows |
-| Candles, 8         | 8         | Lasts 1 hour per candle                    |
-| Torch              | 1         | Lasts 1 hours per torch                    |
-| Tinderbox          | 6         | Light fire with 5+ on d6                   |
-| Rations, one day   | 1         | Weighs 2 lbs                               |
-| Waterskin, one day | 1         | Weighs 8 lbs                               |
-| Oats, 1 lb         | 1         | For horses                                 |
-| Hammer             | 6         | For setting spikes                         |
-| Pickaxe            | 6         | Move a 5ft cube of rock every 4 hours      |
-| Rope, hemp, 50ft   | 10        | Can lift 500 lb without breaking           |
-| Shovel             | 3         | Move a 5ft cube of dirt every 2 hours      |
-| Spikes, iron, six  | 1         | Wedge doors open or shut                   |
+**Note:** *Bulky* weapons must be wielded in two hands.
+
+| Item                | Cost (sp) | Notes                                      |
+|---------------------|-----------|--------------------------------------------|
+| Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
+| Candles, 8          | 8         | Lasts 1 hour per candle                    |
+| Torch               | 1         | Lasts 1 hours per torch                    |
+| Tinderbox           | 6         | Light fire with 5+ on d6, *tiny*           |
+| Rations, three days | 1         |                                            |
+| Waterskin, one day  | 1         |                                            |
+| Hammer              | 6         | For setting spikes                         |
+| Pickaxe             | 6         | Move a 5ft cube of rock every 4 hours      |
+| Rope, hemp, 50ft    | 10        | Can lift 500 lb without breaking           |
+| Shovel              | 3         | Move a 5ft cube of dirt every 2 hours      |
+| Spikes, iron, six   | 1         | Wedge doors open or shut                   |
 
 Table: Adventuring Gear
 
@@ -280,30 +290,13 @@ Wilderness travel turns take place over turns of one day in length. Each day, tr
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
-If more detailed accounting of logistics and supply trains is not desired, use this rule of thumb:
-
-> One mule for every four men, fully laden with food, allows for 20 days of travel.
-
-Consuming food on the outward trip frees up 100 lbs that can be filled with treasure or coins (up to 25,000 coins) on the return journey. The table below can be consulted if more detailed calculations are required.
-
-| Beast of Burden | Carry (lb) | Food per day (lb) |
-|-----------------|------------|-------------------|
-| Man, unarmored  | 80         | 2                 |
-| Mule            | 200        | 2                 |
-| Horse, Riding   | 200        | 10                |
-| Horse, War      | 300        | 15                |
-| Horse, Draft    | 400        | 20                |
-| Ox              | 400        | 7                 |
-
-Table: Carrying Capacity & Food Requirements
-
-Remember that carts and wagons can increase carrying capacity (by 2.5x and 5x, respectively).
-
-Note that food requirements assume readily available water sources and grass. See the [Detailed Beast of Burden Table](#detailed-beast-of-burden-table) for situations such as deserts where water and additional hay must be carried.
-
 ---
 
 ## Spellcasting
+
+**Spellbooks** contain a single spell and take up one inventory slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud.
+
+**Scrolls** are similar to Spellbooks, however they disappear after one use.
 
 **Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage.
 
