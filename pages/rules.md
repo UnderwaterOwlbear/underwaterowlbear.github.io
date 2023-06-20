@@ -204,6 +204,8 @@ Table: Reaction Roll Results
 
 **Enhanced & Impaired**: If your attack is **enhanced**, increase the die size by one step. If it is **impaired**, decrease the die size by one step.
 
+**Multiple Attacks**: If multiple damage dice are rolled against the same target (whether by dual wielding, multiple attackers, etc), only the highest result deals damage.
+
 **Charge**: In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant deals **enhanced** damage on their next attack against the charged enemy.
 
 **Blast**: Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. If unsure how many targets can be affected, roll the related damage die for a result.
