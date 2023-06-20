@@ -284,7 +284,7 @@ Ability scores and **HP** are restored by resting:
 
 ## Wilderness Travel
 
-Wilderness travel turns take place over turns of one day in length. Each day, travelers may take one of the following actions:
+Wilderness travel turns take place over turns of one day in length. Each day, the party may take one of the following actions:
 
 * Move 2d6+8 miles towards another area
 * Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
