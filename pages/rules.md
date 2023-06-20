@@ -96,7 +96,7 @@ Table: XP & Levels
 
 ## Equipment & Encumbrance
 
-Exact weights of items are not tracked. Instead, a character has ten (10) inventory slots. Items take up slots based on the following table:
+Exact weights of items are not tracked. Instead, a character has ten inventory slots. Items take up slots based on the following table:
 
 | Item             | Slots                                                      |
 |------------------|------------------------------------------------------------|
@@ -244,7 +244,7 @@ Ability scores and **HP** are restored by resting:
 
 **The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll 1d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
-**Turns**: One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
+**Turns**: One turn of dungeon exploration takes about ten minutes, and generally allows the party to take one action, such as:  
 
 * Open a stuck or locked **door**
 * Search the room thoroughly, revealing **traps** and **secret doors**
@@ -301,11 +301,11 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 **Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage.
 
-**Casting**: Unless otherwise specified, spells take 1 action to cast and require a free hand.
+**Casting**: Unless otherwise specified, spells take 1 action to cast and require two free hands.
 
 **Duration**: Unless otherwise specified, spell effects last for 10 minutes per spell level.  
 
-**Counterspells**: A prepared spell may be expended to protect one (1) person per spell level from the effects of one (1) spell.  
+**Counterspells**: Any spellbook may be cast as a *counterspell* instead of it's normal spell. A counterspell protects one person per spell level from the effects of one spell.  
 
 ---
 
@@ -314,11 +314,11 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 1. **Animate Dead**: Animate a number of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
 2. **Augury**: Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 **STR** in blood to guarantee a truthful answer.
 3. **Charm**: Hostile creatures become neutral, neutral become friendly, and friendly creatures become infatuated. Affects a number of creatures equal to spell level.
-4. **Circle of Protection**: Draw a circle on the ground with chalk, salt, or blood. Undead, fey, demons, or other unnatural creatures cannot cross the boundary. Protects one (1) creature per spell level.
+4. **Circle of Protection**: Draw a circle on the ground with chalk, salt, or blood. Undead, fey, demons, or other unnatural creatures cannot cross the boundary. Protects one creature per spell level.
 5. **Control Weather**: Control the weather, causing clear skies, storms, winds, etc as desired. Effects last for 1 day per spell level.
 6. **Dominate**: Release control of your own body and domineer that of a nearby creature. Subject saves to prevent.
 7. **Fireball**: Deals 1d6 fire damage per spell level to all targets in a small area (such as a melee or a room). Targets save for half damage.
-8. **Fly**: Fly at walking speed. Affects one (1) creature per level. Spell is reliable for 10 minutes per spell level, then has a chance to end on each subsequent turn on a roll of 5+ on a d6.
+8. **Fly**: Fly at walking speed. Affects one creature per level. Spell is reliable for 10 minutes per spell level, then has a chance to end on each subsequent turn on a roll of 5+ on a d6.
 9. **Hold Person**: Paralyzes a number of creatures equal to spell level. Subjects save to avoid.
 10. **Invisibility**: Turn a number of creatures equal to your level invisible.
 11. **Knock**: Open one stuck or locked door within arm's reach.
@@ -338,8 +338,8 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 16. **Third Eye**: You can see all invisible, ethereal, and shapechanged creatures in their true form. You also see the auras of spells (both cast and prepared) and enchanted objects.
 17. **Tongues**: You can comprehend all written and spoken languages.
-18. **Water Breathing**: Can breathe under water for 10 minutes per spell level. Affects one (1) creature per spell level.
-19. **Wind Barrier**: Buffeting winds prevent missile attacks from harming those within. Protects one (1) creature per spell level.
+18. **Water Breathing**: Can breathe under water for 10 minutes per spell level. Affects one creature per spell level.
+19. **Wind Barrier**: Buffeting winds prevent missile attacks from harming those within. Protects one creature per spell level.
 20. **Wizard Lock**: Locks one door, chest, window, or similar portal. Requires a *knock* spell or similar magic to open.
 
 ---
