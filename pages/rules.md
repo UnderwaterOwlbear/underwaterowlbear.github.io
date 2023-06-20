@@ -120,7 +120,7 @@ Table: Item Slots
 
 Table: Armor & Encumbrance
 
-**Note:** Armor from armor and shields cannot exceed 3.
+**Note:** Armor from any source cannot exceed 3.
 
 | Weapon   | Damage | Cost (sp) | Notes                            |
 |----------|--------|-----------|----------------------------------|
