@@ -57,7 +57,7 @@ exclude: false
 
 ### Thief
 
-* Dagger (d4)
+* Daggers, two (2d4)
 * Rope, 50ft
 * Lockpicks (*tiny*)
 * Candles, eight
