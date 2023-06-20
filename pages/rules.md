@@ -43,6 +43,7 @@ exclude: false
 
 ### Priest
 
+* Gambeson (1 Armor)
 * Mace (d6, ignore 1 Armor)
 * Shield (+1 Armor)
 * Cross (force undead to make morale save when presented in one hand)
