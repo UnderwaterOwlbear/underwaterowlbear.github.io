@@ -96,7 +96,7 @@ Table: Item Slots
 
 Table: Armor & Encumbrance
 
-**Note:** Armor from any source cannot exceed 3.
+**Note:** Combined Armor from all sources cannot exceed 3.
 
 | Weapon   | Damage | Cost (sp) | Notes                            |
 |----------|--------|-----------|----------------------------------|
@@ -131,23 +131,21 @@ Table: Weapons
 
 Table: Adventuring Gear
 
-| Transport     | Cost (sp) | Carrying Capacity (slots) | Rations per day, grazing | Rations per day, austere | **WIL** |
-|---------------|-----------|---------------------------|--------------------------|--------------------------|---------|
-| Mule          | 30        | 20                        | 1                        | 5                        | 10      |
-| Camel         | 40        | 30                        | 2                        | 2                        | 10      |
-| Horse, Riding | 50        | 30                        | 6                        | 60                       | 8       |
-| Horse, War    | 150       | 40                        | 8                        | 80                       | 12      |
-| Horse, Draft  | 100       | 50                        | 10                       | 100                      | 10      |
-| Ox            | 100       | 60                        | 4                        | 20                       | 6       |
-| Cart, hand    | 5         | 2x carrying capacity      |                          |                          |         |
-| Cart, draft   | 10        | 2x carrying capacity      |                          |                          |         |
-| Wagon         | 30        | 4x carrying capacity      |                          |                          |         |
-
+| Transport     | Cost (sp) | Carrying Capacity (slots) | Rations per day | **WIL** |
+|---------------|-----------|---------------------------|-----------------|---------|
+| Mule          | 30        | 20                        | 1               | 10      |
+| Horse, Riding | 50        | 30                        | 6               | 8       |
+| Horse, War    | 150       | 40                        | 8               | 12      |
+| Horse, Draft  | 100       | 50                        | 10              | 10      |
+| Ox            | 100       | 60                        | 4               | 6       |
+| Cart, hand    | 5         | 2x carrying capacity      |                 |         |
+| Cart, draft   | 10        | 2x carrying capacity      |                 |         |
+| Wagon         | 30        | 4x carrying capacity      |                 |         |
 Table: Transportation
 
 **Note:** Riders count as 10 slots when calculating a mount's encumbrance.
 
-**Note:** "Grazing" environments are those that have plentiful grass and water. "Austere" environments are those that lack grass or water (such as deserts).
+**Note:** Rations consumed per day assumes freely available water and forage (such as grass or other undergrowth).
 
 ---
 
@@ -326,9 +324,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 ---
 
-## Appendix
-
-### Monster Conversion
+## Monster Conversion
 
 **HP** = HD + 3 (default to d6 if unsure)  
 **STR**, **DEX**, and **WIL** default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
