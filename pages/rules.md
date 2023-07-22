@@ -21,18 +21,16 @@ exclude: false
 
 ## Character Creation
 
-1. Start with...
-    * 3d6 **STR**
-    * 3d6 **DEX**
-    * 3d6 **WIL**
-    * 1d6 **HP**
-    * 3d6 coins
-2. When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
-    * **STR** for tests of strength or endurance.
-    * **DEX** for tests of agility or precision.
-    * **WIL** for tests of concentration, battles of will, or interactions with magic.
-3. Take a waterskin, three days of rations.
-4. Roll a d6 on the table below for each column to determine your starting gear:
+Start with the following:
+
+* 3d6 **STR**
+* 3d6 **DEX**
+* 3d6 **WIL**
+* 1d6 **HP**
+* 3d6 coins
+* A waterskin
+* Three days of rations
+* Roll a d6 on the table below for each column to determine the rest of your starting gear:
 
 | d6 | Armor (+1 to roll if **STR** is >12) | Weapons (+1 to roll if **DEX** is >12) | Gear (+1 to roll if **WIL** is >12) |
 |----|--------------------------------------|----------------------------------------|-------------------------------------|
@@ -43,6 +41,16 @@ exclude: false
 | 5  | Padded                               | Spear                                  | Lockpicks                           |
 | 6  | Padded                               | Bow & Arrows                           | Mule                                |
 | 7  | Chainmail                            | Sword                                  | Random spellbook (roll d20)         |
+
+---
+
+## Saving Throws
+
+When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
+
+* **STR** for tests of strength or endurance.
+* **DEX** for tests of agility or precision.
+* **WIL** for tests of concentration, battles of will, or interactions with magic.
 
 ---
 
