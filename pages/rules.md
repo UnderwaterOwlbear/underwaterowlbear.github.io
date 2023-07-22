@@ -131,18 +131,23 @@ Table: Weapons
 
 Table: Adventuring Gear
 
-| Transport     | Cost (sp) | Notes                  |
-|---------------|-----------|------------------------|
-| Cart, hand    | 5         | 2x carrying capacity |
-| Cart, draft   | 10        | 2x carrying capacity |
-| Wagon         | 30        | 4x carrying capacity   |
-| Mule          | 30        | **WIL** 10             |
-| Horse, Riding | 50        | **WIL** 8              |
-| Horse, War    | 150       | **WIL** 12             |
-| Horse, Draft  | 100       | **WIL** 10             |
-| Ox            | 100       | **WIL** 6              |
+| Transport     | Cost (sp) | Carrying Capacity (slots) | Rations per day, grazing | Rations per day, austere | **WIL** |
+|---------------|-----------|---------------------------|--------------------------|--------------------------|---------|
+| Mule          | 30        | 20                        | 1                        | 5                        | 10      |
+| Camel         | 40        | 30                        | 2                        | 2                        | 10      |
+| Horse, Riding | 50        | 30                        | 6                        | 60                       | 8       |
+| Horse, War    | 150       | 40                        | 8                        | 80                       | 12      |
+| Horse, Draft  | 100       | 50                        | 10                       | 100                      | 10      |
+| Ox            | 100       | 60                        | 4                        | 20                       | 6       |
+| Cart, hand    | 5         | 2x carrying capacity      |                          |                          |         |
+| Cart, draft   | 10        | 2x carrying capacity      |                          |                          |         |
+| Wagon         | 30        | 4x carrying capacity      |                          |                          |         |
 
 Table: Transportation
+
+**Note:** Riders count as 10 slots when calculating a mount's encumbrance.
+
+**Note:** "Grazing" environments are those that have plentiful grass and water. "Austere" environments are those that lack grass or water (such as deserts).
 
 ---
 
@@ -345,14 +350,3 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 | 12         | 20        |
 
 Table: Morale-to-WIL Conversion
-
-### Detailed Beast of Burden Table
-
-| Beast of Burden | Weight (lb) | Carry (lb) | Pull, Cart (lb) | Pull, Wagon (lb) | Food per day (lb) | Food & Water per day, no forage (lb) |
-|-----------------|-------------|------------|-----------------|------------------|-------------------|---------------------------|
-| Man             | 160         | 80         | 200             | 400              | 2                 | 10                        |
-| Mule            | 700         | 200        | 500             | 1000             | 2                 | 55                        |
-| Horse, Riding   | 1000        | 200        | 500             | 1000             | 10                | 100                       |
-| Horse, War      | 1500        | 300        | 750             | 1500             | 15                | 110                       |
-| Horse, Draft    | 2000        | 400        | 1000            | 2000             | 20                | 120                       |
-| Ox              | 2000        | 400        | 1000            | 2000             | 7                 | 200                       |
