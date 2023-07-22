@@ -109,7 +109,6 @@ Table: Weapons
 | Item                | Cost (sp) | Notes                                      |
 |---------------------|-----------|--------------------------------------------|
 | Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
-| Candles, 8          | 8         | Lasts 1 hour per candle                    |
 | Torch               | 1         | Lasts 1 hours per torch                    |
 | Tinderbox           | 6         | Light fire with 5+ on d6, *tiny*           |
 | Rations, three days | 1         |                                            |
