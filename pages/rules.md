@@ -34,7 +34,7 @@ exclude: false
 3. Take a waterskin, three days of rations.
 4. Roll a d6 on the table below for each column to determine your starting gear:
 
-| d6 | Armor (+1 to roll if **STR** is >13) | Weapons (+1 to roll if **DEX** is >13) | Gear (+1 to roll if **WIL** is >13) |
+| d6 | Armor (+1 to roll if **STR** is >12) | Weapons (+1 to roll if **DEX** is >12) | Gear (+1 to roll if **WIL** is >12) |
 |----|--------------------------------------|----------------------------------------|-------------------------------------|
 | 1  | None                                 | Staff & Sling                          | Hammer & Spikes, six                |
 | 2  | None                                 | Mace & Shield                          | Torches, three & Tinderbox          |
