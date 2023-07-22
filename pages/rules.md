@@ -1,7 +1,7 @@
 ---
 title: House Rules
 author: Tyler Farrington
-date: 2023-06-19
+date: 2023-07-22
 exclude: false
 ---
 
