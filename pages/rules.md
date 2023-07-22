@@ -41,7 +41,8 @@ exclude: false
 | 3  | None                                 | Daggers, two                           | Shovel & Pickaxe                    |
 | 4  | Padded                               | Axe & Shield                           | Rope, 50 ft                         |
 | 5  | Padded                               | Spear                                  | Lockpicks                           |
-| 6+ | Padded                               | Bow & Arrows                           | Mule                                |
+| 6  | Padded                               | Bow & Arrows                           | Mule                                |
+| 7  | Chainmail                            | Sword                                  | Random spellbook (roll d20)         |
 
 ---
 
