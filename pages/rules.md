@@ -225,8 +225,8 @@ If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, t
 Ability scores and **HP** are restored by resting:
 
 * **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all **HP**.
-* **Long rest**: Takes a night in camp and a **ration**. Heal all **HP** and heal d6 of one **ability score**.
-* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP** and all **ability scores**.
+* **Long rest**: Takes a night in camp and a ration. Heal all **HP** and heal d6 of one ability score.
+* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP** and all ability scores.
 
 ---
 
@@ -266,9 +266,9 @@ Ability scores and **HP** are restored by resting:
 
 ## Traps
 
-**Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an **ability score** on a failed save.
+**Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an ability score on a failed save.
 
-**Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an **ability score** on a failed save.
+**Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an ability score on a failed save.
 
 ---
 
@@ -285,11 +285,11 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 ## Spellcasting
 
-**Spellbooks** contain a single spell and take up one inventory slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud.
+**Spellbooks** contain a single spell and take up one inventory slot. Anyone can cast a spell by holding a spellbook in both hands and reading its contents aloud.
 
-**Scrolls** are similar to Spellbooks, however they disappear after one use.
+**Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage. The max spell level is 6th (and thus max **WIL** damage that can be inflicted this way is 6 damage).
 
-**Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage.
+**Scrolls** are similar to Spellbooks, however they burn to ash after one use, and are always cast at 1st level.
 
 **Casting**: Unless otherwise specified, spells take 1 action to cast and require two free hands.
 
@@ -310,7 +310,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 7. **Fireball**: Deals 1d6 fire damage per spell level to all targets in a small area (such as a melee or a room). Targets save for half damage.
 8. **Fly**: Fly at walking speed. Affects one creature per level. Spell is reliable for 10 minutes per spell level, then has a chance to end on each subsequent turn on a roll of 5+ on a d6.
 9. **Hold Person**: Paralyzes a number of creatures equal to spell level. Subjects save to avoid.
-10. **Invisibility**: Turn a number of creatures equal to your level invisible.
+10. **Invisibility**: Turn one creature per spell level invisible.
 11. **Knock**: Open one stuck or locked door within arm's reach.
 12. **Lightning Bolt**: Deals 1d6 lightning damage per spell level to all targets in a line. Targets save for half damage.
 13. **Scry**: Requires a mirror, crystal ball, still water, or similarly reflective surface. Remotely see and hear events that are up to 10 miles away per spell level.
