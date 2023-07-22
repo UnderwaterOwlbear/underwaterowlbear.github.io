@@ -131,10 +131,10 @@ Table: Armor & Encumbrance
 | Spear    | d6     | 20        | Can be thrown.                   |
 | Mace     | d6     | 20        | Ignore 1 point of armor.         |
 | Sword    | d8     | 100       |                                  |
-| Polearm  | d10    | 50        | *bulky*                          |
+| Polearm  | d10    | 50        | *Bulky*                          |
 | Sling    | d4     | 10        | Can launch stones.               |
-| Bow      | d6     | 25        | *bulky*                          |
-| Crossbow | d10    | 50        | Fire every other round, *bulky*  |
+| Bow      | d6     | 25        | *Bulky*                          |
+| Crossbow | d10    | 50        | *Bulky*, Fire every other round  |
 
 Table: Weapons
 
