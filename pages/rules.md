@@ -133,9 +133,9 @@ Table: Adventuring Gear
 
 | Transport     | Cost (sp) | Notes                  |
 |---------------|-----------|------------------------|
-| Cart, hand    | 5         | 2.5x carrying capacity |
-| Cart, draft   | 10        | 2.5x carrying capacity |
-| Wagon         | 30        | 5x carrying capacity   |
+| Cart, hand    | 5         | 2x carrying capacity |
+| Cart, draft   | 10        | 2x carrying capacity |
+| Wagon         | 30        | 4x carrying capacity   |
 | Mule          | 30        | **WIL** 10             |
 | Horse, Riding | 50        | **WIL** 8              |
 | Horse, War    | 150       | **WIL** 12             |
