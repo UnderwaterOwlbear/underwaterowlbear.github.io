@@ -31,39 +31,7 @@ exclude: false
     * **STR** for tests of strength or endurance.
     * **DEX** for tests of agility or precision.
     * **WIL** for tests of concentration, battles of will, or interactions with magic.
-3. Choose a starting package from the list below.
-
-### Fighter
-
-* Gambeson (1 Armor)
-* Poleaxe (d10, bulky)
-* Hammer
-* Spikes, six
-* Shovel
-
-### Priest
-
-* Gambeson (1 Armor)
-* Mace (d6)
-* Shield (+1 Armor)
-* Cross (force undead to make morale save when presented in one hand)
-
-### Hunter
-
-* Longbow (d6, bulky)
-* Quiver of arrows
-* Knife (d4)
-
-### Thief
-
-* Daggers, two (2d4)
-* Rope, 50ft
-* Lockpicks (*tiny*)
-
-### Mage
-
-* Staff (d6, +1 Armor when used in two hands)
-* Spellbooks, three (roll d20 to determine their contents)
+3. 
 
 ---
 
