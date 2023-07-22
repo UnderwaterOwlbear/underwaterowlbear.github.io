@@ -92,7 +92,7 @@ Table: Armor & Encumbrance
 |----------|--------|-----------|----------------------------------|
 | Unarmed  | 1      | -         |                                  |
 | Dagger   | d4     | 10        | Concealable                      |
-| Mace     | d6     | 10        |          |
+| Mace     | d6     | 10        |                                  |
 | Staff    | d6     | 15        | +1 armor when used in two hands. |
 | Axe      | d6     | 20        | Can be thrown.                   |
 | Sword    | d8     | 100       |                                  |
