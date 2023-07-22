@@ -92,12 +92,12 @@ Table: Armor & Encumbrance
 |----------|--------|-----------|----------------------------------|
 | Unarmed  | 1      | -         |                                  |
 | Dagger   | d4     | 10        | Concealable                      |
+| Mace     | d6     | 10        |          |
 | Staff    | d6     | 15        | +1 armor when used in two hands. |
 | Axe      | d6     | 20        | Can be thrown.                   |
-| Spear    | d6     | 20        | Can be thrown.                   |
-| Mace     | d6     | 10        |          |
 | Sword    | d8     | 100       |                                  |
-| Polearm  | d10    | 50        | *Bulky*                          |
+| Spear    | d8     | 20        | *Bulky*, Can be thrown.          |
+| Poleaxe  | d10    | 50        | *Bulky*                          |
 | Sling    | d4     | 10        | Can launch stones.               |
 | Bow      | d6     | 25        | *Bulky*                          |
 | Crossbow | d10    | 50        | *Bulky*, Fire every other round  |
