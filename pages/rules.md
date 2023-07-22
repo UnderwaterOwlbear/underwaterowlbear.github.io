@@ -31,7 +31,17 @@ exclude: false
     * **STR** for tests of strength or endurance.
     * **DEX** for tests of agility or precision.
     * **WIL** for tests of concentration, battles of will, or interactions with magic.
-3. 
+3. Take a waterskin, three days of rations.
+4. Roll a d6 on the table below for each column to determine your starting gear:
+
+| d6 | Armor (+1 to roll if **STR** is >13) | Weapons (+1 to roll if **DEX** is >13) | Gear (+1 to roll if **WIL** is >13) |
+|----|--------------------------------------|----------------------------------------|-------------------------------------|
+| 1  | None                                 | Staff & Sling                          | Hammer & Spikes, six                |
+| 2  | None                                 | Mace & Shield                          | Torches, three & Tinderbox          |
+| 3  | None                                 | Daggers, two                           | Shovel & Pickaxe                    |
+| 4  | Padded                               | Axe & Shield                           | Rope, 50 ft                         |
+| 5  | Padded                               | Spear                                  | Lockpicks                           |
+| 6+ | Padded                               | Bow & Arrows                           | Mule                                |
 
 ---
 
