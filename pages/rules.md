@@ -44,7 +44,7 @@ exclude: false
 ### Priest
 
 * Gambeson (1 Armor)
-* Mace (d6, ignore 1 Armor)
+* Mace (d6)
 * Shield (+1 Armor)
 * Cross (force undead to make morale save when presented in one hand)
 
@@ -53,14 +53,12 @@ exclude: false
 * Longbow (d6, bulky)
 * Quiver of arrows
 * Knife (d4)
-* Tinderbox
 
 ### Thief
 
 * Daggers, two (2d4)
 * Rope, 50ft
 * Lockpicks (*tiny*)
-* Candles, eight
 
 ### Mage
 
@@ -126,10 +124,10 @@ Table: Armor & Encumbrance
 |----------|--------|-----------|----------------------------------|
 | Unarmed  | 1      | -         |                                  |
 | Dagger   | d4     | 10        | Concealable                      |
-| Staff    | d6     | 10        | +1 armor when used in two hands. |
+| Staff    | d6     | 15        | +1 armor when used in two hands. |
 | Axe      | d6     | 20        | Can be thrown.                   |
 | Spear    | d6     | 20        | Can be thrown.                   |
-| Mace     | d6     | 20        | Ignore 1 point of armor.         |
+| Mace     | d6     | 10        |          |
 | Sword    | d8     | 100       |                                  |
 | Polearm  | d10    | 50        | *Bulky*                          |
 | Sling    | d4     | 10        | Can launch stones.               |
