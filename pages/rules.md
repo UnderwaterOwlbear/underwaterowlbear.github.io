@@ -141,6 +141,7 @@ Table: Adventuring Gear
 | Cart, hand    | 5         | 2x carrying capacity      |                 |         |
 | Cart, draft   | 10        | 2x carrying capacity      |                 |         |
 | Wagon         | 30        | 4x carrying capacity      |                 |         |
+
 Table: Transportation
 
 **Note:** Riders count as 10 slots when calculating a mount's encumbrance.
