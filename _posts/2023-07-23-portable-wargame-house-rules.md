@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Portable Wargame" House Rules
+title: The Portable Wargame House Rules
 author: Tyler Farrington
 date: 2023-07-23
 
