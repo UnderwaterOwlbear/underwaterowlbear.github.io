@@ -87,7 +87,7 @@ Exact weights of items are not tracked. Instead, a character has ten inventory s
 |------------------|------------------------------------------------------------|
 | Significant item | 1                                                          |
 | Bulky item       | 2                                                          |
-| Tiny item        | Any number of tiny items of the same type may share 1 slot |
+| Petty item       | Any number of petty items of the same type may share 1 slot|
 | Armor            | 1 per point of Armor                                       |
 | Food             | 3 days per slot                                            |
 | Water            | 1 day per slot                                             |
@@ -129,7 +129,7 @@ Table: Weapons
 |---------------------|-----------|--------------------------------------------|
 | Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
 | Torch               | 1         | Lasts 1 hours per torch                    |
-| Tinderbox           | 6         | Light fire with 5+ on d6, *tiny*           |
+| Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
 | Rations, three days | 1         |                                            |
 | Waterskin, one day  | 1         |                                            |
 | Hammer              | 6         | For setting spikes                         |
