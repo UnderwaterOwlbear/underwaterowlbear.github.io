@@ -131,6 +131,7 @@ Table: Weapons
 | Torch               | 1         | Lasts 1 hours per torch                    |
 | Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
 | Rations, three days | 1         |                                            |
+| Feed, three days    | 1         |                                            |
 | Waterskin, one day  | 1         |                                            |
 | Hammer              | 6         | For setting spikes                         |
 | Pickaxe             | 6         | Move a 5ft cube of rock every 4 hours      |
@@ -155,7 +156,7 @@ Table: Transportation
 
 **Note:** Riders count as 10 slots when calculating a mount's encumbrance.
 
-**Note:** Rations consumed per day assumes freely available water and forage (such as grass or other undergrowth).
+**Note:** Feed consumed per day assumes freely available water and forage (such as grass or other undergrowth).
 
 ---
 
