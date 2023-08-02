@@ -140,13 +140,13 @@ Table: Weapons
 
 Table: Adventuring Gear
 
-| Transport     | Cost (sp) | Carrying Capacity (slots) | Rations per day | **WIL** |
+| Transport     | Cost (sp) | Carrying Capacity (slots) | Feed per day    | **WIL** |
 |---------------|-----------|---------------------------|-----------------|---------|
 | Mule          | 30        | 20                        | 1               | 10      |
-| Horse, Riding | 50        | 30                        | 6               | 8       |
-| Horse, War    | 150       | 40                        | 8               | 12      |
-| Horse, Draft  | 100       | 50                        | 10              | 10      |
-| Ox            | 100       | 60                        | 4               | 6       |
+| Horse, Riding | 50        | 30                        | 2               | 8       |
+| Horse, War    | 150       | 40                        | 2               | 12      |
+| Horse, Draft  | 100       | 50                        | 3               | 10      |
+| Ox            | 100       | 60                        | 3               | 6       |
 | Cart, hand    | 5         | 2x carrying capacity      |                 |         |
 | Cart, draft   | 10        | 2x carrying capacity      |                 |         |
 | Wagon         | 30        | 4x carrying capacity      |                 |         |
