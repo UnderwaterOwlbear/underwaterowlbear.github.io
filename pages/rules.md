@@ -34,13 +34,13 @@ Start with the following:
 
 | d6 | Armor (+1 to roll if **STR** is >12) | Weapons (+1 to roll if **DEX** is >12) | Gear (+1 to roll if **WIL** is >12) |
 |----|--------------------------------------|----------------------------------------|-------------------------------------|
-| 1  | None                                 | Staff & Sling                          | Hammer & Spikes, six                |
-| 2  | None                                 | Mace & Shield                          | Torches, three & Tinderbox          |
-| 3  | None                                 | Daggers, two                           | Shovel & Pickaxe                    |
-| 4  | Padded                               | Axe & Shield                           | Rope, 50 ft                         |
-| 5  | Padded                               | Spear                                  | Lockpicks                           |
-| 6  | Padded                               | Bow & Arrows                           | Mule                                |
-| 7  | Chainmail                            | Sword                                  | Random spellbook (roll d20)         |
+| 1  | None                                 | Staff (d6, *bulky*) & Sling (d4)       | Hammer & Spikes, six                |
+| 2  | None                                 | Mace (d6) & Shield (+1 Armor)          | Torches, three & Tinderbox          |
+| 3  | None                                 | Daggers, two (2d4)                     | Shovel & Pickaxe                    |
+| 4  | Padded (1 Armor)                     | Axe (d6) & Shield (+1 Armor)           | Rope, 50 ft                         |
+| 5  | Padded (1 Armor)                     | Spear (d8, *bulky*)                    | Lockpicks                           |
+| 6  | Padded (1 Armor)                     | Bow (d8) & Arrows                      | Mule                                |
+| 7  | Chainmail (2 Armor)                  | Sword (d8)                             | Random spellbook (roll d20)         |
 
 ---
 
@@ -112,18 +112,18 @@ Table: Armor & Encumbrance
 | Unarmed  | 1      | -         |                                  |
 | Dagger   | d4     | 10        | Concealable                      |
 | Mace     | d6     | 10        |                                  |
-| Staff    | d6     | 15        | +1 armor when used in two hands. |
+| Staff    | d6     | 15        | *Bulky*                          |
 | Axe      | d6     | 20        | Can be thrown.                   |
 | Sword    | d8     | 100       |                                  |
 | Spear    | d8     | 20        | *Bulky*, Can be thrown.          |
 | Poleaxe  | d10    | 50        | *Bulky*                          |
 | Sling    | d4     | 10        | Can launch stones.               |
 | Bow      | d6     | 25        | *Bulky*                          |
-| Crossbow | d10    | 50        | *Bulky*, Fire every other round  |
+| Crossbow | d10    | 50        | *Bulky*, *Slow*                  |
 
 Table: Weapons
 
-**Note:** *Bulky* weapons must be wielded in two hands.
+**Note:** *Bulky* weapons must be wielded in two hands. *Slow* Weapons can only fire every other round.
 
 | Item                | Cost (sp) | Notes                                      |
 |---------------------|-----------|--------------------------------------------|
