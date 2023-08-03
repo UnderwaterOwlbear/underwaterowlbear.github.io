@@ -107,23 +107,24 @@ Table: Armor & Encumbrance
 
 **Note:** Combined Armor from all sources cannot exceed 3.
 
-| Weapon   | Damage | Cost (sp) | Notes                            |
-|----------|--------|-----------|----------------------------------|
-| Unarmed  | 1      | -         |                                  |
-| Dagger   | d4     | 10        | Concealable                      |
-| Mace     | d6     | 10        |                                  |
-| Staff    | d6     | 15        | *Bulky*                          |
-| Axe      | d6     | 20        | Can be thrown.                   |
-| Sword    | d8     | 100       |                                  |
-| Spear    | d8     | 20        | *Bulky*, Can be thrown.          |
-| Poleaxe  | d10    | 50        | *Bulky*                          |
-| Sling    | d4     | 10        | Can launch stones.               |
-| Bow      | d6     | 25        | *Bulky*                          |
-| Crossbow | d10    | 50        | *Bulky*, *Slow*                  |
+| Weapon   | Damage | Cost (sp) | Notes   |
+|----------|--------|-----------|---------|
+| Unarmed  | 1      | -         |         |
+| Dagger   | d4     | 10        |         |
+| Mace     | d6     | 10        |         |
+| Staff    | d6     | 10        | *Bulky* |
+| Axe      | d6     | 20        |         |
+| Spear    | d8     | 20        | *Bulky* |
+| Sword    | d8     | 100       |         |
+| Poleaxe  | d10    | 50        | *Bulky* |
+| Sling    | d4     | 10        |         |
+| Bow      | d6     | 25        | *Bulky* |
+| Longbow  | d8     | 50        | *Bulky* |
+| Crossbow | d10    | 100       | *Bulky* |
 
 Table: Weapons
 
-**Note:** *Bulky* weapons must be wielded in two hands. *Slow* Weapons can only fire every other round.
+**Note:** *Bulky* weapons must be wielded in two hands.
 
 | Item                | Cost (sp) | Notes                                      |
 |---------------------|-----------|--------------------------------------------|
