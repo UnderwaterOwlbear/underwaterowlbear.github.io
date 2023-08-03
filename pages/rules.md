@@ -99,20 +99,15 @@ Table: Armor & Encumbrance
 
 **Note:** Combined Armor from all sources cannot exceed 3.
 
-| Weapon   | Damage | Cost (sp) | Notes   |
-|----------|--------|-----------|---------|
-| Unarmed  | 1      | -         |         |
-| Dagger   | d4     | 10        |         |
-| Mace     | d6     | 10        |         |
-| Staff    | d6     | 10        | *Bulky* |
-| Axe      | d6     | 20        |         |
-| Spear    | d8     | 20        | *Bulky* |
-| Sword    | d8     | 100       |         |
-| Poleaxe  | d10    | 50        | *Bulky* |
-| Sling    | d4     | 10        |         |
-| Bow      | d6     | 25        | *Bulky* |
-| Longbow  | d8     | 50        | *Bulky* |
-| Crossbow | d10    | 100       | *Bulky* |
+| Weapon                       | Damage | Cost (sp) | Notes   |
+|------------------------------|--------|-----------|---------|
+| Unarmed                      | d4     | -         |         |
+| Dagger, Club, Staff, etc     | d6     | 10        |         |
+| Sword, Mace, Axe, Spear, etc | d8     | 50        |         |
+| Poleaxe, Longsword, etc      | d10    | 100       | *Bulky* |
+| Sling                        | d4     | 10        |         |
+| Bow                          | d6     | 25        | *Bulky* |
+| Crossbow                     | d8     | 50        | *Bulky* |
 
 Table: Weapons
 
