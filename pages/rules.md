@@ -40,7 +40,7 @@ Start with the following:
 | 4  | Padded (1 Armor)                     | Axe (d6) & Shield (+1 Armor)           | Rope, 50 ft                         |
 | 5  | Padded (1 Armor)                     | Spear (d8, *bulky*)                    | Lockpicks                           |
 | 6  | Padded (1 Armor)                     | Bow (d8) & Arrows                      | Mule                                |
-| 7  | Chainmail (2 Armor)                  | Sword (d8)                             | Random spellbook (roll d20)         |
+| 7  | Chainmail (2 Armor, *bulky*)                  | Sword (d8)                             | Random spellbook (roll d20)         |
 
 ---
 
@@ -81,27 +81,19 @@ Table: XP & Levels
 
 ## Equipment & Encumbrance
 
-Exact weights of items are not tracked. Instead, a character has ten inventory slots. Items take up slots based on the following table:
+Exact weights of items are not tracked. Instead, a character has ten inventory slots. Generally, *items each take up one slot*. Though there are some exceptions:
 
-| Item             | Slots                                                      |
-|------------------|------------------------------------------------------------|
-| Significant item | 1                                                          |
-| Bulky item       | 2                                                          |
-| Petty item       | Any number of petty items of the same type may share 1 slot|
-| Armor            | 1 per point of Armor                                       |
-| Food             | 3 days per slot                                            |
-| Water            | 1 day per slot                                             |
-| Coins            | 500 coins per slot                                         |
+* *Bulky* items take up 2 slots
+* *Petty* items take up no slots
+* *Coins* take up 1 slot for every 500 coins
 
-Table: Item Slots
-
-| Type      | Armor | Slots | Cost (sp) |
-|-----------|-------|-------|-----------|
-| Unarmored | 0     | -     | -         |
-| Shield    | +1    | 1     | 10        |
-| Padded    | 1     | 1     | 30        |
-| Chainmail | 2     | 2     | 100       |
-| Plate     | 3     | 3     | 1000      |
+| Type      | Armor | Cost (sp) | Notes   |
+|-----------|-------|-----------|---------|
+| Unarmored | 0     | -         |         |
+| Shield    | +1    | 10        |         |
+| Padded    | 1     | 30        |         |
+| Chainmail | 2     | 100       | *Bulky* |
+| Plate     | 3     | 1000      | *Bulky* |
 
 Table: Armor & Encumbrance
 
@@ -129,11 +121,11 @@ Table: Weapons
 | Item                | Cost (sp) | Notes                                      |
 |---------------------|-----------|--------------------------------------------|
 | Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
-| Torch               | 1         | Lasts 1 hours per torch                    |
+| Torch               | 1         | Lasts 3 hours per torch                    |
 | Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
-| Rations, three days | 1         |                                            |
-| Feed, three days    | 1         |                                            |
-| Waterskin, one day  | 1         |                                            |
+| Rations, three days | 1         | Three days of rations takes up one slot    |
+| Feed, three days    | 1         | Three days of feed takes up one slot       |
+| Waterskin, one day  | 1         | One day of water takes up one slot         |
 | Hammer              | 6         | For setting spikes                         |
 | Pickaxe             | 6         | Move a 5ft cube of rock every 4 hours      |
 | Rope, hemp, 50ft    | 10        | Can lift 500 lb without breaking           |
