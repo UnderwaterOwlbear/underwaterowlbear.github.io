@@ -1,7 +1,7 @@
 ---
 title: Cairn House Rules
 author: Tyler Farrington
-date: 2023-08-02
+date: 2023-08-03
 exclude: false
 ---
 
