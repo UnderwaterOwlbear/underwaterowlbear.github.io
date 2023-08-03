@@ -1,7 +1,7 @@
 ---
 title: Cairn Bestiary
 author: Tyler Farrington
-date: 2023-01-23
+date: 2023-08-03
 exclude: false
 ---
 
@@ -216,6 +216,13 @@ Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/
 
 - Large, with striped fur. Live in woodlands and colder regions.
 - Hunt alone, using their coloration to camouflage and surprise their victims.
+
+## Catoblepas
+
+7 HP, 1 Armor, 16 STR, 9 DEX, 13 WIL, tail (d8)
+
+- A monstrous creature with the body of a Cape buffalo, scales on its back, and the head of a wild boar. Its enormous head always points towards te ground.
+- **Paralyze**: Its stare turns a single target to stone. Moonlight reverses the effect.
 
 ## Cave Locust
 
@@ -642,12 +649,56 @@ Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/
 - Craves the flesh of the living, as it grows only more powerful with each victim.
 - Critical damage: target is immobilized. The wound turns fatal within 1d6 hours if not treated by a priest or skilled healer. If not burned, the victim will rise as a Ghoul.
 
-## Giant Catfish
+## Fish, Giant Catfish
 
 8 HP, 14 STR, bite (d8+d8)
 
 - Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.
 - Attack creatures that swim above their hiding spot.
+
+## Fish, Giant Electric Eel
+
+2 HP, 12 DEX, bite (d6)
+
+- 9’ long eels that live in warm, clear water.
+- Able to emit an electric shock, damaging all in the nearby water for d10.
+
+## Fish, Giant Pike
+
+4 HP, 14 DEX, bite (d6+d6)
+
+- 10’ long, aggressive hunting fish. Dwell in deep lakes.
+- Use their great speed to surprise victims.
+
+## Fish, Giant Piranha
+
+3 HP, 12 DEX, bite (d8)
+
+- 5’ long piranhas with colorful scales. Live in rivers and attack anything in the water.
+- Dwell in large groups and overwhelm victims by swarming them.
+- Once it smells blood, it will not stop attacking.
+
+## Fish, Giant Rockfish
+
+5 HP, 1 Armor, 12 STR, spine (d6)
+
+- Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.
+- Camouflages in rocks and coral formations.
+- Critical damage: The spines release a highly lethal poison (d8 extra STR damage).
+
+## Fish, Giant Sturgeon
+
+10 HP, 2 Armor. 14 STR
+
+- Huge, 30’ long, aggressive armored fish.
+- Swallow its victims whole if able.
+
+## Fish, Giant Swordfish
+
+3 HP, 12 DEX, sword (d8)
+
+- Long saltwater fish with a bone sword on the snout. Mostly peaceful.
+- The bone sword might be used as a longsword(d8) if removed whole.
 
 ## Giant, Cloud
 
@@ -656,13 +707,6 @@ Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/
 - 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.
 - Cannot be surprised due to its keen sight and smell senses.
 - Can envelop itself in a wind aura, impairing missile attacks.
-
-## Giant Electric Eel
-
-2 HP, 12 DEX, bite (d6)
-
-- 9’ long eels that live in warm, clear water.
-- Able to emit an electric shock, damaging all in the nearby water for d10. 31
 
 ## Giant, Fire
 
@@ -688,29 +732,6 @@ Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/
 - Low intelligence, relies only on its ferocity.
 - Frequently attack settlements for food.
 
-## Giant Pike
-
-4 HP, 14 DEX, bite (d6+d6)
-
-- 10’ long, aggressive hunting fish. Dwell in deep lakes.
-- Use their great speed to surprise victims.
-
-## Giant Piranha
-
-3 HP, 12 DEX, bite (d8)
-
-- 5’ long piranhas with colorful scales. Live in rivers and attack anything in the water.
-- Dwell in large groups and overwhelm victims by swarming them.
-- Once it smells blood, it will not stop attacking.
-
-## Giant Rockfish
-
-5 HP, 1 Armor, 12 STR, spine (d6)
-
-- Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.
-- Camouflages in rocks and coral formations.
-- Critical damage: The spines release a highly lethal poison (d8 extra STR damage).
-
 ## Giant, Stone
 
 12 HP, 2 Armor, 16 STR, 14 DEX, stone club (d10+d10)
@@ -726,20 +747,6 @@ Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/
 - 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.
 - Unharmed by lightning, can summon storms at their will.
 - Can summon lightning bolts to attack nearby enemies for d12 damage.
-
-## Giant Sturgeon
-
-10 HP, 2 Armor. 14 STR
-
-- Huge, 30’ long, aggressive armored fish.
-- Swallow its victims whole if able.
-
-## Giant Swordfish
-
-3 HP, 12 DEX, sword (d8)
-
-- Long saltwater fish with a bone sword on the snout. Mostly peaceful.
-- The bone sword might be used as a longsword(d8) if removed whole.
 
 ## Gnoll
 
