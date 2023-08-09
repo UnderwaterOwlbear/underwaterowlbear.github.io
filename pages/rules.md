@@ -1,7 +1,7 @@
 ---
 title: Cairn House Rules
 author: Tyler Farrington
-date: 2023-08-03
+date: 2023-08-09
 exclude: false
 ---
 
@@ -119,7 +119,7 @@ Table: Weapons
 | Torch               | 1         | Lasts 3 hours per torch                    |
 | Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
 | Rations, three days | 1         | Three days of rations takes up one slot    |
-| Feed, three days    | 1         | Three days of feed takes up one slot       |
+| Feed, one day       | 1         | One day of feed takes up one slot          |
 | Waterskin, one day  | 1         | One day of water takes up one slot         |
 | Hammer              | 6         | For setting spikes                         |
 | Pickaxe             | 6         | Move a 5ft cube of rock every 4 hours      |
@@ -129,16 +129,15 @@ Table: Weapons
 
 Table: Adventuring Gear
 
-| Transport     | Cost (sp) | Carrying Capacity (slots) | Feed per day    | **WIL** |
-|---------------|-----------|---------------------------|-----------------|---------|
-| Mule          | 30        | 20                        | 1               | 10      |
-| Horse, Riding | 50        | 30                        | 2               | 8       |
-| Horse, War    | 150       | 40                        | 2               | 12      |
-| Horse, Draft  | 100       | 50                        | 3               | 10      |
-| Ox            | 100       | 60                        | 3               | 6       |
-| Cart, hand    | 5         | 2x carrying capacity      |                 |         |
-| Cart, draft   | 10        | 2x carrying capacity      |                 |         |
-| Wagon         | 30        | 4x carrying capacity      |                 |         |
+| Transport     | Cost (sp) | Carrying Capacity (slots) | Notes                            |
+|---------------|-----------|---------------------------|----------------------------------|
+| Mule          | 30        | 20                        | **WIL** 10                       |
+| Horse, Riding | 60        | 20                        | **WIL** 8                        |
+| Horse, War    | 150       | 30                        | **WIL** 12, requires double feed |
+| Ox            | 100       | 60                        | **WIL** 6                        |
+| Cart, hand    | 5         |                           | 2x carrying capacity             |
+| Cart, draft   | 10        |                           | 2x carrying capacity             |
+| Wagon         | 30        |                           | 4x carrying capacity             |
 
 Table: Transportation
 
