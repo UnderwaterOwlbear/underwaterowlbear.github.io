@@ -40,7 +40,7 @@ Start with the following:
 | 4  | Padded (1 Armor)                     | Axe (d6) & Shield (+1 Armor)           | Rope, 50 ft                         |
 | 5  | Padded (1 Armor)                     | Spear (d8, *bulky*)                    | Lockpicks                           |
 | 6  | Padded (1 Armor)                     | Bow (d8) & Arrows                      | Mule                                |
-| 7  | Chainmail (2 Armor, *bulky*)                  | Sword (d8)                             | Random spellbook (roll d20)         |
+| 7  | Chainmail (2 Armor, *bulky*)         | Sword (d8)                             | Random spellbook (roll d20)         |
 
 ---
 
