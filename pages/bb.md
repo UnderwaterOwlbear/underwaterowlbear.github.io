@@ -1,9 +1,24 @@
 ---
-title: Barrows & Basilisks v1.16
+title: Barrows & Basilisks v1.17
 author: Tyler Farrington
-date: 2023-04-16
-exclude: true
+date: 2023-09-04
+exclude: false
 ---
+
+* TOC
+{:toc}
+
+---
+
+## Acknowledgements
+
+* [*Whitebox: Fantastic Medieval Adventure Game*](https://drivethrurpg.com/en/product/190631/White-Box--Fantastic-Medieval-Adventure-Game) by Charlie Mason for the core rules.
+* [*Necropraxis*](https://www.necropraxis.com/) by Brendan Strejcek, for many odds and ends.
+* [*Traverse Fantasy*](https://traversefantasy.blogspot.com/) by Marcia B., for her in-depth mathematical investigations of *OD&D*.
+* [*Dreaming Dragonslayer*](https://dreamingdragonslayer.wordpress.com/2023/05/13/into-the-odd-fleeing-the-dungeon/) for consequences from fleeing the dungeon.
+* [*Goblin Punch*](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html) by Arnold K, for THE UNDERCLOCK.
+* [*Odd Skull*](https://oddskullblog.wordpress.com/2021/11/15/combat-maneuvers-the-easy-way/) for combat manuevers.
+* [*Wonder & Wickedness*](https://drivethrurpg.com/en/product/145647/Wonder--Wickedness) by Brendan Strejcek, for its magic system.
 
 ## Character Creation
 
@@ -11,14 +26,11 @@ exclude: true
 
 If coming from other old-school games, these are the assumptions used for a few important rules:
 
-- HD are d6.
-- Reroll all HD each long rest.
-- To-hit bonus equal to HD.
-- Ascending AC with unarmored AC = 10.
-- Single saving throw (roll-over).
-- Spellcasting as in _Wonder & Wickedness_
-
-**Advantage & Disadvantage** When a character has advantage on a roll, roll two dice instead of one and take the better result. When a character has disadvantage on a roll, roll two dice instead of one and take the worse result.
+* HD are d6.
+* To-hit bonus equal to HD.
+* Ascending AC with unarmored AC = 10.
+* Single saving throw (roll-over).
+* Spellcasting as in *Wonder & Wickedness*
 
 ### Ability Scores
 
@@ -27,7 +39,7 @@ Roll 3d6 for each ability score. Scores of 14 or higher grant the bonus indicate
 | Ability       | Bonus for High (14+) Score                   |
 |---------------|----------------------------------------------|
 | Strength      | +1 damage in melee, +1 to open doors         |
-| Dexterity     | +1 damage with missiles, +1 to flee          |
+| Dexterity     | +1 damage with missiles, +1 to initiative          |
 | Constitution  | +3 HP                                        |
 | Intelligence  | +1 spell known at 1st level                  |
 | Wisdom        | Start with 500 XP (instead of 0 XP)          |
@@ -59,12 +71,10 @@ When a character gains a level, reroll all of their HD. If the total of the resu
 
 Table: Fighter Levels
 
-**Weapons** Any  
-**Armor** Any  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become a Lord (or Lady) and can rule over a manor and its subjects.  
-**Cleave** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
-**Shields Shall Be Splintered** A fighter may sunder his shield to negate all damage from a single melee or missile attack.  
+**Weapons:** Any  
+**Armor:** Any  
+**Cleave:** Upon slaying an enemy, a fighter may immediately make an additional attack against an enemy within reach.  
+**Shields Shall Be Splintered:** A fighter may sunder his shield to negate all damage from a single melee or missile attack.  
 
 #### Mage
 
@@ -82,42 +92,37 @@ Table: Fighter Levels
 
 Table: Mage Levels
 
-**Weapons** Simple  
-**Armor** None  
-**Shields?** No  
-**Name Level** When they reach 9th level, they become a Wizard (or Witch), and can build a tower (or hut) to train apprentices.  
-**Spellcasting** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
-**Spell Level** Mage spells are considered to be of a level equal to the casting mage's level.  
+**Weapons:** Simple  
+**Armor:** None  
+**Spellcasting:** Mages may memorize and cast a number of spells per day as indicated by the table above. Mages start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Mages must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
+**Spell Level:** Mage spells are considered to be of a level equal to the casting mage's level.  
 
 #### Thief
 
-| Level | XP      | HD | Save | To-Hit | Hear Noise | Surprise | Thievery |
-|-------|---------|----|------|--------|------------|----------|----------|
-| 1     | 0       | 1  | 14+  | +1     | 5+         | 5+       | 6+       |
-| 2     | 1,500   | 1  | 13+  | +1     | 5+         | 5+       | 6+       |
-| 3     | 3,000   | 2  | 12+  | +2     | 4+         | 4+       | 5+       |
-| 4     | 6,000   | 2  | 11+  | +2     | 4+         | 4+       | 5+       |
-| 5     | 12,000  | 3  | 10+  | +3     | 3+         | 3+       | 4+       |
-| 6     | 24,000  | 3  | 9+   | +3     | 3+         | 3+       | 4+       |
-| 7     | 48,000  | 4  | 8+   | +4     | 2+         | 2+       | 3+       |
-| 8     | 96,000  | 4  | 7+   | +4     | 2+         | 2+       | 3+       |
-| 9     | 192,000 | 5  | 6+   | +5     | 2+         | 2+       | 2+       |
+| Level | XP      | HD | Save | To-Hit | Surprise | Thievery |
+|-------|---------|----|------|--------|----------|----------|
+| 1     | 0       | 1  | 14+  | +1     | 5+       | 6+       |
+| 2     | 1,500   | 1  | 13+  | +1     | 5+       | 6+       |
+| 3     | 3,000   | 2  | 12+  | +2     | 4+       | 5+       |
+| 4     | 6,000   | 2  | 11+  | +2     | 4+       | 5+       |
+| 5     | 12,000  | 3  | 10+  | +3     | 3+       | 4+       |
+| 6     | 24,000  | 3  | 9+   | +3     | 3+       | 4+       |
+| 7     | 48,000  | 4  | 8+   | +4     | 2+       | 3+       |
+| 8     | 96,000  | 4  | 7+   | +4     | 2+       | 3+       |
+| 9     | 192,000 | 5  | 6+   | +5     | 2+       | 2+       |
 
 Table: Thief Levels
 
-**Weapons** Simple and Missile  
-**Armor** Light  
-**Shields?** No  
-**Name Level** When they reach 9th level, they become a Master Thief, and can set up a hideout to attract fellow criminals.  
-**Backstab** Thieves have advantage on attacks against, and deal double damage to, surprised opponents.  
-**Hear Noise** is the result on a d6 with which a thief can hear noises when listening at doors.  
-**Surprise** is the result on a d6 with which the thief (independent of the party) can surprise enemies.  
-**Thievery** is the result on a d6 which which the thief can perform acts of larceny, such as:
+**Weapons:** Simple and Missile  
+**Armor:** Light  
+**Backstab:** Thieves deal double damage to surprised opponents.  
+**Surprise** is the result on a d6 with which the thief can surprise opponents. This is rolled separately from the rest of the party, which may result in the thief surprising his opponents, but the rest of the party not.
+**Thievery** is the result on a d6 with which the thief can perform acts of larceny, such as:
 
-- Climb sheer surfaces
-- Open locks
-- Find & disable traps
-- Pick pockets
+* Climb sheer surfaces
+* Open locks
+* Find & disable traps
+* Pick pockets
 
 #### Elf
 
@@ -135,13 +140,11 @@ Table: Thief Levels
 
 Table: Elf Levels
 
-**Weapons** Simple and Missile  
-**Armor** Medium  
-**Shields?** No  
-**Name Level** When they reach 9th level, they become an Elf Prince (or Princess) and assume leadership of a secluded grove or valley, and its settlement of elves.  
-**Spellcasting** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
-**Spell Level** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
-**Keen Senses** Elves hear noises on a roll of 4+, and can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
+**Weapons:** Simple and Missile  
+**Armor:** Medium & Shields  
+**Spellcasting:** Elves may memorize and cast a number of spells per day as indicated by the table above. Elves start with three spells written in their grimoire, and can transcribe more into their grimoire from scrolls. Elves must study their grimoire (a **bulky** item) for 1 hour to memorize that day's spells.  
+**Spell Level:** Elf spells are considered to be of a level equal to ½ of the casting elf's level (round down).  
+**Keen Senses:** Elves can detect secret doors when entering a room with a roll of 5+ on a d6 (no time spent searching is needed for this roll).
 
 #### Dwarf
 
@@ -159,31 +162,29 @@ Table: Elf Levels
 
 Table: Dwarf Levels
 
-**Weapons** Any  
-**Armor** Any  
-**Shields?** Yes  
-**Name Level** When they reach 9th level, they become a Dwarf Lord (or Dwarf Lady) and can build or take over a mine and its dwarven workers.  
-**Shields Shall Be Splintered** A dwarf may sunder his shield to negate all damage from a single melee or missile attack.  
-**Greed** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
-**Grudge** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
+**Weapons:** Any  
+**Armor:** Any  
+**Shields Shall Be Splintered:** A dwarf may sunder his shield to negate all damage from a single melee or missile attack.  
+**Greed:** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
+**Grudge:** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
 
-## Equipment
+## Equipment & Encumbrance
 
-### Encumbrance & Movement
+Exact weights of items are not tracked. Instead, a character has ten inventory slots. Generally, *items each take up one slot*. Though there are some exceptions:
 
-**Unencumbered Load** A person can carry up to ten (10) items. Some items are **bulky** -- these require two hands to carry or wield, and count as two items for encumbrance purposes. Some items are **tiny** -- any number of the same type of **tiny** items fit into the same slot. A purse of 300 coins counts as one item.
-
-**Encumbered Load** A person can carry up to an additional ten (10) items (for a total of twenty). When they are carrying more than ten items, they are **encumbered**, and movement speed is halved. When mounted, movement speed in combat is doubled.
+* *Bulky* items take up 2 slots
+* *Petty* items take up no slots
+* *Coins* take up 1 slot for every 500 coins
 
 ### Gear
 
-| Armor        | AC | Cost    | Encumbrance as... | Examples                                   |
-|--------------|----|---------|-------------------|--------------------------------------------|
-| Unarmored    | 10 | -       | -                 | -                                          |
-| Light Armor  | 12 | 10sp    | 2 items           | Quilted gambeson, mail shirt |
-| Medium Armor | 14 | 250sp   | 4 items           | Mail hauberk, brigandine     |
-| Heavy Armor  | 16 | 3,000sp | 6 items           | Bronze breastplate, full plate     |
-| Shield       | +1 | 10sp    | 1 item            |                                            |
+| Armor        | AC | Cost    | Notes   | Examples                       |
+|--------------|----|---------|---------|--------------------------------|
+| Unarmored    | 10 | -       |         |                                |
+| Light Armor  | 12 | 10sp    |         | Quilted gambeson, mail shirt   |
+| Medium Armor | 14 | 250sp   | *bulky* | Mail hauberk, brigandine       |
+| Heavy Armor  | 16 | 3,000sp | *bulky* | Bronze breastplate, full plate |
+| Shield       | +1 | 10sp    |         |                                |
 
 Table: Armor and Shields
 
@@ -202,50 +203,36 @@ Table: Weapons
 **Bulky** weapons must be wielded in two hands, in addition to counting as two items for encumbrance purposes.  
 **Missile** weapons may be loosed in the missile phase of combat, and require ammunition. Roll a d6 after each combat in which a missile weapon was used. On a 1 or 2, you are out of ammo.  
 
-| Item               | Cost | Slots | Notes                                 |
-|--------------------|------|-------|---------------------------------------|
-| Backpack, leather  | 4c   | -     | Holds 10 slots                        |
-| Sack, large        | 2c   | -     | Holds 8 slots                         |
-| Sack, small        | 1c   | -     | Holds 3 slots                         |
-| Bedroll            | 2c   | 2     | Heal d3 HP per night                  |
-| Tent, one-person   | 5c   | 4     | Heal d6 HP per night                  |
-| Tent, three-person | 10sp | 8     | Heal d6 HP per night                  |
-| Candles, four      | 1c   | 1     | Enough light for 2 people             |
-| Torch              | 1c   | 1     | Enough light for 4 people             |
-| Tinderbox          | 2c   | -     | Light fire with 5+ on d6              |
-| Rations, one day   | 1c   | 1     |                                       |
-| Waterskin, one day | 1c   | 2     |                                       |
-| Cross              | 25c  | 1     | Undead must save to attack bearer     |
-| Grimoire           | 30c  | 1     | 100 pages, 1 page per spell level     |
-| Hammer             | 2c   | 1     |                                       |
-| Pickaxe            | 5c   | 1     | Move a 5ft cube of rock every 4 hours |
-| Pole, 10ft         | 1c   | 1     |                                       |
-| Rope, 100ft        | 2c   | 1     |                                       |
-| Shovel             | 3c   | 1     | Move a 5ft cube of dirt every 2 hours |
-| Spikes, iron, six  | 1c   | 1     | Wedge doors open or shut              |
+| Item               | Cost (sp) | Notes                                 |
+|--------------------|-----------|---------------------------------------|
+| Bedroll            | 2         | Heal d3 HP per night                  |
+| Tent               | 5         | Heal d6 HP per night, *bulky*         |
+| Candles, four      | 1         | Enough light for 2 people             |
+| Torch              | 1         | Enough light for 4 people             |
+| Tinderbox          | 2         | Light fire with 5+ on d6              |
+| Rations, one day   | 1         |                                       |
+| Waterskin, one day | 1         | *Bulky*                               |
+| Feed, one day      | 1         |                                       |
+| Hammer             | 2         |                                       |
+| Pickaxe            | 5         | Move a 5ft cube of rock every 4 hours |
+| Pole, 10ft         | 1         |                                       |
+| Rope, 100ft        | 2         |                                       |
+| Shovel             | 3         | Move a 5ft cube of dirt every 2 hour  |
+| Spikes, iron, six  | 1         | Wedge doors open or shut              |
 
 Table: Adventuring Gear
 
-| Transport   | Cost     |
-|:------------|---------:|
-| Cart, hand  | 5sp      |
-| Cart, draft | 10sp     |
-| Wagon       | 30sp     |
-| Mule        | 30sp     |
-| Horse       | 50sp     |
-| Warhorse    | 100sp    |
-| Canoe       | 50sp     |
-| Longship    | 10,000sp |
+| Transport     | Cost (sp) | Carrying Capacity (slots) | Notes                            |
+|---------------|-----------|---------------------------|----------------------------------|
+| Mule          | 30        | 20                        | Morale 8                       |
+| Horse, Riding | 60        | 20                        | Morale 7                        |
+| Horse, War    | 150       | 30                        | Morale 9, requires double feed |
+| Ox            | 100       | 60                        | Morale 6                        |
+| Cart, hand    | 5         |                           | 2x carrying capacity             |
+| Cart, draft   | 10        |                           | 2x carrying capacity             |
+| Wagon         | 30        |                           | 4x carrying capacity             |
 
 Table: Transportaion
-
-**Carts** double (2x) the carrying capacity of the user.  
-**Wagons** quadruple (4x) the carrying capacity of the user.  
-**Mules** have a morale score of 7, and are only as fast as a walking person. Can carry 30 items unencumbered, or 60 items when encumbered. They require food and water as one (1) person.  
-**Horses** have a morale score of 6, and double movement speed. They can carry 40 items unencumbered, or 80 items when encumbered. A rider counts as 20 items (max 2 riders). They require food and water as four (4) people.  
-**Warhorses** are as horses, but have a morale score of 9.  
-**Canoe** Carries 2 men and 300 items of cargo, counts as a **bulky** item when portaging.  
-**Longships** can carry 40 oarsmen, and sail at speeds of 10 mph.  
 
 ### Hirelings
 
@@ -280,13 +267,13 @@ To determine surprise, roll a d6 for each side that is unaware of their enemies.
 
 **Common situations where players may surprise monsters:**.
 
-- Bursting through a door on the first try.
-- Entering a room by picking the a locked door.
+* Bursting through a door on the first try.
+* Entering a room by picking the a locked door.
 
 **Common situations where monsters may surprise players:**
 
-- The party has no light sources.
-- The party enters a room after an unsuccessful attempt to force the door, if the party did not hear any noises before entering.
+* The party has no light sources.
+* The party enters a room after an unsuccessful attempt to force the door, if the party did not hear any noises before entering.
 
 ### Reactions
 
@@ -347,13 +334,9 @@ Some effects require characters to make saving throws. To do so, roll a d20 and 
 
 **Bind Wounds** Characters may bind their wounds after combat to restore 1d6 HP of damage sustained in that fight.
 
-**Rest & Healing** Resting in camp for a night restores all HP (up to their maximum HP value).
+**Rest & Healing** Resting in camp for a night restores HP depending on the comfort of their camp. Resting in town or another civilized location for a week allows characters to restore all of their HP.
 
-**Deprivation** If a character is lacking food, water, or shelter, they are **deprived** and cannot regain HP.
-
-**Rerolling HD** Resting in town for a week allows characters to reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
-
-**Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters require a week's rest in camp or town to reroll HP (instead of a night's rest).
+**Grievous Wounds** When a combatant reaches 0 HP, they must make a saving throw. On a failure, they die. On a success, they are merely grievously wounded -- roll on the table below to determine their injuries. When grievously wounded, characters may require rest in town to recover from their injuries.
 
 | 2d6 | Grevious Wound                                                                                         |
 |-----|--------------------------------------------------------------------------------------------------------|
@@ -396,29 +379,25 @@ Table: Morale Scores
 
 ## Dungeon Delving
 
-### Turns
+**The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll 1d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
-One turn of dungeon exploration takes about ten (10) minutes, and generally allows the party to take one action, such as:  
+**Turns**: One turn of dungeon exploration takes about ten minutes, and generally allows the party to take one action, such as:  
 
-- Move to the next room
-- Open a stuck or locked door
-- Search the current room
-- Rest and bind wounds
-- Interact with a feature of the room, such as a trap
+* Open a stuck or locked **door**
+* Search the room thoroughly, revealing **traps** and **secret doors**
+* Take a **short rest**
+* Interact with a feature of the room, such as a **trap**
+* Move to the next room
 
-### The Clock
+**Darkness**: When the party does not have a light source, 2d6 is rolled against the dungeon clock each turn instead of 1d6, and they are unable to find traps or secret doors regardless of time spent searching.
 
-When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll a d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
-
-### Treasure Depletion
-
-When the party leaves a dungeon, 20% of the remaining treasure is lost or moved to a lower level of the dungeon.
+**Treasure Depletion:** When the party leaves a dungeon, 20% of the remaining treasure is lost or moved to a lower level of the dungeon.
 
 ### Doors
 
 **Forcing Doors** All doors are stuck and must be burst open by force with a roll of 5+ on a d6. A failed attempt makes surprising whatever is behind the door impossible.
 
-**Hear Noises** Characters can listen at doors and attempt to hear if the room is occupied on a roll of 5+ on a d6. Note that the undead make no sound.
+**Hear Noises** Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
 **Secret doors** require the room they are in to be searched completely (takes one turn, sometimes more for larger rooms) Some doors are locked, and require a key or a thief to pick the lock to open.
 
@@ -434,33 +413,12 @@ When the party leaves a dungeon, 20% of the remaining treasure is lost or moved 
 
 ## Wilderness Travel
 
-### Timekeeping
+Wilderness travel turns take place over turns of one day in length. Each day, the party may take one of the following actions:
 
-**Watches** are a period of 8 hours. There are three (3) watches in a day. In summer, two (2) of these watches are daylight, and one (1) is nighttime. This is reversed in the winter months.  
-
-During daylight watches, travelers can take one of the following actions as a group:
-
-- Move 2d6 miles towards another area
-- Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
-- Explore the current area to reveal landmarks
-- Travel within the current area to a discovered landmark
-
-Travelers must consume 1 unit of **supply** per person each day, or they become **deprived** and cannot regain HP. Travelers usually rest in camp overnight, but can conduct a forced march if needed (move 1d6 miles during a nighttime watch, and become **deprived**).
-
-### Wilderness Events
-
-Every watch of travel, roll a d6 on the event table below.
-
-| d6 | Event |
-|:--:|:---------|
-| 1  | **Encounter** Roll an encounter on the appropriate wandering monster table.  |
-| 2  | **Clue** Roll the next encounter on the appropriate wandering monster table and foreshadow it with a clue (sound, smell, or sight).  |
-| 3  | **Exhaustion** Encumbered characters must spend an entire day (3 watches) resting.   |
-| 4  | **Lost** You are lost. Find a landmark to resume travel.     |
-| 5  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
-| 6  | **Free**, no effect   |
-
-Table: Wilderness Event Rolls
+* Move 2d6+8 miles towards another area
+* Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
+* Explore the current area to reveal landmarks
+* Travel within the current area to a discovered landmark
 
 ## Magic
 
@@ -584,7 +542,7 @@ Buffeting winds prevent missile attacks from harming those within. Protects one 
 
 #### Wizard Lock
 
-Locks one door, chest, window, or similar portal. Requires a _knock_ spell or similar magic to open.
+Locks one door, chest, window, or similar portal. Requires a *knock* spell or similar magic to open.
 
 ## Domains
 
@@ -594,9 +552,9 @@ At 9th level, a character can begin ruling their own domain. This might take the
 
 Manors consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
-- Wilderness: d6-3 households per square mile
-- Borderlands: d6 households per square mile
-- Heartland: d6+3 households per square mile
+* Wilderness: d6-3 households per square mile
+* Borderlands: d6 households per square mile
+* Heartland: d6+3 households per square mile
 
 The typical manor for a 9th level fighter is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain approximately 10 households.
 
@@ -657,3 +615,7 @@ Monsters are able to see in complete darkness. When converting monsters from oth
 | 15 | 60 | +15          | 4+           | 2900       |
 
 Table: Monsters by HD
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Cairn House Rules</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://underwaterowlbear.github.io/" property="cc:attributionName" rel="cc:attributionURL">Tyler Farrington AKA Underwater Owlbear</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
