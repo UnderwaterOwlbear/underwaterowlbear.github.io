@@ -1,7 +1,7 @@
 ---
 title: Cairn House Rules
 author: Tyler Farrington
-date: 2023-08-09
+date: 2023-12-03
 exclude: false
 ---
 
@@ -220,7 +220,7 @@ Ability scores and **HP** are restored by resting:
 
 ## Dungeon Delving
 
-**The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MTG* for this). Each turn, roll 1d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
+**The Clock**: When you enter the dungeon, the clock starts at 20 (use a spindown d20 from *MtG* for this). Each turn, roll 1d6 and subtract the result from the clock. When the clock hits 0, a wandering monster is encountered and the clock resets to 20.
 
 **Turns**: One turn of dungeon exploration takes about ten minutes, and generally allows the party to take one action, such as:  
 
@@ -347,4 +347,4 @@ Table: Morale-to-WIL Conversion
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Cairn House Rules</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://underwaterowlbear.github.io/" property="cc:attributionName" rel="cc:attributionURL">Tyler Farrington AKA Underwater Owlbear</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://underwaterowlbear.github.io/pages/rules.html" rel="dct:source">https://underwaterowlbear.github.io/pages/rules.html</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Cairn House Rules</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://underwaterowlbear.github.io/" property="cc:attributionName" rel="cc:attributionURL">Tyler Farrington AKA Underwater Owlbear</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
