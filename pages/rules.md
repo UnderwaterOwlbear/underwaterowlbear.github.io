@@ -64,7 +64,7 @@ When a character gains a level, do the following:
 2. Increase HP by +1
 
 | Level | XP      |
-|-------|---------|
+|-------|--------:|
 | 1     | 0       |
 | 2     | 2,000   |
 | 3     | 4,000   |
@@ -88,7 +88,7 @@ Exact weights of items are not tracked. Instead, a character has ten inventory s
 * *Coins* take up 1 slot for every 500 coins
 
 | Type      | Armor | Cost (sp) | Notes   |
-|-----------|-------|-----------|---------|
+|-----------|-------|----------:|---------|
 | Unarmored | 0     | -         |         |
 | Shield    | +1    | 10        |         |
 | Padded    | 1     | 30        |         |
@@ -100,7 +100,7 @@ Table: Armor & Encumbrance
 **Note:** Combined Armor from all sources cannot exceed 3.
 
 | Weapon                       | Damage | Cost (sp) | Notes   |
-|------------------------------|--------|-----------|---------|
+|------------------------------|--------|----------:|---------|
 | Unarmed                      | d4     | -         |         |
 | Dagger, Club, Staff, etc     | d6     | 10        |         |
 | Sword, Mace, Axe, Spear, etc | d8     | 50        |         |
@@ -114,7 +114,7 @@ Table: Weapons
 **Note:** *Bulky* weapons must be wielded in two hands.
 
 | Item                | Cost (sp) | Notes                                      |
-|---------------------|-----------|--------------------------------------------|
+|---------------------|----------:|--------------------------------------------|
 | Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
 | Torch               | 1         | Lasts 3 hours per torch                    |
 | Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
@@ -130,7 +130,7 @@ Table: Weapons
 Table: Adventuring Gear
 
 | Transport     | Cost (sp) | Carrying Capacity (slots) | Notes                            |
-|---------------|-----------|---------------------------|----------------------------------|
+|---------------|----------:|--------------------------:|----------------------------------|
 | Mule          | 30        | 20                        | **WIL** 10                       |
 | Horse, Riding | 60        | 20                        | **WIL** 8                        |
 | Horse, War    | 150       | 30                        | **WIL** 12, requires double feed |
