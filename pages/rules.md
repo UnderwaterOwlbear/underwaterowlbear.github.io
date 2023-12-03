@@ -12,7 +12,7 @@ exclude: false
 
 These are my house rules for running *DnD*-like games.
 
-> *Design notes will be italicized blockquotes throughout the text for information on the intent behind a rule.*
+> Design notes will be in blockquotes throughout the text, for information on the intent behind a rule.
 
 ## Acknowledgements
 
@@ -46,7 +46,8 @@ Start with the following:
 | 6  | Padded (1 Armor)                     | Bow (d8) & Arrows                      | Mule                                |
 | 7  | Chainmail (2 Armor, *bulky*)         | Sword (d8)                             | Random spellbook (roll d20)         |
 
-> *I wanted to have a random gear generation system like Into the Odd, but didn't want the implied worldbuilding that comes from tables of preset character classes. This table keeps a more generic fantasy feel while still giving some variation between characters and role incentivization based on ability scores.*
+> I wanted to have a random gear generation system like Into the Odd, but didn't want the implied worldbuilding that comes from tables of preset character classes. This table keeps a more generic fantasy feel while still giving some variation between characters and role incentivization based on ability scores.
+
 ---
 
 ## Saving Throws
@@ -82,7 +83,7 @@ When a character gains a level, do the following:
 
 Table: XP & Levels
 
-> *I wanted XP and leveling included for two reasons. Firstly, incentivize adventuring with GP-for-XP. Secondly, keep some familiarity with vanilla* DnD *to make for an easier transition for players used to those games. Giving only +1 HP per level minimizes HP bloat while still making combats feel as though the character is improving.*
+> I wanted XP and leveling included for two reasons. Firstly, incentivize adventuring with GP-for-XP. Secondly, keep some familiarity with vanilla DnD to make for an easier transition for players used to those games. Giving only +1 HP per level minimizes HP bloat while still making combats feel as though the character is improving.
 
 ---
 
@@ -152,7 +153,7 @@ Table: Transportation
 
 **Note:** Feed consumed per day assumes freely available water and forage (such as grass or other undergrowth).
 
-> *I like logistics, and find the planning of supply for an expedition interesting. These last two tables are based on a lot of real-world research on the use of beasts of burden in cross-country travel, and their feed requirements. This system has obviously been simplified quite a bit to make it gameable, and I think this strikes a nice balance between simplicity and interesting choices.*
+> I like logistics, and find the planning of supply for an expedition interesting. These last two tables are based on a lot of real-world research on the use of beasts of burden in cross-country travel, and their feed requirements. This system has obviously been simplified quite a bit to make it gameable, and I think this strikes a nice balance between simplicity and interesting choices.
 
 ---
 
@@ -199,7 +200,7 @@ Table: Reaction Roll Results
 
 **Withdraw**: When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the withdrawing combatant succeeds on a **DEX** save.
 
-> *Charge and withdraw are my attempts to incentivize some more movement in theater-of-the-mind combat.*
+> Charge and withdraw are my attempts to incentivize some more movement in theater-of-the-mind combat.
 
 ---
 
@@ -215,7 +216,7 @@ Table: Reaction Roll Results
 
 **Secret Passages**: Passing through a secret door will always evade a pursuer.
 
-> *I like the fleeing rules from OD&D, so tried to codify them here in a way that is more reliable and may encourage their use by players.*
+> I like the fleeing rules from OD&D, so tried to codify them here in a way that is more reliable and may encourage their use by players.
 
 ---
 
@@ -229,7 +230,7 @@ Ability scores and **HP** are restored by resting:
 * **Long rest**: Takes a night in camp and a ration. Heal all **HP** and heal d6 of one ability score.
 * **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP** and all ability scores.
 
-> *If you'll notice the spellcasting rules further down, spells cost at least 1 point of WIL to cast, and the max WIL that can be healed each day is 6. This builds in a "spells per day" mechanic without being too Vancian.*
+> If you'll notice the spellcasting rules further down, spells cost at least 1 point of WIL to cast, and the max WIL that can be healed each day is 6. This builds in a "spells per day" mechanic without being too Vancian.
 
 ---
 
@@ -249,7 +250,7 @@ Ability scores and **HP** are restored by resting:
 
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
 
-> *I believe that Arnold's UNDERCLOCK is a superior alternative to both Necropraxis's Hazard Die and The Angry DM's Tension Pool. I don't have to come up with events and spoors for the non-monster rolls on the Hazard Die, and the probabilities / time until encounter are easier for players to estimate than the Tension Pool. Just feels easier to run at the table in my opinion.*
+> I believe that Arnold's UNDERCLOCK is a superior alternative to both Necropraxis's Hazard Die and The Angry DM's Tension Pool. I don't have to come up with events and spoors for the non-monster rolls on the Hazard Die, and the probabilities / time until encounter are easier for players to estimate than the Tension Pool. Just feels easier to run at the table in my opinion.
 
 ---
 
@@ -275,7 +276,7 @@ Ability scores and **HP** are restored by resting:
 
 **Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an ability score on a failed save.
 
-> *Again, these trap and door rules are me trying to take mechanisms that are present in OD&D and make them fit into Cairn mechanics.*
+> Again, these trap and door rules are me trying to take mechanisms that are present in OD&D and make them fit into Cairn mechanics.
 
 ---
 
@@ -288,7 +289,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
-> *I don't like hexcrawls. Real maps, in real life, use square grids or none at all. I prefer to run wilderness travel as a pointcrawl, with encounters and level of danger determine by the difference regions that a path run through. Nodes / areas / points may have landmarks or secrets inside of them that the players must spend time in the area to uncover.*
+> I don't like hexcrawls. Real maps, in real life, use square grids or none at all. I prefer to run wilderness travel as a pointcrawl, with encounters and level of danger determine by the difference regions that a path run through. Nodes / areas / points may have landmarks or secrets inside of them that the players must spend time in the area to uncover.
 
 ---
 
@@ -306,7 +307,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 **Counterspells**: Any spellbook may be cast as a *counterspell* instead of it's normal spell. A counterspell protects one person per spell level from the effects of one spell.  
 
-> *This is my attempt at making something that ~feels~ like a traditional DnD magic-user, but without bolting any other subsystems onto the Cairn rules (classes, spell slots, Vancian memorization, etc). There is a blog post somewhere (that escapes me right now) that makes a case for "cast from HP" as a great fit for DnD. This is an extension of that. I may refine further to make the damage work more like actual damage (deplete HP first, then WIL). TBD.*
+> This is my attempt at making something that ~feels~ like a traditional DnD magic-user, but without bolting any other subsystems onto the Cairn rules (classes, spell slots, Vancian memorization, etc). There is a blog post somewhere (that escapes me right now) that makes a case for "cast from HP" as a great fit for DnD. This is an extension of that. I may refine further to make the damage work more like actual damage (deplete HP first, then WIL). TBD.
 
 ---
 
