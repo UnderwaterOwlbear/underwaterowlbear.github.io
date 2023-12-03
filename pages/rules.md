@@ -34,8 +34,8 @@ Start with the following:
 
 | d6 | Armor (+1 to roll if **STR** is >12) | Weapons (+1 to roll if **DEX** is >12) | Gear (+1 to roll if **WIL** is >12) |
 |----|--------------------------------------|----------------------------------------|-------------------------------------|
-| 1  | None                                 | Staff (d6, *bulky*) & Sling (d4)       | Hammer & Spikes, six                |
-| 2  | None                                 | Mace (d6) & Shield (+1 Armor)          | Torches, three & Tinderbox          |
+| 1  | None                                 | Staff (d6, *bulky*) & Sling (d4)       | Hammer & Spikes (6)                 |
+| 2  | None                                 | Mace (d6) & Shield (+1 Armor)          | Torches (3) & Tinderbox             |
 | 3  | None                                 | Daggers, two (2d4)                     | Shovel & Pickaxe                    |
 | 4  | Padded (1 Armor)                     | Axe (d6) & Shield (+1 Armor)           | Rope, 50 ft                         |
 | 5  | Padded (1 Armor)                     | Spear (d8, *bulky*)                    | Lockpicks                           |
