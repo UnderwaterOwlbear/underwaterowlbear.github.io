@@ -2,7 +2,7 @@
 title: Barrows & Basilisks v1.17
 author: Tyler Farrington
 date: 2023-09-04
-exclude: false
+exclude: true
 ---
 
 * TOC
