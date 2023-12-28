@@ -11,6 +11,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+navigation:
+  - title: Carrd
+   url: https://underwaterowlbear.carrd.co/
+
 # Theme-specific settings
 
 minima:
