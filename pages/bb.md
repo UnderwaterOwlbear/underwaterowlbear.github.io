@@ -1,8 +1,8 @@
 ---
 title: Barrows & Basilisks v1.17
 author: Tyler Farrington
-date: 2023-09-04
-exclude: true
+date: 2024-01-01
+exclude: false
 ---
 
 * TOC
@@ -309,8 +309,9 @@ To determine initiative within the combat round, each side rolls a d6 at the sta
 1. Magic, cast
 2. Missile
 3. Move
-4. Melee
-5. Magic, effect
+4. Melee, polearm
+5. Melee, hand
+6. Magic, effect
 
 **Casting Interruptions** A spellcaster who is hit by an attack while casting a spell must make a saving throw. If he fails, the spell is lost (as if it were cast) and no effect takes place.
 
@@ -418,7 +419,28 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 * Move 2d6+8 miles towards another area
 * Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
 * Explore the current area to reveal landmarks
-* Travel within the current area to a discovered landmark
+* Visit a discovered landmark within the current area
+
+Travelers must consume enough food and water each day, or they become **deprived** and cannot regain HD.
+
+### Forced March
+
+Travelers can conduct a forced march by foregoing making camp for the night, and traveling through the night instead. Travelers move a distance based on their overland speed as normal, however they are always surprised during encounters. Travelers will be **deprived** after a forced march for a number of nights equal to the number of forced marches they made.
+
+### Wilderness Events
+
+Every watch of travel, roll a d6 on the event table below.
+
+| d6 | Event |
+|:--:|:---------|
+| 1  | **Encounter** Roll an encounter on the appropriate encounter table.  |
+| 2  | **Clue** Roll the next encounter on the appropriate encounter table and foreshadow it with a clue (sound, smell, or sight).  |
+| 3  | **Weather** Roll a d6: (1-3) weather gets worse by one step, (4-6) weather gets better by one step.   |
+| 4  | **Free**, no effect   |
+| 5  | **Free**, no effect   |
+| 6  | **Free**, no effect   |
+
+Table: Wilderness Event Rolls
 
 ## Magic
 
