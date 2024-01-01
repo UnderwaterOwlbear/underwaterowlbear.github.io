@@ -36,7 +36,7 @@ All measurements are taken from the tank's hull.
 
 ## Your Tank
 
-Your tank starts with 6 hull points (HP). Track them by placing a D6 next to your tank.  
+Your tank starts with 6 HP. Track them by placing a D6 next to your tank.  
 Your tank's hull has four (4) facings.
 
 1. Front
@@ -117,14 +117,14 @@ All players eligible for upgrades should roll for them simultaneously. Upgrades 
 
 1. **Smoke Grenades** - Once in the game you may make a fire action that instead of shooting a tank deploys an approximately 4" x 2" smoke cloud up to D8" away from your tank, placed anywhere you would be usually able to shoot. For the remainder of the game this cloud blocks line of sight and may not be fired through or into by any tank, but can be driven through by any tank.
 2. **Armor-piercing Rounds** - You are equipped with D6 armor piercing rounds for the battle. These rounds add +2 to your score when rolling to hit, and this is in addition to the +1 for being at close range. You use these shells first and *cannot opt to not use them.* Once the last armor piercing rounds is fired you must place an additional blast marker on your tank.
-3. **Toolkit** - Once in the game you may make a special repair action. Restore D6 hull points. This cannot take you above your original number of hull points.
+3. **Toolkit** - Once in the game you may make a special repair action. Restore D6 HP. This cannot take you above your original number of HP.
 4. **Extra Armor** - Before battle commences choose either your front, both sides, or rear facings. The "to hit" value for that facing(s) is increased by 1 for the duration of the game.
 5. **Culin Hedgerow Cutter** - When your tank drives into an opponent's tank, you never lose a hull point and they always do. Also should you come into contact with an obstruction you take no damage.
 6. **Incendiary Rounds** - You are equipped with enough incendiary rounds to last the whole game. When you hit a tank and roll to see if **Something Exciting Happens!**, instead of the usual 5-6, if you score a 4-6 the result is automatically **"We're on fire Sergei!"**
-7. **Light Tank** - You may now move up to 6" forwards and 3" when reversing. However, you start with 4 hull points and have a maximum of 4 hull points for the game.
+7. **Light Tank** - You may now move up to 6" forwards and 3" when reversing. However, you start with 4 HP and have a maximum of 4 HP for the game.
 8. **Powered Turret Ring** - When taking a **rotate** action the turret may move up to 180 degrees.
 9. **Coaxial Machine Gun** - When you **fire**, even if you miss, check to see if **Something Exciting Happens!** to the opponent's tank.
-10. **Heavy Tank** - You start with 8 hull points and have a maximum of 8 hull points for the game. All armour facings have the "to hit value" increased by 1. You may only move forwards 3" or reverse 1" when you make a move action.
+10. **Heavy Tank** - You start with 8 HP and have a maximum of 8 HP for the game. All armour facings have the "to hit value" increased by 1. You may only move forwards 3" or reverse 1" when you make a move action.
 
 ## Extras
 
