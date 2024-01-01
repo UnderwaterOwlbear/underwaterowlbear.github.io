@@ -72,9 +72,13 @@ Gun barrels do not count as part of your tank for measuring or for colliding wit
 
 ## Firing
 
-![Image showing target facing determination method](/assets/img/tonks-targeting.png)
+![Image showing target facing determination method](/assets/img/tonks-targeting.jpg)
 
 1. **Draw** an imaginary line between the centers of the two tanks' hulls. The face that this line crosses *on the firing tank* is the face its the turret must be rotated to. The face that this line crosses *on the target tank* is the face being shot at.
+    * In the example above, the red arrow is drawn between the centers of the two tanks. The line crosses the right side facing of the yellow tank, and the front facing of the blue tank.
+    * The yellow tank has its turret facing its right side. Since this is the same side the arrow goes through on the yellow tank, it can fire at the blue tank.
+    * When the yellow tank fires at the blue tank, it will target the blue tank's front facing (since this is the side the arrow goes through on the blue tank).
+    * The blue tank has its turret facing its left side. Since this is *not* the same side the arrow goes through on the blue tank, it *cannot* return fire at the yellow tank on its next turn.
 2. **Roll** a D6 and place a blast marker on your tank's gun barrel. If within 4" or the target tank, gain +1 to the die roll result.
 3. **Determine** hits based on result and facing being targeted:
     * Front facing is hit on a 6+
