@@ -6,6 +6,8 @@ description: This is my description.
 
 remote_theme: jekyll/minima
 
+future: false
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
