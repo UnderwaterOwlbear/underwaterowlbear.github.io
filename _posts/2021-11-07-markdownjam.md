@@ -3,7 +3,7 @@ layout: post
 title: Markdown Jam Entry - Barrows & Basilisks
 author: Tyler Farrington
 date: 2021-11-07
-
+tags: rules releases
 ---
 
 My submission to the [Markdown Jam](https://itch.io/jam/markdown-jam) has been submitted! Check it out below.

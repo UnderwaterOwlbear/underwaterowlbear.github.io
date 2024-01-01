@@ -3,7 +3,7 @@ layout: post
 title: Harrow Combat Mechanics
 author: Tyler Farrington
 date: 2019-08-26
-
+tags: rules game-design harrow
 ---
 
 The combat system of Harrow (as I've newly christened my homebrew RPG project) is based heavily on Into the Odd by Chris McDowell, with a few tweaks and (what I feel is) a unique HP system.

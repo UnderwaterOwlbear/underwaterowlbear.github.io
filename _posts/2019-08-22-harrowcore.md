@@ -3,7 +3,7 @@ layout: post
 title: Harrow Core Mechanic
 author: Tyler Farrington
 date: 2019-08-22
-
+tags: rules game-design harrow
 ---
 
 My first post about my RPG project (Harrow) will cover its core resolution mechanic; the saving throw. I've chosen to use the term "saving throw" to provide a bit of connection to more traditional RPG rulesets. It also serves the same purpose: it should only be used when the characters are attempting something with consequences. Tasks that are trivial for an adventurer, or tasks that are impossible, do not need saves and can be resolved through narration.

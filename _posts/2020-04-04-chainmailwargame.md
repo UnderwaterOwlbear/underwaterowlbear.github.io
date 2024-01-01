@@ -3,7 +3,7 @@ layout: post
 title: Chainmail - Heroes and Wizards and Wargame Spells
 author: Tyler Farrington
 date: 2020-04-04
-
+tags: game-design wargames
 ---
 
 I've been musing about the history of classes in the OSR recently. The first two "classes" were two units in Chainmail: Heroes and Wizards.

@@ -3,7 +3,7 @@ layout: post
 title: The Portable Wargame House Rules
 author: Tyler Farrington
 date: 2023-07-23
-
+tags: rules wargames
 ---
 
 Go read Bob's blog: [https://wargamingmiscellany.blogspot.com/](https://wargamingmiscellany.blogspot.com/)

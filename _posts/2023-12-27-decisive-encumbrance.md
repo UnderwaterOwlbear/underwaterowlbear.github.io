@@ -3,7 +3,7 @@ layout: post
 title: Decisive Encumbrance
 author: Tyler Farrington
 date: 2023-12-28
-
+tags: rules game-design cairn
 ---
 
 Inspired by [this thread](https://bsky.app/profile/underwaterowlbear.bsky.social/post/3khisnyg2gh2n) on Bluesky over the weekend.This is assuming you are using side-based initiative like *Into the Odd*.

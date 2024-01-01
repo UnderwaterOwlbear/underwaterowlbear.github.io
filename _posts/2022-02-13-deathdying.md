@@ -3,7 +3,7 @@ layout: post
 title: Simple Death, Dying, and Dismemberment Rules
 author: Tyler Farrington
 date: 2022-02-13
-
+tags: rules
 ---
 
 Characters may bind their wounds after combat to restore 1 HP of damage sustained in that fight.  

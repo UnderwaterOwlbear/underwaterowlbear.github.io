@@ -3,7 +3,7 @@ layout: post
 title: The Fort Miami Rules
 author: Tyler Farrington
 date: 2020-06-27
-
+tags: rules releases
 ---
 
 The last few months, in the midst of COVID-19, the new civil rights movement, and me personally returning to work, I haven't posted much. But I had been reading and mulling over two rulesets: [The Landshut Rules](http://darkwormcolt.blogspot.com/p/landshut-rules.html) by Darkworm Colt AKA Norbert Matausch, and [One Page Rules](https://onepagerules.com/) by Gaetano Ferrara. The Landshut Rules are minimalist "ancient-school" rules in the spirit of Chainmail and Blackmoor, with wargaming roots.  One Page Rules are a (successful) attempt to consolidate Warhammer and Warhammer: 40k wargaming rules into one page of rules text. 

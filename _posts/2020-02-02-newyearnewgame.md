@@ -3,7 +3,7 @@ layout: post
 title: New Year, New Game
 author: Tyler Farrington
 date: 2020-02-02
-
+tags: retrospective
 ---
 
 Now that the holidays are over and we're into the new year, I'd like to pay more attention to the blog again. I have to admit, over the holidays I grew frustrated with Harrow (my in-process hack of Into the Odd), and spent much of winter break poring over the Gygaxian ramblings that are OD&D. The simplicity and hackability intrigued me, and after stumbling across Whitebox: Fantastic Medieval Adventure Game (FMAG), I was hooked.
