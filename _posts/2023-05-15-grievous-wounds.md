@@ -10,7 +10,7 @@ date: 2023-05-14
 
 When a combatant is brought to exactly 0 **HP**, they are grievously wounded -- roll on the table below to determine their injuries. These wounds are permanent barring magical healing.
 
-| 2d6 | Grevious Wound                                                                                         |
+| 2d6 | Grievous Wound                                                                                         |
 |-----|--------------------------------------------------------------------------------------------------------|
 | 2   | **Beheaded** Die instantly.                                                                            |
 | 3   | **Dismembered Arm** Lose an arm.                                                                       |
@@ -24,4 +24,4 @@ When a combatant is brought to exactly 0 **HP**, they are grievously wounded -- 
 | 11  | **Dismembered Leg** Lose a leg. Move speed and carrying capacity halved.                               |
 | 12  | **Disemboweled** Die in 1d4 rounds.                                                                    |
 
-Table: Grevious Wounds
+Table: Grievous Wounds
