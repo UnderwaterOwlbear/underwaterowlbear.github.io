@@ -20,7 +20,7 @@ When a target becomes Wounded, they must make a save to avoid Dying. The ability
 
 There are two slight twists to this save vs dying that distinguishes it from a typical save. First, the save will succeed on a result that is greater than or equal to the number of Wounds that the target has (instead of the usual fixed target number of >=3). Secondly, if the maximum result on the die is rolled (4 on a d4, 6 on a d6, etc), the die is rolled again and the results added together. This can repeat indefinitely (often called "exploding dice"). This mechanic is similar to Savage Worlds. The intent of the exploding dice is to give a target a slim chance of surviving grievous wounds, and adds a bit of cinematic flair to combat.
 
-If the save vs dying fails, the target is now Dying. They cannot act, and will die if left unattended for an hour. If they are attended to by an ally and are able to rest, they restore Stamina as normal; but Wounds remain until removed in town. This makes it much more likely for a seriously Wounded combatant to go down again in the next fight. 
+If the save vs dying fails, the target is now Dying. They cannot act, and will die if left unattended for an hour. If they are attended to by an ally and are able to rest, they restore Stamina as normal; but Wounds remain until removed in town. This makes it much more likely for a seriously Wounded combatant to go down again in the next fight.
 
 I feel that this combat system is quick, lively, and deadly. It uses Into the Odd's damage dice to insure that players feel they are making an impact every round, and the Wounded state can be used to trigger class features or item effects (similar to 4e's Bloodied status).
 

@@ -26,7 +26,7 @@ Wizards in Chainmail had limited combat capability, could conceal or detect unit
 4. Detection: Detects hidden creatures or magic spells.
 5. Concealment: Conceals a unit or creature. Some creatures and spells can detect the subjects of a concealment spell.
 6. Conjuration of an Elemental: Summons an elemental. There is potential for the caster to lose control of the summoned elemental.
-7. Moving Terrain: Shifts vegetation, hills, etc. This indicates that players would physically move wargame terrain about the battlefield. 
+7. Moving Terrain: Shifts vegetation, hills, etc. This indicates that players would physically move wargame terrain about the battlefield.
 8. Protection from Evil: Prevents evil creatures from entering an area.
 9. Levitate: Levitates. No lateral movement.
 10. Slowness: A unit moves at half speed for two turns.

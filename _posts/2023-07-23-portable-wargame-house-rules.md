@@ -42,6 +42,7 @@ Commanders cannot attack, but can attach themselves to a friendly unit by moving
 Each player places a number of chits in a bag equal to the number of units they control. Chits of each player should be a different color. Each turn, draw a chit. The owner of that chit uses it to activate a unit, then places it by that unit to indicate it was activated.
 
 When a unit is activated, it may do one of the following:
+
 * Move a number of squares equal to its speed
 * Move at -1 speed and fire
 * Fire at +1 without moving

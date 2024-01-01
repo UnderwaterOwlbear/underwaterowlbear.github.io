@@ -10,28 +10,28 @@ tags: rules traveller
 
 * Brawling
 * Blade Combat
-    * Dagger
-    * Blade
-    * Foil
-    * Sword
-    * Cutlass
-    * Broadsword
-    * Bayonet
-    * Spear
-    * Halberd
-    * Pike
-    * Cudgel
+  * Dagger
+  * Blade
+  * Foil
+  * Sword
+  * Cutlass
+  * Broadsword
+  * Bayonet
+  * Spear
+  * Halberd
+  * Pike
+  * Cudgel
 * Gun Combat
-    * Body Pistol
-    * Auto Pistol
-    * Revolver
-    * Carbine
-    * Rifle
-    * Auto Rifle
-    * Shotgun
-    * SMG
-    * Laser Carbine
-    * Laser Rifle
+  * Body Pistol
+  * Auto Pistol
+  * Revolver
+  * Carbine
+  * Rifle
+  * Auto Rifle
+  * Shotgun
+  * SMG
+  * Laser Carbine
+  * Laser Rifle
 * Gunnery
 * Administration
 * Air/Raft
@@ -54,11 +54,11 @@ tags: rules traveller
 * Streetwise
 * Tactics
 * Vehicle
-    * Ground Car
-    * Watercraft
-    * Winged craft
-    * Hovercraft
-    * Grav belt
+  * Ground Car
+  * Watercraft
+  * Winged craft
+  * Hovercraft
+  * Grav belt
 * Vacc Suit
 
 ## My Reorganized Skills

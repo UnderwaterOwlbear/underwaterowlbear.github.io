@@ -18,11 +18,11 @@ When a saving throw is made, roll your ability die. If a result of 3 or greater 
 - d10 = 80% chance of success
 - d12 = 83% chance of success
 
-I feel this provides a nice gradient of success chances. It also uses a single target number, so it's easier for players to remember what they need to roll to succeed. In this way, it is similar to Savage Worlds and In The Light of a Ghost Star. You'll notice that I left out the d20; this is intentional. If used with the same TN = 3, it's success probability is 90%. This is a much larger jump from d12 than the jump from a d10 to a d12. 
+I feel this provides a nice gradient of success chances. It also uses a single target number, so it's easier for players to remember what they need to roll to succeed. In this way, it is similar to Savage Worlds and In The Light of a Ghost Star. You'll notice that I left out the d20; this is intentional. If used with the same TN = 3, it's success probability is 90%. This is a much larger jump from d12 than the jump from a d10 to a d12.
 
 Another reason to not use a d20 is that I am trying to remove addition and subtraction modifiers from my game wherever possible. So the added granularity of a d20 is not really needed. Instead, the coarser levels of differing die sizes, and the impaired / enhanced mechanism from Into the Odd will be used. Impaired rolls always use a d4, and enhanced rolls always use a d12. Unlike Into the Odd, in my game, not only damage rolls can be impaired or enhanced; saving throws can be impaired or enhanced as well.
 As players advance, they can increase the die size of their abilities. I'll be covering advancement in more detail in a later post.
 
 My intent with this core resolution mechanic is to provide a fast, flexible, method of resolving risky situations, that emphasizes coarse measures of competence (ability die size) and situational modifiers (impaired / enhanced) over small, granular modifiers and bonuses.
 
-(I've updated this post to reflect the new name of my RPG project - Harrow!)
+(I've updated this post to reflect the new name of my RPG project - Harrow!).

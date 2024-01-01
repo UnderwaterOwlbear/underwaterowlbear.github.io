@@ -6,7 +6,7 @@ date: 2022-01-30
 tags: rules
 ---
 
-I recently stumbled across [John's](https://www.blogger.com/profile/07090296806321882601) comment on [Necropraxis](https://www.necropraxis.com/2012/08/21/dying-earth-spells-for-dd/) where he talked about a Dying Earth-inspired magic-user spell list. I managed to find the orignal pdf, and have converted it to Markdown to be more easily shareable. Direct Dropbox link to original [here](https://www.dropbox.com/s/ksixtum08fzcp6k/Dying-Earth-Spells-for-D-D.pdf). The spell list was lightly edited for layout and OGL compliance. 
+I recently stumbled across [John's](https://www.blogger.com/profile/07090296806321882601) comment on [Necropraxis](https://www.necropraxis.com/2012/08/21/dying-earth-spells-for-dd/) where he talked about a Dying Earth-inspired magic-user spell list. I managed to find the orignal pdf, and have converted it to Markdown to be more easily shareable. Direct Dropbox link to original [here](https://www.dropbox.com/s/ksixtum08fzcp6k/Dying-Earth-Spells-for-D-D.pdf). The spell list was lightly edited for layout and OGL compliance.
 
 ## Spell List  
 
