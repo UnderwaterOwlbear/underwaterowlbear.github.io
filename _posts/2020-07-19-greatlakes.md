@@ -8,4 +8,4 @@ tags: worldbuilding
 
 With 24-mile hexes
 
-![](/assets/img/greatlakes.png)
+![great lakes hex map](/assets/img/greatlakes.png)
