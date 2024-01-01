@@ -23,12 +23,6 @@ None of these rules are of my own creation. Direct all rules questions to [@apoc
 * One (1) tape measure, marked in inches.
 * One (1) ten-sided die (D10) for campaign play.
 
-## Conventions
-
-Should you ever need to roll a result higher than 6 (i.e. 7, 8, 9, etc) you must roll 2D6 and get the *required score exactly*. High results fail. Scores of 13 or more are impossible. When rolling two dice, 1s do not count as a miss.
-
-All measurements are taken from the tank's hull.
-
 ## Setup
 
 1. Place each tank in a corner of the playing area, facing inwards at 45 degrees, with the rearmost parts of the tracks touching the board edges.
@@ -128,25 +122,4 @@ All players eligible for upgrades should roll for them simultaneously. Upgrades 
 
 ## Extras
 
-### Alternative Setups
-
-* **No Obstructions** - Don't set up any obstructions for the game.
-* **Confusion** - Before a player can make a **fire** action, they must end a **move** action in the board quarter opposite where they started the game.
-* **"10 paces at dawn"** - Tanks start in the center of the board, back-to-back. Obstructions are placed in a ring around them. All players must take a move action as their first action of the game.
-* **Amidst the Barrage** - Number all obstructions 1-5. At the end of every round, the last player who took their turn rolls a D6. The corresponding obstruction is blasted with artillery fire and removed from the table. If a 6 is rolled, the player may choose which obstruction is removed. If an obstruction is rolled that has already been removed, the player may choose which obstruction is removed. Wrecks that have become obstructions cannot be removed this way.
-
-### Tank Destroyer
-
-Tank Destroyers have no turret, and cannot take **rotate** actions.  
-They are considered to always have their weapons facing the front of the tank.  
-A **Turret Jammed** result on the **Something Exciting Happens!** table instead removes an additional 1 HP.  
-A **Powered Turret Ring** result on the **Upgrades** table cannot be equipped and a different upgrade must be taken instead.
-
-All shooting attacks made by Tank Destroyers are +1 to hit (in addition to any other modifiers).  
-If shooting at the **front** facing of a Tank Destroyer, you need a score of 8 to hit.  
-If shooting at the **side** facing of a Tank Destroyer, you need a score of 4+ to hit.  
-If shooting at the **rear** facing of a Tank Destroyer, you need a score of 3+ to hit.
-
-### Legacy of TONKS
-
-See full [TONKS rules](https://28magcom.files.wordpress.com/2023/05/tonks.pdf) for this one.
+See full [TONKS rules](https://28magcom.files.wordpress.com/2023/05/tonks.pdf) for extras.
