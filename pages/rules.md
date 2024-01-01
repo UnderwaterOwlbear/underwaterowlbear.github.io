@@ -349,9 +349,9 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 **Manors** consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
-- **Wilderness**: d6-3 households per square mile
-- **Borderlands**: d6 households per square mile
-- **Heartland**: d6+3 households per square mile
+* **Wilderness**: d6-3 households per square mile
+* **Borderlands**: d6 households per square mile
+* **Heartland**: d6+3 households per square mile
 
 The typical manor for a minor lord is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain approximately 10 households.
 
