@@ -4,12 +4,12 @@ author: Tyler Farrington
 date: 2023-08-03
 ---
 
-Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/resources/monsters/)
-
 * TOC
 {:toc}
 
 ---
+
+Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/resources/monsters/)
 
 ## Acolyte
 
