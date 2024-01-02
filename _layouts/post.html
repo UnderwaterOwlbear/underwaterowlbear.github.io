@@ -24,7 +24,7 @@ layout: base
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}
-      <span>•[
+      <span> • [
         {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
           <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
