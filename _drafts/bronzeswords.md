@@ -1,7 +1,7 @@
 ---
 title: Non-Magical +1 Swords and the Bronze Age Collapse
 author: Tyler Farrington
-date: 2022-02-17
+date: 2024-01-03
 
 ---
 
@@ -14,25 +14,24 @@ Thinking about this article: [https://profaneape.com/2022/02/17/3-swords/](https
 - Gold
 - Silver
 - Iron
-- Copper: used in bronze
-- Tin: used in bronze
+- Copper (used in bronze)
+- Tin (used in bronze)
 - Quicksilver
-- Lead: antimagic
+- Lead
 
-|Metal	|Planet	|Symbolism	|
+| Weapon Make | Damage (*Cairn*) | Cost | Special                                                  | Can be used in...  | Classical Metals Involved |
+|-------------|------------------|------|----------------------------------------------------------|--------------------|---------------------------|
+| Bronze      | d6               | x1   | None                                                     | Any weapons        | Copper, Tin               |
+| Cold Iron   | d6               | x2   | Cannot be *charmed* by fey while holding.                | Any weapons        | Iron                      |
+| Steel       | d8               | x5   | None                                                     | Edged weapons      | Iron                      |
+| Leaden      | d4               | x1   | Magic users must save or lose a prepared spell when hit. | Blunt weapons      | Lead                      |
+| Silvered    | d6               | x10  | Can harm incorporeal undead.                             | Any weapons        | Silver                    |
+| Gilded      | d6               | x10  | +2 on reaction rolls                                     | Any weapons        | Gold                      |
+| Channeled   | d10              | x50  | *Enhance* damage against enemies with <6 HP.             | Two-handed weapons | Quicksilver               |
 
-|Weapon Material	|To-Hit	|Damage	|Cost	|Special					|Can be used in...|
-|-----------------|--------|--------|-----|--------------------|-----------------|
-|Cold Iron			|+0		|d6		|x1	|+2 vs fey				|Any weapons		|
-|Leaden				|+0		|d6		|x1	|+2 vs magic-users	|Blunt weapons 	|
-|Silvered			|+0		|d6		|x10	|+2 vs undead			|Any weapons		|
-|Steel				|+1		|d6+1		|x5	|							|Edged weapons		|
-|Fine Steel			|+2		|d6+2		|x10	|							|Edged weapons		|
-
-Table: Weapon Materials
-
-|Shiels Material	|Cost	|Special																|
-|-----------------|-----|-----------------------------------------------------|
-|Leaden				|x1	|Advantage on saves vs. magic, Encumbrance as bulky	|
-|Mirrored			|x10	|Advantage on saves vs. gaze attacks						|
-|
+| Shield Material | Cost | Armor | Special                                                                              |
+|-----------------|------|-------|--------------------------------------------------------------------------------------|
+| Wood            | x1   | +1    | None                                                                                 |
+| Bronze          | x2   | +2    | Encumbrance as *bulky*                                                               |
+| Leaden          | x1   | +1    | *Advantage* on saves vs. magic, *sunder* to automatically save. Encumbrance as bulky |
+| Mirrored        | x10  | +1    | *Advantage* on saves vs. gaze attacks, *sunder* to automatically save.               |
