@@ -21,8 +21,8 @@ Thinking about this article: [https://profaneape.com/2022/02/17/3-swords/](https
 
 | Weapon Make | Damage (*Cairn*) | Cost | Special                                                  | Can be used in...  | Classical Metals Involved |
 |-------------|------------------|------|----------------------------------------------------------|--------------------|---------------------------|
-| Bronze      | d6               | x1   | None                                                     | Any weapons        | Copper, Tin               |
 | Cold Iron   | d4               | x1   | Cannot be *charmed* by fey while holding.                | Any weapons        | Iron                      |
+| Bronze      | d6               | x1   | None                                                     | Any weapons        | Copper, Tin               |
 | Steel       | d8               | x5   | None                                                     | Edged weapons      | Iron                      |
 | Leaden      | d4               | x1   | Magic users must save or lose a prepared spell when hit. | Blunt weapons      | Lead                      |
 | Silvered    | d6               | x10  | Can harm incorporeal undead.                             | Any weapons        | Silver                    |
