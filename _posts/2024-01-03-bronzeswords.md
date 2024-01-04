@@ -1,8 +1,8 @@
 ---
-title: Bronze as a Baseline: Metals of Antiquity and Their Applicability to TTRPG Weaponry
+title: "Bronze as a Baseline: Metals of Antiquity and Their Applicability to TTRPG Weaponry"
 author: Tyler Farrington
 date: 2024-01-03
-
+tags: rules cairn
 ---
 
 Thinking about this article: [https://profaneape.com/2022/02/17/3-swords/](https://profaneape.com/2022/02/17/3-swords/) and how to differentiate weaponry in a *Cairn*-like system. Can we use the  [metals of antiquity](https://en.wikipedia.org/wiki/Metals_of_antiquity) to add some texture to weapon types?
