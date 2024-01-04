@@ -5,8 +5,6 @@ date: 2021-02-06
 
 ---
 
-# Warbands /& Wights
-
 ## Character Creation
 
 Choose a class. You start at level 1. You have 1 attack die unless otherwise noted.
@@ -15,13 +13,13 @@ Make a save by rolling a d20 under your saving throw value. Roll with advantage 
 
 ### Warrior
 
-|Level	|Hits	|Saving Throw	|Bonus Attack Dice|
+|Level |Hits |Saving Throw |Bonus Attack Dice|
 |---|---|---|---|
-|1|	2|	7|	+0|
-|2	|3	|9	|+0|
-|3	|4	|11	|+1|
-|4	|5	|13|	+1|
-|5	|6	|15	|+2|
+|1| 2| 7| +0|
+|2 |3 |9 |+0|
+|3 |4 |11 |+1|
+|4 |5 |13| +1|
+|5 |6 |15 |+2|
 
 You gain bonuses in combat based on your equipment:
 
@@ -31,23 +29,23 @@ You gain bonuses in combat based on your equipment:
 
 ### Magic-User
 
-|Level	|Hits	|Saving Throw	|Spells Per Day
+|Level |Hits |Saving Throw |Spells Per Day
 |---|---|---|---|
-|1|	1|	7|	2|
-|2	|2	|9	|3|
-|3	|3	|11	|4|
-|4	|3	|13|	5|
-|5	|3	|15	|6|
+|1| 1| 7| 2|
+|2 |2 |9 |3|
+|3 |3 |11 |4|
+|4 |3 |13| 5|
+|5 |3 |15 |6|
 
 You know the spell detect magic, plus additional spells based on your specialization:
 
-|Specialization	|Spell List|
+|Specialization |Spell List|
 |---|---|
-|Shadowjack	|knock, invisibility, detect traps, spider climb, death blow|
-|Witch	|charm, cure disease or poison, scry, speak with nature, brew potion|
-|Exorcist|	detect evil, turn undead, circle of protection, remove curse|
-|Warmage|	phantasm, protection from missiles, sleep, fireball, lightning bolt|
-|Necromancer|	animate undead, command undead, resurrection, speak with dead, rot|
+|Shadowjack |knock, invisibility, detect traps, spider climb, death blow|
+|Witch |charm, cure disease or poison, scry, speak with nature, brew potion|
+|Exorcist| detect evil, turn undead, circle of protection, remove curse|
+|Warmage| phantasm, protection from missiles, sleep, fireball, lightning bolt|
+|Necromancer| animate undead, command undead, resurrection, speak with dead, rot|
 
 Warbands & Wights
 
@@ -65,12 +63,12 @@ Warbands & Wights
 
 ## Equipment
 
-|Armor Type	|Armor Value	|Cost|
+|Armor Type |Armor Value |Cost|
 |---|---|---|
-|Unarmored	|3+	| - |
-|Brigandine or Shield	|4+	|¢50|
-|Brigandine and Shield	|5+	|¢100|
-|Plate Harness	|6+	|¢200|
+|Unarmored |3+ | - |
+|Brigandine or Shield |4+ |¢50|
+|Brigandine and Shield |5+ |¢100|
+|Plate Harness |6+ |¢200|
 
 ## Combat
 
@@ -82,36 +80,36 @@ When attacking, roll attack dice (d6s). Any results greater than or equal to the
 
 Morale is based on unit experience level.
 
-|Experience	|Morale Saving Throw|
+|Experience |Morale Saving Throw|
 |---|---|
-|Conscript	|9|
-|Trained|	11|
-|Veteran|	13|
-|Fanatic|	15|
+|Conscript |9|
+|Trained| 11|
+|Veteran| 13|
+|Fanatic| 15|
 
 Humanoid troops can sustain one hit per man, roll one attack die per man, and can move 12" per turn (unless otherwise stated).
 
-|Name|	Armor|	Special|
+|Name| Armor| Special|
 |---|---|---|
-|Light Infantry	|4+|	Range 12"|
-|Medium Infantry|	5+|	Range 6"|
-|Heavy Infantry|	6+|	 |
-|Light Cavalry	|4+|	Range 6", 2x Move, 2x Attack dice vs infantry|
-|Medium Cavalry	|5+	|2x Move, 2x Attack dice vs infantry|
-|Heavy Cavalry	|6+|	2x Move, 2x Attack dice vs infantry|
-|Elvish Archers|	4+	|Range 12", Invisible in woods|
-|Elvish Infantry|	5+	|Invisible in woods|
-|Dwarvish Infantry|	6+	|2x Attack dice vs goblinkind|
-|Dwarvish Crossbowmen|	5+|	Range 6", 2x Attack dice vs goblinkind|
+|Light Infantry |4+| Range 12"|
+|Medium Infantry| 5+| Range 6"|
+|Heavy Infantry| 6+|  |
+|Light Cavalry |4+| Range 6", 2x Move, 2x Attack dice vs infantry|
+|Medium Cavalry |5+ |2x Move, 2x Attack dice vs infantry|
+|Heavy Cavalry |6+| 2x Move, 2x Attack dice vs infantry|
+|Elvish Archers| 4+ |Range 12", Invisible in woods|
+|Elvish Infantry| 5+ |Invisible in woods|
+|Dwarvish Infantry| 6+ |2x Attack dice vs goblinkind|
+|Dwarvish Crossbowmen| 5+| Range 6", 2x Attack dice vs goblinkind|
 
 ## Monsters
 
 Monsters are rated by how many men they fight as. For example, a monster that "fights as 4 men" can sustain 4 hits before dying and rolls 4 attack dice.
 
-|Monster|	Fights As Men	|Armor	|Special|
+|Monster| Fights As Men |Armor |Special|
 |---|---|---|---|
-|Troll	|4|	5+	|Regeneration|
-|Barrow-Wight	|3|	6+|	Corrupting blow|
+|Troll |4| 5+ |Regeneration|
+|Barrow-Wight |3| 6+| Corrupting blow|
 
 ## Overland Travel
 
@@ -133,4 +131,3 @@ During the summer half of the year, a day has two daylight watches and one night
 ## Towns & Villages
 
 One square mile of farmland can support 40 farmers, and an additional 5 townsfolk in a nearby urban area. It generates 50 coins per year in taxes. Purchasing a square mile of land costs 1,200 coins. In times of war, one warrior can be mobilized per square mile at a cost of 50 coins per month.
-
