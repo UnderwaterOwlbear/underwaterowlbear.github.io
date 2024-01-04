@@ -28,7 +28,7 @@ I wanted to take a look at the 3.5e and 5e versions of the Great Wheel cosmology
 
 I think this list can be simplified, made to comply with the OGL, and expanded with some other free-use planes.
 
-- Gehenna and Baator can be combined into one hellish "fire-and-brimstone" plane.  
+- Gehenna and Baator can be combined into one "hellish" fire-and-brimstone plane.  
 - Ysgard and Acheron can be combined into one "battle" plane
 - Limbo and the Abyss can be combined into one "chaos" plane
 - Arborea, the Beastlands, and Elysium can be combined into one "wilderness" plane
@@ -51,7 +51,17 @@ Let's examine each in a little more detail.
 
 ## Hellish Plane
 
-This is a fusion of Gehenna and Baator. Gehenna is a real name, from Judaism, and is a place [associated with purgatory and punishment](https://en.wikipedia.org/wiki/Valley_of_Hinnom_(Gehenna)#Rabbinical_Judaism). Baator is an invented name from the DnD franchise. Some levels of Baator that some from real sources are [Avernus](https://en.wikipedia.org/wiki/Avernus), from the Greek entrance to the underworld, or the underworld itself; [Dis](https://en.wikipedia.org/wiki/Dis_(Divine_Comedy)), from Dante's *Divine Comedy*; [Phlegethos](https://en.wikipedia.org/wiki/Phlegethon) from the Greek *Phlegethon*, a river of fire in the underworld; [Stygia](https://en.wikipedia.org/wiki/Styx) from the Greek river *Styx*, again in the underworld; [Malbolge](https://en.wikipedia.org/wiki/Malebolge) from Dante's *Divine Comedy*; Nessus comes from the eponymous city in Gene Wolfe's *Book of the New Sun*.
+This is a fusion of Gehenna and Baator from 3.5e. Gehenna is a real name, from Judaism, and is a place [associated with purgatory and punishment](https://en.wikipedia.org/wiki/Valley_of_Hinnom_(Gehenna)#Rabbinical_Judaism). Baator is an invented name from the DnD franchise. The levels of Baator are mostly drawn from real sources:
+
+1. [**Avernus**](https://en.wikipedia.org/wiki/Avernus): from the Greek entrance to the underworld, or the underworld itself.
+2. [**Dis**](https://en.wikipedia.org/wiki/Dis_(Divine_Comedy)): from the fortified city of hell in Dante's *Divine Comedy*, where the unpardonable sinners are punished.
+3. **Minauros**: possibly a corruption of the name *Minos*, the judge of hell seen in the [second circle of hell](https://en.wikipedia.org/wiki/Second_circle_of_hell) in Dante's *Divine Comedy* (who himself is the same [Minos](https://en.wikipedia.org/wiki/Minos) seen in the myth of Theseus).
+4. [**Phlegethos**](https://en.wikipedia.org/wiki/Phlegethon): from the Greek *Phlegethon*, a river of fire in the underworld.
+5. [**Stygia**](https://en.wikipedia.org/wiki/Styx) from the Greek *Styx*, another river in the underworld.
+6. [**Malbolge**](https://en.wikipedia.org/wiki/Malebolge): from the cavern where sinners who committed fraud were punished in Dante's *Divine Comedy*.
+7. **Maladomini**
+8. **Cania**
+9. [**Nessus**](https://en.wikipedia.org/wiki/Nessus_(mythology)#In_popular_culture): this name originates in Greek mythology and is the name of a centaur, whose blood was poisoned by an arrow laced with hydra venom. However, Gygax probably got the name from the centaur's appearance in Dante's [*Inferno*](https://en.wikipedia.org/wiki/Inferno_(Dante)#Seventh_Circle_(Violence)) (drink!). My headcanon, however, is that this circle of hell resembles the eponymous city in Gene Wolfe's *Book of the New Sun*.
 
 ![Picture of the cover art of the French edition of Book of the New Sun, artist Guillaume Sorel](nessus.jpeg)
 
