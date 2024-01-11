@@ -42,8 +42,8 @@ Baator is an invented name from the DnD franchise. The levels of Baator are most
 4. **Phlegethos**: from the Greek [*Phlegethon*](https://en.wikipedia.org/wiki/Phlegethon), a river of fire in the underworld.
 5. **Stygia**: from the Greek [*Styx*](https://en.wikipedia.org/wiki/Styx), another river in the underworld.
 6. [**Malbolge**](https://en.wikipedia.org/wiki/Malebolge): from the cavern where sinners who committed fraud were punished in Dante's *Divine Comedy*.
-7. **Maladomini**
-8. **Cania**
+7. **Maladomini**: No idea on this one
+8. **Cania**: No idea on this one
 9. [**Nessus**](https://en.wikipedia.org/wiki/Nessus_(mythology)#In_popular_culture): this name originates in Greek mythology and is the name of a centaur, whose blood was poisoned by an arrow laced with hydra venom. However, Gygax probably got the name from the centaur's appearance in Dante's [*Inferno*](https://en.wikipedia.org/wiki/Inferno_(Dante)#Seventh_Circle_(Violence)) (drink!). My headcanon, however, is that this circle of hell resembles the eponymous city in Gene Wolfe's *Book of the New Sun*.
 
 ![Picture of the cover art of the French edition of Book of the New Sun, artist Guillaume Sorel](nessus.jpeg)
@@ -67,15 +67,12 @@ I think this list can be simplified, made to comply with the OGL, and expanded w
 
 That leaves us with this cosmology:
 
-| Theme | Name | Vibe             |
-|-------|------|------------------|
-| Hell  | Hell | Contemporary evangelical christian depictions of Hell, rampant capitalism. Peter Stormare in *Constantine* |
-| Battle| Valhalla | Mostly just like Vahalla. Fields of battle, warriors resurrected every night, etc. *Edge of Tomorrow* but everyone knows it's a time loop. |
-| Chaos | Chaos | The primordial void (outer space?). Chaos the (agender) deity from Supergiant Games' [*Hades*](https://hades.fandom.com/wiki/Chaos) |
-| Wilderness | Faerie | The [Elfhame](https://en.wikipedia.org/wiki/Fairyland) of Celtic mythology. Arthurian. |
-| Death | Death | Dusty bookshelves. Quiet. Death as a stern yet kind librarian. |
-| Heavenly | Heaven | On second thought skip this one. |
-| Madness | Carcosa | Geoffrey McKinney's [*Supplement V: Carcosa](https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/Original%20D%26D/Supplement%205%20-%20Carcosa.pdf)  |
+* Hell - Contemporary evangelical christian depictions of Hell, rampant capitalism. Peter Stormare in *Constantine*. [*The City of Dis*](http://throneofsalt.blogspot.com/2020/05/the-war-of-bull-and-sable-maid.html) from *Mother Stole Fire*
+* Valhalla - Mostly just like Vahalla. Fields of battle, warriors resurrected every night, etc. *Edge of Tomorrow* but everyone knows it's a time loop. 
+* Chaos - The primordial void (outer space?). Chaos the (agender) deity from Supergiant Games' [*Hades*](https://hades.fandom.com/wiki/Chaos) 
+* Faerie - The [Elfhame](https://en.wikipedia.org/wiki/Fairyland) of Celtic mythology. Arthurian. 
+* Underworld - Dusty bookshelves. Quiet. Death as a stern yet kind librarian. Maybe Valhalla is a location in the underworld? Their house parties annoy the librarian.
+* Carcosa - Geoffrey McKinney's [*Supplement V: Carcosa*](https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/Original%20D%26D/Supplement%205%20-%20Carcosa.pdf)  
 
 
 [^1]:
