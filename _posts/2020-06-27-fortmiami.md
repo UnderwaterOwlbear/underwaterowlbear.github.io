@@ -19,6 +19,6 @@ So, BEHOLD! [The Fort Miami Rules](https://underwaterowlbear.itch.io/the-fort-mi
 - A one-axis class system, where you can be anywhere on the scale between Hero and Sorcerer (like the Hero and Magic-User of Chainmail, but with added gradiation).
 - A freeform skill and task resolution system inspired by M.A.R. Barker's "Perfected" system and married with Vincent Baker's Apocalypse World degrees of success.
 
-Yes that sounds like a lot bolted together, but I think it flows well. This is geared less towards dungeon crawling, and more towards early domain-level play where the players are controlling small bands of followers. A good fit might be Viking warbands raiding the Anglo-Saxon coast, Robin Hood and his band of thieves waylaying caravans, or small units of Prussian infantry dealing with a zombie outbreak.
+Yes that sounds like a lot bolted together, but I think it flows well. This is geared less towards dungeon crawling, and more towards early domain-level play where the players are controlling small bands of followers. A good fit might be Viking warbands raiding the British coast, Robin Hood and his band of thieves waylaying caravans, or small units of Prussian infantry dealing with a zombie outbreak.
 
 (Edit: I had a slight fiasco with setting up itch.io, and uploaded the game under the wrong account. I have since re-uploaded to my correct itch.io account and updated the link above).
