@@ -4,6 +4,61 @@ Author: Tyler Farrington
 Date: 2024-01-13
 ---
 
+## Video Games
+
+Morrowind
+Supergiant Games (Bastion, Transistor, Pyre, Hades)
+Darkest Dungeon
+Don't Starve
+Doom
+Fallout: New Vegas
+Homeworld
+Into the Breach
+Mount & Blade
+Red Dead Redemption 2
+Sid Meier's Pirates!
+Sunless Sea / Fallen London
+
+## Books
+
+The Thirty-Six Lessons of Vivec
+Book of the New Sun
+Malazan Book of the Fallen
+The Black Company
+Heroes of the Valley - folk history and mythology, meeting your heroes, migration-era swords, barrow-wights
+Monster Blood Tattoo
+Mortal Engines - Shrike witnessing Hester's choice
+Joe Abercrombie - excellent characters with distinct motivations and mannerisms
+A Passage at Arms - Glen Cook - submarine warfare in space with an embedded journalist
+Ranger's Apprentice - YA medieval setting without magic
+Keys to the Kingdom - Garth Nix - the Pit of the Far Reaches, the Moderately Honourable Artillery Company
+The Edge Chronicles
+Bartimaeus
+Karen Traviss
+Blindsight
+Rifters
+
+## TV and Movies
+
+Neon Genesis Evangelion
+Robin Hood (2010) - medeival skirmish combats
+The Lord of the Rings (Peter Jackson trilogy) - everything
+Blues Brothers - absurdity, musicals, Chicago, "I hate Illinois Nazis"
+For a Fistful of Dollars
+Pacific Rim - 
+Harry Potter and the Deathly Hallows pt 1 (solely for the tent scene with Harry and Hermione dancing to Nick Cave and the Bad Seeds)
+Mad Max: Fury Road - cars all worked
+Pirates of the Caribbean: Dead Man's Chest - Character motivations, double crossing, pirates
+
+
+## Internet Things
+
+SCP Foundation
+Kill Six Billion Demons
+
+
+
+
 ## Touchstones
 
 ### Kirkbride, Michael: THE THIRTY-SIX LESSONS OF VIVEC 
