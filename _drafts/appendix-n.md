@@ -50,6 +50,47 @@ Harry Potter and the Deathly Hallows pt 1 (solely for the tent scene with Harry 
 Mad Max: Fury Road - cars all worked
 Pirates of the Caribbean: Dead Man's Chest - Character motivations, double crossing, pirates
 
+## Music
+
+### Artists
+
+Bring Me the Horizon
+HEALTH
+Fair to Midland
+Tool
+Rob Zombie
+Zach Bryan
+Tyler Childers
+Ian Cole
+Colter Wall
+clipping.
+$uicideboy$
+System of a Down
+Starset
+Mick Gordon
+Sadistik
+Maneskin
+Ghost
+XXXTENTACION
+Nirvana
+Deftones
+Queens of the Stone Age
+Linkin Park
+Night Lovell
+ZillaKami
+
+### Genres
+
+Phonk
+Progressive Metal
+Industrial Metal
+Horrorcore
+Witchhouse
+Outlaw country
+Nu metal
+Metalcore
+
+
 
 ## Internet Things
 
