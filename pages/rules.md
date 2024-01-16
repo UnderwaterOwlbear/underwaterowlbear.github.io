@@ -1,7 +1,7 @@
 ---
 title: Cairn House Rules
 author: Tyler Farrington
-date: 2024-01-01
+date: 2024-01-16
 ---
 
 * TOC
@@ -88,19 +88,25 @@ Table: XP & Levels
 
 ## Equipment & Encumbrance
 
-Exact weights of items are not tracked. Instead, a character has ten inventory slots. Generally, *items each take up one slot*. Though there are some exceptions:
+Characters can choose how encumbered they are, and what they are encumbered with, from the following options:
 
-* *Bulky* items take up 2 slots
-* *Petty* items take up no slots
-* *Coins* take up 1 slot for every 500 coins
+1. **Unencumbered** - The character is only carrying their fighting kit (weapons, armor, spellbook, holy symbol, thieves tools, etc) and a few personal trinkets (magic rings, treasure map, anything that can be stuffed into a pocket).
+    * **Benefits:** Always act before monsters (don't need to make a **DEX** save).
+    * **Drawbacks:** None.
+2. **Encumbered with Supplies** - The character is carrying their fighting kit, trinkets, and a backpack full of supplies (rations, waterskins, torches, iron spikes, rope, etc).
+    * **Benefits:** Can carry 2 weeks of supplies for wilderness travel, and reduces the amount the Dungeon Clock decreases each turn by 1 (meaning a 1d6-1 is rolled instead of 1d6).
+    * **Drawbacks:** Must succeed on a **DEX** saving throw to act before monsters.
+3. **Encumbered with Treasure** - The character is carrying their fighting kit, trinkets, and a backpack full of treasure (gold coins, gemstones, jewelry, statuettes, etc).
+    * **Benefits:** Can spend the treasure for 2d6x100 sp in town.
+    * **Drawbacks:** Must succeed on a **DEX** saving throw to act before monsters.
 
-| Type      | Armor | Cost (sp) | Notes   |
-|-----------|-------|----------:|---------|
-| Unarmored | 0     | -         |         |
-| Shield    | +1    | 10        |         |
-| Padded    | 1     | 30        |         |
-| Chainmail | 2     | 100       | *Bulky* |
-| Plate     | 3     | 1000      | *Bulky* |
+| Type      | Armor | Cost (sp) |
+|-----------|-------|----------:|
+| Unarmored | 0     | -         |
+| Shield    | +1    | 10        |
+| Padded    | 1     | 30        |
+| Chainmail | 2     | 100       |
+| Plate     | 3     | 1000      |
 
 Table: Armor & Encumbrance
 
@@ -111,23 +117,20 @@ Table: Armor & Encumbrance
 | Unarmed                      | d4     | -         |         |
 | Dagger, Club, Staff, etc     | d6     | 10        |         |
 | Sword, Mace, Axe, Spear, etc | d8     | 50        |         |
-| Poleaxe, Longsword, etc      | d10    | 100       | *Bulky* |
+| Poleaxe, Longsword, etc      | d10    | 100       | *2H*    |
 | Sling                        | d4     | 10        |         |
-| Bow                          | d6     | 25        | *Bulky* |
-| Crossbow                     | d8     | 50        | *Bulky* |
+| Bow                          | d6     | 25        | *2H*    |
+| Crossbow                     | d8     | 50        | *2H*    |
 
 Table: Weapons
 
-**Note:** *Bulky* weapons must be wielded in two hands.
+**Note:** *2H* weapons must be wielded in two hands.
 
 | Item                | Cost (sp) | Notes                                      |
 |---------------------|----------:|--------------------------------------------|
 | Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
 | Torch               | 1         | Lasts 3 hours per torch                    |
 | Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
-| Rations, three days | 1         | Three days of rations takes up one slot    |
-| Feed, one day       | 1         | One day of feed takes up one slot          |
-| Waterskin, one day  | 1         | One day of water takes up one slot         |
 | Hammer              | 6         | For setting spikes                         |
 | Pickaxe             | 6         | Move a 5ft cube of rock every 4 hours      |
 | Rope, hemp, 50ft    | 10        | Can lift 500 lb without breaking           |
@@ -136,19 +139,17 @@ Table: Weapons
 
 Table: Adventuring Gear
 
-| Transport     | Cost (sp) | Carrying Capacity (slots) | Notes                            |
-|---------------|----------:|--------------------------:|----------------------------------|
-| Mule          | 30        | 20                        | **WIL** 10                       |
-| Horse, Riding | 60        | 20                        | **WIL** 8                        |
-| Horse, War    | 150       | 30                        | **WIL** 12, requires double feed |
-| Ox            | 100       | 60                        | **WIL** 6                        |
-| Cart, hand    | 5         |                           | 2x carrying capacity             |
-| Cart, draft   | 10        |                           | 2x carrying capacity             |
-| Wagon         | 30        |                           | 4x carrying capacity             |
+| Transport     | Cost (sp) | Carrying Capacity   | Notes                            |
+|---------------|-----------|---------------------|----------------------------------|
+| Mule          | 30        | 2x men              | **WIL** 10                       |
+| Horse, Riding | 60        | 2x men              | **WIL** 8                        |
+| Horse, War    | 150       | 3x men              | **WIL** 12, requires double feed |
+| Ox            | 100       | 6x men              | **WIL** 6                        |
+| Cart, hand    | 5         | 2x men              |                                  |
+| Cart, draft   | 10        | 2x beast pulling it |                                  |
+| Wagon         | 30        | 4x beast pulling it |                                  |
 
 Table: Transportation
-
-**Note:** Riders count as 10 slots when calculating a mount's encumbrance.
 
 **Note:** Feed consumed per day assumes freely available water and forage (such as grass or other undergrowth).
 
@@ -247,6 +248,8 @@ Ability scores and **HP** are restored by resting:
 
 **Darkness**: When the party does not have a light source, 2d6 is rolled against the dungeon clock each turn instead of 1d6, and they are unable to find traps or secret doors regardless of time spent searching.
 
+**Light Sources**: Torches, candles, lamps, or the like require a free hand to hold them. One such light source is required for every 4 dungeon explorers.
+
 **Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
 
 > I believe that Arnold's UNDERCLOCK is a superior alternative to both Necropraxis's Hazard Die and The Angry DM's Tension Pool. I don't have to come up with events and spoors for the non-monster rolls on the Hazard Die, and the probabilities / time until encounter are easier for players to estimate than the Tension Pool. Just feels easier to run at the table in my opinion.
@@ -294,7 +297,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 ## Spellcasting
 
-**Spellbooks** contain a single spell and take up one inventory slot. Anyone can cast a spell by holding a spellbook in both hands and reading its contents aloud.
+**Spellbooks** contain a single spell. Anyone can cast a spell by holding a spellbook in both hands and reading its contents aloud.
 
 **Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage. The max spell level is 6th (and thus max **WIL** damage that can be inflicted this way is 6 damage).
 
