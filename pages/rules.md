@@ -126,19 +126,6 @@ Table: Weapons
 
 **Note:** *2H* weapons must be wielded in two hands.
 
-| Item                | Cost (sp) | Notes                                      |
-|---------------------|----------:|--------------------------------------------|
-| Arrows, quiver      | 10        | **DEX** save after combat or out of arrows |
-| Torch               | 1         | Lasts 3 hours per torch                    |
-| Tinderbox           | 6         | Light fire with 5+ on d6, *petty*          |
-| Hammer              | 6         | For setting spikes                         |
-| Pickaxe             | 6         | Move a 5ft cube of rock every 4 hours      |
-| Rope, hemp, 50ft    | 10        | Can lift 500 lb without breaking           |
-| Shovel              | 3         | Move a 5ft cube of dirt every 2 hours      |
-| Spikes, iron, six   | 1         | Wedge doors open or shut                   |
-
-Table: Adventuring Gear
-
 | Transport     | Cost (sp) | Carrying Capacity   | Notes                            |
 |---------------|-----------|---------------------|----------------------------------|
 | Mule          | 30        | 2x men              | **WIL** 10                       |
@@ -279,6 +266,15 @@ Ability scores and **HP** are restored by resting:
 **Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an ability score on a failed save.
 
 > Again, these trap and door rules are me trying to take mechanisms that are present in OD&D and make them fit into Cairn mechanics.
+
+
+---
+
+## Tunnelling
+
+One man can move a 5x5x5ft cube of dirt every 2 hours, or the same volume of rock every 4 hours. The appropriate tools such as pickaxes and shovels are required.
+
+Tunnels can be crawled through slowly if they measure 5x5ft, or walked through normally if they are 10x10ft.
 
 ---
 
