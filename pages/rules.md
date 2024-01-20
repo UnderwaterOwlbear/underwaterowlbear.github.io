@@ -185,10 +185,6 @@ Table: Reaction Roll Results
 
 **Stunts**: A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack as normal. His opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
 
-**Withdraw**: When a combatant within melee range of an enemy moves out of melee range, the enemy may immediately make a melee attack against the combatant. This can be avoided if the withdrawing combatant succeeds on a **DEX** save.
-
-> Charge and withdraw are my attempts to incentivize some more movement in theater-of-the-mind combat.
-
 ---
 
 ## Morale & Fleeing
