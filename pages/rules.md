@@ -28,9 +28,6 @@ Start with the following:
 * 3d6 **DEX**
 * 3d6 **WIL**
 * 1d6 **HP**
-* 3d6 coins
-* A waterskin
-* Three days of rations
 * Roll a d6 on the table below for each column to determine the rest of your starting gear:
 
 | d6 | Armor (+1 to roll if **STR** is >12) | Weapons (+1 to roll if **DEX** is >12) | Gear (+1 to roll if **WIL** is >12) |
