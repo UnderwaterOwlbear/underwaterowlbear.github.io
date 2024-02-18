@@ -4,9 +4,12 @@ title: The Portable Tile Wargame Rules
 author: Tyler Farrington
 date: 2024-02-18
 tags: rules wargames releases
+papersize: letter
+documentclass: article
+fontsize: 11pt
+header-includes: |
+    \usepackage[margin=0.5in]{geometry}
 ---
-
-I have adapted Bob Cordery's Portable Wargame rules to be played with tiles - each having a unit type indicator on one face, and an "exhausted" icon on the reverse. This will allow tracking of unit health without counters, notes, unit cards, etc.
 
 Go read Bob's blog: [https://wargamingmiscellany.blogspot.com/](https://wargamingmiscellany.blogspot.com/)
 
@@ -29,14 +32,10 @@ Go read Bob's blog: [https://wargamingmiscellany.blogspot.com/](https://wargamin
 
 ## Units
 
-| Unit      | Speed | Range |
-|-----------|-------|-------|
-| Infantry  | 2     | 2     |
-| Cavalry   | 3     | -     |
-| Artillery | 0 / 2 | 4     |
-| Commander | 3     | -     |
-
-Artillery moves at speed 2 when limbered, and cannot move when unlimbered. Artillery can only fire when unlimbered.
+* Infantry [speed 2, range 2]
+* Cavalry [speed 3]
+* Artillery [speed 2, range 4]
+* Commander [speed 3]
 
 ## Turn Sequence
 
@@ -45,7 +44,7 @@ Each player places a number of chits in a bag equal to the number of units they 
 When a unit is activated, it may do one of the following:
 
 * Move a number of squares equal to its speed, and...
-  * Limber or unlimber (if artillery)
+  * Limber or unlimber (if artillery). Artillery can only move when limbered. Artillery can only fire when unlimbered.
   * Rally an adjacent unit (if commander)
 * Move at -1 speed and fire at -1 to roll
 * Fire without moving
@@ -57,7 +56,7 @@ When all chits have been drawn, that round is over. Place all chits back in the 
 
 ## Movement
 
-As soon as a unit moves adjacent to an enemy unit, it *must* stop moving. 
+As soon as a unit moves adjacent to an enemy unit, it *must* stop moving.t
 
 If a unit starts its move adjacent to an enemy unit, it can only move into squares that are not adjacent to any enemy units.
 
