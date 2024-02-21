@@ -92,7 +92,8 @@ A unit that is hit must make a save.
 
 1. Roll a d6.
 2. Result of 5+ is a success.
-3. If a unit fails a save, it must do one of the following:
+3. If the unit fails its save, flip its token over to its "Exhausted" side.
+4. If the unit succeeds on a save, it may choose between the following:
     * Flip its token over to its "Exhausted" side.
     * Retreat one square directly away from the enemy unit.
 
