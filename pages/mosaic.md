@@ -4,8 +4,6 @@ author: Tyler Farrington
 date: 2024-02-04
 ---
 
-# My MOSAIC Strict Rules
-
 I have found that I have settled on a few [MOSAIC strict](http://blog.trilemma.com/2021/02/nothing-at-bottom-mosaic-strict-rpg.html) ways to handle some aspects of OSR/NSR/D&D/Elfgame play, and decide to compile them all here to reference in the future.
 
 ## Acknowledgements
