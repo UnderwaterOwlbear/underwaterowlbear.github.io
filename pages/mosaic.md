@@ -112,7 +112,7 @@ At 9th level, a character can begin ruling their own domain. This might take the
 
 ### Manor
 
-*Manors** consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
+**Manors** consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
 * **Wilderness**: d6-3 households per square mile
 * **Borderlands**: d6 households per square mile
