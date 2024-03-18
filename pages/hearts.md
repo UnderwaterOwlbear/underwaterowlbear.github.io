@@ -5,6 +5,8 @@ date: 2024-03-17
 tags: rules releases
 ---
 
+Inspired by Marcia B.'s [Cinco](https://traversefantasy.blogspot.com/search/label/cinco).
+
 ## Character Creation
 
 You have 3 hit points (HP), a saving throw (ST) of 11, and 3d6 coins.
