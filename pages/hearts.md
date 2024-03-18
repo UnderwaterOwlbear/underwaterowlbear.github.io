@@ -1,7 +1,7 @@
 ---
-title: "HEARTS v3"
+title: "HEARTS"
 author: Tyler Farrington
-date: 2024-03-01
+date: 2024-03-17
 tags: rules releases
 ---
 
@@ -13,19 +13,19 @@ You have 3 hit points (HP), a saving throw (ST) of 11, and 3d6 coins.
 
 Purchase your equipment:
 
-| Item       | Notes                                                            | Cost      |
-|------------|------------------------------------------------------------------|-----------|
-| Dagger     | d4, can be thrown                                                | 1 coins   |
-| Club       | d6                                                               | 2 coins   |
-| Sword      | d8                                                               | 10 coins  |
-| Polearm    | d10, 2H                                                          | 4 coins   |
-| Bow        | d6                                                               | 4 coins   |
-| Shield     | +1 **AP**                                                        | 4 coins   |
-| Maille     | +1 **AP**                                                        | 20 coins  |
-| Plate      | +2 **AP**                                                        | 100 coins |
-| Wand       | +1 **Mana**                                                      | 1 coins   |
-| Staff      | +3 **Mana**, 2H                                                  | 4 coins   |
-| Spellbook  | One random spell                                                 | 6 coins   |
+| Item       | Notes                  | Cost      |
+|------------|------------------------|-----------|
+| Dagger     | d4, can be thrown      | 1 coins   |
+| Club       | d6                     | 2 coins   |
+| Sword      | d8                     | 10 coins  |
+| Polearm    | d10, 2H                | 4 coins   |
+| Bow        | d6                     | 4 coins   |
+| Shield     | +1 AP                  | 4 coins   |
+| Maille     | +1 AP                  | 20 coins  |
+| Plate      | +2 AP                  | 100 coins |
+| Wand       | +1 Mana                | 1 coins   |
+| Staff      | +3 Mana, 2H            | 4 coins   |
+| Spellbook  | One random spell       | 6 coins   |
 
 ### Skills
 
@@ -45,11 +45,11 @@ When using or testing a skill, roll under your skill on a d20 to succeed. If you
 
 #### A note on languages
 
-* **Gnomish** - The language of gnomes, cats, small mammals, and songbirds.
-* **Black Speech** - The language of the enemy.
-* **Pirate** - The language of criminals, sailors, street musicians, Vikings, clowns, and other disreputable types.
-* **Liturgical** - The language of the Church, their Demons, and the Undead.
-* **Ogham** - A language found scarred into old birch trees. No known speakers. 
+* Gnomish - The language of gnomes, cats, small mammals, and songbirds.
+* Black Speech - The language of the enemy.
+* Pirate - The language of criminals, sailors, street musicians, Vikings, clowns, and other disreputable types.
+* Liturgical - The language of the Church, their Demons, and the Undead.
+* Ogham - A language found scarred into old birch trees. No known speakers. 
 
 ## Saving Throws
 
