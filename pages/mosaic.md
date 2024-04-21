@@ -118,7 +118,7 @@ At 9th level, a character can begin ruling their own domain. This might take the
 * **Borderlands**: d6 households per square mile
 * **Heartland**: d6+3 households per square mile
 
-The typical manor for a minor lord is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain approximately 10 households.
+The typical manor for a minor lord is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain, on average, 9 households.
 
 **Castles** cost ~80,000 coins and take an amount of time to build equal to sqrt(cost), or approximately 5 and a half years for a 80,000-coin castle.
 
