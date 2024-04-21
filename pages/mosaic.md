@@ -113,7 +113,7 @@ At 9th level, a character can begin ruling their own domain. This might take the
 
 ### Manor
 
-**Manors** consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
+**Manors** consist of the lord's residence (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
 * **Wilderness**: d6-3 households per square mile
 * **Borderlands**: d6 households per square mile
@@ -121,7 +121,15 @@ At 9th level, a character can begin ruling their own domain. This might take the
 
 The typical manor for a minor lord is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain, on average, 9 households.
 
-**Castles** cost ~80,000 coins and take an amount of time to build equal to sqrt(cost), or approximately 5 and a half years for a 80,000-coin castle.
+**Fortifications** take a number of weeks to build equal to `sqrt(cost)`. See table below for details.
+
+| Fortification Type | Cost (coins) | Time                   |
+|--------------------|--------------|------------------------|
+| Tower              | 12,000       | 100 wks, or 2 years    |
+| Keep               | 80,000       | 280 wks, or 5.5 years  |
+| Castle             | 420,000      | 650 wks, or 12.5 years |
+
+
 
 **Taxes**: Each household generates 1 coin in productive capacity every month. This consists mainly of food, cloth, and labor, rather than pure cash. The peasantry are typically taxed at 10%; higher taxation rates are possible but require a 2d6 roll to avoid an uprising.
 
