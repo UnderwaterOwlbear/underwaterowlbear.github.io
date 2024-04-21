@@ -9,6 +9,7 @@ I have found that I have settled on a few [MOSAIC strict](http://blog.trilemma.c
 ## Acknowledgements
 
 * [*Goblin Punch*](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html) by Arnold K, for THE UNDERCLOCK.
+* [Delta's D&D Hotspot](http://deltasdnd.blogspot.com/2019/09/castle-construction-times.html) for castle construction rules.
 
 ## Combat
 
