@@ -1,7 +1,7 @@
 ---
 title: My MOSAIC Strict Rules
 author: Tyler Farrington
-date: 2024-02-04
+date: 2024-04-21
 ---
 
 I have found that I have settled on a few [MOSAIC strict](http://blog.trilemma.com/2021/02/nothing-at-bottom-mosaic-strict-rpg.html) ways to handle some aspects of OSR/NSR/D&D/Elfgame play, and decide to compile them all here to reference in the future.
@@ -109,9 +109,9 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 ## Domains
 
-At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a hideout or tavern for a thief.
+At 9th level, a character can begin ruling their own domain. This might take the form of a fortress or manor house and its accompanying village for a fighter, a secluded tower or hut for a mage, or a criminal or mercantile enterprise for a thief.
 
-### Manor
+### Fighter's Manor
 
 **Manors** consist of the lord's residence (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
@@ -129,9 +129,7 @@ The typical manor for a minor lord is 2 to 3 square miles in size. If this is lo
 | Keep               | 80,000       | 280 wks, or 5.5 years  |
 | Castle             | 420,000      | 650 wks, or 12.5 years |
 
-
-
-**Taxes**: Each household generates 1 coin in productive capacity every month. This consists mainly of food, cloth, and labor, rather than pure cash. The peasantry are typically taxed at 10%; higher taxation rates are possible but require a 2d6 roll to avoid an uprising.
+**Taxes**: Each household generates 1 coin in productive capacity every month. This consists mainly of food, cloth, and labor, rather than pure cash. The peasantry are typically taxed at 8-10%; higher taxation rates are possible but require a 2d6 roll to avoid an uprising. (This tax rate can be rounded to one-coin-in-twelve for ease of calculating yearly and monthly revenue).
 
 | Tax Rate | Uprising on...     |
 |----------|--------------------|
@@ -144,6 +142,10 @@ The typical manor for a minor lord is 2 to 3 square miles in size. If this is lo
 Table: Peasant Uprisings
 
 **Peasants** can provide one (1) levy (as light foot, 1HD, morale 6+) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a morale roll each week to see if they return to their farms regardless.
+
+### Wizard's Tower
+
+### Thief's Enterprise
 
 ## License
 
