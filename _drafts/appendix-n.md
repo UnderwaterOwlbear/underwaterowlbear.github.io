@@ -1,7 +1,7 @@
 ---
 Title: Appendix N
 Author: Tyler Farrington
-Date: 2024-01-13
+Date: 2024-04-28
 ---
 
 ## Video Games
@@ -26,7 +26,7 @@ Book of the New Sun
 Malazan Book of the Fallen
 The Black Company
 Heroes of the Valley - folk history and mythology, meeting your heroes, migration-era swords, barrow-wights
-Monster Blood Tattoo
+Monster Blood Tattoo - biopunk
 Mortal Engines - Shrike witnessing Hester's choice
 Joe Abercrombie - excellent characters with distinct motivations and mannerisms
 A Passage at Arms - Glen Cook - submarine warfare in space with an embedded journalist
@@ -34,9 +34,8 @@ Ranger's Apprentice - YA medieval setting without magic
 Keys to the Kingdom - Garth Nix - the Pit of the Far Reaches, the Moderately Honourable Artillery Company
 The Edge Chronicles
 Bartimaeus
-Karen Traviss
-Blindsight
-Rifters
+Karen Traviss - her Mandolorian lore
+Peter Watts - Blindsight & Rifters
 
 ## TV and Movies
 
@@ -49,6 +48,7 @@ Pacific Rim -
 Harry Potter and the Deathly Hallows pt 1 (solely for the tent scene with Harry and Hermione dancing to Nick Cave and the Bad Seeds)
 Mad Max: Fury Road - cars all worked
 Pirates of the Caribbean: Dead Man's Chest - Character motivations, double crossing, pirates
+Battlestar Galactica - isolated convoy struggling to survive & travel somewhere
 
 ## Music
 
@@ -59,7 +59,6 @@ HEALTH
 Fair to Midland
 Tool
 Rob Zombie
-Zach Bryan
 Tyler Childers
 Ian Cole
 Colter Wall
@@ -69,28 +68,11 @@ System of a Down
 Starset
 Mick Gordon
 Sadistik
-Maneskin
 Ghost
-XXXTENTACION
 Nirvana
 Deftones
 Queens of the Stone Age
 Linkin Park
-Night Lovell
-ZillaKami
-
-### Genres
-
-Phonk
-Progressive Metal
-Industrial Metal
-Horrorcore
-Witchhouse
-Outlaw country
-Nu metal
-Metalcore
-
-
 
 ## Internet Things
 
@@ -137,6 +119,10 @@ Military, soldiers, moral ambiguity, sorcerer-kings, pseudonyms
 ### Cornish, David M.: MONSTER BLOOD TATTOO
 
 Threwd, civilization versus wilderness, lamplighters, biopunk, alchemy
+
+### Rifters and Blindsight
+
+Isolation, cognition, consciousness, complex systems, stress.
 
 ## Themes Present in Touchstones
 
