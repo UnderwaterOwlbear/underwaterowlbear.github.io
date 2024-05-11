@@ -24,13 +24,13 @@ These are my house rules for running *DnD*-like games.
 
 Start with the following:
 
-* 3d6 **STR**
-* 3d6 **DEX**
-* 3d6 **WIL**
+* 3d6 **FORT**
+* 3d6 **REF**
+* 3d6 **WILL**
 * 1d6 **HP**
 * Roll a d6 on the table below for each column to determine the rest of your starting gear:
 
-| d6 | Armor (+1 to roll if **STR** is >12) | Weapons (+1 to roll if **DEX** is >12) | Gear (+1 to roll if **WIL** is >12) |
+| d6 | Armor (+1 to roll if **FORT** is >12) | Weapons (+1 to roll if **REF** is >12) | Gear (+1 to roll if **WILL** is >12) |
 |----|--------------------------------------|----------------------------------------|-------------------------------------|
 | 1  | None                                 | Staff (d6, *bulky*) & Sling (d4)       | Hammer & Spikes (6)                 |
 | 2  | None                                 | Mace (d6) & Shield (+1 Armor)          | Torches (3) & Tinderbox             |
@@ -40,15 +40,39 @@ Start with the following:
 | 6  | Padded (1 Armor)                     | Bow (d8) & Arrows                      | Mule                                |
 | 7  | Chainmail (2 Armor, *bulky*)         | Sword (d8)                             | Random spellbook (roll d20)         |
 
+### Skills
+
+For everything except fighting and casting spells.
+
+Roll 3d6 four times, assign the scores to four skills.
+
+When using or testing a skill, roll under your skill on a d20 to succeed. If you fail, suffer a consequence, but increase your skill by 1.
+
+| Prole            | Artisan    | Bourgeois     | Academic    | Linguistic   |
+|------------------|------------|---------------|-------------|--------------|
+| Cooking          | Blacksmith | Dance         | History     | Gnomish      |
+| Hunt & Forage    | Carpenter  | Equestrianism | Surgery     | Black Speech |
+| Stealth          | Scribe     | Appraisal     | Alchemy     | Pirate       |
+| Animal Husbandry | Locksmith  | Musician      | Engineering | Liturgical   |
+| Seamanship       | Stonemason | Accounting    | Barrister   | Ogham        |
+
+#### A note on languages
+
+* Gnomish - The language of gnomes, cats, small mammals, and songbirds.
+* Black Speech - The language of the enemy.
+* Pirate - The language of criminals, sailors, street musicians, Vikings, clowns, and other disreputable types.
+* Liturgical - The language of the Church, their Demons, and the Undead.
+* Ogham - A language found scarred into old birch trees. No known speakers.
+
 ---
 
 ## Saving Throws
 
 When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
 
-* **STR** for tests of strength or endurance.
-* **DEX** for tests of agility or precision.
-* **WIL** for tests of concentration, battles of will, or interactions with magic.
+* **FORT** for tests of strength or endurance.
+* **REF** for tests of agility or precision.
+* **WILL** for tests of concentration, battles of will, or interactions with magic.
 
 ---
 
@@ -82,14 +106,14 @@ Table: XP & Levels
 Characters can choose how encumbered they are, and what they are encumbered with, from the following options:
 
 1. **Unencumbered** - The character is only carrying their fighting kit (weapons, armor, spellbook, holy symbol, thieves tools, etc) and a few personal trinkets (magic rings, treasure map, anything that can be stuffed into a pocket).
-    * **Benefits:** Always act before monsters (don't need to make a **DEX** save).
+    * **Benefits:** Always act before monsters (don't need to make a **REF** save).
     * **Drawbacks:** None.
 2. **Encumbered with Supplies** - The character is carrying their fighting kit, trinkets, and a backpack full of supplies (rations, waterskins, torches, iron spikes, rope, etc).
     * **Benefits:** Can carry 2 weeks of supplies for wilderness travel, and reduces the amount the Dungeon Clock decreases each turn by 1 (meaning a 1d6-1 is rolled instead of 1d6).
-    * **Drawbacks:** Must succeed on a **DEX** saving throw to act before monsters.
+    * **Drawbacks:** Must succeed on a **REF** saving throw to act before monsters.
 3. **Encumbered with Treasure** - The character is carrying their fighting kit, trinkets, and a backpack full of treasure (gold coins, gemstones, jewelry, statuettes, etc).
     * **Benefits:** Can spend the treasure for 2d6x100 sp in town.
-    * **Drawbacks:** Must succeed on a **DEX** saving throw to act before monsters.
+    * **Drawbacks:** Must succeed on a **REF** saving throw to act before monsters.
 
 | Type      | Armor | Cost (sp) |
 |-----------|-------|----------:|
@@ -119,10 +143,10 @@ Table: Weapons
 
 | Transport     | Cost (sp) | Carrying Capacity   | Notes                            |
 |---------------|-----------|---------------------|----------------------------------|
-| Mule          | 30        | 2x men              | **WIL** 10                       |
-| Horse, Riding | 60        | 2x men              | **WIL** 8                        |
-| Horse, War    | 150       | 3x men              | **WIL** 12, requires double feed |
-| Ox            | 100       | 6x men              | **WIL** 6                        |
+| Mule          | 30        | 2x men              | **WILL** 10                       |
+| Horse, Riding | 60        | 2x men              | **WILL** 8                        |
+| Horse, War    | 150       | 3x men              | **WILL** 12, requires double feed |
+| Ox            | 100       | 6x men              | **WILL** 6                        |
 | Cart, hand    | 5         | 2x men              |                                  |
 | Cart, draft   | 10        | 2x beast pulling it |                                  |
 | Wagon         | 30        | 4x beast pulling it |                                  |
@@ -147,7 +171,7 @@ Table: Transportation
 
 Table: Reaction Roll Results
 
-**Initiative**: Characters must make a successful **DEX** save to gain the initiative and act before their enemies. On each of their turns, a character may move a short distance and take one other action, such as:
+**Initiative**: Characters must make a successful **REF** save to gain the initiative and act before their enemies. On each of their turns, a character may move a short distance and take one other action, such as:
 
 * Move further
 * Attack
@@ -155,7 +179,7 @@ Table: Reaction Roll Results
 
 **Attacking**: To attack, roll your weapon's damage die, and subtract any Armor that your target possesses. You deal that much damage to your target's **HP**.
 
-**Critical Damage**: Damage that reduces a target’s **HP** below zero decreases a target’s **STR** by the amount remaining. They must then make a **STR** save to avoid **critical damage**.
+**Critical Damage**: Damage that reduces a target’s **HP** below zero decreases a target’s **FORT** by the amount remaining. They must then make a **FORT** save to avoid **critical damage**.
 
 * Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 * Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
@@ -178,11 +202,11 @@ Table: Reaction Roll Results
 
 ## Morale & Fleeing
 
-**Morale**: Enemies must pass a **WIL** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **WIL** in place of their own. Lone foes must save when they're reduced to 0 **HP**. Morale does not affect PCs.
+**Morale**: Enemies must pass a **WILL** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **WILL** in place of their own. Lone foes must save when they're reduced to 0 **HP**. Morale does not affect PCs.
 
 **Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches or vampires are an exception).  
 
-**Flee**: Running away from a dire situation always requires a successful **DEX** save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing.
+**Flee**: Running away from a dire situation always requires a successful **REF** save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing.
 
 **Distraction**: Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster. Treasure will always distract intelligent monsters from the chase, by dropping 100sp worth of treasure or coins per monster.  
 
@@ -192,7 +216,7 @@ Table: Reaction Roll Results
 
 ## Death & Healing
 
-If a PC's **STR** is reduced to 0, they die. If their **DEX** is reduced to 0, they are paralyzed. If their **WIL** is reduced to 0, they are delirious.
+If a PC's **FORT** is reduced to 0, they die. If their **REF** is reduced to 0, they are paralyzed. If their **WILL** is reduced to 0, they are delirious.
 
 Ability scores and **HP** are restored by resting:
 
@@ -218,7 +242,7 @@ Ability scores and **HP** are restored by resting:
 
 **Light Sources**: Torches, candles, lamps, or the like require a free hand to hold them. One such light source is required for every 4 dungeon explorers.
 
-**Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **DEX** and **WIL**. If the **DEX** save is failed, they lose 1d6x10% of treasure obtained. If the **WIL** save is failed, they take 1d6 **WIL** damage.
+**Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **REF** and **WILL**. If the **REF** save is failed, they lose 1d6x10% of treasure obtained. If the **WILL** save is failed, they take 1d6 **WILL** damage.
 
 ---
 
@@ -226,9 +250,9 @@ Ability scores and **HP** are restored by resting:
 
 **Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
-**Forcing Doors**: All doors are stuck and must be burst open by force with a successful **STR** save. A failed attempt means you still burst open the door, but it makes surprising whatever is behind the door impossible.
+**Forcing Doors**: All doors are stuck and must be burst open by force with a successful **FORT** save. A failed attempt means you still burst open the door, but it makes surprising whatever is behind the door impossible.
 
-**Locked Doors**: Some doors are locked, and require a key or a successful **DEX** save to pick the lock to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again.
+**Locked Doors**: Some doors are locked, and require a key or a successful **REF** save to pick the lock to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again.
 
 **Secret Doors**: Secret doors can be discovered by searching the room.
 
@@ -240,7 +264,7 @@ Ability scores and **HP** are restored by resting:
 
 ## Traps
 
-**Room Traps**:  Room traps are activated on a failed **DEX** save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an ability score on a failed save.
+**Room Traps**:  Room traps are activated on a failed **REF** save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an ability score on a failed save.
 
 **Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an ability score on a failed save.
 
@@ -269,7 +293,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 **Spellbooks** contain a single spell. Anyone can cast a spell by holding a spellbook in both hands and reading its contents aloud.
 
-**Spell Level**: A spell's effective caster level is equal to the amount of **WIL** damage the caster inflicts upon himself. This **WIL** damage can be healed with rests just as with any other ability score damage. The max spell level is 6th (and thus max **WIL** damage that can be inflicted this way is 6 damage).
+**Spell Level**: A spell's effective caster level is equal to the amount of **WILL** damage the caster inflicts upon himself. This **WILL** damage can be healed with rests just as with any other ability score damage. The max spell level is 6th (and thus max **WILL** damage that can be inflicted this way is 6 damage).
 
 **Scrolls** are similar to Spellbooks, however they burn to ash after one use, and are always cast at 1st level.
 
@@ -284,7 +308,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 ## Spell Descriptions
 
 1. **Animate Dead**: Animate a number of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
-2. **Augury**: Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 **STR** in blood to guarantee a truthful answer.
+2. **Augury**: Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 **FORT** in blood to guarantee a truthful answer.
 3. **Charm**: Hostile creatures become neutral, neutral become friendly, and friendly creatures become infatuated. Affects a number of creatures equal to spell level.
 4. **Circle of Protection**: Draw a circle on the ground with chalk, salt, or blood. Undead, fey, demons, or other unnatural creatures cannot cross the boundary. Protects one creature per spell level.
 5. **Control Weather**: Control the weather, causing clear skies, storms, winds, etc as desired. Effects last for 1 day per spell level.
@@ -340,19 +364,19 @@ The typical manor for a minor lord is 2 to 3 square miles in size. If this is lo
 
 Table: Peasant Uprisings
 
-**Levies**: Peasants can provide one (1) levy (**HP** d4 **WIL** 7) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a **WIL** save each week to see if they return to their farms.
+**Levies**: Peasants can provide one (1) levy (**HP** d4 **WILL** 7) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a **WILL** save each week to see if they return to their farms.
 
 ---
 
 ## Monster Conversion
 
 **HP** = HD + 3 (default to d6 if unsure)  
-**STR**, **DEX**, and **WIL** default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
+**FORT**, **REF**, and **WILL** default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
 **Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
 **Armor**: Lightly armored or naturally armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
-**Morale**: *B/X*-style morale scores can be converted to **WIL** per the following table:
+**Morale**: *B/X*-style morale scores can be converted to **WILL** per the following table:
 
-| B/X Morale | WIL score |
+| B/X Morale | WILL score |
 |------------|-----------|
 | 2          | 1         |
 | 3          | 2         |
@@ -365,7 +389,7 @@ Table: Peasant Uprisings
 | 11         | 19        |
 | 12         | 20        |
 
-Table: Morale-to-WIL Conversion
+Table: Morale-to-WILL Conversion
 
 ## License
 
