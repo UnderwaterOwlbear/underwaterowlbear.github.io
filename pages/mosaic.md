@@ -1,7 +1,7 @@
 ---
 title: My MOSAIC Strict Rules
 author: Tyler Farrington
-date: 2024-04-21
+date: 2024-05-10
 ---
 
 I have found that I have settled on a few [MOSAIC strict](http://blog.trilemma.com/2021/02/nothing-at-bottom-mosaic-strict-rpg.html) ways to handle some aspects of OSR/NSR/D&D/Elfgame play, and decide to compile them all here to reference in the future.
@@ -11,6 +11,20 @@ I have found that I have settled on a few [MOSAIC strict](http://blog.trilemma.c
 * [*Goblin Punch*](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html) by Arnold K, for THE UNDERCLOCK.
 * Delta's D&D Hotspot for castle construction rules ([cost](https://deltasdnd.blogspot.com/2017/09/castle-construction-costs.html) and [time](http://deltasdnd.blogspot.com/2019/09/castle-construction-times.html)).
 
+## Decisive Encumbrance
+
+Characters can choose how encumbered they are, and what they are encumbered with, from the following options:
+
+1. **Unencumbered** - The character is only carrying their fighting kit (weapons, armor, spellbook, holy symbol, thieves tools, etc) and a few personal trinkets (magic rings, treasure map, anything that can be stuffed into a pocket).
+    - **Benefits:** Always act before monsters (don't need to make an initiative check).
+    - **Drawbacks:** Not carrying any supplies for wilderness travel, or treasure for leveling up.
+2. **Encumbered with Supplies** - The character is carrying their fighting kit, trinkets, and a backpack full of supplies (rations, waterskins, torches, iron spikes, rope, etc).
+    - **Benefits:** Can carry 2 weeks of supplies for wilderness travel, and gains +1 on miscellaneous dungeon exploration *X-in-6* rolls (including open doors, pick lock, hear noises, etc, but excluding surprise and initiative).
+    - **Drawbacks:** Must succeed on initiative check to act before monsters.
+3. **Encumbered with Treasure** - The character is carrying their fighting kit, trinkets, and a backpack full of treasure (gold coins, gemstones, jewelry, statuettes, etc).
+    - **Benefits:** Can trade the treasure for 2d6x100 XP in town.
+    - **Drawbacks:** Must succeed on initiative check to act before monsters.
+    
 ## Combat
 
 **Morale**: Check morale at first casualty and again when a side takes 50% casualties. PCs and the undead never need to check morale. Morale is usually based on the combatants experience level, per the table below.  
