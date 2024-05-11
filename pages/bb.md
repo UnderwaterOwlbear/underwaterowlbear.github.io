@@ -1,7 +1,7 @@
 ---
-title: Barrows & Basilisks v1.17
+title: Barrows & Basilisks v1.18
 author: Tyler Farrington
-date: 2024-01-01
+date: 2024-05-10
 exclude: true
 ---
 
