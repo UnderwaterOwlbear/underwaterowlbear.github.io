@@ -26,32 +26,40 @@ exclude: true
 
 If coming from other old-school games, these are the assumptions used for a few important rules:
 
-* HD are d6.
+* HD are d6. Fighters gain a constant HP of 6 per level. All other classes gain 4 HP per level.
 * To-hit bonus equal to HD.
 * Ascending AC with unarmored AC = 10.
-* Single saving throw (roll-over).
+* Three saving throws (Fortitude, Reflex, Will, all roll-under).
 * Spellcasting as in *Wonder & Wickedness*
+* No ability scores.
 
-### Ability Scores
+### Skills
 
-Roll 3d6 for each ability score. Scores of 14 or higher grant the bonus indicated on the table below.
+For everything except fighting and casting spells.
 
-| Ability       | Bonus for High (14+) Score                   |
-|---------------|----------------------------------------------|
-| Strength      | +1 damage in melee, +1 to open doors         |
-| Dexterity     | +1 damage with missiles, +1 to initiative          |
-| Constitution  | +3 HP                                        |
-| Intelligence  | +1 spell known at 1st level                  |
-| Wisdom        | Start with 500 XP (instead of 0 XP)          |
-| Charisma      | +1 to reaction rolls and retainer morale     |
+Roll 3d6 four times, assign the scores to four skills.
 
-Table: Ability Scores
+When using or testing a skill, roll under your skill on a d20 to succeed. If you fail, suffer a consequence, but increase your skill by 1.
+
+| Prole            | Artisan    | Bourgeois     | Academic    | Linguistic   |
+|------------------|------------|---------------|-------------|--------------|
+| Cooking          | Blacksmith | Dance         | History     | Gnomish      |
+| Hunt & Forage    | Carpenter  | Equestrianism | Surgery     | Black Speech |
+| Stealth          | Scribe     | Appraisal     | Alchemy     | Pirate       |
+| Animal Husbandry | Locksmith  | Musician      | Engineering | Liturgical   |
+| Seamanship       | Stonemason | Accounting    | Barrister   | Ogham        |
+
+#### A note on languages
+
+* Gnomish - The language of gnomes, cats, small mammals, and songbirds.
+* Black Speech - The language of the enemy.
+* Pirate - The language of criminals, sailors, street musicians, Vikings, clowns, and other disreputable types.
+* Liturgical - The language of the Church, their Demons, and the Undead.
+* Ogham - A language found scarred into old birch trees. No known speakers.
 
 ### Experience & Advancement
 
-Pick a class. Start at 1st level with 0 experience points (XP), d6 maximum HP, and 3d6 silver pieces (sp). Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
-
-When a character gains a level, reroll all of their HD. If the total of the results is greater than their current maximum HP, the total becomes their new maximum HP.
+Pick a class. Start at 1st level with 0 experience points (XP) and 3d6 silver pieces (sp). Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
 ### Classes
 
