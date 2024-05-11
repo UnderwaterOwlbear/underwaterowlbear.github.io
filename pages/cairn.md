@@ -24,10 +24,10 @@ These are my house rules for running *DnD*-like games.
 
 Start with the following:
 
-* 3d6 **FORT**
-* 3d6 **REF**
-* 3d6 **WILL**
-* 1d6 **HP**
+* 3d6 FORT
+* 3d6 REF
+* 3d6 WILL
+* 1d6 HP
 * Roll a d6 on the table below for each column to determine the rest of your starting gear:
 
 | d6 | Armor               | Weapons                       | Gear                        |
@@ -56,7 +56,9 @@ When using or testing a skill, roll under your skill on a d20 to succeed. If you
 | Animal Husbandry | Locksmith  | Musician      | Engineering | Liturgical   |
 | Seamanship       | Stonemason | Accounting    | Barrister   | Ogham        |
 
-#### Skill Descriptions
+#### Skill Uses
+
+* Cooking - s
 
 #### A note on languages
 
@@ -72,9 +74,9 @@ When using or testing a skill, roll under your skill on a d20 to succeed. If you
 
 When doing something risky, a character must make a save by rolling a d20 under the appropriate ability to succeed.
 
-* **FORT** for tests of strength or endurance.
-* **REF** for tests of agility or precision.
-* **WILL** for tests of concentration, battles of will, or interactions with magic.
+* FORT for tests of strength or endurance.
+* REF for tests of agility or precision.
+* WILL for tests of concentration, battles of will, or interactions with magic.
 
 ---
 
@@ -108,14 +110,14 @@ Table: XP & Levels
 Characters can choose how encumbered they are, and what they are encumbered with, from the following options:
 
 1. **Unencumbered** - The character is only carrying their fighting kit (weapons, armor, spellbook, holy symbol, thieves tools, etc) and a few personal trinkets (magic rings, treasure map, anything that can be stuffed into a pocket).
-    * **Benefits:** Always act before monsters (don't need to make a **REF** save).
-    * **Drawbacks:** None.
+    * Benefits: Always act before monsters (don't need to make a REF save).
+    * Drawbacks: None.
 2. **Encumbered with Supplies** - The character is carrying their fighting kit, trinkets, and a backpack full of supplies (rations, waterskins, torches, iron spikes, rope, etc).
-    * **Benefits:** Can carry 2 weeks of supplies for wilderness travel, and reduces the amount the Dungeon Clock decreases each turn by 1 (meaning a 1d6-1 is rolled instead of 1d6).
-    * **Drawbacks:** Must succeed on a **REF** saving throw to act before monsters.
+    * Benefits: Can carry 2 weeks of supplies for wilderness travel, and reduces the amount the Dungeon Clock decreases each turn by 1 (meaning a 1d6-1 is rolled instead of 1d6).
+    * Drawbacks: Must succeed on a REF saving throw to act before monsters.
 3. **Encumbered with Treasure** - The character is carrying their fighting kit, trinkets, and a backpack full of treasure (gold coins, gemstones, jewelry, statuettes, etc).
-    * **Benefits:** Can convert the treasure into 2d6x100 coins in town.
-    * **Drawbacks:** Must succeed on a **REF** saving throw to act before monsters.
+    * Benefits: Can convert the treasure into 2d6x100 coins in town.
+    * Drawbacks: Must succeed on a REF saving throw to act before monsters.
 
 | Type      | Armor | Cost (coins) |
 |-----------|-------|----------:|
@@ -145,10 +147,10 @@ Table: Weapons
 
 | Transport     | Cost (coins) | Carrying Capacity   | Notes                             |
 |---------------|-----------|---------------------|-----------------------------------|
-| Mule          | 30        | 2x men              | **WILL** 10                       |
-| Horse, Riding | 60        | 2x men              | **WILL** 8                        |
-| Horse, War    | 150       | 3x men              | **WILL** 12, requires double feed |
-| Ox            | 100       | 6x men              | **WILL** 6                        |
+| Mule          | 30        | 2x men              | WILL 10                       |
+| Horse, Riding | 60        | 2x men              | WILL 8                        |
+| Horse, War    | 150       | 3x men              | WILL 12, requires double feed |
+| Ox            | 100       | 6x men              | WILL 6                        |
 | Cart, hand    | 5         | 2x men              |                                   |
 | Cart, draft   | 10        | 2x beast pulling it |                                   |
 | Wagon         | 30        | 4x beast pulling it |                                   |
@@ -161,15 +163,15 @@ Table: Transportation
 
 **Reaction Rolls**: When encountering a wandering monster or other entity, and their disposition is unknown, make a linguistic skill check. On a success, they are at least neutral. On a failure, or if you do not know the language, they are hostile.
 
-**Initiative**: Characters must make a successful **REF** save to gain the initiative and act before their enemies. On each of their turns, a character may move a short distance and take one other action, such as:
+**Initiative**: Characters must make a successful REF save to gain the initiative and act before their enemies. On each of their turns, a character may move a short distance and take one other action, such as:
 
 * Move further
 * Attack
 * Interact with an object
 
-**Attacking**: To attack, roll your weapon's damage die, and subtract any Armor that your target possesses. You deal that much damage to your target's **HP**.
+**Attacking**: To attack, roll your weapon's damage die, and subtract any Armor that your target possesses. You deal that much damage to your target's HP.
 
-**Critical Damage**: Damage that reduces a target’s **HP** below zero decreases a target’s **FORT** by the amount remaining. They must then make a **FORT** save to avoid **critical damage**.
+**Critical Damage**: Damage that reduces a target’s HP below zero decreases a target’s FORT by the amount remaining. They must then make a FORT save to avoid critical damage.
 
 * Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 * Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
@@ -178,13 +180,13 @@ Table: Transportation
 
 ## Advanced Combat
 
-**Enhanced & Impaired**: If your attack is **enhanced**, increase the die size by one step. If it is **impaired**, decrease the die size by one step.
+**Enhanced & Impaired**: If your attack is enhanced, increase the die size by one step. If it is impaired, decrease the die size by one step.
 
 **Multiple Attacks**: If multiple damage dice are rolled against the same target (whether by dual wielding, multiple attackers, etc), only the highest result deals damage.
 
-**Charge**: In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant deals **enhanced** damage on their next attack against the charged enemy.
+**Charge**: In the first round of combat, a combatant may charge an enemy by moving from outside of melee range to within melee range of an enemy in the movement phase. The charging combatant deals enhanced damage on their next attack against the charged enemy.
 
-**Blast**: Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. If unsure how many targets can be affected, roll the related damage die for a result.
+**Blast**: Attacks with the blast quality affect all targets in the noted area, rolling separately for each affected character. If unsure how many targets can be affected, roll the related damage die for a result.
 
 **Stunts**: A combatant can choose to trip, disarm, blind, or otherwise perform a dirty trick on his opponent. He makes an attack as normal. His opponent can choose to take damage as normal, or suffer the effects of the combat manuever.
 
@@ -192,11 +194,11 @@ Table: Transportation
 
 ## Morale & Fleeing
 
-**Morale**: Enemies must pass a **WILL** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **WILL** in place of their own. Lone foes must save when they're reduced to 0 **HP**. Morale does not affect PCs.
+**Morale**: Enemies must pass a WILL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WILL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 **Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches or vampires are an exception).  
 
-**Flee**: Running away from a dire situation always requires a successful **REF** save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing.
+**Flee**: Running away from a dire situation always requires a successful REF save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing.
 
 **Distraction**: Food will always distract unintelligent monsters from the chase, by dropping 1 day's ration per monster. Treasure will always distract intelligent monsters from the chase, by dropping 100sp worth of treasure or coins per monster.  
 
@@ -206,13 +208,13 @@ Table: Transportation
 
 ## Death & Healing
 
-If a PC's **FORT** is reduced to 0, they die. If their **REF** is reduced to 0, they are paralyzed. If their **WILL** is reduced to 0, they are delirious.
+If a PC's FORT is reduced to 0, they die. If their REF is reduced to 0, they are paralyzed. If their WILL is reduced to 0, they are delirious.
 
-Ability scores and **HP** are restored by resting:
+Ability scores and HP are restored by resting:
 
-* **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all **HP**.
-* **Long rest**: Takes a night in camp and a ration. Heal all **HP** and heal d6 of one ability score.
-* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all **HP** and all ability scores.
+* **Short rest**: Takes a few minutes in a safe, well-lit area. Heal all HP.
+* **Long rest**: Takes a night in camp and a ration. Heal all HP and heal d6 of one ability score.
+* **Full rest**: Takes a week in town and paying for room and board (usually 20sp). Heal all HP and all ability scores.
 
 ---
 
@@ -222,17 +224,17 @@ Ability scores and **HP** are restored by resting:
 
 **Turns**: One turn of dungeon exploration takes about ten minutes, and generally allows the party to take one action, such as:  
 
-* Open a stuck or locked **door**
-* Search the room thoroughly, revealing **traps** and **secret doors**
-* Take a **short rest**
-* Interact with a feature of the room, such as a **trap**
+* Open a stuck or locked door
+* Search the room thoroughly, revealing traps and secret doors
+* Take a short rest
+* Interact with a feature of the room, such as a trap
 * Move to the next room
 
 **Darkness**: When the party does not have a light source, 2d6 is rolled against the dungeon clock each turn instead of 1d6, and they are unable to find traps or secret doors regardless of time spent searching.
 
 **Light Sources**: Torches, candles, lamps, or the like require a free hand to hold them. One such light source is required for every 4 dungeon explorers.
 
-**Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against **REF** and **WILL**. If the **REF** save is failed, they lose 1d6x10% of treasure obtained. If the **WILL** save is failed, they take 1d6 **WILL** damage.
+**Fleeing the Dungeon**: When the party flees back to camp in disarray (as opposed to an orderly withdrawal), each character must make a save against REF and WILL. If the REF save is failed, they lose 1d6x10% of treasure obtained. If the WILL save is failed, they take 1d6 WILL damage.
 
 ---
 
@@ -240,9 +242,9 @@ Ability scores and **HP** are restored by resting:
 
 **Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
-**Forcing Doors**: All doors are stuck and must be burst open by force with a successful **FORT** save. A failed attempt means you still burst open the door, but it makes surprising whatever is behind the door impossible.
+**Forcing Doors**: All doors are stuck and must be burst open by force with a successful FORT save. A failed attempt means you still burst open the door, but it makes surprising whatever is behind the door impossible.
 
-**Locked Doors**: Some doors are locked, and require a key or a successful **REF** save to pick the lock to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again.
+**Locked Doors**: Some doors are locked, and require a key or a successful REF save to pick the lock to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again.
 
 **Secret Doors**: Secret doors can be discovered by searching the room.
 
@@ -254,7 +256,7 @@ Ability scores and **HP** are restored by resting:
 
 ## Traps
 
-**Room Traps**:  Room traps are activated on a failed **REF** save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an ability score on a failed save.
+**Room Traps**:  Room traps are activated on a failed REF save. They can be detected by spending a turn searching the area. Characters can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap. Traps deal damage directly to an ability score on a failed save.
 
 **Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap. Traps deal damage directly to an ability score on a failed save.
 
@@ -283,7 +285,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 **Spellbooks** contain a single spell. Anyone can cast a spell by holding a spellbook in both hands and reading its contents aloud.
 
-**Spell Level**: A spell's effective caster level is equal to the amount of **WILL** damage the caster inflicts upon himself. This **WILL** damage can be healed with rests just as with any other ability score damage. The max spell level is 6th (and thus max **WILL** damage that can be inflicted this way is 6 damage).
+**Spell Level**: A spell's effective caster level is equal to the amount of WILL damage the caster inflicts upon himself. This WILL damage can be healed with rests just as with any other ability score damage. The max spell level is 6th (and thus max WILL damage that can be inflicted this way is 6 damage).
 
 **Scrolls** are similar to Spellbooks, however they burn to ash after one use, and are always cast at 1st level.
 
@@ -298,7 +300,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 ## Spell Descriptions
 
 1. **Animate Dead**: Animate a number of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
-2. **Augury**: Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 **FORT** in blood to guarantee a truthful answer.
+2. **Augury**: Perform a divination to determine whether a given course of action will result in "weal" or "woe". The caster may ask one question per level. DM rolls a d6 secretly: on a 4+, the answer is truthful. Sacrifice 1d6 FORT in blood to guarantee a truthful answer.
 3. **Charm**: Hostile creatures become neutral, neutral become friendly, and friendly creatures become infatuated. Affects a number of creatures equal to spell level.
 4. **Circle of Protection**: Draw a circle on the ground with chalk, salt, or blood. Undead, fey, demons, or other unnatural creatures cannot cross the boundary. Protects one creature per spell level.
 5. **Control Weather**: Control the weather, causing clear skies, storms, winds, etc as desired. Effects last for 1 day per spell level.
@@ -334,9 +336,9 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 
 **Manors** consist of the lord's keep (anything from a small fortified house, to an expansive castle, depending on the wealth of the lord) and the accompanying peasant population of the manor. The population density of a manor depends on the region in which the manor is located:
 
-* **Wilderness**: d6-3 households per square mile
-* **Borderlands**: d6 households per square mile
-* **Heartland**: d6+3 households per square mile
+* Wilderness: d6-3 households per square mile
+* Borderlands: d6 households per square mile
+* Heartland: d6+3 households per square mile
 
 The typical manor for a minor lord is 2 to 3 square miles in size. If this is located in the borderlands, it will thus contain approximately 10 households.
 
@@ -354,17 +356,17 @@ The typical manor for a minor lord is 2 to 3 square miles in size. If this is lo
 
 Table: Peasant Uprisings
 
-**Levies**: Peasants can provide one (1) levy (**HP** 3 **WILL** 7) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a **WILL** save each week to see if they return to their farms.
+**Levies**: Peasants can provide one (1) levy (HP 3 WILL 7) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a WILL save each week to see if they return to their farms.
 
 ---
 
 ## Monster Conversion
 
-**HP** = HD + 3 (default to d6 if unsure)  
-**FORT**, **REF**, and **WILL** default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
+HP = HD + 3 (default to d6 if unsure)  
+FORT, REF, and WILL default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
 **Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
 **Armor**: Lightly armored or naturally armored monsters have Armor 1 or 2. Particularly impervious monsters (dragon scales, etc) have Armor 3.  
-**Morale**: *B/X*-style morale scores can be converted to **WILL** per the following table:
+**Morale**: *B/X*-style morale scores can be converted to WILL per the following table:
 
 | B/X Morale | WILL score |
 |------------|-----------|
