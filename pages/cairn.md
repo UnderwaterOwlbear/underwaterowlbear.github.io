@@ -30,15 +30,15 @@ Start with the following:
 * 1d6 **HP**
 * Roll a d6 on the table below for each column to determine the rest of your starting gear:
 
-| d6 | Armor (+1 to roll if **FORT** is >12) | Weapons (+1 to roll if **REF** is >12) | Gear (+1 to roll if **WILL** is >12) |
-|----|--------------------------------------|----------------------------------------|-------------------------------------|
-| 1  | None                                 | Staff (d6, *bulky*) & Sling (d4)       | Hammer & Spikes (6)                 |
-| 2  | None                                 | Mace (d6) & Shield (+1 Armor)          | Torches (3) & Tinderbox             |
-| 3  | None                                 | Daggers, two (2d4)                     | Shovel & Pickaxe                    |
-| 4  | Padded (1 Armor)                     | Axe (d6) & Shield (+1 Armor)           | Rope, 50 ft                         |
-| 5  | Padded (1 Armor)                     | Spear (d8, *bulky*)                    | Lockpicks                           |
-| 6  | Padded (1 Armor)                     | Bow (d8) & Arrows                      | Mule                                |
-| 7  | Chainmail (2 Armor, *bulky*)         | Sword (d8)                             | Random spellbook (roll d20)         |
+| d6 | Armor               | Weapons                       | Gear                        |
+|----|---------------------|-------------------------------|-----------------------------|
+| 1  | None                | Staff (d6, *2H*) & Sling (d4) | Hammer & Spikes (6)         |
+| 2  | None                | Mace (d6) & Shield (+1 Armor) | Torches (3) & Tinderbox     |
+| 3  | None                | Daggers, two (2d4)            | Shovel & Pickaxe            |
+| 4  | Padded (1 Armor)    | Axe (d6) & Shield (+1 Armor)  | Rope, 50 ft                 |
+| 5  | Padded (1 Armor)    | Spear (d8, *2H*)              | Lockpicks                   |
+| 6  | Padded (1 Armor)    | Bow (d8) & Arrows             | Mule                        |
+| 7  | Chainmail (2 Armor) | Sword (d8)                    | Random spellbook (roll d20) |
 
 ### Skills
 
@@ -55,6 +55,8 @@ When using or testing a skill, roll under your skill on a d20 to succeed. If you
 | Stealth          | Scribe     | Appraisal     | Alchemy     | Pirate       |
 | Animal Husbandry | Locksmith  | Musician      | Engineering | Liturgical   |
 | Seamanship       | Stonemason | Accounting    | Barrister   | Ogham        |
+
+#### Skill Descriptions
 
 #### A note on languages
 
@@ -78,11 +80,11 @@ When doing something risky, a character must make a save by rolling a d20 under 
 
 ## Experience & Advancement
 
-Gain 1 XP for every sp spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
+Gain 1 XP for every coins spent on carousing, partying, donating, gambling, or other pursuits without material reward. Slaying monsters may award XP as well, but this is significantly more dangerous and less rewarding than stealing treasure.
 
 When a character gains a level, do the following:
 
-1. Roll 1d20 for each ability score. If it is greater than or equal to the ability score, increase that score by 1.
+1. Roll 1d20 for each save. If it is greater than or equal to the ability score, increase that score by 1.
 2. Increase HP by +1
 
 | Level | XP      |
@@ -112,10 +114,10 @@ Characters can choose how encumbered they are, and what they are encumbered with
     * **Benefits:** Can carry 2 weeks of supplies for wilderness travel, and reduces the amount the Dungeon Clock decreases each turn by 1 (meaning a 1d6-1 is rolled instead of 1d6).
     * **Drawbacks:** Must succeed on a **REF** saving throw to act before monsters.
 3. **Encumbered with Treasure** - The character is carrying their fighting kit, trinkets, and a backpack full of treasure (gold coins, gemstones, jewelry, statuettes, etc).
-    * **Benefits:** Can spend the treasure for 2d6x100 sp in town.
+    * **Benefits:** Can convert the treasure into 2d6x100 coins in town.
     * **Drawbacks:** Must succeed on a **REF** saving throw to act before monsters.
 
-| Type      | Armor | Cost (sp) |
+| Type      | Armor | Cost (coins) |
 |-----------|-------|----------:|
 | Unarmored | 0     | -         |
 | Shield    | +1    | 10        |
@@ -127,7 +129,7 @@ Table: Armor & Encumbrance
 
 **Note:** Combined Armor from all sources cannot exceed 3.
 
-| Weapon                       | Damage | Cost (sp) | Notes   |
+| Weapon                       | Damage | Cost (coins) | Notes   |
 |------------------------------|--------|----------:|---------|
 | Unarmed                      | d4     | -         |         |
 | Dagger, Club, Staff, etc     | d6     | 10        |         |
@@ -141,35 +143,23 @@ Table: Weapons
 
 **Note:** *2H* weapons must be wielded in two hands.
 
-| Transport     | Cost (sp) | Carrying Capacity   | Notes                            |
-|---------------|-----------|---------------------|----------------------------------|
+| Transport     | Cost (coins) | Carrying Capacity   | Notes                             |
+|---------------|-----------|---------------------|-----------------------------------|
 | Mule          | 30        | 2x men              | **WILL** 10                       |
 | Horse, Riding | 60        | 2x men              | **WILL** 8                        |
 | Horse, War    | 150       | 3x men              | **WILL** 12, requires double feed |
 | Ox            | 100       | 6x men              | **WILL** 6                        |
-| Cart, hand    | 5         | 2x men              |                                  |
-| Cart, draft   | 10        | 2x beast pulling it |                                  |
-| Wagon         | 30        | 4x beast pulling it |                                  |
+| Cart, hand    | 5         | 2x men              |                                   |
+| Cart, draft   | 10        | 2x beast pulling it |                                   |
+| Wagon         | 30        | 4x beast pulling it |                                   |
 
 Table: Transportation
-
-**Note:** Feed consumed per day assumes freely available water and forage (such as grass or other undergrowth).
 
 ---
 
 ## Basic Combat
 
-**Reaction Rolls**: When encountering a wandering monster or other entity, and their disposition is unknown, roll 2d6 to determine their reaction.
-
-| 2d6  | Reaction     |
-|:----:|:-------------|
-| 2-   | Hostile      |
-| 3-5  | Negative     |
-| 6-8  | Uncertain    |
-| 9-11 | Positive     |
-| 12+  | Enthusiastic |
-
-Table: Reaction Roll Results
+**Reaction Rolls**: When encountering a wandering monster or other entity, and their disposition is unknown, make a linguistic skill check. On a success, they are at least neutral. On a failure, or if you do not know the language, they are hostile.
 
 **Initiative**: Characters must make a successful **REF** save to gain the initiative and act before their enemies. On each of their turns, a character may move a short distance and take one other action, such as:
 
@@ -283,7 +273,7 @@ Tunnels can be crawled through slowly if they measure 5x5ft, or walked through n
 Wilderness travel turns take place over turns of one day in length. Each day, the party may take one of the following actions:
 
 * Move 2d6+8 miles towards another area
-* Hunt, fish, or forage for d3 rations of food or water (natural features permitting)
+* Hunt, fish, or forage for d3-1 days of food or water (natural features permitting)
 * Explore the current area to reveal landmarks
 * Travel within the current area to a discovered landmark
 
@@ -364,7 +354,7 @@ The typical manor for a minor lord is 2 to 3 square miles in size. If this is lo
 
 Table: Peasant Uprisings
 
-**Levies**: Peasants can provide one (1) levy (**HP** d4 **WILL** 7) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a **WILL** save each week to see if they return to their farms.
+**Levies**: Peasants can provide one (1) levy (**HP** 3 **WILL** 7) per household in times of war. Levy will serve for 6 weeks unpaid (though they must be supplied with food, either by their lord or through forage); beyond that, they must be paid wages as mercenaries or they immediately disperse. Even if paid, make a **WILL** save each week to see if they return to their farms.
 
 ---
 
