@@ -14,11 +14,12 @@ These are my house rules for running *DnD*-like games.
 ## Acknowledgements
 
 * [*Cairn*](https://cairnrpg.com/) by Yochai Gal for most of the rules
+* [*Mythic Bastionland*](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd/) by Chris McDowall for some of the rest.
 * [*Necropraxis*](https://www.necropraxis.com/) by Brendan S., for many odds and ends.
 * [*Traverse Fantasy*](https://traversefantasy.blogspot.com/) by Marcia B., for her in-depth mathematical investigations of *OD&D*
 * [*Dreaming Dragonslayer*](https://dreamingdragonslayer.wordpress.com/2023/05/13/into-the-odd-fleeing-the-dungeon/) for consequences from fleeing the dungeon.
 * [*Goblin Punch*](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html) by Arnold K, for THE UNDERCLOCK.
-* [*Odd Skull*](https://oddskullblog.wordpress.com/2021/11/15/combat-maneuvers-the-easy-way/) for combat manuevers
+* [*Odd Skull*](https://oddskullblog.wordpress.com/2021/11/15/combat-maneuvers-the-easy-way/) for combat manuevers.
 
 ## Character Creation
 
@@ -28,32 +29,6 @@ Start with the following:
 * 3d6 REFLEX
 * 3d6 WILL
 * 1d6 HP
-* Roll a d6 on the table below for each column to determine the rest of your starting gear:
-    * Gain +1 to Armor roll if FORTITUDE > 12
-    * Gain +1 to Weapons roll if REFLEX > 12
-    * Gain +1 to Gear roll if WILL > 12
-* Roll a d6 for rare languages known
-    * 3 or less, no rare languages known (English only)
-    * 4 or 5, one rare language known
-    * 6, two rare languages known
-
-| d6 | Armor               | Weapons                       | Gear                        |
-|----|---------------------|-------------------------------|-----------------------------|
-| 1  | None                | Staff (d6, *2H*) & Sling (d4) | Hammer & Spikes (6)         |
-| 2  | None                | Mace (d6) & Shield (+1 ARMOR) | Torches (3) & Tinderbox     |
-| 3  | None                | Daggers, two (2d4)            | Shovel & Pickaxe            |
-| 4  | Padded (1 ARMOR)    | Axe (d6) & Shield (+1 ARMOR)  | Rope, 50 ft                 |
-| 5  | Padded (1 ARMOR)    | Spear (d8, *2H*)              | Lockpicks                   |
-| 6  | Padded (1 ARMOR)    | Bow (d8) & Arrows             | Mule                        |
-| 7  | Chainmail (2 ARMOR) | Sword (d8)                    | Random spellbook (roll d20) |
-
-### Rare Languages
-
-* Gnomish - The language of gnomes, cats, small mammals, and songbirds.
-* Black Speech - The language of the enemy.
-* Pirate - The language of criminals, sailors, street musicians, Vikings, clowns, and other disreputable types.
-* Liturgical - The language of the Church, their Demons, and the Undead.
-* Ogham - A language found scarred into old birch trees. No known speakers.
 
 ---
 
@@ -112,41 +87,42 @@ Beasts of burden are usually encumbered with either supplies or treasure.
 
 ## Equipment
 
-| Type      | ARMOR | Cost (coins) |
-|-----------|-------|----------:|
-| Unarmored | 0     | -         |
-| Shield    | +1    | 10        |
-| Padded    | 1     | 30        |
-| Chainmail | 2     | 100       |
-| Plate     | 3     | 1000      |
+
+| Type      | ARMOR | Rarity   |
+|-----------|-------|---------:|
+| Unarmored | 0     | -        |
+| Shield    | +1    | common   |
+| Helm      | +1    | uncommon |
+| Coat      | +1    | uncommon |
+| Plate     | +1    | rare     |
 
 Table: Armor & Encumbrance
 
-**Note:** Combined ARMOR from all sources cannot exceed 3.
+You can wear one armor of each type (shield, helm, coat, plate).
 
-| Weapon        | DAMAGE | Cost (coins) | Notes                        |
-|---------------|--------|--------------|------------------------------|
-| Unarmed       | d4     | -            |                              |
-| Simple Weapon | d6     | 10           | Dagger, Club, Staff, etc     |
-| Hand Weapon   | d8     | 50           | Sword, Mace, Axe, Spear, etc |
-| Great Weapon  | d10    | 100          | Poleaxe, Longsword, etc      |
-| Sling         | d4     | 10           |                              |
-| Bow           | d6     | 25           |                              |
-| Crossbow      | d8     | 50           |                              |
+| Weapon        | DAMAGE | Rarity   | Notes                        |
+|---------------|--------|----------|------------------------------|
+| Unarmed       | d4     | -        |                              |
+| Simple Weapon | d6     | common   | Dagger, Club, Staff, etc     |
+| Hand Weapon   | d8     | uncommon | Sword, Mace, Axe, Spear, etc |
+| Great Weapon  | d10    | rare     | Poleaxe, Longsword, etc      |
+| Sling         | d4     | common   |                              |
+| Bow           | d6     | uncommon |                              |
+| Crossbow      | d8     | rare     |                              |
 
 Table: Weapons
 
 **Note:** Great Weapons, Bows, and Crossbows must be wielded in two hands.
 
-| Transport     | Cost (coins) | Carrying Capacity   | Notes                         |
-|---------------|--------------|---------------------|-------------------------------|
-| Mule          | 30           | 2x men              | WILL 10                       |
-| Horse, Riding | 60           | 2x men              | WILL 8                        |
-| Horse, War    | 150          | 3x men              | WILL 12, requires double feed |
-| Ox            | 100          | 6x men              | WILL 6                        |
-| Cart, hand    | 5            | 2x men              |                               |
-| Cart, draft   | 10           | 2x beast pulling it |                               |
-| Wagon         | 30           | 4x beast pulling it |                               |
+| Transport     | Rarity   | Carrying Capacity   | Notes                         |
+|---------------|----------|---------------------|-------------------------------|
+| Mule          | common   | 2x men              | WILL 10                       |
+| Horse, Riding | uncommon | 2x men              | WILL 8                        |
+| Horse, War    | rare     | 3x men              | WILL 12, requires double feed |
+| Ox            | uncommon | 6x men              | WILL 6                        |
+| Cart, hand    | common   | 2x men              |                               |
+| Cart, draft   | common   | 2x beast pulling it |                               |
+| Wagon         | uncommon | 4x beast pulling it |                               |
 
 Table: Transportation
 
@@ -235,7 +211,7 @@ Ability scores and HP are restored by resting:
 
 **Locked Doors**: Some doors are locked, and require a key or a successful lockpicking attempt (5+ on a d6, takes one turn) to pick the lock to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again.
 
-**Secret Doors**: Secret doors can be discovered by searching the room.
+**Secret Doors**: Secret doors can be discovered by spending one turn searching the room.
 
 **Spiking Doors**: Doors will open freely for monsters and swing shut of their own accord, unless wedged with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
 
