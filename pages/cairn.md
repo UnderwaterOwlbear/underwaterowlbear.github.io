@@ -2,6 +2,7 @@
 title: Cairn House Rules
 author: Tyler Farrington
 date: 2024-05-11
+exclude: true
 ---
 
 * TOC
