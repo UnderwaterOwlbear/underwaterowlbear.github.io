@@ -117,7 +117,7 @@ Cannot wear light and heavy armor at the same time.
 
 **Undead** are always hostile, never check morale, and normally cannot be reasoned with (intelligent undead such as liches or vampires are an exception).
 
-**Fleeing** requires a successful REFLEX save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing. Passing through a secret door will always evade a pursuer.
+**Fleeing** requires a successful DEX save, as well as a safe destination to run to. If you are mounted and your pursuers are not, you automatically succeed at fleeing. Passing through a secret door will always evade a pursuer.
 
 ## Death & Healing
 
@@ -214,7 +214,7 @@ Wilderness travel turns take place over turns of one day in length. Each day, th
 ## Monster Conversion
 
 HP = HD + 3 (default to d6 if unsure)  
-STR, DEC, and CHA default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
+STR, DEX, and CHA default to 10 each. Increment by +/-4 if particularly strong, brave, agile, etc.  
 **Attacks**: Use same die type. Multiple attacks are rolled as normal, but only the highest die deals damage.  
 **Armor**: Lightly armored or naturally armored monsters have 1 or 2 armor. Particularly impervious monsters (dragon scales, etc) have 3 armor.  
 **Morale**: *B/X*-style morale scores can be converted to CHA per the following table:
