@@ -79,6 +79,16 @@ Coinage: 1 gold piece (gp) = 10 silver pieces (sp) = 50 copper pieces (cp)
 
 Cannot wear light and heavy armor at the same time.  
 
+| Transport     | Cost (sp) | Carrying Capacity   | Notes                        |
+|---------------|-----------|---------------------|------------------------------|
+| Mule          | 20        | 2x men              | CHA 10                       |
+| Horse, Riding | 80        | 2x men              | CHA 8                        |
+| Horse, War    | 200       | 3x men              | CHA 12, requires double feed |
+| Ox            | 60        | 6x men              | CHA 6                        |
+| Cart, hand    | 5         | 2x men              |                              |
+| Cart, draft   | 15        | 2x beast pulling it |                              |
+| Wagon         | 90        | 4x beast pulling it |                              |
+
 ## Combat
 
 **Encounter** procedure:
@@ -99,7 +109,7 @@ Cannot wear light and heavy armor at the same time.
 8. Repeat for next target until everyone on one side has acted
 9. Repeat for other side
 
-**Morale**: Enemies must pass CHA save to avoid fleeing. Organized groups use leaders save. Make morale save when...
+**Morale**: Enemies must pass CHA save to avoid fleeing. Organized groups use leader's save. Make morale save when...
 
 - Lose 1/3 of number
 - Lose 2/3 of number
