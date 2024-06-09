@@ -48,6 +48,29 @@ A king could rule over a substantial part of Michigan (12 to 25 counties). Likel
 
 ![](../assets/img/MIcounties.png)
 
+| Kingdom                         | Type       | Number of each type | Population | Fighting Men | Knights | Barons |
+|---------------------------------|------------|---------------------|------------|--------------|---------|--------|
+| Kingdom of Detroit              | County     | 16                  | 188564     | 9429         | 629     | 22     |
+|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
+|                                 | Small Town | 3                   | 6000       | 300          | 0       | 0      |
+| Kingdom of Detroit Total        |            | 20                  | 198564     | 9929         | 629     | 22     |
+| Kingdom of Grand Rapids         | County     | 15                  | 173216     | 8662         | 576     | 19     |
+|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
+|                                 | Small Town | 3                   | 6000       | 300          | 0       | 0      |
+| Kingdom of Grand Rapids Total   |            | 19                  | 183216     | 9162         | 576     | 19     |
+| Kingdom of Grand Traverse       | County     | 20                  | 210154     | 10505        | 700     | 22     |
+|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
+|                                 | Small Town | 4                   | 8000       | 400          | 0       | 0      |
+| Kingdom of Grand Traverse Total |            | 25                  | 222154     | 11105        | 700     | 22     |
+| Kingdom of Marquette            | County     | 15                  | 324570     | 16229        | 1082    | 41     |
+|                                 | Large Town | 2                   | 8000       | 400          | 0       | 0      |
+|                                 | Small Town | 6                   | 12000      | 600          | 0       | 0      |
+| Kingdom of Marquette Total      |            | 23                  | 344570     | 17229        | 1082    | 41     |
+| Kingdom of Saginaw              | County     | 17                  | 198288     | 9917         | 661     | 22     |
+|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
+|                                 | Small Town | 3                   | 6000       | 300          | 0       | 0      |
+| Kingdom of Saginaw Total        |            | 21                  | 208288     | 10417        | 661     | 22     |
+
 ### Kingdom of Grand Rapids
 
 ### Kingdom of Grand Traverse
