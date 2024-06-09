@@ -1,0 +1,109 @@
+Kingdom,Type,Name,Townships,Area (sqmi),Population,Fighting men,Knights,Barons
+Kingdom of Detroit,County,Clinton,16,556,11116,556,37,1
+Kingdom of Detroit,County,Genesee,17,555,11095,555,37,1
+Kingdom of Detroit,County,Hillsdale,18,589,11774,589,39,1
+Kingdom of Detroit,County,Ingham,16,504,10082,504,34,1
+Kingdom of Detroit,County,Jackson,19,691,13816,691,46,2
+Kingdom of Detroit,County,Lapeer,18,633,12669,633,42,2
+Kingdom of Detroit,County,Lenawee,22,732,14632,732,49,2
+Kingdom of Detroit,County,Livingston,16,557,11137,557,37,1
+Kingdom of Detroit,County,Macomb,11,362,7242,362,24,1
+Kingdom of Detroit,County,Monroe,15,536,10722,536,36,1
+Kingdom of Detroit,County,Oakland,21,599,11973,599,40,1
+Kingdom of Detroit,County,Sanilac,26,955,19109,955,64,2
+Kingdom of Detroit,County,Shiawassee,16,516,10315,516,34,1
+Kingdom of Detroit,County,St. Clair,23,697,13943,697,46,2
+Kingdom of Detroit,County,Washtenaw,22,729,14588,729,49,2
+Kingdom of Detroit,County,Wayne,9,218,4351,218,15,1
+Kingdom of Detroit,Large Town,Detroit,0,0,4000,200,0,0
+Kingdom of Detroit,Small Town,Ann Arbor,0,0,2000,100,0,0
+Kingdom of Detroit,Small Town,Flint,0,0,2000,100,0,0
+Kingdom of Detroit,Small Town,Lansing,0,0,2000,100,0,0
+Kingdom of Grand Rapids,County,Allegan,24,802,16042,802,53,2
+Kingdom of Grand Rapids,County,Barry,16,548,10958,548,37,1
+Kingdom of Grand Rapids,County,Berrien,22,545,10900,545,36,1
+Kingdom of Grand Rapids,County,Branch,16,497,9939,497,33,1
+Kingdom of Grand Rapids,County,Calhoun,19,649,12986,649,43,2
+Kingdom of Grand Rapids,County,Cass,15,485,9699,485,32,1
+Kingdom of Grand Rapids,County,Eaton,16,557,11130,557,37,1
+Kingdom of Grand Rapids,County,Ionia,16,559,11172,559,37,1
+Kingdom of Grand Rapids,County,Kalamazoo,15,502,10048,502,33,1
+Kingdom of Grand Rapids,County,Kent,21,714,14274,714,48,2
+Kingdom of Grand Rapids,County,Montcalm,20,696,13917,696,46,2
+Kingdom of Grand Rapids,County,Muskegon,16,450,9003,450,30,1
+Kingdom of Grand Rapids,County,Ottawa,18,569,11376,569,38,1
+Kingdom of Grand Rapids,County,St. Joseph,16,489,9774,489,33,1
+Kingdom of Grand Rapids,County,Van Buren,18,600,11998,600,40,1
+Kingdom of Grand Rapids,Large Town,Grand Rapids,0,0,4000,200,0,0
+Kingdom of Grand Rapids,Small Town,Benton Harbor,0,0,2000,100,0,0
+Kingdom of Grand Rapids,Small Town,Kalamazoo,0,0,2000,100,0,0
+Kingdom of Grand Rapids,Small Town,Muskegon,0,0,2000,100,0,0
+Kingdom of Grand Traverse,County,Antrim,15,476,9514,476,32,1
+Kingdom of Grand Traverse,County,Benzie,12,318,6367,318,21,1
+Kingdom of Grand Traverse,County,Charlevoix,15,407,8144,407,27,1
+Kingdom of Grand Traverse,County,Cheboygan,19,708,14169,708,47,2
+Kingdom of Grand Traverse,County,Clare,16,558,11155,558,37,1
+Kingdom of Grand Traverse,County,Emmet,16,461,9222,461,31,1
+Kingdom of Grand Traverse,County,Grand Traverse,13,456,9127,456,30,1
+Kingdom of Grand Traverse,County,Isabella,16,564,11288,564,38,1
+Kingdom of Grand Traverse,County,Kalkaska,12,560,11198,560,37,1
+Kingdom of Grand Traverse,County,Lake,15,567,11347,567,38,1
+Kingdom of Grand Traverse,County,Leelanau,11,347,6936,347,23,1
+Kingdom of Grand Traverse,County,Manistee,14,539,10777,539,36,1
+Kingdom of Grand Traverse,County,Mason,15,490,9805,490,33,1
+Kingdom of Grand Traverse,County,Mecosta,16,551,11014,551,37,1
+Kingdom of Grand Traverse,County,Missaukee,15,562,11249,562,37,1
+Kingdom of Grand Traverse,County,Newaygo,24,803,16068,803,54,2
+Kingdom of Grand Traverse,County,Oceana,16,510,10203,510,34,1
+Kingdom of Grand Traverse,County,Osceola,16,562,11242,562,37,1
+Kingdom of Grand Traverse,County,Otsego,9,510,10203,510,34,1
+Kingdom of Grand Traverse,County,Wexford,16,556,11126,556,37,1
+Kingdom of Grand Traverse,Large Town,Grand Traverse,0,0,4000,200,0,0
+Kingdom of Grand Traverse,Small Town,Cadillac,0,0,2000,100,0,0
+Kingdom of Grand Traverse,Small Town,Ludington,0,0,2000,100,0,0
+Kingdom of Grand Traverse,Small Town,Mount Pleasant,0,0,2000,100,0,0
+Kingdom of Grand Traverse,Small Town,Petoskey,0,0,2000,100,0,0
+Kingdom of Marquette,County,Alger,8,910,18196,910,61,2
+Kingdom of Marquette,County,Baraga,5,898,17965,898,60,2
+Kingdom of Marquette,County,Chippewa,16,1544,30873,1544,103,4
+Kingdom of Marquette,County,Delta,14,1153,23065,1153,77,3
+Kingdom of Marquette,County,Dickinson,7,741,14820,741,49,2
+Kingdom of Marquette,County,Gogebic,6,1082,21639,1082,72,3
+Kingdom of Marquette,County,Houghton,14,1002,20041,1002,67,3
+Kingdom of Marquette,County,Iron,7,1153,23057,1153,77,3
+Kingdom of Marquette,County,Keweenaw,5,540,10802,540,36,1
+Kingdom of Marquette,County,Luce,4,899,17982,899,60,2
+Kingdom of Marquette,County,Mackinac,11,1015,20291,1015,68,3
+Kingdom of Marquette,County,Marquette,19,1775,35494,1775,118,4
+Kingdom of Marquette,County,Menominee,14,1038,20757,1038,69,3
+Kingdom of Marquette,County,Ontonagon,11,1311,26225,1311,87,3
+Kingdom of Marquette,County,Schoolcraft,8,1168,23363,1168,78,3
+Kingdom of Marquette,Large Town,Marquette,0,0,4000,200,0,0
+Kingdom of Marquette,Large Town,Sault St. Marie,0,0,4000,200,0,0
+Kingdom of Marquette,Small Town,Calumet,0,0,2000,100,0,0
+Kingdom of Marquette,Small Town,Copper Harbor,0,0,2000,100,0,0
+Kingdom of Marquette,Small Town,Escanaba,0,0,2000,100,0,0
+Kingdom of Marquette,Small Town,Houghton,0,0,2000,100,0,0
+Kingdom of Marquette,Small Town,Iron Mountain,0,0,2000,100,0,0
+Kingdom of Marquette,Small Town,Menominee,0,0,2000,100,0,0
+Kingdom of Saginaw,County,Alcona,11,674,13480,674,45,2
+Kingdom of Saginaw,County,Alpena,8,563,11266,563,38,1
+Kingdom of Saginaw,County,Arenac,12,358,7153,358,24,1
+Kingdom of Saginaw,County,Bay,14,428,8570,429,29,1
+Kingdom of Saginaw,County,Crawford,6,554,11086,554,37,1
+Kingdom of Saginaw,County,Gladwin,15,498,9957,498,33,1
+Kingdom of Saginaw,County,Gratiot,16,554,11079,554,37,1
+Kingdom of Saginaw,County,Huron,28,832,16634,832,55,2
+Kingdom of Saginaw,County,Iosco,11,544,10871,544,36,1
+Kingdom of Saginaw,County,Midland,16,482,9635,482,32,1
+Kingdom of Saginaw,County,Montmorency,8,547,10933,547,36,1
+Kingdom of Saginaw,County,Ogemaw,14,561,11219,561,37,1
+Kingdom of Saginaw,County,Oscoda,6,566,11315,566,38,1
+Kingdom of Saginaw,County,Presque Isle,14,653,13053,653,44,2
+Kingdom of Saginaw,County,Roscommon,11,520,10393,520,35,1
+Kingdom of Saginaw,County,Saginaw,28,781,15624,781,52,2
+Kingdom of Saginaw,County,Tuscola,23,801,16020,801,53,2
+Kingdom of Saginaw,Large Town,Saginaw,0,0,4000,200,0,0
+Kingdom of Saginaw,Small Town,Alpena,0,0,2000,100,0,0
+Kingdom of Saginaw,Small Town,Bad Axe,0,0,2000,100,0,0
+Kingdom of Saginaw,Small Town,Tawas Bay,0,0,2000,100,0,0
