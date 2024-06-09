@@ -5,6 +5,8 @@ date: 2024-06-09
 tags: rules
 ---
 
+Scaffolding for a domain wargame set in future-medieval Michigan.
+
 ## Assumptions
 
 1. Land can support 20 people per sq mi.
@@ -48,28 +50,13 @@ A king could rule over a substantial part of Michigan (12 to 25 counties). Likel
 
 ![](../assets/img/MIcounties.png)
 
-| Kingdom                         | Type       | Number of each type | Population | Fighting Men | Knights | Barons |
-|---------------------------------|------------|---------------------|------------|--------------|---------|--------|
-| Kingdom of Detroit              | County     | 16                  | 188564     | 9429         | 629     | 22     |
-|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
-|                                 | Small Town | 3                   | 6000       | 300          | 0       | 0      |
-| Kingdom of Detroit Total        |            | 20                  | 198564     | 9929         | 629     | 22     |
-| Kingdom of Grand Rapids         | County     | 15                  | 173216     | 8662         | 576     | 19     |
-|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
-|                                 | Small Town | 3                   | 6000       | 300          | 0       | 0      |
-| Kingdom of Grand Rapids Total   |            | 19                  | 183216     | 9162         | 576     | 19     |
-| Kingdom of Grand Traverse       | County     | 20                  | 210154     | 10505        | 700     | 22     |
-|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
-|                                 | Small Town | 4                   | 8000       | 400          | 0       | 0      |
-| Kingdom of Grand Traverse Total |            | 25                  | 222154     | 11105        | 700     | 22     |
-| Kingdom of Marquette            | County     | 15                  | 324570     | 16229        | 1082    | 41     |
-|                                 | Large Town | 2                   | 8000       | 400          | 0       | 0      |
-|                                 | Small Town | 6                   | 12000      | 600          | 0       | 0      |
-| Kingdom of Marquette Total      |            | 23                  | 344570     | 17229        | 1082    | 41     |
-| Kingdom of Saginaw              | County     | 17                  | 198288     | 9917         | 661     | 22     |
-|                                 | Large Town | 1                   | 4000       | 200          | 0       | 0      |
-|                                 | Small Town | 3                   | 6000       | 300          | 0       | 0      |
-| Kingdom of Saginaw Total        |            | 21                  | 208288     | 10417        | 661     | 22     |
+| Kingdom of...  | Area (sqmi) | Counties | Small Towns | Large Towns | Population | Fighting Men | Knights | Barons |
+|----------------|-------------|----------|-------------|-------------|------------|--------------|---------|--------|
+| Detroit        | 9,428       | 16       | 3           | 1           | 198,564    | 9,929        | 629     | 22     |
+| Grand Rapids   | 8,661       | 15       | 3           | 1           | 183,216    | 9,162        | 576     | 19     |
+| Grand Traverse | 10,508      | 20       | 4           | 1           | 222,154    | 11,105       | 700     | 22     |
+| Marquette      | 16,228      | 15       | 6           | 2           | 344,570    | 17,229       | 1,082   | 41     |
+| Saginaw        | 9,914       | 17       | 3           | 1           | 208,288    | 10,417       | 661     | 22     |
 
 ### Kingdom of Grand Rapids
 
@@ -90,10 +77,10 @@ Ottawa
 St. Joseph
 Van Buren
 
-Large Town	Grand Rapids
-Small Town	Benton Harbor
-Small Town	Kalamazoo
-Small Town	Muskegon
+Large Town:	Grand Rapids  
+Small Towns:	Benton Harbor
+Kalamazoo
+Muskegon
 
 ### Kingdom of Grand Traverse
 
@@ -119,11 +106,11 @@ Osceola
 Otsego
 Wexford
 
-Large Town	Grand Traverse
-Small Town	Cadillac
-Small Town	Ludington
-Small Town	Mount Pleasant
-Small Town	Petoskey
+Large Town:	Grand Traverse
+Small Towns:	Cadillac
+Ludington
+Mount Pleasant
+Petoskey
 
 ### Kingdom of Detroit
 
@@ -145,10 +132,10 @@ St. Clair
 Washtenaw
 Wayne
 
-Large Town	Detroit
-Small Town	Ann Arbor
-Small Town	Flint
-Small Town	Lansing
+Large Town:	Detroit
+Small Towns:	Ann Arbor
+Flint
+Lansing
 
 ### Kingdom of Saginaw
 
@@ -171,10 +158,10 @@ Roscommon
 Saginaw
 Tuscola
 
-Large Town	Saginaw
-Small Town	Alpena
-Small Town	Bad Axe
-Small Town	Tawas Bay
+Large Town:	Saginaw
+Small Towns:	Alpena
+Bad Axe
+Tawas Bay
 
 ### Kingdom of Marquette
 
@@ -195,11 +182,11 @@ Menominee
 Ontonagon
 Schoolcraft
 
-Large Town	Marquette
-Large Town	Sault St. Marie
-Small Town	Calumet
-Small Town	Copper Harbor
-Small Town	Escanaba
-Small Town	Houghton
-Small Town	Iron Mountain
-Small Town	Menominee
+Large Towns:	Marquette
+Sault St. Marie
+Small Towns:	Calumet
+Copper Harbor
+Escanaba
+Houghton
+Iron Mountain
+Menominee
