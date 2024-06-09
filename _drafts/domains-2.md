@@ -73,11 +73,133 @@ A king could rule over a substantial part of Michigan (12 to 25 counties). Likel
 
 ### Kingdom of Grand Rapids
 
+Counties:
+Allegan
+Barry
+Berrien
+Branch
+Calhoun
+Cass
+Eaton
+Ionia
+Kalamazoo
+Kent
+Montcalm
+Muskegon
+Ottawa
+St. Joseph
+Van Buren
+
+Large Town	Grand Rapids
+Small Town	Benton Harbor
+Small Town	Kalamazoo
+Small Town	Muskegon
+
 ### Kingdom of Grand Traverse
+
+Counties:
+Antrim
+Benzie
+Charlevoix
+Cheboygan
+Clare
+Emmet
+Grand Traverse
+Isabella
+Kalkaska
+Lake
+Leelanau
+Manistee
+Mason
+Mecosta
+Missaukee
+Newaygo
+Oceana
+Osceola
+Otsego
+Wexford
+
+Large Town	Grand Traverse
+Small Town	Cadillac
+Small Town	Ludington
+Small Town	Mount Pleasant
+Small Town	Petoskey
 
 ### Kingdom of Detroit
 
+Counties: 
+Clinton
+Genesee
+Hillsdale
+Ingham
+Jackson
+Lapeer
+Lenawee
+Livingston
+Macomb
+Monroe
+Oakland
+Sanilac
+Shiawassee
+St. Clair
+Washtenaw
+Wayne
+
+Large Town	Detroit
+Small Town	Ann Arbor
+Small Town	Flint
+Small Town	Lansing
+
 ### Kingdom of Saginaw
+
+Counties:
+Alcona
+Alpena
+Arenac
+Bay
+Crawford
+Gladwin
+Gratiot
+Huron
+Iosco
+Midland
+Montmorency
+Ogemaw
+Oscoda
+Presque Isle
+Roscommon
+Saginaw
+Tuscola
+
+Large Town	Saginaw
+Small Town	Alpena
+Small Town	Bad Axe
+Small Town	Tawas Bay
 
 ### Kingdom of Marquette
 
+Counties:
+Alger
+Baraga
+Chippewa
+Delta
+Dickinson
+Gogebic
+Houghton
+Iron
+Keweenaw
+Luce
+Mackinac
+Marquette
+Menominee
+Ontonagon
+Schoolcraft
+
+Large Town	Marquette
+Large Town	Sault St. Marie
+Small Town	Calumet
+Small Town	Copper Harbor
+Small Town	Escanaba
+Small Town	Houghton
+Small Town	Iron Mountain
+Small Town	Menominee
