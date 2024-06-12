@@ -18,13 +18,14 @@ I have discarded the following features in an attempt to drastically lower the s
 - Specialty units (scythed chariots, elephants, camelry).
 - Some of he variations of foot units have been discarded or combined (psiloi and auxilia rolled into one "skirmishers", pikes discarded, etc).
 - I have removed shooting and bow units from the game. With the "chunkier" square measurments, bow engagement range is no longer meaningfully different than close combat. This simplified many special cases in the rules.
+- Cities have been removed. This is intended to be played in a medieval / dark ages context where villages, manors, and castles are more common than cities. 
 
 I recognize that this drastically reduces the complexity and tactical variation that can be displayed in the game. I have deemed this an acceptable tradeoff for my use case.
 
 ## The Rules
 
 **Playing Area**: An 8x8 gridded area, such as a chessboard.  
-**Army Size and Troop Representation**: Army sizes are 8 units per side, 1 of which includes the general. Each army must have a camp or a city. The camp or city must be occupied either by one of the 12 units, or by *city denizens* or *camp followers*.   
+**Army Size and Troop Representation**: Army sizes are 8 units per side, 1 of which includes the general. Each army must have a camp. The camp must be occupied either by one of the 12 units, or by camp followers.   
 
 ### Troop Types - Foot
 
