@@ -83,3 +83,87 @@ Those lead to this forage table:
 | rare                    | 40                             | 4000               | 220000            | 55000                                                    |
 | rare                    | 50                             | 5000               | 275000            | 68750                                                    |
 | rare                    | 60                             | 6000               | 330000            | 82500                                                    |
+
+[Collections: Logistics, How Did They Do It, Part II: Foraging](https://acoup.blog/2022/07/29/collections-logistics-how-did-they-do-it-part-ii-foraging/)
+
+Year's grain is gathered at harvest time in early summer or late spring. Village of 200 people has around 70,000 man-days of grain on hand.
+
+Cavalry - forage 20 miles wide @ 10 miles / day = 200 sqmi per day
+
+Foot - forage 10 miles wide @ 10 miles / day = 100 sqmi per day
+
+Pre-industrial densities = 5,000 people / 200 sqmi = 25 people / sqmi
+
+5,000 people have 1.35 million man-days of food on hand after harvest. Army of 20,000 soldiers, 4,000 noncombatants, 10,000 animals, needs ~67,500 person-days of food per day (5% of what is available in countryside). This jives with previously mentioned rule of thumb of an army able to deplete 5-15% of a rural countryside's food via foraging.
+
+By late fall, food available declines by half (so army in previous paragraph needs 10-30% of countryside's food per day - this is unsustainable and army will starve).
+
+Thus, campaigning season begins in late March or early April. Supplies from friendly territory carry the army until early summer harvest when forage becomes plentiful.
+
+Army must keep moving. Remember, sample army of 20,000 depleted 5% of food in area per day. Will starve quickly if staying put for more than a few days.
+
+Ancient army sizes were around 20,000. 40,000 big, occasional. More than 80,000 is unsustainable.
+
+[Collections: Logistics, How Did They Do It, Part III: On the Move](https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/)
+
+Armies generally had to move over roads. Especially with wagons.
+
+Armies frequently carry 2 weeks supplies (note this lines up with 1 wagon per 50-100 men).
+
+Rules of thumb:
+
+- army of 20,000 men + 4,000 noncombatants + 10,000 animals
+- needs minimum population density of 10 people per square mile in campaigning season
+- needs minimum population density of 15 people per square mile in fall season
+- needs 20-25 people per square mile to forage enough to winter in the field
+
+Road spacing
+
+- Road fits 6 men abreast, or 4 horses
+- Infantry cohort of 480 men takes up 110m - 16,800 men takes up 2.4 miles
+- Cavalry squadron of 100 men takes up 75m- 2,400 cavalry takes up 1.1 miles
+- Baggage train - if 5,000 mules and 2,400 horses, takes up 3.1 miles. If 700 wagons, 5.2 miles long.
+- Total length, 6.6 miles with mules, call it 10 miles with wagons.
+
+Marching speed
+
+- 2.5 to 3.0 miles / hr
+- Intermittent rests result in average speed ot 2.25 - 2.50 miles / hr
+- With rests and start/stop times to account for column length (6.6 mi), march for 6 or 7 hours. With 10 mile column, only get 5-6 hours per day.
+- Means 15.0-17.5 miles / day at 6.6 mile length, 11.1-15.0 miles /day.
+- If hot, slow end of 2.25 - 2.50 miles/hr range.
+- If double army size, double road length to 13.2 miles with mules = 3-4 hours marching time = 6.75-10.0 mi/day.
+- Rest one day per week.
+
+A table to show the above.
+
+| Army Size                                                    | 20,000      | 20,000     | 40,000       | 40,000       |
+|--------------------------------------------------------------|-------------|------------|--------------|--------------|
+| Noncombatants                                                | 4000        | 4000       | 8000         | 8000         |
+| Animals                                                      | 9800        | 9800       | 19600        | 19600        |
+| Logistics                                                    | 5,000 mules | 700 wagons | 10,000 mules | 1,400 wagons |
+| Soldier column length (mi)                                   | 3.5         | 3.5        | 7            | 7            |
+| Baggage train length (mi)                                    | 3.1         | 5.2        | 6.2          | 10.4         |
+| Total length (mi)                                            | 6.6         | 8.7        | 13.2         | 17.4         |
+| Marching time (hr)                                           | 6.5         | 5.5        | 3.5          | 2.75         |
+| Miles / day                                                  | 15.4        | 13.1       | 8.3          | 6.5          |
+| Miles / wk                                                   | 93          | 78         | 50           | 39           |
+| Forage area (sqmi / day)                                     | 309         | 261        | 166          | 131          |
+| Men food needs (lb/day)                                      | 72000       | 72000      | 144000       | 144000       |
+| Animal food needs (lb/day)                                   | 98000       | 98000      | 196000       | 196000       |
+| Food Needs (lb/day)                                          | 170000      | 170000     | 340000       | 340000       |
+| Farmers needed to be stolen from each day                    | 3091        | 3091       | 6182         | 6182         |
+| Population density needed to sustain (people/sqmi) in summer | 10          | 12         | 37           | 47           |
+| ...in fall                                                   | 15          | 18         | 56           | 71           |
+| ...to winter in the field                                    | 20          | 24         | 74           | 95           |
+
+Solutions to **the tyranny of the wagon equation**:
+
+1. Steal more. But this means peasants will flee, and take food with them.
+2. March faster. But this will impact morale and combat effectiveness.
+3. Divide the army. But this poses 2C concerns.
+4. Resupply by water. But this requires a bureaucracy and geography.
+
+Enemy harrassment of foraging cuts foraged area by about half (meaning double the population density is required to feed army).
+
+Conclusion: ancient / pre-modern generals have limited control & choices once battle is joined, but *extensive* control & choices in the operational landscape.
