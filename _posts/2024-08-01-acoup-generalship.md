@@ -1,8 +1,9 @@
 ---
-Title: "Notes on ACOUP's Total Generalship Series"
-Author: Tyler Farrington
-Date: 2024-08-01
-Tags: wargames
+layout: post
+title: "Notes on ACOUP's Total Generalship Series"
+author: Tyler Farrington
+date: 2024-08-01
+tags: wargames
 ---
 
 I think that the "[Total Generalship](https://acoup.blog/2022/05/27/collections-total-generalship-commanding-pre-modern-armies-part-i-reports/)" collection over on *A Collection of Unmitigated Pedantry* by Bret Devereaux is a great resource for wargming and TTRPG rules on mass combat, and I would like to raid it for good ideas. First step; take notes.

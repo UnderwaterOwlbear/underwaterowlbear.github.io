@@ -1,8 +1,9 @@
 ---
-Title: The Tyranny of the Wagon Equation
-Author: Tyler Farrington
-Date: 2024-08-02
-Tags: wargames
+layout: post
+title: The Tyranny of the Wagon Equation
+author: Tyler Farrington
+date: 2024-08-02
+tags: wargames
 ---
 
 Useful notes and rules of thumb from various AOUP posts.
