@@ -31,7 +31,7 @@ I recognize that this drastically reduces the complexity and tactical variation 
 
 **Skirmishers (SK)**: Representing skirmishers and missile troops who are lightly armed and armored and who fight in loose formations.  
 **Spearmen (SP)**: Represensenting troops armed with spears and shields who fight in close formation.  
-**Blades (BL)**: Representing troops in heavy armor and armed with bladed weapons, who fight in close formation.
+**Blades (BL)**: Representing troops in heavy armor and armed with bladed weapons, who fight in close formation.  
 **Warband (WB)**: Representing poorly trained but highly motivated or frevent troops, such as bersekers or raiders.
 
 ### Troop Types - Mounted
