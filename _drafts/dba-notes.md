@@ -106,11 +106,13 @@ R = Recoil
 D = Destroyed  
 F = Flee  
 
+## Observations
+
 General trends...
 
-Tied = No effect  
-Lose = Recoil  
-Doubled = Destroyed  
+- Tied = No effect  
+- Lose = Recoil  
+- Doubled = Destroyed  
 
 Exceptions...
 
@@ -119,16 +121,51 @@ Exceptions...
 - Blades, Spears, and Pikes are very similar
 - Auxilia and Warbands are similar in movement and combat bonuses. Warbands destroy foot on Lose, not only Double. 
 
-## Simplifications
+Foot units:
 
-Combine Blades, Spears, Pikes, Auxilia, Warbands into Heavy and Medium Foot.
+- Artillery: Specialized unit that in medieval combat will likely only show up in sieges.
+- Blades / Spears / Pikes: Decent in combat, with slight variation amongst them as to effectiveness versus foot or horse. Move of 2/1.
+- Auxilia / Warband: Worse in combat than the above, but moves 2/2 and ignores bad going combat penalty. Warbands destroy foot on combat win without needing double score.
+- Hordes: Must be doubled to be destroyed, except by shock units such as knights or warbands.
+- Bows: Interesting interactions with mounted units. +4 in combat, but on a loss is destroyed. Otherwise similar to other foot above.
+- Psiloi: Moves 3/3 and ignored bad going combat penalty. Flees rather than be destroyed, unless being run down by mounted units in the open. 
+- Camp Followers / City Denizens: Could be combined into one "civilian" unit. Perhaps even rolled into artillery.
+- Looking at the combat results tables, Foot units are all **VERY** similar apart form Psiloi.
 
-Eliminate Hordes, Elephants, Camelry (aiming for Europe more than Mediterranean). 
+Mounted units: 
 
-All "lose" results are Recoil, except...
+- Elephants: Interesting, but I'm going for more of a NW Europe region so will probably omit.
+- Knights: Destroy foot units in the open. Countered by light horse and camelry.
+- Cavalry: Weaker in combat than knights, but moves faster.
+- Camelry: As cavalry, but a little slower.
+- Light Horse: As cavalry, but weaker and can operate independent of general, and move up to 3 times. Flees foot rather than be destroyed when doubled if in good going.
 
-- Artillery and Camp Followers are destroyed by any.
-- Any foot are destroyed by Knights on Lose.
-- Light Horse and Psiloi can Flee from Foot when doubled, instead of being Destroyed. Mounted units still ride them down.
+Revised combat results tables:
 
+bad going / good going
 
+Loss:
+
+| winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse |
+|--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|
+| Blades             | R      | R      | D       | R      | R              | D       | R       | R           |
+| Spears             | R      | R      | D       | R      | R              | D       | R       | R           |
+| Warband            | R      | R      | R       | R      | R              | D       | R       | R           |
+| Psiloi             | R      | R      | R       | R      | R              | D       | D       | R           |
+| Camp Followers     | D      | D      | D       | D      | D              | D       | D       | D           |
+| Knights            | R      | R      | R       | R      | R              | R       | R       | D           |
+| Cavalry            | F/R    | F/R    | F/R     | F/R    | F/R            | F/R     | F/R     | F/R         |
+| Light Horse        | D/R    | D/R    | D/R     | D/R    | D/R            | D/R     | D/R     | D/R         |
+
+Doubled:
+
+| winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse |
+|--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|
+| Blades             | D      | D      | D       | D      | D              | D       | D       | D           |
+| Spears             | D      | D      | D       | D      | D              | D       | D       | D           |
+| Warband            | D      | D      | D       | D      | D              | D       | D       | D           |
+| Psiloi             | F      | F      | F       | D      | F              | F/D     | F/D     | F/D         |
+| Camp Followers     | D      | D      | D       | D      | D              | D       | D       | D           |
+| Knights            | D      | D      | D       | D      | D              | D       | D       | D           |
+| Cavalry            | D      | D/F    | D       | D      | D              | D       | D       | D           |
+| Light Horse        | D/F    | D/F    | D/F     | D      | D/F            | D       | D       | D           |
