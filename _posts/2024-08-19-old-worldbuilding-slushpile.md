@@ -3,6 +3,7 @@ title: Old Worldbuilding Slushpile
 author: Tyler Farrington
 date: 2024-08-19
 layout: post
+tags: worldbuilding
 ---
 
 When I was younger (high school age or earlier) I often engaged myself in worldbuilding. Either for a hypothetical future D&D compaign, or as an end unto itself. I stumbled upon notes from this period, and upon reading noticed some common themes that kept recurring through the various worlds and ideas. For the sake of future me, I'm summarizing some of these themes here in hopes they may spur future creativity.
