@@ -4,7 +4,6 @@ title: "Gygax 75 - Week 1: The Concept"
 author: Tyler Farrington
 date: 2024-05-08
 tags: gygax75
-published: false
 ---
 
 ## 1. Get/create a notebook
