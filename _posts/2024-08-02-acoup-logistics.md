@@ -6,7 +6,7 @@ date: 2024-08-02
 tags: wargames
 ---
 
-Useful notes and rules of thumb from various AOUP posts.
+Useful notes and rules of thumb from various ACOUP posts.
 
 [New Acquisitions: How Fast Do Armies Move?](https://acoup.blog/2019/10/06/new-acquisitions-how-fast-do-armies-move/)
 
