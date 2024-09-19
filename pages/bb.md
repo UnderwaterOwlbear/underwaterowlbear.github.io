@@ -132,6 +132,29 @@ Table: Thief Levels
 * Find & disable traps
 * Pick pockets
 
+#### Cleric
+
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 14+  |                |
+| 2     | 2,000   | 1  | +1     | 13+  | 1              |
+| 3     | 4,000   | 2  | +2     | 12+  | 1              |
+| 4     | 8,000   | 2  | +2     | 11+  | 2              |
+| 5     | 16,000  | 3  | +3     | 10+  | 2              |
+| 6     | 32,000  | 3  | +3     | 9+   | 3              |
+| 7     | 64,000  | 4  | +4     | 8+   | 3              |
+| 8     | 128,000 | 4  | +4     | 7+   | 4              |
+| 9     | 256,000 | 5  | +5     | 6+   | 4              |
+
+Table: Cleric Levels
+
+**Weapons** Simple  
+**Armor** Medium  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, they become an Abbot (or Abbess) and can build or assume leadership of an abbey.  
+**Spellcasting** Clerics may cast a number of spells per day from their spell list, as indicated by the table below. Clerics know all spells on their spell list. Clerics must pray for at least one (1) hour to be able to cast spells that day.  
+**Spell Level** Cleric spells are considered to be of a level equal to ½ of the casting cleric's level (round down).  
+
 #### Elf
 
 | Level | XP      | HD | To-Hit | Save | Spells per Day |
@@ -175,6 +198,34 @@ Table: Dwarf Levels
 **Shields Shall Be Splintered:** A dwarf may sunder his shield to negate all damage from a single melee or missile attack.  
 **Greed:** Dwarves can detect the approximate direction of any large treasure (1000sp or more) within 100 feet.  
 **Grudge:** Dwarves deal +1 damage to goblins, orcs, ogres, trolls, and similar creatures.  
+
+#### Ranger
+
+| Level | XP      | HD | To-Hit | Save | Spells per Day |
+|-------|---------|----|--------|------|----------------|
+| 1     | 0       | 1  | +1     | 14+  |                |
+| 2     | 2,500   | 2  | +2     | 13+  |                |
+| 3     | 5,000   | 3  | +3     | 12+  | 1              |
+| 4     | 10,000  | 4  | +4     | 11+  | 1              |
+| 5     | 20,000  | 5  | +5     | 10+  | 1              |
+| 6     | 40,000  | 6  | +6     | 9+   | 2              |
+| 7     | 80,000  | 7  | +7     | 8+   | 2              |
+| 8     | 160,000 | 8  | +8     | 7+   | 2              |
+| 9     | 320,000 | 9  | +9     | 6+   | 3              |
+
+Table: Ranger Levels
+
+**Requirements**  
+**Weapons** Any  
+**Armor** Light and Medium  
+**Shields?** Yes  
+**Name Level** When they reach 9th level, the ranger becomes a Marcher Lord (or Lady) and rules over a border march.  
+**Tracking** A ranger can track a party through the wilderness for a few days after their passing. When underground or in adverse conditions, a roll of 5+ on a d6 is required.  
+**Pass Without Trace** A ranger leaves no trail in the wilderness, and cannot be tracked by mundane means.  
+**Ambush** A ranger surprises enemies on a roll of 3+ when in the wilderness (instead of on a 5+).  
+**Spellcasting** Rangers may cast a number of spells per day from their spell list, as indicated by the table below. Rangers know all spells on their spell list. Rangers must meditate in a wilderness setting for at least one (1) hour to be able to cast spells that day.  
+**Spell Level** Ranger spells are considered to be of a level equal to ⅓ of the casting ranger's level (round down).  
+
 
 ## Equipment & Encumbrance
 
@@ -462,6 +513,9 @@ Table: Wilderness Event Rolls
 
 ### Spell Descriptions
 
+[Animate Dead](#animate-dead)
+[Augury](#augury)
+
 #### Animate Dead
 
 Animate a number of HD worth of undead equal to spell level. Roll d6 when spell ends: (1-3) undead become hostile, (4-5) undead collapse into dust, (6) undead serve the caster permanently.
@@ -561,6 +615,16 @@ You can see all invisible, ethereal, and shapechanged creatures in their true fo
 #### Tongues
 
 You can comprehend all written and spoken languages.
+
+### Turn Foe
+
+Presenting a cross, you drive back undead, fey, demons, or other unnatural creatures within sight of you. These creatures must make a saving throw to be able to attack you or those within arm's length of you. Creatures have advantage or disadvantage on this saving throw depending on their HD and the cleric's level:
+
+| Monster HD is...            | Save Modifier |
+|-----------------------------|---------------|
+| 4 less than cleric level    | Disadvantage  |
+| Within +/-4 of cleric level | None          |
+| 4 greater than cleric level | Advantage     |
 
 #### Water Breathing
 
