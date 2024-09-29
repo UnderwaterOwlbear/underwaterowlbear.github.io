@@ -3,7 +3,7 @@ title: "Rangers, A History: Part 1 - OD&D"
 author: Tyler Farrington
 date: 2024-09-29
 layout: post
-tags: 
+tags: rangers
 
 ---
 
@@ -11,7 +11,7 @@ Rangers are, by far, my favorite DnD class (and I will fight to the death to cat
 
 ## OD&D - The Strategic Review, Vol. 1, No. 2, Summer 1975
 
-It's not surprising to me that Tolkienesque rangers are a strong enough archetype that nerds immediately started mailing in to TSR with their own overpowered homebrews for *OD&D*.
+It's not surprising to me that Tolkienesque rangers are a strong enough archetype that nerds immediately started mailing in to TSR with their own overpowered homebrews for *OD&D*. This class was submitted to the *TSR* newsletter by Joe Fischer.
 
 ![](/assets/img/odd-ranger-1.png)
 
@@ -45,7 +45,7 @@ They are explicitly called out as a "sub-class of Fighting Men", which I assume 
 - Surprised only on 1-in-6 instead of 2-in-6.
 - Favored enemy: +1 damage per level to "giant-type" creatures.
 - At 9th level, create a stronghold as a Fighting Man of the same level.
-- At 9th level, gain 2-24 (2d12) "special followers" (most likely men, elves, or dwarves. But occasionally hobbits, and rarely rangers or extraordinary wilderness creatures). When killed, they cannot be replaced.
+- At 9th level, gain 2-24 (2d12) "special followers". These are most likely men, elves, or dwarves. But occasionally hobbits, and rarely rangers or extraordinary wilderness creatures. When killed, they cannot be replaced.
 - At 10th level, gain the ability to use scrying magic items (a reference to Aragorn using a *palantir* in *LotR*).
 
 It is unclear if a ranger gains the *OD&D* fighter's multiple attacks or blindsense at 8th level.
@@ -56,3 +56,4 @@ It is unclear if a ranger gains the *OD&D* fighter's multiple attacks or blindse
 
 ## Analysis
 
+The *OD&D* ranger is essentially a homebrew, OP, Aragorn-as-class. It provides many of the familiar abilities and features that we see ascribed to rangers in later editions such as tracking, favored enemy, and being accompanied by wilderness creatures.
