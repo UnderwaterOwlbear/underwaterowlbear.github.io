@@ -7,7 +7,7 @@ tags: rangers
 
 ---
 
-Rangers are, by far, my favorite DnD class (and I will fight to the death to categorize them as fighter-types instead of thief-types). In a series of posts, I will set out to summarize the history of rangers as a DnD class throughout the editions (both TSR and WOTC) and compare the common rules elements and themes that they share.
+Rangers are, by far, my favorite DnD class (and I will fight to the death to categorize them as fighter-types instead of thief-types). In [a series of posts](https://underwaterowlbear.github.io/tag/rangers), I will set out to summarize the history of rangers as a DnD class throughout the editions (both TSR and WOTC) and compare the common rules elements and themes that they share.
 
 ## OD&D - The Strategic Review, Vol. 1, No. 2, Summer 1975
 
