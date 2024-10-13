@@ -13,7 +13,7 @@ I happen to have a hard copy of the 3.5e *PHB* - so that is what I will be using
 
 ## D&D 3rd Edition (3.5) - 2003
 
-Proficient in only light armor - not medium or heavy. Base attack bonus as fighter. Same Fortitude save as fighter, but better Reflex save.
+Proficient in only light armor - not medium or heavy. Proficient in all weapons. Base attack bonus as fighter. Same Fortitude save as fighter, but better Reflex save.
 
 **Prime Requisite**: Not applicable - 3rd edition did away with prime requisites.
 
@@ -38,4 +38,4 @@ Proficient in only light armor - not medium or heavy. Base attack bonus as fight
 
 ## Analysis
 
-This ranger is made even stealthier and gains more animal-related abilities. I can see why this ranger was viewed as more similar to the rogue than the fighter in 3.5e. The loss of medium armor was not so crippling, as this ranger's combat styles only work in light armor. Favored Enemy is buffed. 
+This ranger is made even stealthier and gains more animal-related abilities. I can see why this ranger was viewed as more similar to the rogue than the fighter in 3.5e. The loss of medium armor was not so crippling, as this ranger's combat styles only work in light armor. Favored Enemy is buffed. Overall I feel this ranger leans a little too far towards the thief / rogue than its more fighter-y origins in *AD&D*.
