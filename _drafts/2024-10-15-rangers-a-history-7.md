@@ -7,7 +7,9 @@ tags: rangers
 
 ---
 
-Part 7 in [a series of posts](https://underwaterowlbear.github.io/tag/rangers) summarizing the history of rangers as a DnD class throughout the editions (both TSR and WOTC). Reference material: 🏴‍☠️.
+Part 7 in [a series of posts](https://underwaterowlbear.github.io/tag/rangers) summarizing the history of rangers as a DnD class throughout the editions (both TSR and WOTC). 
+
+Reference material: 🏴‍☠️.
 
 ## D&D 5th Edition (5e) - 2024
 
