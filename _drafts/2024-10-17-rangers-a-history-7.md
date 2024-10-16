@@ -1,7 +1,7 @@
 ---
 title: "Rangers, A History: Part 7 - 5th Edition (2024)"
 author: Tyler Farrington
-date: 2024-10-15
+date: 2024-10-17
 layout: post
 tags: rangers
 
