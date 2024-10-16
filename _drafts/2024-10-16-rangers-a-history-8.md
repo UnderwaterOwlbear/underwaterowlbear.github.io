@@ -16,7 +16,7 @@ Part 8 in [a series of posts](https://underwaterowlbear.github.io/tag/rangers) s
 | HD                 | 2d8 (same size as fighter)                 | 2d8 (fighter d10)                              | 1d10 (as fighter)                    | 1d10 (as fighter)                          | 1d8 (fighter d10)                          | 1d10 (as fighter)                                 | 1d10 (as fighter)                                         |
 | XP to 2nd Level    | 2500 XP (but earn faster)                  | 2250 XP                                        | 2250 XP                              | N/A                                        | N/A                                        | N/A                                               | N/A                                                       |
 | Proficiencies      | As fighter                                 | As fighter                                     | As fighter                           | No heavy armor                             | No medium or heavy armor                   | No heavy armor                                    | No heavy armor                                            |
-| Restrictions       | Property, Followers, Alignment, Group Size | Property, Followers, Alignment, Group Size     | Propert, Followers, Alignment        | None                                       | None                                       | None                                              | None                                                      |
+| Restrictions       | Property, Followers, Alignment, Group Size | Property, Followers, Alignment, Group Size     | Property, Followers, Alignment        | None                                       | None                                       | None                                              | None                                                      |
 | Spellcasting at... | 9th level                                  | 8th level                                      | 8th level                            | 6th level                                  | 6th level                                  | 2nd level                                         | 1st level                                                 |
 | Max Spell Level    | 3rd level                                  | 3rd level                                      | 3rd level                            | 4th level                                  | 4th level                                  | 5th level                                         | 5th level                                                 |
 | Favored Enemy      | +1 damage / level to "giant types"         | +1 damage / level to "giant types"             | +4 to hit to choice of creature type | +1 damage / 5 levels to choice of creature | +2 damage / 5 levels to choice of creature | Tracking but no damage, player choice of creature | Free casts of *hunter's mark*, not tied to creature type. |
@@ -30,3 +30,28 @@ Part 8 in [a series of posts](https://underwaterowlbear.github.io/tag/rangers) s
 
 ## Analysis
 
+Consistent features of the ranger across all editions:
+
+- Fighter-ish HD
+- Spellcasting
+- Favored enemy that usually grants a damage bonus
+- Tracking ability
+- Stealth / Surprise ability
+
+Features present in TSR-era D&D (that are not shared with other classes from that era, like the mere fact that they have a prime requisite):
+
+- Can wear heavy armor
+- Has class restrictions (property, followers, alignment, group size)
+- Spellcasting starts late in class and only grants low-level spells
+- Favored enemy preset to "giant types" (orcs, goblins, and the like)
+- Special followers at higher levels
+- Use of scrying magic items
+
+Features present in WotC-era D&D:
+
+- Lose access to heavy armor
+- No restrictions
+- Spellcasting starts earlier and grants higher level spells
+- Favored enemy type is player-chosen
+- Animal Empathy and an Animal Companion
+- Fighting styles, particularly two-weapon fighting and archery
