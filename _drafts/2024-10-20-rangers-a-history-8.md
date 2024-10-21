@@ -9,6 +9,8 @@ tags: rangers
 
 Part 8 in [a series of posts](https://underwaterowlbear.github.io/tag/rangers) summarizing the history of rangers as a DnD class throughout the editions (both TSR and WOTC). 
 
+The ranger class characteristics across the various editions are summarized in the table below. 4e has been skipped because it, as an edition, is so wildly different to the mainline *TSR* and *WotC* offerings that I feel it would not be an apples-to-apples comparison.
+
 | Edition            | OD&D                                       | AD&D 1st                                       | AD&D 2nd                             | 3.0e                                       | 3.5e                                       | 5e (2014)                                         | 5e (2024)                                                 |
 |--------------------|--------------------------------------------|------------------------------------------------|--------------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------------------|-----------------------------------------------------------|
 | Prime Req.         | STR                                        | STR, INT, and WIS                              | STR, DEX, WIS                        | N/A                                        | N/A                                        | N/A                                               | N/A                                                       |
