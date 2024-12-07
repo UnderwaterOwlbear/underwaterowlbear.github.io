@@ -1,7 +1,7 @@
 ---
 title: "Rangers, A History: Part 8 - Comparison & Conclusion"
 author: Tyler Farrington
-date: 2024-10-20
+date: 2024-12-07
 layout: post
 tags: rangers
 
@@ -40,7 +40,7 @@ Consistent features of the ranger across all editions:
 - Tracking ability
 - Stealth / Surprise ability
 
-Features present in TSR-era D&D (that are not shared with other classes from that era, like the mere fact that they have a prime requisite):
+Features present in TSR-era D&D (that are not also shared with other classes from that era, like the mere fact that they have a prime requisite):
 
 - Can wear heavy armor
 - Has class restrictions (property, followers, alignment, group size)
