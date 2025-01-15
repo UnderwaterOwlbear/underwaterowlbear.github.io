@@ -1,7 +1,7 @@
 ---
 title: "Rangers, A History: Part 8 - Comparison & Conclusion"
 author: Tyler Farrington
-date: 2024-12-07
+date: 2025-01-11
 layout: post
 tags: rangers
 
@@ -57,3 +57,4 @@ Features present in WotC-era D&D:
 - Favored enemy type is player-chosen
 - Animal Empathy and an Animal Companion
 - Fighting styles, particularly two-weapon fighting and archery
+
