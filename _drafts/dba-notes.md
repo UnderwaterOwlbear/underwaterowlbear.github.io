@@ -30,18 +30,27 @@ Roll opposing d6 and add bonuses.
 | Camp Followers | +2      | +0         | 2          | 1               |                                                           |
 | City Denizens  | +2      | +0         | 2          | 1               |                                                           |
 
-Rear support factors: probably won't use
+Rear support factors (supported by same type): 
 
-Flank support factors: probably won't use
+* Pikes +3 vs foot (except psiloi) when supported
+* Warband +1 vs foot (except psiloi) when supported
+* Pike +1 vs Knights, Elephants, Scythed Chariots when supported
+* Light Horse +1 vs all when supported
+* Knights, Cavalry, Spears, Blades, Bows +1 vs foot in good going when supported
+
+Flank support factors:
+
+* Spears +1 if supported by Spears or Blades
+* Bows +1 if supported by Blades
 
 Tactical factors:
 
-+4 if in city or fort  
-+2 if in camp  
-+1 if general attached  
-+1 if uphill or on riverbank  
--1 for each flanking enemy  
--2 if in bad going  
+* +4 if in city or fort  
+* +2 if in camp  
+* +1 if general attached  
+* +1 if uphill or on riverbank  
+* -1 for each flanking enemy  
+* -2 if in bad going  
 
 Roll d6 for PIPs  
 Moves cost 1 PIP  
@@ -146,64 +155,83 @@ bad going / good going
 
 Loss:
 
-| winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse |
-|--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|
-| Blades             | R      | R      | D       | R      | R              | D       | R       | R           |
-| Spears             | R      | R      | D       | R      | R              | D       | R       | R           |
-| Warband            | R      | R      | R       | R      | R              | D       | R       | R           |
-| Psiloi             | R      | R      | R       | R      | R              | D       | D       | R           |
-| Camp Followers     | D      | D      | D       | D      | D              | D       | D       | D           |
-| Knights            | R      | R      | R       | R      | R              | R       | R       | D           |
-| Cavalry            | F/R    | F/R    | F/R     | F/R    | F/R            | F/R     | F/R     | F/R         |
-| Light Horse        | D/R    | D/R    | D/R     | D/R    | D/R            | D/R     | D/R     | D/R         |
+| winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse | Elephants |
+|--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|-----------|
+| Blades             | R      | R      | D       | R      | R              | D       | R       | R           | R         |
+| Spears             | R      | R      | D       | R      | R              | D       | R       | R           | R         |
+| Warband            | R      | R      | R       | R      | R              | D       | R       | R           | R         |
+| Psiloi             | R      | R      | R       | R      | R              | D       | D       | R           | R         |
+| Camp Followers     | D      | D      | D       | D      | D              | D       | D       | D           | D         |
+| Knights            | R      | R      | R       | R      | R              | R       | R       | D           | D         |
+| Cavalry            | F/R    | F/R    | F/R     | F/R    | F/R            | F/R     | F/R     | F/R         | D         |
+| Light Horse        | D/R    | D/R    | D/R     | D/R    | D/R            | D/R     | D/R     | D/R         | R         |
+| Elephants          | R      | R      | R       | D      | R              | R       | D       | R           | R         |
 
 Doubled:
 
-| winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse |
-|--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|
-| Blades             | D      | D      | D       | D      | D              | D       | D       | D           |
-| Spears             | D      | D      | D       | D      | D              | D       | D       | D           |
-| Warband            | D      | D      | D       | D      | D              | D       | D       | D           |
-| Psiloi             | F      | F      | F       | D      | F              | F/D     | F/D     | F/D         |
-| Camp Followers     | D      | D      | D       | D      | D              | D       | D       | D           |
-| Knights            | D      | D      | D       | D      | D              | D       | D       | D           |
-| Cavalry            | D      | D/F    | D       | D      | D              | D       | D       | D           |
-| Light Horse        | D/F    | D/F    | D/F     | D      | D/F            | D       | D       | D           |
+| winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse | Elephants |
+|--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|-----------|
+| Blades             | D      | D      | D       | D      | D              | D       | D       | D           | D         |
+| Spears             | D      | D      | D       | D      | D              | D       | D       | D           | D         |
+| Warband            | D      | D      | D       | D      | D              | D       | D       | D           | D         |
+| Psiloi             | F      | F      | F       | D      | F              | F/D     | F/D     | F/D         | R         |
+| Camp Followers     | D      | D      | D       | D      | D              | D       | D       | D           | D         |
+| Knights            | D      | D      | D       | D      | D              | D       | D       | D           | D         |
+| Cavalry            | D      | D/F    | D       | D      | D              | D       | D       | D           | D         |
+| Light Horse        | D/F    | D/F    | D/F     | D      | D/F            | D       | D       | D           | D         |
+| Elephants          | R      | R      | R       | D      | R              | R       | D       | R           | R         |
 
 or, even simpler
 
+| Abbr. 	| Name        	| Atk 	| MV, good 	| Mv, rough 	| Notes                               	|
+|-------	|-------------	|-----	|----------	|-----------	|-------------------------------------	|
+| LF    	| Light Foot  	| +2  	| 3        	| 3         	| Ignore rough terrain combat penalty 	|
+| HF    	| Heavy Foot  	| +4  	| 2        	| 1         	|                                     	|
+| LH    	| Light Horse 	| +2  	| 4        	| 1         	|                                     	|
+| HH    	| Heavy Horse 	| +4  	| 3        	| 1         	|                                     	|
+| WB    	| Warband     	| +3  	| 2        	| 2         	| Ignore rough terrain combat penalty 	|
+| MR    	| Monster     	| +5  	| 3        	| 1         	|                                     	|
+
 loss in open terrain
 
-|w➡️l⬇️| LF | HF | LH | HH |
-|----|----|----|----|----|
-| LF | ↩️ | ↩️ | ↩️ | 💀 |
-| HF | ↩️ | ↩️ | ↩️ | 💀 |
-| LH | ↩️ | ↩️ | ↩️ | ↩️ |
-| HH | ↩️ | ↩️ | 💀 | ↩️ |
+| L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
+|------	|----	|----	|----	|----	|----	|----	|
+| LF   	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| 💀  	| ↩️  	|
+| HF   	| ↩️  	| ↩️  	| 💀  	| ↩️  	| 💀  	| ↩️  	|
+| WB   	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| 💀  	| ↩️  	|
+| LH   	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	|
+| HH   	| ↩️  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| 💀  	|
+| MR   	| 💀  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| ↩️  	|
 
 loss in rough terrain
 
-|w➡️l⬇️| LF | HF | LH | HH |
-|----|----|----|----|----|
-| LF | ↩️ | ↩️ | ↩️ | ↩️ |
-| HF | ↩️ | ↩️ | ↩️ | ↩️ |
-| LH | 💀 | 💀 | 💀 | 💀 |
-| HH | ↩️ | ↩️ | 💀 | ↩️ |
+| L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
+|------	|----	|----	|----	|----	|----	|----	|
+| LF   	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	|
+| HF   	| ↩️  	| ↩️  	| 💀  	| ↩️  	| ↩️  	| ↩️  	|
+| WB   	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	|
+| LH   	| 💀  	| 💀  	| ↩️  	| 💀  	| 💀  	| ↩️  	|
+| HH   	| ↩️  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| 💀  	|
+| MR   	| 💀  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| ↩️  	|
 
 doubled in open terrain
 
-|w➡️l⬇️| LF | HF | LH | HH |
-|----|----|----|----|----|
-| LF | 💀 | ↩️ | 💀 | 💀 |
-| HF | 💀 | 💀 | 💀 | 💀 |
-| LH | ↩️ | ↩️ | 💀 | 💀 |
-| HH | 💀 | 💀 | 💀 | 💀 |
+| L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
+|------	|----	|----	|----	|----	|----	|----	|
+| LF   	| 💀  	| ↩️  	| ↩️  	| 💀  	| 💀  	| ↩️  	|
+| HF   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| WB   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| LH   	| ↩️  	| ↩️  	| ↩️  	| 💀  	| 💀  	| 💀  	|
+| HH   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| MR   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
 
 doubled in rough terrain
 
-|w➡️l⬇️| LF | HF | LH | HH |
-|----|----|----|----|----|
-| LF | 💀 | ↩️ | ↩️ | ↩️ |
-| HF | 💀 | 💀 | 💀 | 💀 |
-| LH | 💀 | 💀 | 💀 | 💀 |
-| HH | 💀 | 💀 | 💀 | 💀 |
+| L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
+|------	|----	|----	|----	|----	|----	|----	|
+| LF   	| 💀  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	| ↩️  	|
+| HF   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| WB   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| LH   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| HH   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+| MR   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
