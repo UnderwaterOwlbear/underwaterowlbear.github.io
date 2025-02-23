@@ -58,3 +58,16 @@ Features present in WotC-era D&D:
 - Animal Empathy and an Animal Companion
 - Fighting styles, particularly two-weapon fighting and archery
 
+If I were to make my own version of the ranger for an OD&D-like rule set, I would probably indlude the following:
+
+- HD as fighter
+- Spellcasting as wizard, but at 1/2 or 1/3 ability. Making the class more similar to Witchers such as Geralt of Rivia.
+- Favored enemy with damage bonus. But selectable with some small amount of preparation, to represent researching the habits and weaknesses of a given type of monster. Can only gain an advantage against one type at a time, however.
+- Tracking ability.
+- Stealth / surprise ability.
+- No heavy armor.
+- No class restrictions. This requires player buy-in to be effective so I'd rather not attempt to codify it.
+- No special followers, no animal companions. But a ranger can still recruit hirelings.
+- No animal companions. 
+- No fighting styles.
+- No scrying abilities.
