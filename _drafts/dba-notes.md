@@ -339,7 +339,7 @@ Destroyed = Removed from field.
 
 ### Unit Abilities
 
-Skirmish: LF ignore rough terrain combat penalty.
+Skirmish: LF ignore rough terrain combat penalty.  
 Charge: HH get +2 in open terrain.  
 Fleet of Foot: In rough terrain, LF may move to reserve instead of being destroyed (except when facing other LF).  
 Fleet of Hoof: In open terrain, LH may move to reserve instead of being destroyed (except when facing other LH).  
