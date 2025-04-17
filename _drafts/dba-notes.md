@@ -149,11 +149,11 @@ Mounted units:
 - Camelry: As cavalry, but a little slower.
 - Light Horse: As cavalry, but weaker and can operate independent of general, and move up to 3 times. Flees foot rather than be destroyed when doubled if in good going.
 
-Revised combat results tables:
+## Revised combat results tables
 
-bad going / good going
+### bad going / good going
 
-Loss:
+#### Loss:
 
 | winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse | Elephants |
 |--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|-----------|
@@ -167,7 +167,7 @@ Loss:
 | Light Horse        | D/R    | D/R    | D/R     | D/R    | D/R            | D/R     | D/R     | D/R         | R         |
 | Elephants          | R      | R      | R       | D      | R              | R       | D       | R           | R         |
 
-Doubled:
+#### Doubled:
 
 | winner > : loser v | Blades | Spears | Warband | Psiloi | Camp Followers | Knights | Cavalry | Light Horse | Elephants |
 |--------------------|--------|--------|---------|--------|----------------|---------|---------|-------------|-----------|
@@ -181,7 +181,7 @@ Doubled:
 | Light Horse        | D/F    | D/F    | D/F     | D      | D/F            | D       | D       | D           | D         |
 | Elephants          | R      | R      | R       | D      | R              | R       | D       | R           | R         |
 
-or, even simpler
+### or, even simpler
 
 | Abbr. 	| Name        	| Atk 	| MV, good 	| Mv, rough 	| Notes                               	|
 |-------	|-------------	|-----	|----------	|-----------	|-------------------------------------	|
@@ -192,7 +192,7 @@ or, even simpler
 | WB    	| Warband     	| +3  	| 2        	| 2         	| Ignore rough terrain combat penalty 	|
 | MR    	| Monster     	| +5  	| 3        	| 1         	|                                     	|
 
-loss in open terrain
+#### loss in open terrain
 
 | L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
 |------	|----	|----	|----	|----	|----	|----	|
@@ -203,7 +203,7 @@ loss in open terrain
 | HH   	| ↩️  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| 💀  	|
 | MR   	| 💀  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| ↩️  	|
 
-loss in rough terrain
+#### loss in rough terrain
 
 | L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
 |------	|----	|----	|----	|----	|----	|----	|
@@ -214,7 +214,7 @@ loss in rough terrain
 | HH   	| ↩️  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| 💀  	|
 | MR   	| 💀  	| ↩️  	| ↩️  	| 💀  	| ↩️  	| ↩️  	|
 
-doubled in open terrain
+#### doubled in open terrain
 
 | L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
 |------	|----	|----	|----	|----	|----	|----	|
@@ -225,7 +225,7 @@ doubled in open terrain
 | HH   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
 | MR   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
 
-doubled in rough terrain
+#### doubled in rough terrain
 
 | L⬇️W➡️ 	| LF 	| HF 	| WB 	| LH 	| HH 	| MR 	|
 |------	|----	|----	|----	|----	|----	|----	|
@@ -235,3 +235,112 @@ doubled in rough terrain
 | LH   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
 | HH   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
 | MR   	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	| 💀  	|
+
+
+## Icons
+
+🟩 = flee on lose, destroyed on doubles  
+🟥 = always destroyed in all terrain  
+🟦 = always flee in all terrain  
+🪤 = always destroyed in rough  
+📯 = always destroyed in open  
+😶‍🌫️ = always flee in rough   
+🐎 = always flee in open    
+
+### open terrain
+
+| L⬇️W➡️ 	| LF 	| HF 	| LH 	| HH 	|
+|------	|----	|----	|----	|----	|
+| LF   	| 🟩  	| 🟦  	| 🟩  	| 📯  	|
+| HF   	| 🟩 	| 🟩 	| 🟩 	| 📯  	|
+| LH   	| 🐎  	| 🐎  	| 🟩  	| 🟩  	|
+| HH   	| 🟩  	| 🟩  	| 🟥  	| 🟩 	|
+
+
+### rough terrain
+
+| L⬇️W➡️ 	| LF 	| HF 	| LH 	| HH 	|
+|------	|----	|----	|----	|----	|
+| LF   	| 🟩  	| 🟦  	| 😶‍🌫️  	| 😶‍🌫️  	|
+| HF   	| 🟩 	| 🟩 	| 🟩 	| 🟩 	|
+| LH   	| 🪤  	| 🪤  	| 🪤  	| 🪤  	|
+| HH   	| 🟩  	| 🟩 	| 🟥  	| 🟩 	|
+
+### Combinations:
+
+🐎🪤 = always flee in open, always destroyed in rough (LH defeated by foot)  
+🐎🟩 = always flee in open, normal in rough  
+🟩🪤 = normal in open, always destroyed in rough (LH defeated by cavalry)  
+🟩😶‍🌫️ = normal in open, always flee in rough (LF defeated by LH)  
+📯😶‍🌫️ = always destroyed in open, always flee in rough (LF defeated by HH)  
+📯🟩 = always destroyed in open, normal in rough (HF and WB defeated by HH)
+
+Rules that can be generalized:
+
+Terrain:
+
+1. In open, HH always destroy foot
+2. In open, LH always flee from foot
+3. In rough, LF always flee (except from other LF)
+4. In rough, LH always destroyed
+
+Unit "Hard Counters":
+
+1. LF always flee from foot (except from other LF) and from MR
+2. WB always destroy HF
+3. HH always destroyed by LH
+
+## New Simplified Version?
+
+### open terrain
+
+| L⬇️W➡️ 	| LF 	| HF 	| LH 	| HH 	|
+|------	|----	|----	|----	|----	|
+| LF   	| 🟩  	| 🟦  	| 🟩  	| 🟥  	|
+| HF   	| 🟩 	| 🟩 	| 🟩 	| 🟥  	|
+| LH   	| 🟦  	| 🟦  	| 🟩  	| 🟦  	|
+| HH   	| 🟩  	| 🟩  	| 🟥  	| 🟩 	|
+
+### rough terrain
+
+| L⬇️W➡️ 	| LF 	| HF 	| LH 	| HH 	|
+|------	|----	|----	|----	|----	|
+| LF   	| 🟩  	| 🟦  	| 🟦  	| 🟦  	|
+| HF   	| 🟩 	| 🟩 	| 🟩 	| 🟩 	|
+| LH   	| 🟥  	| 🟥  	| 🟥  	| 🟦  	|
+| HH   	| 🟩  	| 🟩 	| 🟩  	| 🟩 	|
+
+## Let's Try Again
+
+Resolve from left to right.
+
+Roll d6 and add bonuses.
+
+Unit factors:
+
+- Light Foot gets +2  
+- Heavy Foot gets +4  
+- Light Horse gets +2  
+- Heavy Horse gets +4  
+
+Tactical factors:
+
+- +1 if general attached  
+- +1 if uphill or on riverbank  
+- -1 if flanked 
+- -1 if in rough terrain  
+- -2 if exhausted
+
+If lose, exhausted. If doubled, destroyed.  
+
+Exhausted = Flip. If already exhausted and would be exhausted again, destroyed.  
+
+Destroyed = Removed from field.  
+
+### Unit Abilities
+
+Skirmish: LF ignore rough terrain combat penalty.
+Charge: HH get +2 in open terrain.  
+Fleet of Foot: In rough terrain, LF may move to reserve instead of being destroyed (except when facing other LF).  
+Fleet of Hoof: In open terrain, LH may move to reserve instead of being destroyed (except when facing other LH).  
+
