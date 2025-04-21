@@ -365,10 +365,12 @@ Mobile: May redeploy to any other sector after combat is resolved.
 
 ### Battlefield
 
+```
 |	Reserve		|
 | Left | Center | Right |
 | Left | Center | Right |
 |	Reserve		|
+```
 
 ### Terrain
 
