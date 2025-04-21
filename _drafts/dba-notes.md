@@ -314,33 +314,63 @@ Unit "Hard Counters":
 
 Resolve from left to right.
 
-Roll d6 and add bonuses.
+Roll d6 and add bonuses. Loser is exhausted. If doubled, destroyed outright. If would be exhausted again while already exhausted, destroyed instead.
 
-Unit factors:
+If any sectors are empty afer resolving combat, may deploy a unit from reserves into an empty sector. Once deployed, a unit cannot be recalled or deployed to a different sector.
 
-- Light Foot gets +2  
-- Heavy Foot gets +4  
-- Light Horse gets +2  
-- Heavy Horse gets +4  
+If a unit's flank is exposed, count as flanked.
 
-Tactical factors:
+Game ends when 1/2 of a side's units are destroyed.
+
+### Basic Units
+
+Spend 24 pt on units per side.
+
+Light Foot: +2, Skirmish, 4 pt  
+Heavy Foot: +4, Formation, 6 pt  
+Light Horse: +2, Mobile, 4 pt  
+Heavy Horse: +4, Charge, 6 pt  
+
+### Advanced Units
+
+Civilians: +0, 1 pt  
+Levy: +1, 2 pt  
+Militia: +2, 3 pt  
+Warband: +2, Charge, 4 pt  
+Auxilia: +2, Formation, 4 pt  
+Rangers: +4, Skirmish, 6pt  
+Warg Riders: +4, Mobile, 6pt  
+
+### Custom Units
+
+Start with 1 pt  
++1 = 1 pt  
+Ability = 1 pt  
+Cannot have both Skirmish and Formation.  
+
+### Tactical factors
 
 - +1 if general attached  
-- +1 if uphill or on riverbank  
-- -1 if flanked 
-- -1 if in rough terrain  
-- -2 if exhausted
-
-If lose, exhausted. If doubled, destroyed.  
-
-Exhausted = Flip. If already exhausted and would be exhausted again, destroyed.  
-
-Destroyed = Removed from field.  
+- +1 if uphill  
+- -1 if flanked  
+- -1 if exhausted  
+- -2 if in rough terrain  
 
 ### Unit Abilities
 
-Skirmish: LF ignore rough terrain combat penalty.  
-Charge: HH get +2 in open terrain.  
-Fleet of Foot: In rough terrain, LF may move to reserve instead of being destroyed (except when facing other LF).  
-Fleet of Hoof: In open terrain, LH may move to reserve instead of being destroyed (except when facing other LH).  
+Skirmish: Ignore rough terrain combat penalty.  
+Charge: Get +2 in open terrain.  
+Formation: Get +1 for each flanking friendly unit with Formation.  
+Mobile: May redeploy to any other sector after combat is resolved.  
 
+### Battlefield
+
+|	Reserve		|
+| Left | Center | Right |
+| Left | Center | Right |
+|	Reserve		|
+
+### Terrain
+
+Hill: Takes up 1/2 sector.  
+Rough Terrain: Takes up full sector. Woods, Marsh, BuA, etc.  
