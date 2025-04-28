@@ -23,7 +23,10 @@ each hex has available for forage 1 bushel of grain per person living in it. thu
 
 in fall and winter this is halved.
 
-a bushel feeds 20 people for a day
+a bushel feeds 20-40 people for a day (round to 35 person-days, or 5 person-weeks? round down to 4 person-weeks or 1 person-month?)
+
+1 bushel = 1 person-month of food = weighs ~50 lb or takes 1-2 people to carry (depending on whether they carry other gear or not).
+1/12 (~8%) available for forage --> means 1 bushel for each person living in area
 
 round above to categories:
 
