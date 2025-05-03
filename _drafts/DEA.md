@@ -1,6 +1,6 @@
 ---
 author: Tyler Farrington
-date: 2025-05-20
+date: 2025-05-03
 title: Dominium Expediti Antiquitatis
 tags: wargames rules releases
 
