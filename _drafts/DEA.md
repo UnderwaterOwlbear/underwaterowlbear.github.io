@@ -75,7 +75,7 @@ Intent is to describe units in deigetic terms, using the real number of men in t
 - Slope: -1 if fighting uphill. 
 - Supplies: -1 if underfed.
 - Weather: -1 if bad weather.
-- Tactics: commander rolls 2d6+SKI before battle; on 8+, gain +1 due to commander's clever tactics
+- Tactics: commander tests SKI before battle; on success, gain +1 due to commander's clever tactics
 
 ### Setup
 
@@ -109,75 +109,4 @@ If commander attached to unit and loses in that sector, 1-in-6 chance of capture
 If won in 2 sectors: Winner suffers 5% casualties and gains +1 Morale. Loser suffers 10% casualties and loses -1 Morale.
 
 If won in all 3 sectors: Winner suffers 5% casualties and gains +1 Morale. Loser suffers 20% casualties, loses -2 Morale, and 1-in-6 chance commander is captured.
-
-### Setup
-
-#### Battlefield
-
-```
-|	Reserve		|
-| Left | Center | Right |
-| Left | Center | Right |
-|	Reserve		|
-```
-
-#### Terrain
-
-Place terrain. Maybe I'll put a balanced tournament-style terrain drafting mechanic in here eventually, but for now it is narrative placement.  
-
-- Hill: Only one per sector. Takes up 1/2 sector (only one side is on the hill).
-- Rough Terrain: Takes up full sector. Woods, Marsh, BuA, etc.
-
-#### Armies
-
-Spend 24 points  on units per side. Each side must have at least 3 units.  
-Place one unit in each sector, and the remainder in the reserve area.
-
-**Light Foot**: +2, Skirmish, 4 points. This is intended to represent lightly armed and armored infantry fighting in open order such as peltasts, psiloi, Irish kern, and velites. Or alternatively, massed troops armed with ranged weapons such as longbowmen and crossbowmen.  
-**Heavy Foot**: +4, Formation, 6 points. This is intended to represent any massed infantry of varying arms and armor fighting in close order. Men-at-arms, legionnaires, hoplites, gallowglass, halbardiers, huscarls, etc.  
-**Light Horse**: +2, Mobile, 4 points. This is intended to represent steppe nomads and horse archers, or Roman auxilia cavalry.   
-**Heavy Horse**: +4, Charge, 6 points. This intended to represent heavily armed and armored mounted troops, such as European knights or cataphracts.   
-
-Finally, note your general's location. They can start in any sector or in the reserve area.
-
-#### Unit Special Abilities
-
-**Skirmish**: Ignore rough terrain combat penalty.  
-**Charge**: Get +2 in open terrain.  
-**Formation**: Get +1 for each flanking friendly unit with Formation.  
-**Mobile**: May redeploy to any other sector after combat is resolved. The sector they vacate may then have a unit from the reserve area deployed to it (per normal rules).  
-
-### Sequence of Play
-
-1. Resolve combat from left to right.
-2. Each side in a sector rolls a d6 and adds any bonuses from unit type or tactical factors:
-    - Unit gets +1 if the general is in the sector  
-    - Unit gets +1 if on top of a hill  
-    - Unit gets -1 if flanked (count as flanked if one flank is not occupied by a friendly unit)  
-    - Unit gets -1 if exhausted  
-    - Unit gets -2 if in rough terrain  
-3. Compare scores. Highest wins. No effect on ties. The loser is exhausted (flip token over). 
-4. If the winner's score was double or greater than the loser's score ("doubled"), the loser is destroyed outright. Destroyed units are removed from the field.
-5. If a unit would be exhausted again while it is already exhausted, it is destroyed instead.
-6. If any sectors are empty after resolving combat, that side may deploy a unit from its reserves into each empty sector. Once deployed, a unit cannot be recalled or deployed to a different sector.
-7. Game ends when 1/2 of a side's units are destroyed.
-
-### Appendix
-
-#### Advanced Units
-
-**Civilians**: +0, 1 point   
-**Levy**: +1, 2 points  
-**Militia**: +2, 3 points  
-**Warband**: +2, Charge, 4 points   
-**Auxilia**: +2, Formation, 4 points   
-**Rangers**: +4, Skirmish, 6 points   
-**Warg Riders**: +4, Mobile, 6 points   
-
-#### Custom Units
-
-Start with 1 point   
-+1 = 1 point   
-Ability = 1 point   
-Cannot have both Skirmish and Formation.  
 
