@@ -1,7 +1,12 @@
 ---
-title: Solo TTRPG
+title: Untitled Solo TTRPG
 author: Tyler Farrington
-date: 2025-04-27
+date: 2025-05-03
+
+---
+
+* TOC
+{:toc}
 
 ---
 
@@ -188,6 +193,8 @@ Intent is to describe units in deigetic terms, using the real number of men in t
 
 ### Tactical Factors
 
+Determine tactical factors on a per-sector basis.
+
 - Numerical superiority: +1 per 100% more soldiers than opponent. For *D&D* monster conversion, count as a number of soldiers equal to HD.
 - Terrain: -1 if in rough terrain.
 - Slope: -1 if fighting uphill. 
@@ -202,7 +209,7 @@ Place terrain. Maybe I'll put a balanced tournament-style terrain drafting mecha
 - Hill: Only one per sector. Takes up 1/2 sector (only one side is on the hill).
 - Rough Terrain: Takes up full sector. Woods, Marsh, BuA, etc.
 
-Assign units to each sector. You may assign multiple units to each sector, or hold units in reserve, so long as there is at least one unit in each sector.
+Assign units to each sector. You may assign multiple units to each sector, or hold units in reserve, so long as there is at least one unit in each sector (left, center, right).
 
 Yes, this means armies must be comprised of at least 3 distinct units. 
 
@@ -227,4 +234,6 @@ If commander attached to unit and loses in that sector, 1-in-6 chance of capture
 If won in 2 sectors: Winner suffers 5% casualties and gains +1 Morale. Loser suffers 10% casualties and loses -1 Morale.
 
 If won in all 3 sectors: Winner suffers 5% casualties and gains +1 Morale. Loser suffers 20% casualties, loses -2 Morale, and 1-in-6 chance commander is captured.
+
+### Sieges
 
