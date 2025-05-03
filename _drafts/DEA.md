@@ -9,7 +9,7 @@ tags: wargames rules releases
 
 ### Design Notes
 
-I have taken elements of my three favorite fast-play wargames, put them into a blender, and created this chimera. Intent is to use this for solo resolution of battles as part of a solo campaign, or as part of domain-level play in the background of another TTRPG such as D&D.
+I have taken elements of my three favorite fast-play wargames, put them into a blender, and created this chimera. Intent is to use this for solo resolution of battles as part of a solo campaign, or as part of domain-level play in the background of another TTRPG such as *D&D*.
 
 Sources that I pillaged to create this include:
 
