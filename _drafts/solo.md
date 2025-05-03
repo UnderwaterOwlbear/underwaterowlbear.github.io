@@ -22,6 +22,10 @@ Assign +3 between Strength (STR), Skill (SKL), Spirit (SPI) (max +2 in any one).
 
 HP = 1 + STR
 
+## Single Combat
+
+Roll 2d6+STR opposed. Winner takes 1 damage. Armor absorbs 1, 2, or 3 damage before breaking. Test STR at 0 HP to avoid death.
+
 ## Population & Demography
 
 ### Densities
@@ -65,6 +69,8 @@ Armies must travel on roads. Individuals and parties may travel overland.
 
 ## Food & Forage
 
+A person can carry 50 lb.
+
 1 bushel of grain feeds 1 person for 1 month and weighs 50 lb.
 
 Thus, an army needs 250 bushels per week per 1,000 soldiers.
@@ -78,6 +84,18 @@ Assume peasant farmers are subsistence farmers and retain barely enough grain to
 A foraged square restocks its food each year with the fall harvest.
 
 Armies with cavalry may forage adjacent squares as well as the square occupied by the army.
+
+### Carrying Capacity
+
+| Transport     | Carrying Capacity   |
+|---------------|---------------------|
+| Mule          | 2x men              |
+| Horse, Riding | 2x men              |
+| Horse, War    | 3x men              |
+| Ox            | 6x men              |
+| Cart, hand    | 2x men              |
+| Cart, draft   | 2x beast pulling it |
+| Wagon         | 4x beast pulling it |
 
 ## Time & Calendars
 
@@ -118,7 +136,7 @@ Since 1 bushel feeds 1 person for 1 month (4 weeks), and costs 4 d, 1 week of fo
 |   One week of bread |   One week of simple but varied food. |   One week of fancy food.   |   A warhorse.             |   A suit of mail or plate. |
 |   A gallon of ale.  |   A set of simple clothes.            |   A pound of spices.        |   A book.                 |   A piece of fine jewelry. |
 |   A chicken.        |   A simple tool or weapon.            |   A cart.                   |   A set of fancy clothes. |                            |
-|                     |   A shield.                           |   A cow, pig, ox, or sheep. |   A helm.                 |                            |
+|                     |   A shield.                           |   A cow, pig, ox, mule, or sheep. |   A helm.                 |                            |
 |                     |   A gallon of wine.                   |   A wheel of cheese.        |   A mail shirt.           |                            |
 |                     |   A pound of candles.                 |   A set of nice clothes.    |                           |                            |
 |                     |                                       |   A fine weapon.            |                           |                            |
@@ -237,3 +255,63 @@ If won in all 3 sectors: Winner suffers 5% casualties and gains +1 Morale. Loser
 
 ### Sieges
 
+Defenders get -1.
+
++10% casualties to losing side.
+
+Town garrisons start testing morale after 1 week
+
+Cities after 1 month
+
+Fortresses after 3 months
+
+-1 Morale per week, test Morale each week.
+
+**Fortifications** take a number of months to build equal to `2 * sqrt(cost in L)`. See table below for details.
+
+| Fortification Type   | Cost (L) | Time       | Max Garrison | Tactical Bonus |
+|----------------------|----------|------------|--------------|----------------|
+| Hasty Fieldworks     |          | 1 day      | 1,000's      | +1             |
+| Fortified Encampment |          | 2 days     | 10,000's     | +2             |
+| Town Walls           |          |            | 1,000's      | +3             |
+| City Walls           |          |            | 10,000's     | +4             |
+| Tower                | 200      | 28 months  | 10's         | +5             |
+| Keep                 | 1,300    | 73 months  | 100's        | +5             |
+| Castle               | 7,000    | 167 months | 1,000's      | +5             |
+
+### Dungeon Delving
+
+**The Clock**: When you enter the dungeon, the clock starts at 1 (use a spindown d20 from *MtG* for this). Each turn, roll 1d6 and add the result to the clock. When the clock hits 20, a wandering monster is encountered and the clock resets to 1.
+
+**Turns**: One turn of dungeon exploration takes about ten minutes, and generally allows the party to take one action, such as:  
+
+* Open a stuck or locked **door**
+* Search the room thoroughly, revealing **traps** and **secret doors**
+* Interact with a feature of the room, such as a **trap**
+* Move to the next room
+
+**Darkness**: When the party does not have a light source, 2d6 is rolled against the dungeon clock each turn instead of 1d6, and they are unable to find traps or secret doors regardless of time spent searching.
+
+**Light Sources**: Torches, candles, lamps, or the like require a free hand to hold them. One such light source is required for every 4 dungeon explorers.
+
+**Tunnelling**: One man can move a 5x5x5ft cube of dirt every 2 hours, or the same volume of rock every 4 hours. The appropriate tools such as pickaxes and shovels are required. Tunnels can be crawled through slowly if they measure 5x5ft, or walked through normally if they are 10x10ft.
+
+## Doors
+
+**Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
+
+**Forcing Doors**: All doors are stuck and must be burst open by force with a 5+. A failed attempt means you still burst open the door, but it makes surprising whatever is behind the door impossible.
+
+**Locked Doors**: Some doors are locked, and require a key or a successful lockpicking attempt (5+) to open. A failed lockpicking attempt means that the lock is jammed and cannot be picked again, but does not alert the room's occupants.
+
+**Secret Doors**: Secret doors can be discovered by spending a turn searching the room.
+
+**Spiking Doors**: Doors will open freely for monsters and swing shut of their own accord, unless wedged with iron spikes. When wedged shut, monsters must attempt to burst the door open as above, possibly giving the party time to hear them coming. Doors can also be wedged open with spikes, to ensure the party a clear path of escape.
+
+**Holding Doors**: Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. The side trying to force a held door must try to burst it open as normal.
+
+## Traps
+
+**Room Traps** are activated on a roll of 1 or 2 on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
+
+**Treasure Traps**: Treasure traps such as locks with poison needles, or a weighted plate underneath a statuette, can only be detected by spending a turn searching the treasure. Characters can attempt to disarm them, but failure will trigger the trap.
