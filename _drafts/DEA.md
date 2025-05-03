@@ -74,6 +74,8 @@ Intent is to describe units in deigetic terms, using the real number of men in t
 
 ### Tactical Factors
 
+Determine tactical factors on a per-sector basis.
+
 - Numerical superiority: +1 per 100% more soldiers than opponent. For *D&D* monster conversion, count as a number of soldiers equal to HD.
 - Terrain: -1 if in rough terrain.
 - Slope: -1 if fighting uphill. 
