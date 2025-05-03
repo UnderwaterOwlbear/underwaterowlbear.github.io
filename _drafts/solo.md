@@ -279,7 +279,7 @@ Fortresses after 3 months
 | Keep                 | 1,300    | 73 months  | 100's        | +5             |
 | Castle               | 7,000    | 167 months | 1,000's      | +5             |
 
-### Dungeon Delving
+## Dungeon Delving
 
 **The Clock**: When you enter the dungeon, the clock starts at 1 (use a spindown d20 from *MtG* for this). Each turn, roll 1d6 and add the result to the clock. When the clock hits 20, a wandering monster is encountered and the clock resets to 1.
 
@@ -296,7 +296,7 @@ Fortresses after 3 months
 
 **Tunnelling**: One man can move a 5x5x5ft cube of dirt every 2 hours, or the same volume of rock every 4 hours. The appropriate tools such as pickaxes and shovels are required. Tunnels can be crawled through slowly if they measure 5x5ft, or walked through normally if they are 10x10ft.
 
-## Doors
+### Doors
 
 **Hear Noise**: Characters can listen at doors and attempt to hear if the room is occupied. Note that the undead make no sound.
 
@@ -310,7 +310,7 @@ Fortresses after 3 months
 
 **Holding Doors**: Sometimes (especially during a chase) the party will try to hold a door against pursing monsters. The side trying to force a held door must try to burst it open as normal.
 
-## Traps
+### Traps
 
 **Room Traps** are activated on a roll of 1 or 2 on a d6. They can be detected by spending a turn searching the area. Thieves can attempt to disarm traps; but be careful, as a failure will trigger the trap. If the character doesn't want to risk this, find a clever way to bypass the trap.
 
