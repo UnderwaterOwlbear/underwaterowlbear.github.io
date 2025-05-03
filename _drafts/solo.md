@@ -211,14 +211,18 @@ Intent is to describe units in deigetic terms, using the real number of men in t
 
 ### Tactical Factors
 
-Determine tactical factors on a per-sector basis.
+Determined on a sector-by-sector basis:
 
 - Numerical superiority: +1 per 100% more soldiers than opponent. For *D&D* monster conversion, count as a number of soldiers equal to HD.
 - Terrain: -1 if in rough terrain.
-- Slope: -1 if fighting uphill. 
+- Slope: -1 if fighting uphill.
+
+Determined once and applied to all units on a side:
+
 - Supplies: -1 if underfed.
 - Weather: -1 if bad weather.
-- Tactics: commander tests SKI before battle; on success, gain +1 due to commander's clever tactics
+- Tactics: commander rolls 2d6+SKI before battle; on result of 8+, gain +1 in battle due to the commander's clever tactics
+- Morale: an army has a Morale score (MOR) of -2 to +2. In the greater operational wargame described above, I intend for this to rise and fall over a campaign as various events occur. For a skirmish, could set to whatever you'd like, or keep both sides at +0.
 
 ### Setup
 
@@ -240,11 +244,13 @@ Finally, note your general's location. They can start in any sector or in the re
     - +MOR of army
     - +SPI of commander if commander is attached to unit (bonus only to that sector).
     - +Tactical factors per above.
-3. Compare scores. Highest wins in that sector. Refight ties.  
-4. If a unit loses and both (1) commander is in reserve, and (2) there are units in reserve, may deploy a unit from reserve to defeated sector and refight battle in that sector.
+3. Compare scores. Highest wins in that sector. Refight ties.
+4. If a unit loses, its side may deploy a unit from their reserve to the defeated sector. Refight the battle in that sector in the next round with the newly arrived unit. A side can only do this if both of the following states are true:
+    - That side's commander is in reserve
+    - There is at least one unit in reserve available to deploy
 5. Determine winner. Side who wins at least 2 of the 3 sectors wins the battle. 
 
-Commander may deploy from reserve to a unit in the sector at any point, but may not return from sector to reserve once deployed.
+The commander himself may deploy from the reserve and attach himself to a unit in a sector at any point in the battle. But he may not return from that sector to the reserve once deployed. This represents a general committing himself to reinforce an area of the battlefield, similar to Alexander the Great with his Companion cavalry.
 
 ### Results
 
