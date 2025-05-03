@@ -6,7 +6,6 @@ tags: wargames rules releases
 
 ---
 
-
 ### Design Notes
 
 I have taken elements of my three favorite fast-play wargames, put them into a blender, and created this chimera. Intent is to use this for solo resolution of battles as part of a solo campaign, or as part of domain-level play in the background of another TTRPG such as *D&D*.
@@ -103,6 +102,7 @@ Finally, note your general's location. They can start in any sector or in the re
 2. Each side in a sector rolls a 2d6 + modifiers:
     - +MOR of army
     - +SPI of commander if commander is attached to unit (bonus only to that sector).
+    - +Tactical factors per above.
 3. Compare scores. Highest wins in that sector. Refight ties.  
 4. If a unit loses and both (1) commander is in reserve, and (2) there are units in reserve, may deploy a unit from reserve to defeated sector and refight battle in that sector.
 5. Determine winner. Side who wins at least 2 of the 3 sectors wins the battle. 

@@ -239,6 +239,7 @@ Finally, note your general's location. They can start in any sector or in the re
 2. Each side in a sector rolls a 2d6 + modifiers:
     - +MOR of army
     - +SPI of commander if commander is attached to unit (bonus only to that sector).
+    - +Tactical factors per above.
 3. Compare scores. Highest wins in that sector. Refight ties.  
 4. If a unit loses and both (1) commander is in reserve, and (2) there are units in reserve, may deploy a unit from reserve to defeated sector and refight battle in that sector.
 5. Determine winner. Side who wins at least 2 of the 3 sectors wins the battle. 
