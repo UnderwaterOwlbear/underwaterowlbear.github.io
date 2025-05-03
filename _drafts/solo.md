@@ -193,7 +193,7 @@ Intent is to use simple flat tokens of cardboard, chipboard, or MDF. Though I'm 
 **Heavy Foot**: Count as double when determining numerical superiority.  
 *Massed infantry bearing heavy arms and fully armored. Hoplites, European men-at-arms, legionaries.*
 
-**Light Horse**: No special abilities.    
+**Light Horse**: May freely redeploy from one sector of the battlefield to another.
 *Steppe nomads and horse archers, or Roman auxilia cavalry.* 
 
 **Heavy Horse**: Count as double when determining numerical superiority.  
@@ -248,8 +248,8 @@ Finally, note your general's location. They can start in any sector or in the re
 4. If a unit loses, its side may deploy a unit from their reserve to the defeated sector. Refight the battle in that sector in the next round with the newly arrived unit. A side can only do this if both of the following states are true:
     - That side's commander is in reserve
     - There is at least one unit in reserve available to deploy
-5. Determine winner. Side who wins at least 2 of the 3 sectors wins the battle. 
-
+5. Defeated units are removed from the battlefield. If a side controls a sector by defeating all enemy units in that sector and they are not reinforced from reserves, that side wins that sector.
+6. Determine winner. Side who wins at least 2 of the 3 sectors wins the battle. 
 The commander himself may deploy from the reserve and attach himself to a unit in a sector at any point in the battle. But he may not return from that sector to the reserve once deployed. This represents a general committing himself to reinforce an area of the battlefield, similar to Alexander the Great with his Companion cavalry.
 
 ### Results
