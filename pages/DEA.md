@@ -1,10 +1,12 @@
 ---
 author: Tyler Farrington
 date: 2025-05-03
-title: Dominium Expediti Antiquitatis
+title: DEA
 tags: wargames rules releases
 
 ---
+
+## *Dominium Expediti Antiquitatis* 
 
 ### Design Notes
 
