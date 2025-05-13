@@ -22,6 +22,21 @@ Assign +3 between Strength (STR), Skill (SKL), Spirit (SPI) (max +2 in any one).
 
 HP = 1 + STR
 
+## Religion
+
+| PIE Name     | Common Name | Gender | Epithets              | Sphere              | Real-World Equivalents                                                                                          |
+|--------------|-------------|--------|-----------------------|---------------------|-----------------------------------------------------------------------------------------------------------------|
+| Deus Pater   | Jupiter     | ♂️      | Sky-Father            | sky, law            | Dispater / Deus Pater, Jupiter, Zeus (etymologically, though not functionally), Zeus-Piter?, Tyr / Tiwaz, Dyeus |
+| Perkunos     | Thor        | ♂️      | Oak-Striker           | storms, war         | Perun, Thor, Thunar, Indra, Zeus (functionally, though not etymologically)                                      |
+| Dhegom Mater | Demeter     | ♀️      | Earth-Mother          | earth, soil         | Demeter / Dhegom Mater / Ceres, Zemyna, Gaia, Zemele, Semele                                                    |
+| Prithvi      | Freyja      | ♀️      | The Broad One         | fertility, family   | Prithvi, Priya, Frigg, Freyja, Plataia                                                                          |
+| Ausra        | Easter      | ♀️      | The Dawn Maiden       | dawn, young women   | Eos, Aurora, Eostre / Easter / Ostara, Venus / Aphrodite                                                        |
+| Ekwos        | Epona       | ♀️      | The Horse Maiden      | horses, rescue      | Castor & Pollux, Lel & Polel, Hengist & Horsa, Heros & Eros or Herron & Eron                            |
+| Carnunos     | Hircine     | ♂️      | The Horn-Crowned King | beasts, male desire | Cernunnos, Hircine from TES, Pan, Mercury / Hermes (kinda), Odin (even less kinda)                              |
+| Marenos      | Neptune     | ♂️      | Child of the Waters   | ocean, luck         | Varuna, Neptune / Poseidon, Njord, Nechtan, Nethuns                                                             |
+| Horkos       | Orcus       | ♂️      | Oath-Binder           | dead, oaths         | Hades, Orcus, Hel                                                                                               |
+| Hestos       | Hestia      | ♀️      | Hearth-Keeper         | hearth, household   | Hestia, Vesta, Gabija, Nëna e Vatrës,                                                                           |
+
 ## Single Combat
 
 Roll 2d6+STR opposed. Winner takes 1 damage. Armor absorbs 1, 2, or 3 damage before breaking. Test STR at 0 HP to avoid death.
