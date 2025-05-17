@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Simple Death, Dying, and Dismemberment Rules
 author: Tyler Farrington
-date: 2022-02-13
+published_date: 2022-02-13
 tags: rules
 ---
 

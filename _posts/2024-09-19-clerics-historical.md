@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: Historical Catholic Church Organizations as Worldbuilding Inspiration
 author: Tyler Farrington
-date: 2024-09-19
+published_date: 2024-09-19
+
 layout: post
 tags: worldbuilding
 

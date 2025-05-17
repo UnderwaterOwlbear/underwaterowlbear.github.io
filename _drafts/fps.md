@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Federal Paranormal Skirmish
 author: Tyler Farrington
-date: 2025-05-12
+published_date: 2025-05-12
 
 ---
 

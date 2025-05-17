@@ -1,6 +1,7 @@
 ---
+make_discoverable: false
 title: Operational Logistics But More Gameable
-date: 2025-04-26
+published_date: 2025-04-26
 
 ---
 

@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Harrow Combat Mechanics
 author: Tyler Farrington
-date: 2019-08-26
+published_date: 2019-08-26
 tags: rules game-design harrow
 ---
 

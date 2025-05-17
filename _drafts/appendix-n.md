@@ -1,7 +1,8 @@
 ---
-Title: Appendix N
+make_discoverable: false
+title: Appendix N
 Author: Tyler Farrington
-Date: 2024-08-19
+published_date: 2024-08-19
 ---
 
 ## Video Games

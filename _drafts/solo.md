@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Untitled Solo TTRPG
 author: Tyler Farrington
-date: 2025-05-03
+published_date: 2025-05-03
 
 ---
 

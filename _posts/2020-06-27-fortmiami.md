@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: The Fort Miami Rules
 author: Tyler Farrington
-date: 2020-06-27
+published_date: 2020-06-27
 tags: rules releases
 ---
 

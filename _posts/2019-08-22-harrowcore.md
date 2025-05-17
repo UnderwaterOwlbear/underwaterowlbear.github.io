@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Harrow Core Mechanic
 author: Tyler Farrington
-date: 2019-08-22
+published_date: 2019-08-22
 tags: rules game-design harrow
 ---
 

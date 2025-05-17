@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: My MOSAIC Strict Rules
 author: Tyler Farrington
-date: 2024-05-10
+published_date: 2024-05-10
 exclude: true
 ---
 

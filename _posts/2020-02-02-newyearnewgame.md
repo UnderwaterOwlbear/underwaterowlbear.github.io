@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: New Year, New Game
 author: Tyler Farrington
-date: 2020-02-02
+published_date: 2020-02-02
 tags: retrospective
 ---
 

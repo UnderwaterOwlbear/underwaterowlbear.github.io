@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: Old Worldbuilding Slushpile
 author: Tyler Farrington
-date: 2024-08-19
+published_date: 2024-08-19
+
 layout: post
 tags: worldbuilding
 ---

@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Dying Earth Spells by John
 author: Tyler Farrington
-date: 2022-01-30
+published_date: 2022-01-30
 tags: rules
 ---
 

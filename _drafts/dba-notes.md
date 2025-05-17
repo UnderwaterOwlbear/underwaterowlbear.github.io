@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Notes on DBA 3.0
 author: Tyler Farrington
-date: 2024-08-03
+published_date: 2024-08-03
 tags: wargames
 ---
 

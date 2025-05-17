@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: "Notes on ACOUP's Total Generalship Series"
 author: Tyler Farrington
-date: 2024-08-01
+published_date: 2024-08-01
 tags: wargames
 ---
 

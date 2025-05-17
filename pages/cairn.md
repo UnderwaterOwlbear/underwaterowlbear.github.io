@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Cairn House Rules
 author: Tyler Farrington
-date: 2024-06-09
+published_date: 2024-06-09
 exclude: false
 ---
 

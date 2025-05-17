@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Barrows & Basilisks v1.18
 author: Tyler Farrington
-date: 2024-05-10
+published_date: 2024-05-10
 exclude: true
 ---
 

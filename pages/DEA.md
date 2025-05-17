@@ -1,6 +1,6 @@
 ---
 author: Tyler Farrington
-date: 2025-05-03
+published_date: 2025-05-03
 title: DEA
 tags: wargames rules releases
 

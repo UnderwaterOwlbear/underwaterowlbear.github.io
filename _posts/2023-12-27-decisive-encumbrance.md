@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Decisive Encumbrance
 author: Tyler Farrington
-date: 2023-12-28
+published_date: 2023-12-28
 tags: rules game-design cairn
 ---
 

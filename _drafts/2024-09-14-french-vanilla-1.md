@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: French Vanilla Setting
 author: Tyler Farrington
-date: 2024-09-14
+published_date: 2024-09-14
+
 layout: post
 tags: worldbuilding
 ---

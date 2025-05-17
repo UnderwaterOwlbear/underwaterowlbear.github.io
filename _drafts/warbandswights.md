@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Warbands /& Wights
 author: Tyler Farrington
-date: 2021-02-06
+published_date: 2021-02-06
 
 ---
 

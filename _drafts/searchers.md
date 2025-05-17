@@ -1,7 +1,8 @@
 ---
-Title: Searchers of the Cairn
+make_discoverable: false
+title: Searchers of the Cairn
 Author: Tyler Farrington
-Date: 2024-06-23
+published_date: 2024-06-23
 ---
 
 What if we made *Cairn* even simpler?

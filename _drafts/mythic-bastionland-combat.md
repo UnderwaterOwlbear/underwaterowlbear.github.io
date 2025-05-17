@@ -1,7 +1,8 @@
 ---
-Title: Mythic Bastionland Combat
+make_discoverable: false
+title: Mythic Bastionland Combat
 Author: Tyler Farrington
-Date: 2024-05-27
+published_date: 2024-05-27
 ---
 
 ## Tools

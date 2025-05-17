@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: "Rangers, A History: Part 5 - 3rd Edition (3.5)"
 author: Tyler Farrington
-date: 2024-10-13
+published_date: 2024-10-13
+
 layout: post
 tags: rangers
 

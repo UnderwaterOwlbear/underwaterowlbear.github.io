@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: "Rangers, A History: Part 8 - Comparison & Conclusion"
 author: Tyler Farrington
-date: 2025-01-11
+published_date: 2025-01-11
+
 layout: post
 tags: rangers
 

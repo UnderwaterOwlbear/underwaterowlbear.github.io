@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: The Tyranny of the Wagon Equation
 author: Tyler Farrington
-date: 2024-08-02
+published_date: 2024-08-02
 tags: wargames
 ---
 

@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: DBA 3.0 On A Gridded Field
 author: Tyler Farrington
-date: 2024-06-11
+published_date: 2024-06-11
 tags: rules releases
 ---
 

@@ -1,7 +1,8 @@
 ---
-Title: "Thrones: A Campaign Setting"
+make_discoverable: false
+title: "Thrones: A Campaign Setting"
 Author: Tyler Farrington
-Date: 2024-07-26
+published_date: 2024-07-26
 ---
 
 Inspired by...

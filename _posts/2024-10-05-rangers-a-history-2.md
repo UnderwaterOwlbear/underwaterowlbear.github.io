@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: "Rangers, A History: Part 2 - AD&D 1st Edition"
 author: Tyler Farrington
-date: 2024-10-05
+published_date: 2024-10-05
+
 layout: post
 tags: rangers
 

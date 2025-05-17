@@ -1,7 +1,8 @@
 ---
+make_discoverable: false
 title: Cairn Bestiary
 author: Tyler Farrington
-date: 2023-08-03
+published_date: 2023-08-03
 ---
 
 Originally from [https://cairnrpg.com/resources/monsters/](https://cairnrpg.com/resources/monsters/)

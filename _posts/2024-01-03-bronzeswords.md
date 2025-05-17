@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: "Bronze as a Baseline: Metals of Antiquity and Their Applicability to TTRPG Weaponry"
 author: Tyler Farrington
-date: 2024-01-03
+published_date: 2024-01-03
 tags: rules cairn
 ---
 

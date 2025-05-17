@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Into the Hollow v1.0 - Submitted!
 author: Tyler Farrington
-date: 2020-08-09
+published_date: 2020-08-09
 tags: rules releases
 ---
 

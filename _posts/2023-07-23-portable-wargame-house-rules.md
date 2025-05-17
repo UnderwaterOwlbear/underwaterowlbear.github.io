@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: The Portable Wargame House Rules
 author: Tyler Farrington
-date: 2023-07-23
+published_date: 2023-07-23
 tags: rules wargames releases
 ---
 

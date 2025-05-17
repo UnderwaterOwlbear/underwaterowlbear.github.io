@@ -1,7 +1,8 @@
 ---
-Title: "Twilight: 2000 Skills"
+make_discoverable: false
+title: "Twilight: 2000 Skills"
 Author: Tyler Farrington
-Date: 2024-01-13
+published_date: 2024-01-13
 ---
 
 I've noticed that the 1984 edition of *Twilight: 2000* has similar skill lists to *Traveller*. I guess Game Designer's workshop reused a lot of concepts?

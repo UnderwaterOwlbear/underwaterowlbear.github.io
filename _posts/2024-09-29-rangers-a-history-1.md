@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: "Rangers, A History: Part 1 - OD&D"
 author: Tyler Farrington
-date: 2024-09-29
+published_date: 2024-09-29
+
 layout: post
 tags: rangers
 

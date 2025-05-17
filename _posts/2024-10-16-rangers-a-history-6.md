@@ -1,7 +1,9 @@
 ---
+make_discoverable: false
 title: "Rangers, A History: Part 6 - 5th Edition (2014)"
 author: Tyler Farrington
-date: 2024-10-16
+published_date: 2024-10-16
+
 layout: post
 tags: rangers
 

@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Chainmail - Heroes and Wizards and Wargame Spells
 author: Tyler Farrington
-date: 2020-04-04
+published_date: 2020-04-04
 tags: game-design wargames
 ---
 

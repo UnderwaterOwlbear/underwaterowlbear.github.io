@@ -1,8 +1,9 @@
 ---
+
 layout: post
 title: Classic Traveller Skills, Part 1
 author: Tyler Farrington
-date: 2023-06-19
+published_date: 2023-06-19
 tags: rules traveller
 ---
 
